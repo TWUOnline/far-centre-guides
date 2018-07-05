@@ -1,5 +1,5 @@
 ---
-title: 'Lesson Title 1'
+title: 'Lesson Title 3'
 taxonomy:
     category:
         - docs
