@@ -1,5 +1,8 @@
 ---
 title: 'Lesson Plans'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
