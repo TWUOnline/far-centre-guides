@@ -1,5 +1,8 @@
 ---
 title: 'Syllabus Overview'
+taxonomy:
+    category:
+        - docs
 ---
 
 ### Course Description
