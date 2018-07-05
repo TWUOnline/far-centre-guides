@@ -1,5 +1,5 @@
 ---
-title: 'Lesson Plan'
+title: 'Lesson Plans'
 visible: true
 ---
 
