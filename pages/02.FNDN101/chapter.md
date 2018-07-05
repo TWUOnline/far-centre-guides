@@ -5,4 +5,4 @@ taxonomy:
         - docs
 ---
 
-### Foundations 101 is an introduction to Trinity Western University.
+### Foundations 101 is an introduction to learning at Trinity Western University.
