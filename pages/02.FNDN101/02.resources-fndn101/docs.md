@@ -1,5 +1,8 @@
 ---
 title: Resources
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
