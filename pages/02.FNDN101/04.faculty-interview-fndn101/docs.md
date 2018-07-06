@@ -1,5 +1,5 @@
 ---
-title: 'Faculty Interview'
+title: 'Lesson Plan'
 visible: true
 ---
 
