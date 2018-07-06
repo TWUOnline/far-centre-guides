@@ -6,8 +6,6 @@ taxonomy:
 visible: true
 ---
 
-### Fork a Repo
-
 In GitHub parlance, you contribute to someone else's repo by forking it, editing your fork, then submitting a 'pull request' to the original owner of the repo. For this course, we will use the repo at https://github.com/TWUOnline/far-centre-guides.
 
 To begin, go to the [FAR Centre Guides repo](https://github.com/TWUOnline/far-centre-guides) and fork it to your own account. This will create an identical copy of the repo in your account, and you will be able to edit the copy without changing the original files.

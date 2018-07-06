@@ -6,7 +6,6 @@ taxonomy:
 visible: true
 ---
 
-### Create a Repository
 GitHub is organized into projects called ***repositories***. Each repository (repo) is a set of related text documents, sometimes organized into folders, but not necessarily.
 
 If you were composing in MS Word, or another word processor, a repository would be analogous to a document or file. Each file inside the repository would be analogous to major sections or chapters in your document.
