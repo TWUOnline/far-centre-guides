@@ -5,5 +5,3 @@ taxonomy:
         - docs
 visible: true
 ---
-
-## GitHub Guide
