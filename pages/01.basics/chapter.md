@@ -12,4 +12,4 @@ child_type: docs
 
 Discover the **basic** principles of writing for the web using Markdown.
 
-Click the arrow on the right to continue.
+Tap the arrow on the right to continue.
