@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### Trinity Western University
 
-# Chapter Title
-
-Chapter description.
+# China
