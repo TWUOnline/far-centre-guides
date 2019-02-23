@@ -206,48 +206,6 @@ outlined in the Student Life section of the University Calendar.
 In the event of extreme weather conditions or other emergency situations
 go to: **\[insert\]**.
 
-### Grading Scale
-
-> **Letter**
->
-> **Quality Characteristics Grade**
-
-<table>
-<thead>
-<tr class="header">
-<th><blockquote>
-<p>A</p>
-</blockquote></th>
-<th><strong>Outstanding, excellent work</strong>; exceptional performance with strong evidence of original thinking, good organization, meticulous concern for documented evidence, and obvious capacity to analyze, synthesize, evaluate, discern, justify, and elaborate; frequent evidence of both verbal eloquence and perceptive insight in written expression; excellent problem solving ability in scientific or mathematical contexts with virtually no computational errors; demonstrated masterful grasp of subject matter and its implications. Gives evidence of an extensive and detailed knowledge base. (Note: The A+ grade is reserved for very rare students of exceptional intellectual prowess and accomplishment, especially in lower level courses.)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p>B</p>
-</blockquote></td>
-<td><strong>Good, competent work</strong>; laudable performance with evidence of some original thinking, careful organization; satisfactory critical and analytical capacity; reasonably error-free expository written expression, with clear, focused thesis and well-supported, documented, relevant arguments; good problem-solving ability, with few computational or conceptual errors in scientific subjects; reasonably good grasp of subject matter but an occasional lack of depth of discernment; evidence of reasonable familiarity with course subject matter, both concepts and key issues. Exhibits a serious, responsible engagement with the course content.</td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>C</p>
-</blockquote></td>
-<td><strong>Adequate, reasonably satisfactory work</strong>; fair performance but infrequent evidence of original thinking or the capacity to analyze, synthesize, or evaluate course material; undue reliance on rote memory; difficulty in applying knowledge in unfamiliar contexts; limited problem-solving ability in scientific subjects; fairly clear but quite uninspiring written expression with occasional problems in mechanics or syntax; weak in provision of documented, illustrative, or descriptive evidence; satisfactory grasp of basic elements of the course but frequent lapses in detailed understanding. Satisfies the minimum requirements of the course.</td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>D</p>
-</blockquote></td>
-<td><strong>Minimally acceptable work</strong>; relatively weak performance with little evidence of original thinking or ability to analyze or synthesize course material; nominal or weak problem-solving ability in scientific subjects; written expression frequently exhibits difficulty in articulating a central thesis or sustaining a coherent argument; ideas are trite or juvenile, without discernible development. Shows inadequate grasp of some basic elements of the course.</td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>F</p>
-</blockquote></td>
-<td><strong>Inadequate work</strong>; poor performance that indicates a lack of understanding or misunderstanding of essential subject matter; seems easily distracted by the irrelevant; written expression is poorly organized, often incoherent, and rife with mechanical and diction errors. Shows little evidence of even basic competency in the course content or skills.</td>
-</tr>
-</tbody>
-</table>
 
 **Course Outline:**
 
