@@ -1,5 +1,5 @@
 ---
-title: 'GENV 131'
+title: 'Weekly Lesson Plans'
 taxonomy:
     category: docs
 ---
