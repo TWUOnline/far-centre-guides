@@ -6,7 +6,6 @@ taxonomy:
 visible: true
 ---
 
-## TWU Student Learning Outcomes
 
 Trinity Western is a Christian, liberal arts University. As a
 ***Christian*** university, Trinity Western is grounded in the
