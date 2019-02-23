@@ -1,5 +1,5 @@
 ---
-title: Mission
+title: 'Mission and Values'
 taxonomy:
     category:
         - docs
