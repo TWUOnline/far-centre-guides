@@ -16,110 +16,7 @@ International
 License](https://creativecommons.org/licenses/by-nc-sa/4.0/), except
 where otherwise noted.
 
-# Contents
 
-[Course: **\[insert\]** 1](#course-insert)
-
-[Introduction to Trinity Western University
-4](#introduction-to-trinity-western-university)
-
-[Mission 4](#mission)
-
-[Core Values 4](#core-values)
-
-[Defining Characteristics of a Facilitator
-4](#defining-characteristics-of-a-facilitator)
-
-[The FAR Centre Model 4](#the-far-centre-model)
-
-[TWU Student Learning Outcomes 5](#twu-student-learning-outcomes)
-
-[Syllabus 7](#_Toc1559966)
-
-[Semester Hours: **\[insert\]** 7](#semester-hours-insert)
-
-[Weekly Classes 8](#weekly-classes)
-
-[Online Engagement 8](#online-engagement)
-
-[Assignments 8](#assignments)
-
-[Attendance 9](#attendance)
-
-[Technology Use Policy 9](#technology-use-policy)
-
-[Academic Integrity and Avoiding Plagiarism at TWU
-9](#academic-integrity-and-avoiding-plagiarism-at-twu)
-
-[Students with a Disability 9](#students-with-a-disability)
-
-[Campus Closure and Class Cancellation Policy
-10](#campus-closure-and-class-cancellation-policy)
-
-[Grading Scale 10](#grading-scale)
-
-[Facilitation Skills 11](#_Toc1559977)
-
-[**SETTING CLASS EXPECTATIONS** 11](#setting-class-expectations)
-
-[Dos and Don'ts of Facilitation 12](#dos-and-donts-of-facilitation)
-
-[**CONDUCTING THE SESSION** 13](#conducting-the-session)
-
-[Wait Time 13](#wait-time)
-
-[Redirecting Questions 16](#redirecting-questions)
-
-[Teaching vs Facilitation: Breaking the Dependency Cycle
-16](#teaching-vs-facilitation-breaking-the-dependency-cycle)
-
-[Check for Understanding 17](#check-for-understanding)
-
-[Grading: feedback and self-assessment 18](#_Toc1559985)
-
-[Types of Feedback 18](#types-of-feedback)
-
-[Assessment 20](#assessment)
-
-[Summative VS Formative 20](#summative-vs-formative)
-
-[Mid-Way Check-In 21](#mid-way-check-in)
-
-[Assignment Rubrics 21](#assignment-rubrics)
-
-[Resources 22](#_Toc1559991)
-
-[TWU Campus Resources 22](#twu-campus-resources)
-
-[Games 23](#games)
-
-[Objective 23](#objective)
-
-[Name Games 23](#name-games)
-
-[Get to know you Games 24](#get-to-know-you-games)
-
-[Challenging/Problem Solving 25](#challengingproblem-solving)
-
-[Fun Games 26](#fun-games)
-
-[Simple Classics 29](#simple-classics)
-
-[Students in Distress 29](#students-in-distress)
-
-[Distress Signals 29](#distress-signals)
-
-[Intervention Guidelines 31](#intervention-guidelines)
-
-[Referral Sources 32](#referral-sources)
-
-[How to Pray Outloud 32](#how-to-pray-outloud)
-
-[Pray Out Loud When You’re Alone 32](#pray-out-loud-when-youre-alone)
-
-[**2.** Keep it Short 32](#keep-it-short)
-
-[**3.** Get Your Style On 32](#get-your-style-on)
 
 # Introduction to Trinity Western University
 
@@ -157,118 +54,13 @@ that TWU is different than at any other university.
   - Empowerment of Students as they take ownership of their university
     journey.
 
-## Defining Characteristics of a Facilitator
 
-A collaborative spirit leading to a sense of “team” characterized by
-creative synergy, flexibility when working with others, and grace in
-times of challenge.
-
-A “big picture” mindset that takes into account the journey of TWU
-students, from arrival to graduation.
-
-Timely support and guidance through TWU courses that strategically
-target critical thinking and reflective learning.
-
-Empowerment of student leaders, intended to create a sense of ownership
-for campus community and culture, and enthusiasm for being
-culture-sharers to our new student populations.
 
 ## The FAR Centre Model
 
 …
 
-## TWU Student Learning Outcomes
 
-Trinity Western is a Christian, liberal arts University. As a
-***Christian*** university, Trinity Western is grounded in the
-historical Christian tradition and seeks to unite reason and faith
-through teaching and scholarship. As a ***liberal arts*** university,
-Trinity Western prepares students to deal with complexity, diversity,
-and change by providing them with a broad knowledge of the wider world
-and helping them to develop transferable intellectual and practical
-skills.
-
-The Student Learning Outcomes pertain to the whole University but it is
-recognized that they apply most directly to the undergraduate
-experience. The University’s graduate programs are diverse and highly
-specialized and thus support the University student learning outcomes
-through curricula which are appropriate to those specializations and the
-nature of the degrees offered.
-
-It is intended that through the range of their experiences at Trinity
-Western University, students should prepare for a life of learning and
-service by developing:
-
-**KNOWLEDGE AND ITS APPLICATION**
-
-  - a broad foundational knowledge of human culture and the physical and
-    natural world.
-
-  - a depth of understanding in any chosen field(s) of study. applied
-    knowledge acquired through discipline-appropriate experiential
-    learning.
-
-**COGNITIVE COMPLEXITY**
-
-  - skills including: critical and creative thinking, quantitative and
-    qualitative reasoning, communication, research, and information
-    literacy.
-
-  - an ability to articulate various interdisciplinary and
-    multi-disciplinary perspectives, integrating informed Christian
-    perspectives.
-
-  - an ability to respond with wisdom, humility and charity to
-    questions, issues, and problems of the human condition.
-
-**AESTHETIC EXPRESSION AND INTERPRETATION**
-
-  - creative, performative, material and narrative forms of critical
-    inquiry.
-
-  - intuitive, imaginative and interpretive methodologies. ways of
-    knowing through which maker and receiver come to insight and
-    understanding. collaborative and community–based interdisciplinary
-    practices.
-
-**INTER-AND INTRA-PERSONAL WELLNESS**
-
-  - a holistic awareness of their personhood, purpose, and calling
-    within the context of the communities in which they live and study.
-    personal and social health. an appreciation of the role of community
-    in wellness.
-
-**SPIRITUAL FORMATION**
-
-  - a spiritual dimension by means of an exposure to a reflective and
-    caring Christ-centred community which encourages:
-    
-      - *a further understanding of God.* o *a discovery of a deep and
-        personal spiritual foundation.*
-    
-      - *an embodiment of a Christ-like way of life characterized by
-        love for and service to others.*
-
-**SOCIAL RESPONSIBILITY AND GLOBAL ENGAGEMENT**
-
-  - the resources, skills, and motivation to become engaged global
-    citizens who serve locally, nationally, and globally in socially and
-    economically just ways. a commitment to informed and ethical
-    reasoning. respect for the dignity and rights of all persons.
-    respect for creation and its sustainable use and care.
-
-**LEADERSHIP**
-
-  - skills to become creative, collaborative, informed, competent, and
-    compassionate people who influence the various contexts into which
-    they are called. abilities and attitudes characterized by service,
-    humility and integrity.
-
-https://www.twu.ca/academics/student-learning-outcomes
-
-> **Latest Revision adopted by University Senate March 10, 2015**
-> 
-> **Adopted by University Senate November 6, 2012**
 
 # Syllabus
 
@@ -417,7 +209,7 @@ go to: **\[insert\]**.
 ### Grading Scale
 
 > **Letter**
-> 
+>
 > **Quality Characteristics Grade**
 
 <table>
@@ -500,22 +292,22 @@ experience that your class has every time they meet.
 **How to Generate Agreements:**
 
 > Set up a brainstorming session at the beginning of the semester.
-> 
+>
 > Ask the group to tell you ways they agree to work together—you may
 > want to give them a couple of examples like “We will start and end on
 > time”.
-> 
+>
 > Ask a member of your class to record as a signal of ownership for the
 > group.
-> 
+>
 > Review each agreement and make sure all group members understand what
 > it means.
-> 
+>
 > Ask if the group: Are you willing to amend the agreements as the need
 > arises?
-> 
+>
 > Ask the group to commit to the list of agreements.
-> 
+>
 > Use the agreements throughout your time together to help the group
 > accomplish its objectives and to stay on task; feel free to review the
 > agreements if necessary.
@@ -709,7 +501,7 @@ performance.”
 
   - School Improvement in Maryland. (2003). What have we learned about
     good instruction? Retrieved
-    
+
     March 11, 2003, from:
     http://www.mdk12.org/practices/good\_instruction/projectbetter/thinkingskills/ts-83-85.html
 
@@ -719,9 +511,9 @@ You may worry about what to do if no one responds. After waiting 15-20
 seconds with no responses, you may want to try one of the following:
 
 > Repeat the question
-> 
+>
 > Rephrase the question
-> 
+>
 > Simplify the question
 
   - Ask a student to attempt to rephrase the question.
@@ -785,30 +577,30 @@ questioning, and think-pair-share.
 **Sample Phrases to Redirect Questions:**
 
 > What is this question asking for?
-> 
+>
 > Why are you thinking of it in that way?
-> 
+>
 > Give an example of that.
-> 
+>
 > Can you summarize the discussion up to this point?
-> 
+>
 > Can you think of another way to think about this?
-> 
+>
 > How is your answer (point of view) different from \_\_\_\_\_?
-> 
+>
 > Let’s rephrase it on the board and figure out what information we will
 > need to answer it.
-> 
+>
 > Can you be more specific?
-> 
+>
 > How does your response tie into \_\_\_\_?
-> 
+>
 > Let’s look that up in the text.
-> 
+>
 > Let’s write down everything we know about this topic/problem/theory.
-> 
+>
 > How can you relate this to everyday life?
-> 
+>
 > Okay, that’s the book definition, but how do we define that (i.e. in
 > your own words)?
 
@@ -1066,7 +858,7 @@ The product can no longer be modified.
 Examples:
 
   - How did you enjoy today? (summative- measure satisfaction)
-    
+
     Vs.
 
   - What did you learn today? (formative- measures learning outcomes)
@@ -1074,9 +866,9 @@ Examples:
 During the day:
 
 > Ask: what goals did you have for today?
-> 
+>
 > Later on: have you met them? How?
-> 
+>
 > What do you need to do to accomplish that goal?
 
 Karsen, Belinda, Emma Rowbotham. “Formative Assessment & Data
@@ -1098,14 +890,14 @@ Guiding questions:
 
 > What has been the most interesting assignment or activity that you’ve
 > engaged in this semester?
-> 
+>
 > What assignment did you find the most challenging? Why?
-> 
+>
 > What else needs to be done to help you accomplish your goal for the
 > semester?
-> 
+>
 > What supports do you need to reach the goals you have for this course?
-> 
+>
 > What have you learned so far? How has it impacted you?
 
 ### Assignment Rubrics
@@ -1121,14 +913,14 @@ self-assess.
 Guiding questions for discussing assessment rubrics:
 
 > Going over the rubric, how do you think you have done?
-> 
+>
 > After they have picked the grade they think they deserve, point to
 > specific words on the rubric and ask, can you show me how you
 > displayed \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_?
-> 
+>
 > Tell me why you think you deserve a \_\_\_\_\_\_\_. Show examples in
 > your assignment.
-> 
+>
 > Are there areas that you excelled in and areas that you could have
 > spent more time on?
 
@@ -1538,19 +1330,19 @@ line tries to catch the back of the line without breaking the chain.
 ### Simple Classics
 
 > Card games: Dutch Blitz, UNO, etc.
-> 
+>
 > Board Games
-> 
+>
 > Charades
-> 
+>
 > Sports Gear
-> 
+>
 > Bop-It
-> 
+>
 > Sidewalk Chalk
-> 
+>
 > Go for a walk around the pond
-> 
+>
 > Picnic Potluck C-Group Meeting
 
 ## Students in Distress
@@ -1697,9 +1489,9 @@ need to limit praying out loud to group or public prayer. Start praying
 out loud when you’re alone.
 
 > Simply say your usual silent prayers out loud.
-> 
+>
 > Listen to what you say when you pray.
-> 
+>
 > Notice the content, is it too much of a “gimme” session or is it
 > inclusive of others?
 
@@ -1713,9 +1505,9 @@ your heart, so don’t let your mouth keep moving after your heart has
 been heard.
 
 > Get to the point quickly
-> 
+>
 > Use the language you use every day.
-> 
+>
 > Avoid unnatural expressions that look good on paper but sound forced.
 
 The best spoken prayers are sincere, short, and easy to understand.
@@ -1728,10 +1520,10 @@ even God loves a good communicator. Frame an authentic “prayer story” by
 focusing on 3 prayer points:
 
 > “Who” you’re praying for (self, others)
-> 
+>
 > “Why” you’re praying (to give thanks, ask for blessings, acknowledge
 > and praise)
-> 
+>
 > “What” you’re praying for (help, healing, hope)
 
 These focus points are only examples of how to develop a powerful

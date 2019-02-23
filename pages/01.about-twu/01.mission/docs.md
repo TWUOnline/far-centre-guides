@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-# Introduction to Trinity Western University
+
 ### Mission
 TWU is like no other university in Canada in its approach and commitment: it exists so that the world may experience Christ’s truth, compassion, reconciliation, and hope; it is a university that is informed by the rich Christian understandings and traditions that frame the study of the various academic disciplines; and, it is a university that is committed to continually building on its educational vitality.
 
