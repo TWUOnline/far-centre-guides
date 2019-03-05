@@ -1,5 +1,5 @@
 ---
-title: 'Weekly Lesson Plans'
+title: 'Facilitation Notes'
 taxonomy:
     category: docs
 ---
