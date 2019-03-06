@@ -15,7 +15,15 @@ The TWU FAR Centres exist to guide students through online and face-to-face clas
 A significant aspect of this mission involves helping students discover who God has created them to be, what He has called them to do, and how TWU can help them prepare for those unique callings. It is in these ways that TWU is different than at any other university.
 
 ### Core Values
-* Hospitality that conveys a genuine welcome to all that come to TWU,
-* Responsiveness to the changing and individual needs of TWU students during times of transition,
-* Supportive Service of our students and student leaders, modeled on the love, grace and sacrifice of Jesus Christ, and
-* Empowerment of Students as they take ownership of their university journey.
+TRINITY WESTERN UNIVERSITY IS COMMITTED TO SIX CORE VALUES:
+* Obeying the Authority of Scripture: Both individually and corporately Trinity Western wholeheartedly embraces all the Bible teaches in regard to faith, ethical commitments, and way of life, believing it to be the ultimate standard of truth and hope.
+
+* Pursuing Faith-Based and Faith-Affirming Learning: Trinity Western's starting point for learning is that God calls humans to be stewards of His creation, doers of good toward all people, and agents of His reconciliation.
+
+* Having a Transformational Impact on Culture: God calls His followers to influence both individuals and the culture in which they live and ultimately draw people to Him. Trinity Western's programs encourage thought, word and deed that affect the dynamics and institutions of our society on the basis of biblical principles such as justice, mercy and hope.
+
+* Servant Leadership as a Way of Life: Trinity Western strives to teach and to embody the pattern of servant leadership exemplified by Jesus Christ. Professors, administrators and students seek to motivate and mobilize each other to think and act with creativity, integrity, and skill for the benefit of all concerned.
+
+* Striving for Excellence in University Education: Trinity Western promotes not only academic and intellectual excellence, but integrates these with high standards of personal, moral, and spiritual integrity.
+
+* Discipling in Community: At Trinity Western, students, staff, faculty and administrators are all invited and encouraged to deepen their understanding of what it means to be disciples of Jesus Christ, to practice such discipleship, and to sustain and help others to be and become disciples. They strive to act justly, love mercy, and walk humbly with our God.
