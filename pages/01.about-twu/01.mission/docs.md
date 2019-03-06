@@ -16,16 +16,15 @@ A significant aspect of this mission involves helping students discover who God 
 
 ### Core Values
 TRINITY WESTERN UNIVERSITY IS COMMITTED TO SIX CORE VALUES:
-Obeying the Authority of Scripture: Both individually and corporately Trinity Western wholeheartedly embraces all the Bible teaches in regard to faith, ethical commitments, and way of life, believing it to be the ultimate standard of truth and hope.
 
-Pursuing Faith-Based and Faith-Affirming Learning: Trinity Western's starting point for learning is that God calls humans to be stewards of His creation, doers of good toward all people, and agents of His reconciliation.
+* Obeying the Authority of Scripture: Both individually and corporately Trinity Western wholeheartedly embraces all the Bible teaches in regard to faith, ethical commitments, and way of life, believing it to be the ultimate standard of truth and hope.
 
-Having a Transformational Impact on Culture: God calls His followers to influence both individuals and the culture in which they live and ultimately draw people to Him. Trinity Western's programs encourage thought, word and deed that affect the dynamics and institutions of our society on the basis of biblical principles such as justice, mercy and hope.
+* Pursuing Faith-Based and Faith-Affirming Learning: Trinity Western's starting point for learning is that God calls humans to be stewards of His creation, doers of good toward all people, and agents of His reconciliation.
 
-Servant Leadership as a Way of Life: Trinity Western strives to teach and to embody the pattern of servant leadership exemplified by Jesus Christ. Professors, administrators and students seek to motivate and mobilize each other to think and act with creativity, integrity, and skill for the benefit of all concerned.
+* Having a Transformational Impact on Culture: God calls His followers to influence both individuals and the culture in which they live and ultimately draw people to Him. Trinity Western's programs encourage thought, word and deed that affect the dynamics and institutions of our society on the basis of biblical principles such as justice, mercy and hope.
 
-Striving for Excellence in University Education: Trinity Western promotes not only academic and intellectual excellence, but integrates these with high standards of personal, moral, and spiritual integrity.
+* Servant Leadership as a Way of Life: Trinity Western strives to teach and to embody the pattern of servant leadership exemplified by Jesus Christ. Professors, administrators and students seek to motivate and mobilize each other to think and act with creativity, integrity, and skill for the benefit of all concerned.
 
-Discipling in Community: At Trinity Western, students, staff, faculty and administrators are all invited and encouraged to deepen their understanding of what it means to be disciples of Jesus Christ, to practice such discipleship, and to sustain and help others to be and become disciples. They strive to act justly, love mercy, and walk humbly with our God.
+* Striving for Excellence in University Education: Trinity Western promotes not only academic and intellectual excellence, but integrates these with high standards of personal, moral, and spiritual integrity.
 
-example
+* Discipling in Community: At Trinity Western, students, staff, faculty and administrators are all invited and encouraged to deepen their understanding of what it means to be disciples of Jesus Christ, to practice such discipleship, and to sustain and help others to be and become disciples. They strive to act justly, love mercy, and walk humbly with our God.
