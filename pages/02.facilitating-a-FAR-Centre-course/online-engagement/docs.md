@@ -1,7 +1,8 @@
 ---
 title: 'Online Engagement'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Chapter Number
