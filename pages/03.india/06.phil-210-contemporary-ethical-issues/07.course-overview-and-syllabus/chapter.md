@@ -74,7 +74,7 @@ Following is a description of the letter grading:
 | **D range = Below average**.    D+ 57-59%   D 53-56%    D- 50-52%           | The assignment demonstrates reasoning that is neither carefully nuanced nor coherently presented; writing is insufficient in depth of insight and/or use of texts; presentation is not free from material error in structure, spelling and grammar. This means that the student failed to respond adequately to the assignment and its intentions.                                      |
 | **F = Unsatisfactory**.     F -50%                      | In one or more of the following ways the student: 1) failed to turn in the assignment; 2) did not respond to the assignment as given; 3) submitted work so thoroughly flawed as to indicate that the student did not make a serious effort, 4) was involved in plagiarism or cheating.                                                       |
 |  |
-|------------|
+
 
 
 ### Academic Integrity and Avoiding Plagiarism at TWU
@@ -85,11 +85,11 @@ https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi
 http://bit.ly/1p00KX3  (Google Slide presentation offering more comprehensive information)
 
 ### Campus Closure and Class Cancellation Policy
-In the event of extreme weather conditions or other emergency situations go to add details.
+In the event of extreme weather conditions or other emergency situations go to *add details.
 
 ### University Standard Grading System
 The Standard Grading System can be found at the University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices     University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices.
-[NOTE: If your department or course deviates from the standard, include that grading system here, and change the title of this section to Course Grading System.]
+
 
 ### Students with a Disability
 Students with a disability who need assistance are encouraged to contact the Equity of Access Office upon admission to TWU to discuss their specific needs. All disabilities must be recently documented by an appropriately certified professional and include the educational impact of the disability along with recommended accommodations. Within the first two weeks of the semester, students must meet with their professors to agree on accommodations appropriate to each class. Students should follow the steps detailed by the Equity of Access Office outlined in the Student Life section of the University Calendar.
