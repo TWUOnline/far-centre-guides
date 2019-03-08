@@ -1,7 +1,8 @@
 ---
 title: 'Facilitation Notes'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### PHIL 210
