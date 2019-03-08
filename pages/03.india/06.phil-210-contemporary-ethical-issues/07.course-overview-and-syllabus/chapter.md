@@ -67,6 +67,7 @@ TWU is committed to an ethic of inclusion centred on the principles of hospitali
 ### GRADING GUIDELINES 
 Following is a description of the letter grading: 
 
+
 | **A range = Superior, exceptional, outstanding**. |
 |---------------------------------------------------|
 
@@ -76,6 +77,41 @@ Following is a description of the letter grading:
 >   A 85-89%
 
 >   A- 80-84%
+
+The assignment demonstrates critical, informed, and creative theological inquiry
+that reflects superior understanding of essential theological/historical
+concepts. This means the student demonstrates depth of insight beyond what is
+normally expected. Carefully nuanced reasoning and writing, free from material,
+structural and grammatical error are presupposed in this grade.
+
+| **B range = Good.**          | The assignment demonstrates ready command of full range of concepts and shows some critical, informed, and creative inquiry that reflects above average understanding of essential theological/historical concepts. This means the student has produced an assignment that is free from material, structural and grammatical errors.               |   |   |   |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| **C range = Acceptable.**    | The assignment demonstrates satisfactory ability to describe overall picture and essential concepts. This means the student has completed the assignment in a manner involving no significant errors. Material may not be free from structural and grammatical errors. Nuanced reasoning is not demonstrated.                                      |   |   |   |
+| **D range = Below average**. | The assignment demonstrates reasoning that is neither carefully nuanced nor coherently presented; writing is insufficient in depth of insight and/or use of texts; presentation is not free from material error in structure, spelling and grammar. This means that the student failed to respond adequately to the assignment and its intentions. |   |   |   |
+| **F = Unsatisfactory**.      | In one or more of the following ways the student: 1) failed to turn in the assignment; 2) did not respond to the assignment as given; 3) submitted work so thoroughly flawed as to indicate that the student did not make a serious effort, 4) was involved in plagiarism or cheating.                                                             |   |   |   |
+
+>   B+ 77-79%
+
+>   B 73-76%
+
+>   B- 70-72%
+
+>   C+ 67-69%
+
+>   C 63-66%
+
+>   C- 60-62%
+
+>   D+ 57-59%
+
+>   D 53-56%
+
+>   D- 50-52%
+
+>   F -50%
+
+
+
 
 The assignment demonstrates critical, informed, and creative theological inquiry
 that reflects superior understanding of essential theological/historical
