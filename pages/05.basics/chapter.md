@@ -1,8 +1,7 @@
 ---
-title: 'Using this Site'
+title: 'Modifying Your Course'
 taxonomy:
-    category:
-        - docs
+    category: docs
 child_type: docs
 ---
 
