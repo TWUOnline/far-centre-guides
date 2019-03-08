@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### MCOM 281: Public Speaking
+### Facilitator's Guide
 
-# Facilitator's Guide for MCOM 281: Public Speaking
+# MCOM 281: Public Speaking
 
-Chapter description.
+This guide will give you an overview of the course, including the syllabus, suggested facilitation strategies, and instructor notes.  Please also review in detail the course contents in Moodle.  The online course components that students have access to will explain all assignments and will take them through learning activities for each unit.  Another key resource for every Facilitator is the TWU Faculty instructor of record.  Please ensure you have set up a meeting weeks before the class begins.  
