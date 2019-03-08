@@ -41,15 +41,17 @@ Intro Text: Wolff, Jonathan.  _An Introduction to Moral Philosophy_.  New York: 
 
 ## Course Schedule
 Note that Facilitator may change the schedule, depending on the campus term dates.
-| **Unit topics**                               | **Assessment**                                                                                                                         |
-|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Unit 1: The Nature of Moral Inquiry           | Reflective Journal (6%)                                                                                                                |
-| Unit 2: Foundational Moral Concepts           | Ethics Committee Response (5%)                                                                                                         |
-| Unit 3: Why Be Moral?                         | Ethics Committee Response (5%)                                                                                                         |
-| Unit 4: How to Determine What is Moral Topics | Ethics Committee Response (5%) Reflective Journal (6%) Partner Project Presentation (30%) (Due weeks 5-10 – sign up in class for time) |
-| Unit 5: Free Speech and its Limits            | Ethics Committee Response (5%) Ethics Video (10%) (on week 5-10 topics – Due Week 10)                                                  |
-| Unit 6: Sexual Morality                       | Ethics Committee Response (5%)                                                                                                         |
-| Unit 7: Animal Rights                         | Reflective Journal (6%)                                                                                                                |
-| Unit 8: End-of-Life Moral Dilemmas            | Reflective Journal (6%)                                                                                                                |
-| Unit 9: The Ethics of Torture and Terrorism   | Reflective Journal (6%) (Ethics Videos due)                                                                                            |
-| Unit 10: World Hunger and Foreign Aid         | Ethics Committee Response (5%)                                                                                                         |
+
+| **Unit topics**                               | **Reading List**                                | **Assessment**                                                                                                                           |
+|-----------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Unit 1: The Nature of Moral Inquiry           | Ch.1-2: *An Introduction to Moral Philosophy*.  | Reflective Journal (6%)                                                                                                                  |
+| Unit 2: Foundational Moral Concepts           | Ch.3-4: *An Introduction to Moral Philosophy*.  | Ethics Committee Response (5%)                                                                                                           |
+| Unit 3: Why Be Moral?                         | Ch.6-7: *An Introduction to Moral Philosophy*.  | Ethics Committee Response (5%)                                                                                                           |
+| Unit 4: How to Determine What is Moral Topics | Pp: 125-160: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%) Reflective Journal (6%) Partner Project Presentation (30%) *(Due weeks 5-10 – sign up in class for time)* |
+| Unit 5: Free Speech and its Limits            | Pp: 252-278: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%) Ethics Video (10%) *(on week 5-10 topics – Due Week 10)*                                                  |
+| Unit 6: Sexual Morality                       | Pp: 293-328: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%)                                                                                                           |
+| Unit 7: Animal Rights                         | Pp: 426-443: *Readings in Moral Philosophy*.    | Reflective Journal (6%)                                                                                                                  |
+| Unit 8: End-of-Life Moral Dilemmas            | Pp: 372-406: *Readings in Moral Philosophy*.    | Reflective Journal (6%)                                                                                                                  |
+| Unit 9: The Ethics of Torture and Terrorism   | Pp: 488-511: *Readings in Moral Philosophy*.    | Reflective Journal (6%) (Ethics Videos due)                                                                                              |
+| Unit 10: World Hunger and Foreign Aid         | Pp: 612-638: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%)                                                                                                           |
+
