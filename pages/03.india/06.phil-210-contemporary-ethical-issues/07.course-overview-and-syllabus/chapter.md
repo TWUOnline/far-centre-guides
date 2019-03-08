@@ -67,7 +67,7 @@ TWU is committed to an ethic of inclusion centred on the principles of hospitali
 ### GRADING GUIDELINES 
 Following is a description of the letter grading: 
 
-| **A range = Superior, exceptional, outstanding**. | The assignment demonstrates critical, informed, and creative theological inquiry that reflects superior understanding of essential theological/historical concepts. This means the student demonstrates depth of insight beyond what is normally expected. Carefully nuanced reasoning and writing, free from material, structural and grammatical error are presupposed in this grade. |
+| **A range = Superior, exceptional, outstanding**. A+ 90-100%  A 85-89%  A- 80-84% | The assignment demonstrates critical, informed, and creative theological inquiry that reflects superior understanding of essential theological/historical concepts. This means the student demonstrates depth of insight beyond what is normally expected. Carefully nuanced reasoning and writing, free from material, structural and grammatical error are presupposed in this grade. |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **B range = Good.**                               | The assignment demonstrates ready command of full range of concepts and shows some critical, informed, and creative inquiry that reflects above average understanding of essential theological/historical concepts. This means the student has produced an assignment that is free from material, structural and grammatical errors.                                                    |
 | **C range = Acceptable.**                         | The assignment demonstrates satisfactory ability to describe overall picture and essential concepts. This means the student has completed the assignment in a manner involving no significant errors. Material may not be free from structural and grammatical errors. Nuanced reasoning is not demonstrated.                                                                           |
@@ -75,13 +75,13 @@ Following is a description of the letter grading:
 | **F = Unsatisfactory**.                           | In one or more of the following ways the student: 1) failed to turn in the assignment; 2) did not respond to the assignment as given; 3) submitted work so thoroughly flawed as to indicate that the student did not make a serious effort, 4) was involved in plagiarism or cheating.                                                                                                  |
 
 
-| A+ 90-100% |
+|  |
 |------------|
 
 
->   A 85-89%
+>   
 
->   A- 80-84%
+>   
 
 | B+ 77-79% |   |   |
 |-----------|---|---|
