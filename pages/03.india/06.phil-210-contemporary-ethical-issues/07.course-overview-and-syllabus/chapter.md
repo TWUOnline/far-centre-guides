@@ -35,6 +35,7 @@ After successfully completing the course, you will be able to:
  
 ## Course Texts:
 Readings Text: Wolff, Jonathan.  _Readings in Moral Philosophy_.  New York: W. W. Norton & Company, 2018.
+
 Intro Text: Wolff, Jonathan.  _An Introduction to Moral Philosophy_.  New York: W. W. Norton &
      Company, 2018.  
 
@@ -47,8 +48,8 @@ Note that Facilitator may change the schedule, depending on the campus term date
 | Unit 1: The Nature of Moral Inquiry           | Ch.1-2: *An Introduction to Moral Philosophy*.  | Reflective Journal (6%)                                                                                                                  |
 | Unit 2: Foundational Moral Concepts           | Ch.3-4: *An Introduction to Moral Philosophy*.  | Ethics Committee Response (5%)                                                                                                           |
 | Unit 3: Why Be Moral?                         | Ch.6-7: *An Introduction to Moral Philosophy*.  | Ethics Committee Response (5%)                                                                                                           |
-| Unit 4: How to Determine What is Moral Topics | Pp: 125-160: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%) Reflective Journal (6%) Partner Project Presentation (30%) *(Due weeks 5-10 – sign up in class for time)* |
-| Unit 5: Free Speech and its Limits            | Pp: 252-278: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%) Ethics Video (10%) *(on week 5-10 topics – Due Week 10)*                                                  |
+| Unit 4: How to Determine What is Moral Topics | Pp: 125-160: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%) Reflective Journal (6%) Partner Project Presentation (30%) *(Presentations due weeks 5-10 – sign up in class for time)* |
+| Unit 5: Free Speech and its Limits            | Pp: 252-278: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%) Ethics Video (10%) *(Videos due week 9)*                                                  |
 | Unit 6: Sexual Morality                       | Pp: 293-328: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%)                                                                                                           |
 | Unit 7: Animal Rights                         | Pp: 426-443: *Readings in Moral Philosophy*.    | Reflective Journal (6%)                                                                                                                  |
 | Unit 8: End-of-Life Moral Dilemmas            | Pp: 372-406: *Readings in Moral Philosophy*.    | Reflective Journal (6%)                                                                                                                  |
@@ -65,12 +66,52 @@ TWU is committed to an ethic of inclusion centred on the principles of hospitali
 
 ### GRADING GUIDELINES 
 Following is a description of the letter grading: 
-A range = Superior, exceptional, outstanding. The assignment demonstrates critical, informed, and creative theological inquiry that reflects superior understanding of essential theological/historical concepts. This means the student demonstrates depth of insight beyond what is normally expected. Carefully nuanced reasoning and writing, free from material, structural and grammatical error are presupposed in this grade. 
-B range = Good. The assignment demonstrates ready command of full range of concepts and shows some critical, informed, and creative inquiry that reflects above average understanding of essential theological/historical concepts. This means the student has produced an assignment that is free from material, structural and grammatical errors. 
-C range = Acceptable. The assignment demonstrates satisfactory ability to describe overall picture and essential concepts. This means the student has completed the assignment in a manner involving no significant errors. Material may not be free from structural and grammatical errors. Nuanced reasoning is not demonstrated. 
-D range = Below average. The assignment demonstrates reasoning that is neither carefully nuanced nor coherently presented; writing is insufficient in depth of insight and/or use of texts; presentation is not free from material error in structure, spelling and grammar. This means that the student failed to respond adequately to the assignment and its intentions. 
-F = Unsatisfactory. In one or more of the following ways the student: 1) failed to turn in the assignment; 2) did not respond to the assignment as given; 3) submitted work so thoroughly flawed as to indicate that the student did not make a serious effort, 4) was involved in plagiarism or cheating.
-Academic Integrity and Avoiding Plagiarism at TWU
+
+| **A range = Superior, exceptional, outstanding**. |
+|---------------------------------------------------|
+
+
+>   A+ 90-100%
+
+>   A 85-89%
+
+>   A- 80-84%
+
+The assignment demonstrates critical, informed, and creative theological inquiry
+that reflects superior understanding of essential theological/historical
+concepts. This means the student demonstrates depth of insight beyond what is
+normally expected. Carefully nuanced reasoning and writing, free from material,
+structural and grammatical error are presupposed in this grade.
+
+| **B range = Good.**          | The assignment demonstrates ready command of full range of concepts and shows some critical, informed, and creative inquiry that reflects above average understanding of essential theological/historical concepts. This means the student has produced an assignment that is free from material, structural and grammatical errors.               |   |   |   |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| **C range = Acceptable.**    | The assignment demonstrates satisfactory ability to describe overall picture and essential concepts. This means the student has completed the assignment in a manner involving no significant errors. Material may not be free from structural and grammatical errors. Nuanced reasoning is not demonstrated.                                      |   |   |   |
+| **D range = Below average**. | The assignment demonstrates reasoning that is neither carefully nuanced nor coherently presented; writing is insufficient in depth of insight and/or use of texts; presentation is not free from material error in structure, spelling and grammar. This means that the student failed to respond adequately to the assignment and its intentions. |   |   |   |
+| **F = Unsatisfactory**.      | In one or more of the following ways the student: 1) failed to turn in the assignment; 2) did not respond to the assignment as given; 3) submitted work so thoroughly flawed as to indicate that the student did not make a serious effort, 4) was involved in plagiarism or cheating.                                                             |   |   |   |
+
+>   B+ 77-79%
+
+>   B 73-76%
+
+>   B- 70-72%
+
+>   C+ 67-69%
+
+>   C 63-66%
+
+>   C- 60-62%
+
+>   D+ 57-59%
+
+>   D 53-56%
+
+>   D- 50-52%
+
+>   F -50%
+
+
+
+### Academic Integrity and Avoiding Plagiarism at TWU
 One of the core values of Trinity Western University is the integration of academic excellence with high standards of personal, moral, and spiritual integrity. The University considers it a serious offence when an individual attempts to gain unearned academic credit. It is the student’s responsibility to be informed about what constitutes academic dishonesty. For details on this, and on identifying and avoiding plagiarism go to the University Homepage > Academics > Academic Calendar > Academic Information > Academic Policies > Academic Dishonesty and Plagiarism.
 
 https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi presentation)
