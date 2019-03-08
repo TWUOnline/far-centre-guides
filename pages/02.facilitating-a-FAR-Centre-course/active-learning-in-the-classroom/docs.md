@@ -1,7 +1,8 @@
 ---
 title: 'Active Learning in the Classroom'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Chapter Number
