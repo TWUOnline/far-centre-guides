@@ -1,7 +1,8 @@
 ---
 title: 'Setting Up Your Schedule'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Chapter Number
