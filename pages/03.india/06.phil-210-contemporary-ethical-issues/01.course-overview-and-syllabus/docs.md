@@ -1,7 +1,8 @@
 ---
 title: 'Course Overview & Syllabus'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Course Overview
