@@ -11,7 +11,7 @@ taxonomy:
 The following information is from the course syllabus, also located in Moodle.  Note that you will need to modify the schedule based on your term.  Please also discuss with the Faculty if there are any other changes to the syllabus.
 
 ## Course Description
-Students will be introduced to the foundational moral frameworks of western civilization and will bring these frameworks to bear on some of the most important ethical issues arising in contemporary society: environmental ethics, responsibility to distant peoples, genetic engineering and cloning, abortion, medical assistance in dying, and the promise and peril of nanotechnology.  Students will examine the nature of moral dilemmas...The emphasis is on clarifying the issues, exploring various views on these and relevant supporting arguments, and exposing important underlying assumptions.
+In this course, learners will be introduced to the foundational moral frameworks of western civilization and will bring these frameworks to bear on some of the most important ethical issues arising in contemporary society, such as free speech, medical assistance in dying, and world hunger.  You will examine the nature of moral dilemmas, clarifying the issues, exploring various views and arguments, and exposing important underlying assumptions.
 
 ## Learning Outcomes
 After successfully completing the course, you will be able to:
