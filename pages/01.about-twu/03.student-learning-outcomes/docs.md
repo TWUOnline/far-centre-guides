@@ -6,6 +6,9 @@ taxonomy:
 visible: true
 ---
 
+In addition to course and unit learning outcomes, FAR Centre courses align with TWU's Student Learning Outcomes. As a Facilitator, please review all outcomes of your courses and be sure to address these with your students.
+
+## TWU Student Learning Outcomes
 
 Trinity Western is a Christian, liberal arts University. As a
 ***Christian*** university, Trinity Western is grounded in the
