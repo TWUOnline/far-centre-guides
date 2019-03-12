@@ -86,3 +86,34 @@ c) read aloud while walking outside
 d) draw a picture or graphic of the information
 
 e) ask, "What is the effect of these sensory additions to your reading?"
+
+
+### Experiential Learning
+
+Corporate trainer, Dave Root defines experiential learning as "immersive activities that mimic real-world challenges with a targeted debrief that connects the lessons learned with the reality of the workplace. It allows participants to learn by doing."  Some examples of experiential learning include cooperative education, practicums, internships, studies abroad, field trips, service learning projects, role playing, case studies and simulations. For excellent examples and best practices in experiential learning, be sure to read this article from Ryerson University's Learning and Teaching Office.
+
+>> Chapman et al. have provided a list of characteristics that should be present in order to define an activity or method as experiential. These characteristics include:
+1. *Mixture of content and process:* There must be a balance between the experiential activities and the
+underlying content or theory.
+2. *Absence of excessive judgment:* The instructor must create a safe space for students to work through
+their own process of self-discovery.
+3. *Engagement in purposeful endeavors:* In experiential learning, the learner is the self-teacher,
+therefore there must be “meaning for the student in the learning.” The learning activities must be
+personally relevant to the student.
+4. *Encouraging the big picture perspective:* Experiential activities must allow the students to make
+connections between the learning they are doing and the world. Activities should build in students the
+ability see relationships in complex systems and find a way to work within them.
+5. *The role of reflection:* Students should be able to reflect on their own learning, bringing “the theory to
+life” and gaining insight into themselves and their interactions with the world.
+6. *Creating emotional investment:* Students must be fully immersed in the experience, not merely doing
+what they feel is required of them. The “process needs to engage the learner to a point where what is
+being learned and experience strikes a critical, central chord within the learner.”
+7. *The re-examination of values:* By working within a space that has been made safe for selfexploration, students can begin to analyze and even alter their own values.
+8. *The presence of meaningful relationships:* One part of getting students to see their learning in the
+context of the whole world is to start by showing the relationships between “learner to self, learner to
+teacher, and learner to learning environment.”
+9. *Learning outside one’s perceived comfort zones:* “Learning is enhanced when students are given the
+opportunity to operate outside of their own perceived comfort zones.” This doesn’t refer just to
+physical environment, but also to the social environment. This could include, for instance, “being
+accountable for one’s actions and owning the consequences” (Chapman, McPhee, & Proudman, 1995,
+p. 243).
