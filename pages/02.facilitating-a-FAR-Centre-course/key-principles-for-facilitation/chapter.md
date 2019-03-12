@@ -10,7 +10,7 @@ taxonomy:
 Below are some key reminders for you as you plan and deliver lessons in the FAR Centres. Refer also to your resources and course material from LDRS 627, 662, 663, 664, and 667.
 
 
-### Androgogy
+## Androgogy
 As you plan your learning activities, keep in mind these six assumptions about andragogy from Knowles (1980 cited in Merriam & Bierma, 2014, p.47)
 
 1.  As a person matures, his or her self-concept moves from that of a
@@ -44,3 +44,45 @@ The idea is to plan a way to learn what the participants already know on
 the topic. Because they are adults it’s important to recognize their
 prior life experience.
 
+
+### Learning with the Senses
+
+Rather than planning a class based on the traditional lecture and PowerPoint, explore social-emotional learning and sensory-engaging pedagogies.  How can we incorporate the senses of sight, sound, smell, taste and touch into our teaching? 
+
+Examples of sensory-engaged teaching methods:
+
+* Auditory input such as recorded video lectures; incorporation of music
+
+* Visuals - analysis of videos and film; incorporation of art
+
+* Problem-solving through case studies
+
+* Storytelling
+
+* Place-based learning including learning in nature and other environments
+
+* Kinesthetic or movement learning activities eg role play
+
+* Activities that incorporate the olfactory (sense of smell) eg. bringing in spices from a region to evoke the culture of food
+
+* Activities that incorporate the sense of touch - textured materials, manipulatives
+
+* Discussion forums
+
+* Use of interactive technology
+
+### Active Learning 
+
+Below are some active learning strategies you may want to incorporate into your lessons.
+
+Choose one of the readings for a unit and ask students to:
+
+a) read while walking
+
+b) read aloud
+
+c) read aloud while walking outside
+
+d) draw a picture or graphic of the information
+
+e) ask, "What is the effect of these sensory additions to your reading?"
