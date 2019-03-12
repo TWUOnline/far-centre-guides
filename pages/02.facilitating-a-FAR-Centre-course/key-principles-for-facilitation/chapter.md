@@ -32,3 +32,15 @@ As you plan your learning activities, keep in mind these six assumptions about a
 6.  Adults need to know the **reason** for learning something.
 
 
+### Prior Needs Assessment
+Before you plan to teach anything, it’s a good idea to find out what
+your students already know.  You can save time (and boredom) by not
+spending time on topics or skills that they already know and instead
+plan to enhance their knowledge and take them further.  This is a much
+more motivating approach and one that adults will appreciate.  A prior
+needs assessment is not always a "quiz" though – it can be a discussion,
+a concept map, a KWL (Know, Want to Know, Learned), a ‘Minute Paper’…..
+The idea is to plan a way to learn what the participants already know on
+the topic. Because they are adults it’s important to recognize their
+prior life experience.
+
