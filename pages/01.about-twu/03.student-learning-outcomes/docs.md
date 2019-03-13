@@ -31,33 +31,23 @@ Western University, students should prepare for a life of learning and
 service by developing:
 
 **KNOWLEDGE AND ITS APPLICATION**
-
   - a broad foundational knowledge of human culture and the physical and
     natural world.
-
   - a depth of understanding in any chosen field(s) of study. 
-    
   - applied knowledge acquired through discipline-appropriate experiential learning.
 
 
 **COGNITIVE COMPLEXITY**
-
   - skills including: critical and creative thinking, quantitative and
     qualitative reasoning, communication, research, and information
     literacy.
-
   - an ability to articulate various interdisciplinary and multi-disciplinary perspectives, integrating informed Christian perspectives.
-
   - an ability to respond with wisdom, humility and charity to questions, issues, and problems of the human condition.
 
 **AESTHETIC EXPRESSION AND INTERPRETATION**
-
   - creative, performative, material and narrative forms of critical inquiry.
-
   - intuitive, imaginative and interpretive methodologies. 
-  
   - ways of knowing through which maker and receiver come to insight and understanding. 
-    
   - collaborative and community–based interdisciplinary practices.
 
 **INTER-AND INTRA-PERSONAL WELLNESS**
@@ -66,27 +56,23 @@ service by developing:
   - an appreciation of the role of community in wellness.
 
 **SPIRITUAL FORMATION**
-  - a spiritual dimension by means of an exposure to a reflective and
-    caring Christ-centred community which encourages:
+  - a spiritual dimension by means of an exposure to a reflective and caring Christ-centred community which encourages:
       - *a further understanding of God.* 
       - *a discovery of a deep and personal spiritual foundation.*
       - *an embodiment of a Christ-like way of life characterized by love for and service to others.*
 
 **SOCIAL RESPONSIBILITY AND GLOBAL ENGAGEMENT**
-
   - the resources, skills, and motivation to become engaged global citizens who serve locally, nationally, and globally in socially and economically just ways. 
   - a commitment to informed and ethical reasoning. 
   - respect for the dignity and rights of all persons.
   - respect for creation and its sustainable use and care.
 
 **LEADERSHIP**
-
   - skills to become creative, collaborative, informed, competent, and compassionate people who influence the various contexts into which they are called.
   - abilities and attitudes characterized by service, humility and integrity.
 
 [https://www.twu.ca/academics/student-learning-outcomes](https://www.twu.ca/academics/student-learning-outcomes)
 
 > **Latest Revision adopted by University Senate March 10, 2015**
->
 > **Adopted by University Senate November 6, 2012**
 
