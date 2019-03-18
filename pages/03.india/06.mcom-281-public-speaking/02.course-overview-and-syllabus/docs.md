@@ -3,6 +3,7 @@ title: 'Course Overview & Syllabus'
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 ### Course Overview
