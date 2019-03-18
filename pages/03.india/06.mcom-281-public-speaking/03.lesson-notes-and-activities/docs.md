@@ -34,25 +34,8 @@ For some of the activities above, students are asked to write their thoughts in 
 Activity 2.1: Share with a partner why you think listening is important.
 Activity 2.5: Share what it means to be an ethical public speaker and why it is important. Consider also how ethical speaking can help you and your society. 
 
-Activity 2.6: Plagiarism
+#### Activity 2.6: Plagiarism
 Put the students in groups and ask them to answer the following question and share their responses with their classmates.
-Which of these speech topics is ethical and which are not and why:
-•	“How to Hack Computers.” 
-•	“How to protect against hacking.”
-•	“Why Getting Proper Sleep is Important for University Students.” 
-•	“Practical Tips for Fruitful Dating.” 
-•	“How to download Hollywood Movies for Free.” 
-•	“How to Take Revenge on Someone Who Has Hurt You.”
-•	“How to Find and Pay for Informative Speeches on the Internet.” 
-
-Next, ask students to come up with three ethical and three unethical speech topics and decide why they are so. Ask them to present one to their classmates for student debate and discussion. 
-
-
-
-*In Class Activity (for Facilitator’s Guide)*
-
-Put the students in groups and ask them to answer the following question and
-share their responses with their classmates.
 
 Which of these speech topics is ethical and which are not and why:
 
