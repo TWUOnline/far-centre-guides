@@ -6,17 +6,16 @@ taxonomy:
 visible: true
 ---
 
-Facilitaors are vital to this course. As flipped education, this course involves both online and in-class components. Facilitators play a key role becasaue they interact with the students and can determine who is and who is not understanding material or having a good experience. Facilatators have latitude to focus on certain activities that they think are important at the moment. For example, the Facilitator might or might not want to have students volunteer to share what they wrote in their journal for a given activity. 
+# Lesson Notes & Activities
+Facilitators are vital to this course. As flipped education, this course involves both online and in-class components. Facilitators play a key role becasaue they interact with the students and can determine who is and who is not understanding material or having a good experience. Facilatators have latitude to focus on certain activities that they think are important at the moment. For example, the Facilitator might or might not want to have students volunteer to share what they wrote in their journal for a given activity. 
 
 The following page outlines the Units, the online activities students will participate in, and some notes for in class activities.  Be sure to read through the online material in Moodle to help guide students, facilitate activities, and answer questions.
 
 
-Unit 2: Public Listening and the Ethics of Public Speaking 
-===========================================================
+## Unit 2: Public Listening and the Ethics of Public Speaking 
 
-Activity Checklist 
-------------------
-**Online
+### Activity Checklist (online)
+
 |   | **Activities**                                                                                                                                                                             |
 |---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | **Pre-reading**: Read the course text, Chapters 4 and 5 (Remember that for each unit, you are asked to read chapters before getting into the topics and activities. Be sure to take notes! |
@@ -30,4 +29,5 @@ Activity Checklist
 |   | Activity 2.8: Key Terms Quiz (ungraded)                                                                                                                                                    |
 |   | **Assignment: Reflective Journal**                                                                                                                                                         |
 
-**In Class
+### In Class Activities:
+
