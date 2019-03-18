@@ -47,3 +47,29 @@ Which of these speech topics is ethical and which are not and why:
 
 Next, ask students to come up with three ethical and three unethical speech topics and decide why they are so. Ask them to present one to their classmates for student debate and discussion. 
 
+
+
+*In Class Activity (for Facilitator’s Guide)*
+
+Put the students in groups and ask them to answer the following question and
+share their responses with their classmates.
+
+Which of these speech topics is ethical and which are not and why:
+
+-   “How to Hack Computers.”
+
+-   “How to protect against hacking.”
+
+-   “Why Getting Proper Sleep is Important for University Students.”
+
+-   “Practical Tips for Fruitful Dating.”
+
+-   “How to download Hollywood Movies for Free.”
+
+-   “How to Take Revenge on Someone Who Has Hurt You.”
+
+-   “How to Find and Pay for Informative Speeches on the Internet.”
+
+Next, ask students to come up with three ethical and three unethical speech
+topics and decide why they are so. Ask them to present one to their classmates
+for student debate and discussion.
