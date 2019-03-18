@@ -14,12 +14,13 @@ The following page outlines the Units, the online activities students will parti
 
 ## Unit 2: Public Listening and the Ethics of Public Speaking 
 
-### Activity Checklist (online)
+### Activity Checklist
+The following is a checklist for students to complete during the week. Notes for possible in-class activities are in italics, and if needed explanations are below.
 
 |   | **Activities**                                                                                                                                                                             |
 |---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   | **Pre-reading**: Read the course text, Chapters 4 and 5 (Remember that for each unit, you are asked to read chapters before getting into the topics and activities. Be sure to take notes! |
-|   | Activity 2.1: Why Is Listening Important?                                                                                                                                                  |
+|   | Activity 2.1: Why Is Listening Important?  *Share with a partner why you think listening is important*                                                                                                                                               |
 |   | Activity 2.2: How Good Are Your Active Listening Skills?                                                                                                                                   |
 |   | Activity 2.3: Which Listening Skills Do You Have to Work on?                                                                                                                               |
 |   | Activity 2.4: Commit to Listening Better                                                                                                                                                   |
