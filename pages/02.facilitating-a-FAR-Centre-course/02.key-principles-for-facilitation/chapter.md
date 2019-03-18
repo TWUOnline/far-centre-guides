@@ -31,6 +31,16 @@ As you plan your learning activities, keep in mind these six assumptions about a
 
 6.  Adults need to know the **reason** for learning something.
 
+Here are a couple more beliefs about adult learning that place a primary emphasis on the role of critical thinking. (Brookfield, 2013, Knowles, 1970, Merriam & Caffarella, 1999, Schon, 1983,Vygotsky, 1978):
+
+* Adults are self-directed and self-motivated. This does not mean that adults learn in isolation but that they are in charge of their own learning and held accountable.
+* Adults have prior experiences that are rich resources for learning. The adult learner integrates new learning into what they already know.
+* Adults appreciate the application of theory ‘in the real world’.
+* Adults are responsible for their own learning and exhibit behaviors of an individual ready and wanting to learn.
+* As an expert in the field, the instructor is a facilitator of learning – not a ‘sage on the stage’ but a ‘guide on the side’.
+* Assignments are designed to challenge the learner, build upon concepts and encourage reflection on experience.
+* Adults collaborate and support one another in their learning rather than compete. Everyone is capable of doing well.
+* Self-reflection, dialogue, writing and collaborative small group work are essential in sense-making and learning. Rote memory and lecture are deemphasized.
 
 ### Prior Needs Assessment
 Before you plan to teach anything, it’s a good idea to find out what
