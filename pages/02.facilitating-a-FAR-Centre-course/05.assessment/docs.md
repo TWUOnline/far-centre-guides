@@ -1,7 +1,8 @@
 ---
 title: Assessment
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### FAR Centre Assessment
