@@ -1,7 +1,8 @@
 ---
 title: 'Key Principles for Facilitation'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Facilitating a FAR Centre Course
