@@ -1,7 +1,8 @@
 ---
 title: 'Class Schedule'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Chapter Number
