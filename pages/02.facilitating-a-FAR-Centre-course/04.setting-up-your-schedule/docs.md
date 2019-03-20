@@ -3,6 +3,7 @@ title: 'Setting Up Your Schedule'
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 ### Chapter Number

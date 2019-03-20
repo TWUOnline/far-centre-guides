@@ -1,5 +1,8 @@
 ---
-title: 'Lesson Plan'
+title: Schedule
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 

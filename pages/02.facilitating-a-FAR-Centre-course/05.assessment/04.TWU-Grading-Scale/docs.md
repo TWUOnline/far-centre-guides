@@ -1,3 +1,13 @@
+---
+title: 'TWU Grading Scale'
+taxonomy:
+    category:
+        - docs
+visible: true
+---
+
+Assessments in FAR Centres are graded by TWU faculty. FAR Centre Facilitators may need to guide students in understanding assessments, interpreting feedback, and identifying areas of improvement.  Please refer to specific course rubrics for more details on Assessment.
+
 ## TWU Grading Scale
 
 |Grade|Expectations|
@@ -9,4 +19,3 @@
 | F|**Inadequate work**; poor performance that indicates a lack of understanding or misunderstanding of essential subject matter; seems easily distracted by the irrelevant; written expression is poorly organized, often incoherent, and rife with mechanical and diction errors. Shows little evidence of even basic competency in the course content or skills.|
 
 
-Note that assessments are graded by TWU faculty. FAR Centre Facilitators may need to guide students in understanding assessments, interpreting feedback, and identifying areas of improvement.  Please refer to specific course rubrics for more details on Assessment.
