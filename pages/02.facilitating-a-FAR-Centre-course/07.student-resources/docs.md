@@ -3,6 +3,7 @@ title: 'Student Resources'
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 ### FAR Centre Facilitation
