@@ -16,6 +16,8 @@ In the following sections, we'll list a number of ways to engage students in the
 
 Classroom activities include: discussions, partner/group assignments, role plays, vocabulary practice, study skills, online course help, videos, etc.
 
+### Class Discussions
+Facilitating discussion is a key skill of the adult educator and giving voice to the adult learner is one of the most important aspects for an adult educator to consider. Getting learners involved in the topic and having the confidence to speak in class and share their ideas whether through discussions or presentations, are essential elements of adult education.
 
 ### Promoting Critical Thinking
 Here are some examples of how to use the elements of critical thinking when designing activities:
