@@ -10,7 +10,11 @@ visible: true
 
 # Active Learning in the Classroom
 
-Here is where we'll list a number of ways to engage students in the course.  Classroom activities include: discussions, partner/group assignments, role plays, vocabulary practice, study skills, online course help, videos, etc.
+The heart and soul of teaching well is designing, sequencing and planning active learning opportunities around engaging and compelling content. This is creative work that requires the educator to research solid content aligned with the learning objectives and discern effective means of sharing and engaging learners with that content. Furthermore, it requires the educator to think about their specific learners, their prior knowledge about the topic, any fears or resistance they may bring to the topic and then carefully craft the time allotted so that objectives can be met in a fair, reasonably-paced, anxiety-free and hopefully enjoyable manner. It is tempting to try to use many fun activities during a session, but it’s very important to be judicious in selecting activities that serve a learning purpose. Avoid the trap of many beginning educators who focus more on ‘activitizing’ rather than aligning learning opportunities to objectives and assessment.
+
+In the following sections, we'll list a number of ways to engage students in the course.  
+
+Classroom activities include: discussions, partner/group assignments, role plays, vocabulary practice, study skills, online course help, videos, etc.
 
 
 ### Promoting Critical Thinking
