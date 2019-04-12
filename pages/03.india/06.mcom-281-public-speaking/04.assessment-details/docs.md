@@ -2,7 +2,8 @@
 title: 'Assessment Details'
 media_order: 'MCOM_281_Participation_Grade_Guidelines.pdf,MCOM_281_Journal_Guidelines.pdf,MCOM_281_Speech_Self-Assessment_Guidelines.pdf,MCOM_281_Speech_Critique_Guidelines.pdf,MCOM_281_Content_Delivery&Listening_Checklist.pdf,MCOM_281_Speech_Sign-up_sheets.doc,MCOM_281_Demonstration_Speech_Evaluation&Feedback_Form.docx,MCOM_281_Informative_Speech_Evaluation&Feedback_Form.docx,MCOM_281_Persuasive_Speech_Evaluation&Feedback_Form.docx'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### MCOM 281 Assessment
