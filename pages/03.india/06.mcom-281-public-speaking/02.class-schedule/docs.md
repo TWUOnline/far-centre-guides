@@ -26,8 +26,10 @@ Note that students will do some learning activities online / at home, and other 
 | **Unit 10: Special Occasion, Commemorative, and Celebratory Speeches** (1 class)             | Award Ceremony Speech (non-graded) Reflective Journal (Submit all entries Units 1-10) | Course Text Chapter 25.                       |
 
 
+## Class Activities
+
 The following sections outline key information you will need to plan and facilitate this course. 
-**Note that once you has mapped out the course (specific units to
+**Note that once you have mapped out the course (specific units to
 dates), send the updated syllabus to the instructor.**
 
 Course Resources
