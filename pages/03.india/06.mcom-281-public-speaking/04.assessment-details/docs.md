@@ -4,11 +4,10 @@ media_order: 'MCOM_281_Participation_Grade_Guidelines.pdf,MCOM_281_Journal_Guide
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 ### MCOM 281 Assessment
-
-# Assessment Details
 
 The emphasis of the course will be on the theoretical and practical elements of
 public speaking. The mid-term will reveal how well the student has grasp the
@@ -38,12 +37,12 @@ There are key documents for each assessment in this course.  These are available
 * [Speech Critique Guidelines](MCOM_281_Speech_Critique_Guidelines.pdf)
 
 #### Speech Planning Documents
-* [Speech Sign-up sheets](MCOM_281_Speech_Sign-up_sheets.doc)
+* [Speech Sign-up sheets](MCOM_281_Speech_Sign-up_sheets.docx)
 * [Content Delivery & Listening Checklist](MCOM_281_Content_Delivery&Listening_Checklist.pdf)
 * [Guidelines for Public Speaking Interviewing](MCOM_281_Guidelines_for_Public_Speaking_Interviewing.pdf)
 
 #### Speech Evaluation Documents
-* [Demonstration Speech Evaluation & Feedback Form](MCOM_281_Demonstration_Speech_Evaluation&Feedback_Form.doc)
-* [Informative Speech Evaluation & Feedback Form](MCOM_281_Informative_Speech_Evaluation&Feedback_Form.doc)
-* [Persuasive Speech Evaluation & Feedback Form](MCOM_281_Persuasive_Speech_Evaluation&Feedback_Form.doc)
+* [Demonstration Speech Evaluation & Feedback Form](MCOM_281_Demonstration_Speech_Evaluation&Feedback_Form.docx)
+* [Informative Speech Evaluation & Feedback Form](MCOM_281_Informative_Speech_Evaluation&Feedback_Form.docx)
+* [Persuasive Speech Evaluation & Feedback Form](MCOM_281_Persuasive_Speech_Evaluation&Feedback_Form.docx)
 
