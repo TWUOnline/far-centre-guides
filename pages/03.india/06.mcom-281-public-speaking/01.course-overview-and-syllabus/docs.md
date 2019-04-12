@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-### Course Overview
+### Course Overview for MCOM 281
 
 # Syllabus
 
@@ -19,13 +19,11 @@ This course requires students to research, create, and deliver speeches on topic
 After successfully completing the course, you will be able to:
 * Analyze and evaluate ideas and arguments, and their oral presentation, in public speeches. (1, 2, 3)
 * Become conversant with principles of speech communication in order to create and deliver their own speeches and critique the speeches of classmates. (1, 2, 6)
+* Increase skills in critical and creative thinking, quantitative reasoning, communication, research, and information literacy. (2)
+* Research, evaluate, and synthesize material from diverse sources in order to create and deliver several speeches for different rhetorical purposes with a specific audience. (3, 6, 7)
+* Develop leadership potential by becoming more able to speak with wisdom, humility and charity in their professions. (2, 7)
 
-increase skills in critical and creative thinking, quantitative reasoning, communication, research, and information literacy. (2)
-
-research, evaluate, and synthesize material from diverse sources in order to create and deliver several speeches for different rhetorical purposes with a specific audience. (3, 6, 7)
-
-develop leadership potential by becoming more able to speak with wisdom, humility and charity in their professions. (2, 7)
-
+*(Numbers relate to TWU Student Learning Outcomes. See full syllabus for details)
 
 ## Student Evaluation
 
