@@ -1,5 +1,6 @@
 ---
 title: 'Assessment Details'
+media_order: 'MCOM_281_Participation_Grade_Guidelines.pdf,MCOM_281_Journal_Guidelines.pdf,MCOM_281_Speech_Self-Assessment_Guidelines.pdf,MCOM_281_Speech_Critique_Guidelines.pdf,MCOM_281_Content_Delivery&Listening_Checklist.pdf,MCOM_281_Speech_Sign-up_sheets.doc,MCOM_281_Demonstration_Speech_Evaluation&Feedback_Form.docx,MCOM_281_Informative_Speech_Evaluation&Feedback_Form.docx,MCOM_281_Persuasive_Speech_Evaluation&Feedback_Form.docx'
 taxonomy:
     category: docs
 ---
@@ -27,13 +28,21 @@ for each speech:
 5.  Non-graded Awards Speech: 5 minutes
 
 
-There are key documents for each assessment in this course.  These are available online (in Moodle) for students.  Be sure to review these important documents as they come up in the course as follows:
+There are key documents for each assessment in this course.  These are available online (in Moodle) for students.  Be sure to review these important documents with students and contact the professor if any details are unclear.
 
-Journal Guidelines
-Speech Self-Assessment Guidelines
-Speech Critique Guidelines
-Speech Sign-up sheets
-Guidelines for Public Speaking Interviewing
-Demonstration Speech Evaluation & Feedback Form
-Informative Speech Evaluation & Feedback Form
-Persuasive Speech Evaluation & Feedback Form
+#### Participation Documents:
+* [Participation Grade Guidelines](MCOM_281_Participation_Grade_Guidelines.pdf)
+* [Journal Guidelines](MCOM_281_Journal_Guidelines.pdf)
+* [Speech Self-Assessment Guidelines](MCOM_281_Speech_Self-Assessment_Guidelines.pdf)
+* [Speech Critique Guidelines](MCOM_281_Speech_Critique_Guidelines.pdf)
+
+#### Speech Planning Documents
+* [Speech Sign-up sheets](MCOM_281_Speech_Sign-up_sheets.doc)
+* [Content Delivery & Listening Checklist](MCOM_281_Content_Delivery&Listening_Checklist.pdf)
+* [Guidelines for Public Speaking Interviewing](MCOM_281_Guidelines_for_Public_Speaking_Interviewing.pdf)
+
+#### Speech Evaluation Documents
+* [Demonstration Speech Evaluation & Feedback Form](MCOM_281_Demonstration_Speech_Evaluation&Feedback_Form.doc)
+* [Informative Speech Evaluation & Feedback Form](MCOM_281_Informative_Speech_Evaluation&Feedback_Form.doc)
+* [Persuasive Speech Evaluation & Feedback Form](MCOM_281_Persuasive_Speech_Evaluation&Feedback_Form.doc)
+
