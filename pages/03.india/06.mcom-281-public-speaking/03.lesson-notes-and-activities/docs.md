@@ -143,26 +143,20 @@ partner why you think public speaking is important.
 -   Confirm the time limit for the speech (e.g. 6-7 minutes, depending on number
     of students and term schedule)
 
--   Each presentation is …minutes long, with …for peer feedback, so plan classes
-    accordingly] WE WILL HAVE TO DETERMINE HOW LONG EACH SPEECH WILL BE AND THE
-    CLASS LENGTH TO DETERMINE WHO MANY COURSE DAYS THIS UNIT AND THREE TO FOLLOW
-    WILL TAKE. UNIT 10 SHOULD BE ONE CLASS DAY.
-
--   Activity 7.1: Ask students to share their differences with a peer
+-   Activity 7.1: Ask students to share their differences with a peer.
 
 -   Refer to the award list and ask students to make a note in their journals
     after each speech of this unit as to who should be nominated for an award.
+    
 
 ### Unit 8
 
 -   Confirm the time limit for the speech (e.g. 6-7 minutes, depending on number
     of students and term schedule)
 
--   This can be important activity to cover in class:
+-   This can be important activity to cover in class: Activity 8.1: Comparing and Contrasting Demonstration and Informative Speeches 
 
-#### Activity 8.1: Comparing and Contrasting Demonstration and Informative Speeches 
-
-Reflect on what you learned from your demonstration speech (the good and the
+* Reflect on what you learned from your demonstration speech (the good and the
 bad) and how that experience can help you create and deliver a strong
 informative speech. Be prepared to share your thoughts with your Facilitator and
 classmates.
@@ -182,10 +176,8 @@ classmates.
     Facilitator and Instructor by the end of Unit 9.
 
     -   After each speech, students should have written in their journals who
-        the best speeches were given by. Before they vote online, ask them to
+        the best speeches were given by. Before they vote, ask them to
         review their notes.
 
--   We will also need to decide what the reward will look like: certificate,
-    plaque, statute, trophy, etc. If we are going to hand out something
-    substantial like a plaque, statute, trophy then these awards should be
-    mentioned in Unit 1 to help motivate students. What say, ye?
+-   TBD: Online vote or paper?
+•	The Facilitator will need to print the awards on a thick paper stock (good quality). See template provided. This should be signed by the Facilitator, and use a handwriting font for the instructor’s signature (e.g. Ned Vankevich, Ph.D)
