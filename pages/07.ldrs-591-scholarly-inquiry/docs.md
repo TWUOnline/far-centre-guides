@@ -1,7 +1,8 @@
 ---
 title: 'LDRS 591: Scholarly Inquiry'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### LDRS 591: Scholarly Inquiry
