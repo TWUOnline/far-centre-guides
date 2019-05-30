@@ -19,6 +19,7 @@ The following programs and courses will be offered at Jagannath Institute of Man
 
 
 ##### Term 2 (Jan. 2020)
+
 Choose from the following:
 * ENGL 101:  Introduction to Writing
 * ANTH 101: Introduction to Cultural Anthropology
@@ -32,14 +33,17 @@ Choose from the following:
 ### Stella Maris University (Chennai, India)
 The following programs will be offered at SMU, starting September, 2019. Some details to be determined.
 
-Sept. 4th– Oct. 4th 2019
+##### Sept. 4th– Oct. 4th 2019
+
 LDRS 300: Leadership Theory & Practice
 LDRS 302: Historical Concepts and Theories in Leadership
 
-Oct. 7th – Nov. 8th 2019
+##### Oct. 7th – Nov. 8th 2019
+
 LDRS 303: Contemporary and Popular Approaches in Leadership
 LDRS 310: The Learning Organization
 
-Nov. 11th – Dec. 13th 2019
+##### Nov. 11th – Dec. 13th 2019
+
 LDRS 410: Methods & Mediums of Persuasion 
 LDRS 500: Leadership Foundations
