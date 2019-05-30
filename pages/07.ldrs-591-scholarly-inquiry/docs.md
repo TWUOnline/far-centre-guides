@@ -1,8 +1,8 @@
 ---
 title: 'LDRS 591: Scholarly Inquiry'
 taxonomy:
-    category: docs
-    tag: ''
+    category:
+        - docs
 routable: true
 visible: true
 ---
