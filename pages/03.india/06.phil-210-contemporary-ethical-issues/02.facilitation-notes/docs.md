@@ -33,14 +33,23 @@ Note that students will do part of the learning online, and part in the classroo
 Before each class, students are encouraged to view the entire unit that will be discussed that week.  They need to read the textbook chapters, the overviews provided by the instructor, and engage in several learning activities.  Learning activities include questions that we ask students to answer in a Reflective Journal (graded and ungraded), videos that explain topics further, and an ungraded key terms quiz. As you preview the week ahead with your class, point out activities that they must complete before they come to your class (e.g. Reflective journal due Wednesday in order to participate in discussion and submit to instructor on Moodle by Friday.
 
 
-## Class Activities
 
-### Discussions
-Empasize to students that this is a philosophy class.  The point of philosophy is to provide reasons for what you believe, and to be open to the possibility that your beliefs may change when presented with contrary reasons or evidence.  If you are to succeed in this class you must always back up everything you say with reasons that might be acceptable to others.  For example, disagreeing with a particular author simply because you don’t like what he or she is saying is not enough.  Alternatively, agreeing with an article because it confirms what you already believe is also not enough.  You must always seek to give reasons for agreeing or disagreeing with an argument.  Both in class discussions and written assignments, just saying that you like or agree with a certain view will be discouraged.
+## Class Assignments & Learning Activities 
+Note that many classes will be devoted to certain assignments (discussions, ethics committee, presentations).  Below are the assignment details. Please refer to the course in Moodle for specifics.
 
-In the online course, we give several prompts for students to think about.  As you review the unit and plan your week, consider the questions that would inspire an engaging group/class discussion.
+## Graded Assignments
 
-### Presentations
+| **Assessment**               | **Grade**          | **Due Date** |
+|------------------------------|--------------------|--------------------------------------|
+| Reflective Journal           | 30% (5 at 6% each) | Units 1, 4, 7, 8, 9.                                  |
+| Ethics Committee Responses   | 30% (6 \@ 5% each) | Units 2, 3, 4, 5, 6, 10.                            |
+| Ethics Video                 | 10%                | On week 5-9 topics – Due Week 9)                              |
+| Partner Presentation Project | 30%                | Due weeks 5-10 – sign up in class for time                         |
+
+
+For assignment submission, students will submit via the assignment dropboxes in Moodle.
+
+
 ### Assignment: Partner Project Presentation (30%) (Units 5-10)
 
 For this partner project, students will choose a specific ethical issue to address.
@@ -52,6 +61,14 @@ end of the presentation to answer questions and facilitate a class discussion.
 Note that this assignment will be presented during weeks 5-10. **Students must choose a partner and topic by week 4 at the latest** (see week 5-10 topics). The Facilitator should hand out a sign-up sheet when the assignment is introduced (in week 3 or 4).
 
 See assignment details, including the *grading criteria* in the Assessments section of this course.
+
+Below are generic activities for the class.
+
+### Discussions
+Empasize to students that this is a philosophy class.  The point of philosophy is to provide reasons for what you believe, and to be open to the possibility that your beliefs may change when presented with contrary reasons or evidence.  If you are to succeed in this class you must always back up everything you say with reasons that might be acceptable to others.  For example, disagreeing with a particular author simply because you don’t like what he or she is saying is not enough.  Alternatively, agreeing with an article because it confirms what you already believe is also not enough.  You must always seek to give reasons for agreeing or disagreeing with an argument.  Both in class discussions and written assignments, just saying that you like or agree with a certain view will be discouraged.
+
+In the online course, we give several prompts for students to think about.  As you review the unit and plan your week, consider the questions that would inspire an engaging group/class discussion.
+
 
 ### Key Terms Review Activities
 Each unit has a key terms matching activity.  If there is class time (e.g. for an ice-breaker opening activity or the close of a lesson), engage students in some vocabulary activities.  
