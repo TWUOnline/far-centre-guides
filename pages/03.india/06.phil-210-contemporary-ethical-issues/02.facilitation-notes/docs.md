@@ -3,6 +3,7 @@ title: 'Facilitation Notes'
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 ### PHIL 210
@@ -40,7 +41,25 @@ Empasize to students that this is a philosophy class.  The point of philosophy i
 In the online course, we give several prompts for students to think about.  As you review the unit and plan your week, consider the questions that would inspire an engaging group/class discussion.
 
 ### Presentations
-Paul or Kelly to add
+### Assignment: Partner Project Presentation (30%) (Units 5-10)
+
+For this partner project, students will choose a specific ethical issue to address.
+Please note that this is an argumentative project and not simply a discussion
+project. The presentations should be 12-15 minutes in length and have a visual
+element (e.g. PowerPoint). Students will also have an additional 10 minutes at the
+end of the presentation to answer questions and facilitate a class discussion.
+
+Note that this assignment will be presented during weeks 5-10. **Students must choose a partner and topic by week 4 at the latest** (see week 5-10 topics). The Facilitator should hand out a sign-up sheet when the assignment is introduced (in week 3 or 4).
+
+See assignment details, including the *grading criteria* in the Assessments section of this course.
 
 ### Key Terms Review Activities
-Kelly to add.
+Each unit has a key terms matching activity.  If there is class time (e.g. for an ice-breaker opening activity or the close of a lesson), engage students in some vocabulary activities.  
+
+Here are a couple of examples:
+
+- Word Sort: See instructions in [Faculty Focus: A New Way to Help Students Learn Course Vocabulary](https://www.facultyfocus.com/articles/effective-teaching-strategies/a-new-way-to-help-students-learn-course-vocabulary/)
+- Semantic maps, Vocab on the Move, Brain Power Words: See instructions in [21 Ideas for Teaching Vocabulary](http://www.giftedguru.com/21_ideas_for_teaching_vocabulary/)
+- [Vocabulary Building](https://www.saddleback.edu/tutoring/vocabulary-building)
+- Guess Who? Prepare name tag stickers with philosophy perspectives (e.g. nihilist, moral subjectivist, moral objectivist, free will advocate, determinist, and compatibilist, utilitarian, etc.). Put the sticker on students backs and have them mingle, trying to guess from other's desciption what perspective they have.
+- 
