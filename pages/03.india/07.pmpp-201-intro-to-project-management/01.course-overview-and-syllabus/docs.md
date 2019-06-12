@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-### Course Overview for MCOM 281
+### Course Overview for PMPP 201
 
 # Syllabus
 

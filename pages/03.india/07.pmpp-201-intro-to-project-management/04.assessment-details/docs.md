@@ -14,3 +14,5 @@ visible: true
 | Written assignments (12 \@ 6%)                               | 72%      |
 | *FAR Centre Session Participation/Unit Recap Status Reports* | *28%*    |
 | **Total:**                                                   | **100%** |
+
+details to add
