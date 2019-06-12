@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-Facilitators are vital to this course. As flipped education, this course involves both online and in-class components. Facilitators play a key role becasaue they interact with the students and can determine who is and who is not understanding material or having a good experience. Facilatators have latitude to focus on certain activities that they think are important at the moment. For example, the Facilitator might or might not want to have students volunteer to share what they wrote in their journal for a given activity. 
+Facilitators are vital to this course. As flipped education, this course involves both online and in-class components. Facilitators play a key role because they interact with the students and can determine who is and who is not understanding material or having a good experience. Facilitators have latitude to focus on certain activities that they think are important at the moment. For example, the Facilitator might or might not want to have students volunteer to share what they wrote in their journal for a given activity.
 
 The following are specific notes from the instructor about the units.  Be sure to go to the Moodle site and review each unit in detail.  You may want to ask students to complete certain activities before each class so they are prepared to participate.
 
@@ -147,14 +147,14 @@ partner why you think public speaking is important.
 
 -   Refer to the award list and ask students to make a note in their journals
     after each speech of this unit as to who should be nominated for an award.
-    
+
 
 ### Unit 8
 
 -   Confirm the time limit for the speech (e.g. 6-7 minutes, depending on number
     of students and term schedule)
 
--   This can be important activity to cover in class: Activity 8.1: Comparing and Contrasting Demonstration and Informative Speeches 
+-   This can be important activity to cover in class: Activity 8.1: Comparing and Contrasting Demonstration and Informative Speeches
 
 * Reflect on what you learned from your demonstration speech (the good and the
 bad) and how that experience can help you create and deliver a strong
