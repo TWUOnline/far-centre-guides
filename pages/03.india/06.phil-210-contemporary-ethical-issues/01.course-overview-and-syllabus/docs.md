@@ -3,6 +3,7 @@ title: 'Course Overview & Syllabus'
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 ### Course Overview
@@ -12,7 +13,17 @@ taxonomy:
 The following information is from the course syllabus, also located in Moodle.  Note that you will need to modify the schedule based on your term.  Please also discuss with the Faculty if there are any other changes to the syllabus.
 
 ## Course Description
-In this course, learners will be introduced to the foundational moral frameworks of western civilization and will bring these frameworks to bear on some of the most important ethical issues arising in contemporary society, such as free speech, medical assistance in dying, and world hunger.  You will examine the nature of moral dilemmas, clarifying the issues, exploring various views and arguments, and exposing important underlying assumptions.
+An examination of some basic ethical theory and a critical focus on some current
+moral issues like consumerism, technoculture, environmental ethics,
+responsibility to distant peoples, genetic engineering and cloning, and the
+promise and peril of nanotechnology. The emphasis is on clarifying the issues,
+exploring various views on these and relevant supporting arguments, and exposing
+important underlying assumptions.
+
+*Note that topics listed in the course description above may differ from those
+in this course. See the Course Schedule below for specific topics to this
+offering of PHIL 210.*
+
 
 ## Learning Outcomes
 After successfully completing the course, you will be able to:
@@ -85,8 +96,6 @@ https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi
 
 http://bit.ly/1p00KX3  (Google Slide presentation offering more comprehensive information)
 
-### Campus Closure and Class Cancellation Policy
-In the event of extreme weather conditions or other emergency situations go to *add details.
 
 ### University Standard Grading System
 The Standard Grading System can be found at the University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices     University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices.
