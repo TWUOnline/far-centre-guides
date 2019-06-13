@@ -21,9 +21,7 @@ promise and peril of nanotechnology. The emphasis is on clarifying the issues,
 exploring various views on these and relevant supporting arguments, and exposing
 important underlying assumptions.
 
-!! *Note that topics listed in the course description above may differ from those
-in this course. See the Course Schedule below for specific topics to this
-offering of PHIL 210.*
+!! *Note that topics listed in the course description above may differ from those in this course. See the Course Schedule below for specific topics to this offering of PHIL 210.*
 
 Read the full course syllabus [here](PHIL210-Syllabus_Fall-2019.pdf).
 
@@ -56,7 +54,7 @@ Intro Text: Wolff, Jonathan.  _An Introduction to Moral Philosophy_.  New York: 
 
 
 ## Course Schedule
-Note that Facilitator may change the schedule, depending on the campus term dates.
+!! Note that Facilitator may change the schedule, depending on the campus term dates.
 
 | **Unit topics**                               | **Reading List**                                | **Assessment**                                                                                                                           |
 |-----------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
@@ -73,8 +71,6 @@ Note that Facilitator may change the schedule, depending on the campus term date
 
 
 ## Course Policies:
-### Technology in the Classroom:     
-add details
                                                                                                         
 ### Inclusive Classroom:
 TWU is committed to an ethic of inclusion centred on the principles of hospitality, reciprocity and reconciliation. We seek to produce generous learning spaces that are based on respect for difference and are open to diverse views, opinions, and identities. We welcome and value all voices, including those that have been silenced on account of race, religious beliefs, colour, gender, physical or mental variations, age, ancestry, place of origin, marital status, family status, sex, and sexual orientation, or on any other grounds identified in applicable human rights law.
