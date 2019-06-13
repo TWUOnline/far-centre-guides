@@ -29,9 +29,8 @@ Note that students will do part of the learning online, and part in the classroo
 Before each class, students are encouraged to view the entire unit that will be discussed that week.  They need to read the textbook chapters, the overviews provided by the instructor, and engage in several learning activities.  Learning activities include questions that we ask students to answer in a Reflective Journal (graded and ungraded), videos that explain topics further, and an ungraded key terms quiz. As you preview the week ahead with your class, point out activities that they must complete before they come to your class (e.g. Reflective journal due Wednesday in order to participate in discussion and submit to instructor on Moodle by Friday.
 
 
-
 ## Class Assignments & Learning Activities 
-Note that many classes will be devoted to certain assignments (discussions, ethics committee, presentations).  Below are the assignment details. Please refer to the course in Moodle for specifics.
+Note that many classes will be devoted to certain assignments (discussions, ethics committee, presentations).  On the next page are the assignment details. Please refer to the course in Moodle for specifics.
 
 ## Graded Assignments
 
