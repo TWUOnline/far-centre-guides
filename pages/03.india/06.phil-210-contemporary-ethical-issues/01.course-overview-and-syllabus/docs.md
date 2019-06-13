@@ -1,5 +1,6 @@
 ---
 title: 'Course Overview & Syllabus'
+media_order: PHIL210-Syllabus_Fall-2019.pdf
 taxonomy:
     category:
         - docs
@@ -20,9 +21,11 @@ promise and peril of nanotechnology. The emphasis is on clarifying the issues,
 exploring various views on these and relevant supporting arguments, and exposing
 important underlying assumptions.
 
-*Note that topics listed in the course description above may differ from those
+!! *Note that topics listed in the course description above may differ from those
 in this course. See the Course Schedule below for specific topics to this
 offering of PHIL 210.*
+
+Read the full course syllabus [here](PHIL210-Syllabus_Fall-2019.pdf).
 
 
 ## Learning Outcomes
