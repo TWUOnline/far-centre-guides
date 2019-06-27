@@ -12,7 +12,7 @@ child_type: docs
 
 ### Individual Embeds
 
-<p><iframe scrolling="no" style="border: 0px #ffffff none;" src="https://web.microsoftstream.com/video/93cb942a-253c-4865-8b8d-e7c483ecacfb" allowfullscreen="allowfullscreen" width="100%" height="500"></iframe></p>  
+<p><iframe scrolling="no" style="border: 0px #ffffff none;" src="https://web.microsoftstream.com/embed/video/93cb942a-253c-4865-8b8d-e7c483ecacfb" allowfullscreen="allowfullscreen" width="100%" height="500"></iframe></p>  
 
 <p><iframe scrolling="no" style="border: 0px #ffffff none;" src="https://web.microsoftstream.com/video/d09b6e6d-a05a-4879-92b7-928f09d89eea" allowfullscreen="allowfullscreen" width="100%" height="500"></iframe></p>  
 
