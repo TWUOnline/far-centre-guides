@@ -1,5 +1,5 @@
 ---
-title: 'Facilitation Notes for PHIL 210'
+title: 'Facilitation Notes for WRTG 101 '
 taxonomy:
     category:
         - docs
@@ -11,9 +11,63 @@ In this section, we will outline a couple of key ideas to consider as you facili
 ## Class Schedule
 Note that students will do part of the learning online, and part in the classroom.  This is a flipped classroom model where students engage with the content at home by reading the textbook, reading and viewing the course materials on Moodle as designed by the instructor, and preparing activities and assignments for the next class.  In class, they will engage in group discussions, assignments, and other activities in order to help them further engage with the course material.  
 
-| **Unit topics**                                           | **Activities / Assessment**                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Week 1:** <br>Unit 1: The Nature of Moral Inquiry           | **Discussion**: Students bring their **Reflective Journal** draft, share with partner/group, and add to journal before submitting to instructor. <br>**Key Terms Study:** Use various techniques to engage students with key concepts from the unit. See activities for more details.                                                                                                                                                                       |
+## Module 1: Introduction to Academic Writing
+
+| **Schedule for Module 1** | **Individual Homework BEFORE the class** | **In-Class Activity**                                          |                                                       |
+|---------------------------|------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------|
+| **Week 1-1**              | **READ**                                 | Course syllabus Overview                                       | Complete/Submit Student Survey form                   |
+| **Week 1-2**              | **READ**                                 | Academic Writing basics                                        | Class Activity 1.1 [APA Template]                     |
+|                           | **DO**                                   | Individual Activity 1.1 [Topic 1- Reading check]               |                                                       |
+| **Week 2-1**              | **READ**                                 | APA Documentation                                              | Class Activity 1.2 [Paraphrasing & APA documentation] |
+|                           | **DO**                                   | Individual Activity 1.2 [Topic 2- APA Format Check]            |                                                       |
+| **Week 2-2**              | **READ**                                 | 3. APA Documentation                                           | Class Activity 1.3 [References]                       |
+|                           | **DO**                                   | Individual Activity 1.3 [Topic 3- Understanding of Plagiarism] |                                                       |
+| **Week 3-1**              | **DO**                                   | Revise your individual APA template.                           | **APA quiz (5%)**                                     |
+
+1.  General APA Format
+
+-   Microsoft Word
+
+-   How to create APA Template (Microsoft Word ONLY)
+
+[Appendix]: APA Template Setup Checklist
+
+-   The Significance of Crediting Sources
+
+-   Paraphrasing
+
+-   In-text Citation (The Basics)
+
+-   Reference Guide
+
+-   Cross-referencing
+
+1.  Academic Tone
+
+`` Table needs formatting
+
+ 
+### Week 1 Facilitator Notes
+**The First Day of the class (Week 1-1)**
+
+* Print out the Course Syllabus and the Student Survey form given on our course site. Give them to our students on the first day of the class.
+* Give students 15-20 minutes to read the course syllabus and help them understand it if necessary.
+* Then, give students about 30 minutes to complete the student survey form and submit it to you by the end of the class.
+* Scan the forms and save them in one file as PDF, and send it to the professor by email.
+* Introduce [how to get into Moodle](https://www.twu.ca/students/current-students) and show them how to navigate their dashboard in Moodle. Also, if you have remaining time,
+  introduce [the Writing center support online (i.e. Writeaway)](https://www.twu.ca/student-life/student-success/writing-centre). If you don’t have enough time, please introduce it next class.
+
+* Attendance (and participation) can be recorded in this file. This file can be shared via Google.doc if preferred by both the instructor and facilitator. Please communicate with the professor. This attendance record should be reported to the professor by the last day of the semester.
+
+#### (About participation, check Class Activity 1.2 section. Its details are given there.)
+**[IMPORTANT Announcement to students]**:
+
+* The facilitator will take attendance throughout this semester, so don’t miss the class. Your class attendance will be counted for the final grade of this course. Also, if you miss the class over 25%, you are NOT allowed to take a final exam (50%). Check the course syllabus for more details.
+* All individual activities which are formative learning activities will be graded. Whenever you finish one individual activity, you will receive “a full mark”, 5 points because your professor value the process of your
+spontaneous study. Please diligently work on these individual
+activities.
+
+                                                                                                                              |
 | **Week 2:** <br>Unit 2: Foundational Moral Concepts           | **Ethics Committee Meeting**: Students discuss case and collaborate on response to submit. <br>**Key Terms Study**                                                                                                                                                                                                                              |
 | **Week 3:** <br>Unit 3: Why Be Moral?                         | **Ethics Committee Meeting**: Students discuss case and collaborate on response to submit. <br>**Key Terms Study**                                                                                                                                                                                                                                                               |
 | **Week 4:** <br>Unit 4: How to Determine What is Moral Topics | **Ethics Committee Meeting**: Students discuss case and collaborate on response to submit. <br>**Discussion**: Students bring their **Reflective Journal** draft, share with partner/group, and add to journal before submitting to instructor. <br>**Partner Project Presentation**: Introduce assignment (30%) *(Due weeks 5-10 – sign up in class for time)* <br>**Key Terms Study**  |
