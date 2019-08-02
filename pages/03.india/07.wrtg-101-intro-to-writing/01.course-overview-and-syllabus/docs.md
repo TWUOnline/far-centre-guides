@@ -85,28 +85,16 @@ All course materials will be provided in Moodle.
 
 
 ## Course Schedule
-                      |
+
+## Course Schedule
+The following provides an overview of topics covered, assessments, and the weekly schedule. Please check with your facilitator for specific dates.
+
+| **Week**                               | **Module Topics**                                       | **Assessment**                    |
+|----------------------------------------|---------------------------------------------------------|-----------------------------------|
+| **Weeks 1-3** (2.5 weeks to complete)  | **Module 1 – Introduction to Academic Writing** <ul><li>1. Academic Writing basics</li><li>2. General APA Format</li><li>3. APA Documentation</li><li>4. Academic Tone</li></ul> | **APA Quiz 1: 5%**  <ul><li>Part 1: True & False (20 marks)</li><li>Part 2: Multiple Choice- A, B, C, D style (20 marks)</li><li>Part 3: APA Writing Task (60 marks)</li></ul>              |
+| **Weeks 3-5** (2.5 weeks to complete)  | **Module 2 – Personal Response Essay**    <ul><li>1. What is Personal Response?</li><li>2. Evidence</li><li>3. Four Types of Personal Response</li><li>4. Thinking Stage</li><li>5. Writing Stage</li></ul>              | **Personal Response Essay (15%)**<ul><li>Step 1: Worksheet (2%)</li><li>Step 2: In-class Essay (5%)</li><li>Step 3: Final Essay submission (8%)</li></ul> |
+| **Weeks 6-8** (2.5 weeks to complete)  | **Module 3 – Integration Essay**  <ul><li>1.  What is Integration?</li><li>2.  Thinking Stage</li><li>3. Writing Stage</li></ul>                      | **Integration Essay (23%)**<ul><li>Step 1: Worksheet (2%)</li><li>Step 2: In-class Essay (8%)</li><li>Step 3: Final Essay submission (13%)</li></ul> |
+| **Weeks 8-10** (2.5 weeks to complete) | **Module 4 – Definition Essay** <ul><li>1. What is Definition?</li><li>2. Thinking Stage</li><li>3. Writing Stage</li><li>4. Academic Tone</li></ul>                     | **Definition Essay (17%)**<ul><li>Step 1: Group Worksheet (2%)</li><li>Step 2: In-class Essay (5%)</li><li>Step 3: Final Essay submission (10%)</li></ul> ||
 
 
-## Course Policies:
-
-
-### GRADING GUIDELINES
-
-
-
-
-### Academic Integrity and Avoiding Plagiarism at TWU
-One of the core values of Trinity Western University is the integration of academic excellence with high standards of personal, moral, and spiritual integrity. The University considers it a serious offence when an individual attempts to gain unearned academic credit. It is the student’s responsibility to be informed about what constitutes academic dishonesty. For details on this, and on identifying and avoiding plagiarism go to the University Homepage > Academics > Academic Calendar > Academic Information > Academic Policies > Academic Dishonesty and Plagiarism.
-
-https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi presentation)
-
-http://bit.ly/1p00KX3  (Google Slide presentation offering more comprehensive information)
-
-
-### University Standard Grading System
-The Standard Grading System can be found at the University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices     University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices.
-
-
-### Students with a Disability
-Students with a disability who need assistance are encouraged to contact the Equity of Access Office upon admission to TWU to discuss their specific needs. All disabilities must be recently documented by an appropriately certified professional and include the educational impact of the disability along with recommended accommodations. Within the first two weeks of the semester, students must meet with their professors to agree on accommodations appropriate to each class. Students should follow the steps detailed by the Equity of Access Office outlined in the Student Life section of the University Calendar.
+For more syllabus details, including course policies and grading guidelines, see the full syllabus.
