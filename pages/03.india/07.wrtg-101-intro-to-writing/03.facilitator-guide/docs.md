@@ -15,7 +15,10 @@ notes on Moodle.
 # Module 1: Introduction to Academic Writing
 
 
+!! ## Activity Checklist
+
 !! See the schedule for Module 1 [here](Schedule-for-Module-1.pdf)
+!! Also refer to this [checklist](Module-1-Activity-Checklist.pdf) of learning activities and assessments
 
 
 **\[NOTEs to the facilitator\]: The First Day of the class (Week 1-1)**
@@ -65,10 +68,7 @@ notes on Moodle.
 
 
 
-!! ## Activity Checklist
 
-!! Here is a [checklist](Module-1-Activity-Checklist.pdf) of learning activities you will benefit from in
-!! completing this module. You may find it useful for planning your work.
 
 
 ## Topic 1: Academic Writing Basics
