@@ -14,7 +14,9 @@ notes on Moodle.
 
 # Module 1: Introduction to Academic Writing
 
-See the schedule for Module 1 [here](Schedule-for-Module-1.pdf)
+
+!! See the schedule for Module 1 [here](Schedule-for-Module-1.pdf)
+
 
 **\[NOTEs to the facilitator\]: The First Day of the class (Week 1-1)**
 
@@ -63,123 +65,11 @@ See the schedule for Module 1 [here](Schedule-for-Module-1.pdf)
 
 
 
-## Activity Checklist
+!! ## Activity Checklist
 
-Here is a checklist of learning activities you will benefit from in
-completing this module. You may find it useful for planning your work.
+!! Here is a [checklist](Module-1-Activity-Checklist.pdf) of learning activities you will benefit from in
+!! completing this module. You may find it useful for planning your work.
 
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th><strong>Individual Activities</strong></th>
-<th><strong>Expected Time Commitment</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><ul>
-<li><p>Individual Activity 1.1 [Topic 1- Reading check]- True/False: <strong>Check your understanding of academic writing basics.</strong> This individual activity consists of 10 true or false questions. Read each statement and decide if your answer is true or false. You can review this activity as many as you like.</p></li>
-</ul></td>
-<td>10-15 minutes</td>
-</tr>
-<tr class="even">
-<td></td>
-<td><ul>
-<li><p>Individual Activity 1.2 [Topic 2- APA Format Check] –Image Hotspot:</p>
-<p><strong>Check your understanding of the APA Format</strong>. This individual activity consists of 6 APA Formatting errors on the title page. Click the 6 Hotspots to review the common errors that you may have in your APA template.</p></li>
-</ul></td>
-<td>5 minutes</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><ul>
-<li><p>Individual Activity 1.3 [Topic 3- Understanding of Plagiarism] –True/False:</p>
-<p><strong>Check Your Understanding of Plagiarism.</strong> This activity consists of 15 True/False questions. Read each statement and decide if this is true or false.</p></li>
-</ul></td>
-<td>15-20 minutes</td>
-</tr>
-<tr class="even">
-<td></td>
-<td><ul>
-<li><p>Individual Activity 1.4 [Topic 3- Paraphrasing] –Practice (Optional)</p>
-<p><strong>Check Your Understanding of Paraphrasing.</strong> Choose from the following websites to practice. Note that this activity is ungraded but is designed to help you in your assignments for this course.</p></li>
-</ul></td>
-<td>20-40 minutes</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><ul>
-<li><p>Individual Activity 1.5 [Topic 3- In-text Citation] –Practice (Optional)</p>
-<p><strong>Check Your Understanding of In-text Citation.</strong> Note that this activity is ungraded but is designed to help you in your assignments for this course. (Number 9 and 10 in the quiz below are not addressed in Topic 3, but you will learn about them in ENGL 101.)</p></li>
-</ul></td>
-<td>15-20 minutes</td>
-</tr>
-<tr class="even">
-<td></td>
-<td><ul>
-<li><p>Individual Activity 1.6 [Topic 3- Cross-Referencing] –Fill in the Blanks (Optional)</p></li>
-<li><p><strong>Check Your Understanding of Cross-Referencing.</strong> After you read the paragraph and check the references below, fill in the blank for suitable in-text citations. Note that this activity is ungraded but is designed to help you in your assignments for this course.</p></li>
-</ul></td>
-<td>3-5 minutes</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><ul>
-<li><p>Individual Activity 1.7 [Topic 4- Academic Tone] – “Flashcards” Practice (Optional)</p>
-<p><strong>Check Your Understanding of Academic Tone.</strong> The FIVE sentences are written informally. Based on the lesson in Topic 4, guess the possible answers written “formally”. Note that this activity is ungraded but is designed to help you in your assignments for this course.</p></li>
-</ul></td>
-<td>7-10 minutes</td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Class Activities</strong></td>
-<td><strong>Expected Time Commitment</strong></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><ul>
-<li><p>Class Activity 1.1 [APA Template]- (Individual work):</p>
-<p><strong>Create an individual APA template (Microsoft document only)</strong> based on the instructions in Topic 2, and submit it to the designated Dropbox given on our course site by the end of your class time. Submissions out of the class time will not be accepted.</p></li>
-</ul></td>
-<td>60 ~75 minutes</td>
-</tr>
-<tr class="even">
-<td></td>
-<td><ul>
-<li><p>Class Activity 1.2 [Paraphrasing &amp; APA documentation]- (Group work: 3~4 students per group):</p>
-<p><strong>There are 4 paragraphs about Terry Fox as a Canadian symbol on the Canada’s History web page.</strong> With your group partners, paraphrase the first 3 paragraphs fully in your own words and indicate proper citations. Post your group work to the Forum page given on our course site by the end of the class. Your professor will give you brief written feedback online with a participation mark.</p></li>
-</ul></td>
-<td>60 ~75 minutes</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><ul>
-<li><p><strong>Class Activity 1.3 [References]:</strong> (Group work: 5 students per group)</p>
-<p><strong>FIVE different sources are given on this forum page.</strong> With your group partners, make a references list in alphabetical order on a Microsoft Word document. Post your group work to the Forum page by the end of the class. Your professor will give you brief written feedback online with a participation mark.</p></li>
-</ul></td>
-<td>60 ~75 minutes</td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Unit test</strong></td>
-<td><strong>Expected Time Commitment</strong></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><ul>
-<li><p><strong>APA quiz (5%)</strong></p></li>
-</ul>
-<ol type="a">
-<li><p>Part 1: True/False (20 marks)</p></li>
-<li><p>Part 2: Multiple choices (20 marks)</p></li>
-<li><p>Part 3: APA writing task (60 marks).</p></li>
-</ol></td>
-<td><strong>1.5 hours</strong></td>
-</tr>
-</tbody>
-</table>
 
 ## Topic 1: Academic Writing Basics
 
