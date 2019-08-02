@@ -1,5 +1,0 @@
----
-taxonomy:
-    category: docs
-    tag: ''
----
