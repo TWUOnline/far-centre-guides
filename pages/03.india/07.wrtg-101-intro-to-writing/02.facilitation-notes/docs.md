@@ -44,9 +44,9 @@ Note that students will do part of the learning online, and part in the classroo
 
 1.  Academic Tone
 
-`` Table needs formatting
+`Table needs formatting
 
- 
+
 ### Week 1 Facilitator Notes
 **The First Day of the class (Week 1-1)**
 
