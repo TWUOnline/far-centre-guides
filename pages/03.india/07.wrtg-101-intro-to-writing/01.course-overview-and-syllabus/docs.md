@@ -32,12 +32,57 @@ After successfully completing the course, you will be able to:
 
 
 
-## Student Evaluation
 
-
+### Course Evaluation
+| **Essays (55%)**                 |          |
+|----------------------------------|----------|
+| Personal Response Essay          | 8%       |
+| PR In-Class Writing              | 5%       |
+| Worksheet                        | 2%       |
+| Integration Essay                | 13%      |
+| SS In-Class Writing              | 8%       |
+| Worksheet                        | 2%       |
+| Definition Essay                 | 10%      |
+| DE In-Class Writing              | 5%       |
+| Worksheet                        | 2%       |
+| **Participation/Homework (10%)** |          |
+| Homework/In-class Participation  | 10%    |
+| **Quizzes & Exams (35%)**        |          |
+| APA quiz with one writing task   | 5%       |
+| Final Exam                       | 30%      |
+| **Total**                        | **100%** |
  
-## Course Texts:
 
+**Course Activities/Requirements:**
+
+1.  Communicate regularly with the instructor. Email questions and visit during
+    office hours.
+
+2.  Attend all class sessions and be prepared for discussion and in-class
+    writing.
+
+3.  Download and complete the course pack and all readings as assigned.
+
+4.  Keep up with assigned online postings on Moodle.
+
+5.  Essay worksheets (i.e. outlines) will need to be completed, and ‘drafts’ of
+    essays should be uploaded to the designated dropboxes in Moodle.
+
+6.  Four major assignments/essays varying in length from 2-4 pages are required.
+    The total minimum amount of writing required for this course is
+    approximately 14 pages.
+
+7.  Quizzes and in-class writing assignments will occur throughout the semester.
+    The in-class writing component of each unit will be required to be completed
+    in order to earn a grade for the writing unit.
+
+8.  A final exam will be required. The final exam will focus on all the course
+    materials used in the course pack as well as information from the lectures,
+    readings, and classroom discussions.
+
+
+## Course Texts:
+All course materials will be provided in Moodle.  
 
 
 ## Course Schedule
