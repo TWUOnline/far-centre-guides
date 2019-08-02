@@ -14,89 +14,7 @@ notes on Moodle.
 
 # Module 1: Introduction to Academic Writing
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>Schedule for Module 1</strong></th>
-<th><strong>Individual Homework BEFORE the class</strong></th>
-<th><strong>In-Class Activity</strong></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Week 1-1</strong></td>
-<td><strong>READ</strong></td>
-<td><p>Course syllabus</p>
-<p>Overview</p></td>
-<td>Complete/Submit Student Survey form</td>
-</tr>
-<tr class="even">
-<td><strong>Week 1-2</strong></td>
-<td><strong>READ</strong></td>
-<td><ol type="1">
-<li><p>Academic Writing basics</p></li>
-<li><p>General APA Format</p></li>
-</ol>
-<ul>
-<li><p>Microsoft Word</p></li>
-<li><p>How to create APA Template (Microsoft Word ONLY)</p></li>
-</ul>
-<p>[Appendix]: APA Template Setup Checklist</p></td>
-<td>Class Activity 1.1 [APA Template]</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><strong>DO</strong></td>
-<td>Individual Activity 1.1 [Topic 1- Reading check]</td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Week 2-1</strong></td>
-<td><strong>READ</strong></td>
-<td><ol start="3" type="1">
-<li><p>APA Documentation</p></li>
-</ol>
-<ul>
-<li><p>The Significance of Crediting Sources</p></li>
-<li><p>Paraphrasing</p></li>
-<li><p>In-text Citation (The Basics)</p></li>
-</ul></td>
-<td>Class Activity 1.2 [Paraphrasing &amp; APA documentation]</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><strong>DO</strong></td>
-<td>Individual Activity 1.2 [Topic 2- APA Format Check]</td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Week 2-2</strong></td>
-<td><strong>READ</strong></td>
-<td><p>3. APA Documentation</p>
-<ul>
-<li><p>Reference Guide</p></li>
-<li><p>Cross-referencing</p></li>
-</ul>
-<ol start="4" type="1">
-<li><p>Academic Tone</p></li>
-</ol></td>
-<td>Class Activity 1.3 [References]</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><strong>DO</strong></td>
-<td>Individual Activity 1.3 [Topic 3- Understanding of Plagiarism]</td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Week 3-1</strong></td>
-<td><strong>DO</strong></td>
-<td>Revise your individual APA template.</td>
-<td><strong>APA quiz (5%)</strong></td>
-</tr>
-</tbody>
-</table>
+See the schedule for Module 1 [here](Schedule-for-Module-1.pdf)
 
 **\[NOTEs to the facilitator\]: The First Day of the class (Week 1-1)**
 
@@ -143,20 +61,7 @@ notes on Moodle.
         professor value the process of your spontaneous study. Please
         diligently work on these individual activities.
 
-## Learning Outcomes
 
-When you have completed this module, you should be able to:
-
-  - organize APA format and documentation by using Microsoft Word.
-
-  - apply how to paraphrase evidence with your own words systematically
-    in order to avoid plagiarism: APA documentation.
-
-  - use in-text citations and create a references list.
-
-  - cross-reference sources.
-
-  - distinguish formal tone from the informal tone.
 
 ## Activity Checklist
 
