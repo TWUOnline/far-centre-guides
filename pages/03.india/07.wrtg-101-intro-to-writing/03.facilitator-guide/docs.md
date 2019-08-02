@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-# WRTG 101 Facilitator’s Guide
+# Lesson Notes for WRTG 101
 
 The following provides key information for the WRTG 101 modules
 (schedules, activity instructions, etc.). Please see the full course
