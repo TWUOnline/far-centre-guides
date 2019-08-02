@@ -15,13 +15,14 @@ notes on Moodle.
 # Module 1: Introduction to Academic Writing
 
 
-!! ## Activity Checklist
+## Activity Checklist
 
 !! See the schedule for Module 1 [here](Schedule-for-Module-1.pdf)
 !! Also refer to this [checklist](Module-1-Activity-Checklist.pdf) of learning activities and assessments
 
 
-**\[NOTEs to the facilitator\]: The First Day of the class (Week 1-1)**
+## Week 1
+**The First Day of the class (Week 1-1)**
 
   - Print out the Course Syllabus and the Student Survey form given on
     our course site. Give them to our students on the first day of the
@@ -65,8 +66,6 @@ notes on Moodle.
         activity, you will receive “a full mark”, 5 points because your
         professor value the process of your spontaneous study. Please
         diligently work on these individual activities.
-
-
 
 
 
@@ -227,8 +226,7 @@ page link for students when they need to do this activity in the class.
 4.  They should directly upload their Word file as a group to the Forum
     page by the end of the class.
 
-> *<span class="underline">How to post their work to the Forum
-> page?</span>*
+*How to post their work to the Forum page?
 
 1.  Click “Add a new discussion topic”.
 
@@ -237,8 +235,6 @@ page link for students when they need to do this activity in the class.
 3.  Upload their file to the “Attachment” section.
 
 4.  Click “Post to forum”.
-
-<!-- end list -->
 
 5.  Please take attendance. This will be counted for a participation
     mark.
