@@ -1,8 +1,8 @@
 ---
 title: 'Module 1 Lesson Notes'
 taxonomy:
-    category: docs
-    tag: ''
+    category:
+        - docs
 ---
 
 # Module 1: Introduction to Academic Writing
