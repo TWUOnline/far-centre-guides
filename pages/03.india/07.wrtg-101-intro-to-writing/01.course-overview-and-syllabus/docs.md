@@ -55,15 +55,14 @@ After successfully completing the course, you will be able to:
 
 **Course Activities/Requirements:**
 
-1.  Communicate regularly with the instructor. Email questions and visit during
-    office hours.
+1.  Communicate regularly with the instructor and facilitator. Email questions and visit during
+    office hours. Check with facilitator for detail.
 
-2.  Attend all class sessions and be prepared for discussion and in-class
-    writing.
+2.  Attend all Facilitated Learning Lab sessions and be prepared for discussion and writing assignments.
 
-3.  Download and complete the course pack and all readings as assigned.
+3.  Complete all readings as assigned (e.g. Units in Moodle).  See schedule for details.
 
-4.  Keep up with assigned online postings on Moodle.
+4.  Keep up with assignments.
 
 5.  Essay worksheets (i.e. outlines) will need to be completed, and ‘drafts’ of
     essays should be uploaded to the designated dropboxes in Moodle.
@@ -72,7 +71,7 @@ After successfully completing the course, you will be able to:
     The total minimum amount of writing required for this course is
     approximately 14 pages.
 
-7.  Quizzes and in-class writing assignments will occur throughout the semester.
+7.  Quizzes and writing assignments will occur throughout the semester and will be completed in the Facilitated Learning Lab.
     The in-class writing component of each unit will be required to be completed
     in order to earn a grade for the writing unit.
 
