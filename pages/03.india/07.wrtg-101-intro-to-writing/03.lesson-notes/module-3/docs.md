@@ -1,10 +1,10 @@
 ---
-title: 'Module 3 Notes'
+title: 'Module 3 Lesson Notes'
 taxonomy:
     category:
         - docs
+visible: true
 ---
-
 
 # Module 3: Integration Essay
 
