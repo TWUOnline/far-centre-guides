@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 child_type: docs
 ---
-
+[embedly url="https://web.microsoftstream.com/embed/channel/abad9d5b-c522-4f41-830f-76d46d9c6620?sort=trending"]
 
 <p><iframe scrolling="no" style="border: 0px #ffffff none;" src="https://web.microsoftstream.com/embed/channel/abad9d5b-c522-4f41-830f-76d46d9c6620?sort=trending" allowfullscreen="allowfullscreen" width="100%" height="500"></iframe></p>
 
