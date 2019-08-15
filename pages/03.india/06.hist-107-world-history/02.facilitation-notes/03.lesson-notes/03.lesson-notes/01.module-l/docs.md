@@ -8,7 +8,7 @@ taxonomy:
 ## Unit 1: Beginnings in History, to 600 BCE
 
 
-**Unit 1 Topic 1*
+**Unit 1 Topic 1**
 
 
 **Notes for Facilitator:**
@@ -43,7 +43,6 @@ Note to facilitator: The key reference to guide this discussion is Ch. 1 of the 
 You are gatherers and hunters, thinking that there has to be an easier way of getting food than wandering around looking for plants. There’s a great bulbous tuber that you like to eat; how would you go about making it grow where you want it, when you want it?
 
 **Unit 1 Topic 2**
-==================
 
 **Notes for Facilitator:**
 
@@ -75,4 +74,5 @@ You and your family have just migrated from an agricultural, nomadic, or chiefdo
 Most students are unimaginative when it comes to studying, often resorting to rote memorization. For this classroom activity, we suggest that you map out, with the class, two possible ways to study by association rather than by rote: the timeline and the thematic outline. We will return to this as a form of review in the Learning Lab for Unit 4, but it is helpful to introduce these concepts now, even though the students will not be equipped to participate fully at this point.
 
 • For the timeline, you will need a large chalkboard or equivalent. Draw four very long horizontal lines, labeling them “Asia,” “Europe,” “Africa,” and “The Americas.” Mark off centuries with short vertical lines. Then ask the class to suggest items to add to the list. Encourage students to participate—for example, by asking other students to provide the time when a particular student has named an event. Ask leading questions to fill in gaps, with an eye toward cultural and religious events as well as political ones. At this point students will most likely simply focus on the early societies covered in this text.
+
 • Explain to students the basic concept of memory by association, such as when they make an outline of points relating to a major theme and then study the points as a whole. Then, with the class, make a list of the course’s  major themes to date. Offer suggestions for the sorts of points that might be included under each theme. Finally, choose a single theme and sketch out a more detailed outline, soliciting as much input as possible from the students.
