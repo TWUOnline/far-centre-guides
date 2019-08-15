@@ -1,5 +1,5 @@
 ---
-title: 'Module 1 Lesson Notes'
+title: 'Unit 1 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -8,7 +8,7 @@ taxonomy:
 ###Unit 1: Beginnings in History, to 600 BCE
 
 
-####Unit 1 Topic 1
+####Unit 1: Topic 1
 
 
 **Notes for Facilitator:**
@@ -42,7 +42,7 @@ Note to facilitator: The key reference to guide this discussion is Ch. 1 of the 
 
 You are gatherers and hunters, thinking that there has to be an easier way of getting food than wandering around looking for plants. There’s a great bulbous tuber that you like to eat; how would you go about making it grow where you want it, when you want it?
 
-####Unit 1 Topic 2
+####Unit 1: Topic 2
 
 **Notes for Facilitator:**
 
