@@ -5,11 +5,11 @@ taxonomy:
         - docs
 ---
 
-# Unit 1: Beginnings in History, to 600 BCE
+## Unit 1: Beginnings in History, to 600 BCE
 
 
 **Unit 1 Topic 1**
-==================
+
 
 **Notes for Facilitator:**
 
