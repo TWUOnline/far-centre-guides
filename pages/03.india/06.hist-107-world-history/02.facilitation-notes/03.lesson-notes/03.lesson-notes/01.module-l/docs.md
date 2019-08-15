@@ -8,7 +8,7 @@ taxonomy:
 ## Unit 1: Beginnings in History, to 600 BCE
 
 
-**Unit 1 Topic 1**
+**Unit 1 Topic 1*
 
 
 **Notes for Facilitator:**
@@ -57,26 +57,22 @@ Divide the class into small groups. Have them discuss questions that they respon
 
 Using a physical map of the world, ask students to identify the location of the main civilizations discussed in this chapter. Then encourage the students to make lists of
 
->   • physical conditions (mountains, oceans, deserts, and so on) that would simplify or hinder contact with other regions
+• physical conditions (mountains, oceans, deserts, and so on) that would simplify or hinder contact with other regions
 
->   • similarities (longitude, river valleys, etc.) and differences (relative size, etc.) between the geographic settings of the First Civilizations
+• similarities (longitude, river valleys, etc.) and differences (relative size, etc.) between the geographic settings of the First Civilizations
 
 **Role-playing exercise (small group).**
 
 You and your family have just migrated from an agricultural, nomadic, or chiefdom society to one of the newly established cities of Sumer.
 
->   • How would your life change?
-
->   • What would stay the same?
-
->   • How would your gender impact your experience?
-
->   • Would your experience be different if you had migrated to Egypt? The Indus Valley? China?
+• How would your life change?
+• What would stay the same?
+• How would your gender impact your experience?
+• Would your experience be different if you had migrated to Egypt? The Indus Valley? China?
 
 **Study skills exercise (large or small group). “A roadmap of world history.”**
 
 Most students are unimaginative when it comes to studying, often resorting to rote memorization. For this classroom activity, we suggest that you map out, with the class, two possible ways to study by association rather than by rote: the timeline and the thematic outline. We will return to this as a form of review in the Learning Lab for Unit 4, but it is helpful to introduce these concepts now, even though the students will not be equipped to participate fully at this point.
 
->   • For the timeline, you will need a large chalkboard or equivalent. Draw four very long horizontal lines, labeling them “Asia,” “Europe,” “Africa,” and “The Americas.” Mark off centuries with short vertical lines. Then ask the class to suggest items to add to the list. Encourage students to participate—for example, by asking other students to provide the time when a particular student has named an event. Ask leading questions to fill in gaps, with an eye toward cultural and religious events as well as political ones. At this point students will most likely simply focus on the early societies covered in this text.
-
->   • Explain to students the basic concept of memory by association, such as when they make an outline of points relating to a major theme and then study the points as a whole. Then, with the class, make a list of the course’s  major themes to date. Offer suggestions for the sorts of points that might be included under each theme. Finally, choose a single theme and sketch out a more detailed outline, soliciting as much input as possible from the students.
+• For the timeline, you will need a large chalkboard or equivalent. Draw four very long horizontal lines, labeling them “Asia,” “Europe,” “Africa,” and “The Americas.” Mark off centuries with short vertical lines. Then ask the class to suggest items to add to the list. Encourage students to participate—for example, by asking other students to provide the time when a particular student has named an event. Ask leading questions to fill in gaps, with an eye toward cultural and religious events as well as political ones. At this point students will most likely simply focus on the early societies covered in this text.
+• Explain to students the basic concept of memory by association, such as when they make an outline of points relating to a major theme and then study the points as a whole. Then, with the class, make a list of the course’s  major themes to date. Offer suggestions for the sorts of points that might be included under each theme. Finally, choose a single theme and sketch out a more detailed outline, soliciting as much input as possible from the students.
