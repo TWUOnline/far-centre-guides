@@ -1,6 +1,6 @@
 ---
 title: 'Course Overview & Syllabus'
-media_order: PHIL210-Syllabus_Fall-2019.pdf
+media_order: HIST107-Syllabus_Fall-2019.pdf
 taxonomy:
     category:
         - docs
@@ -14,30 +14,15 @@ visible: true
 The following information is from the course syllabus, also located in Moodle.  Note that you will need to modify the schedule based on your term.  Please also discuss with the Faculty if there are any other changes to the syllabus.
 
 ## Course Description
-An examination of some basic ethical theory and a critical focus on some current
-moral issues like consumerism, technoculture, environmental ethics,
-responsibility to distant peoples, genetic engineering and cloning, and the
-promise and peril of nanotechnology. The emphasis is on clarifying the issues,
-exploring various views on these and relevant supporting arguments, and exposing
-important underlying assumptions.
 
-!! *Note that topics listed in the course description above may differ from those in this course. See the Course Schedule below for specific topics to this offering of PHIL 210.*
-
-Read the full course syllabus [here](PHIL210-Syllabus_Fall-2019.pdf).
 
 
 ## Learning Outcomes
-After successfully completing the course, you will be able to:
-* Apply foundational ethical principles to actual situations in the search for correct moral action.
-* Identify key assumptions undergirding contemporary moral discourse.  
-* Discuss knowledgeably a few important metaethical issues:  e.g., moral subjectivism, moral objectivism, the unique features of moral discourse, etc. 
-* Describe a number of normative ethical theories: e.g., ethical egoism, utilitarianism, Kantian deontology, Utilitarianism, Social Contract morality, etc.
-* Reflect on your beliefs and assumptions throughout the course regarding a few significant ethical questions including sexual morality, freedom of speech, abortion, end-of-life moral dilemmas, torture, terrorism, and world hunger & foreign aid.
-* Explain how the teachings of Jesus re-frame certain social issues covered in this class.
+
 
 
 ## Student Evaluation
- 
+
 | **Assessment**               | **Grade**          | **Assesses Course Learning Outcome** |
 |------------------------------|--------------------|--------------------------------------|
 | Reflective Journal           | 30% (5 at 6% each) | 1.5                                  |
@@ -47,36 +32,19 @@ After successfully completing the course, you will be able to:
 
  
 ## Course Texts:
-Readings Text: Wolff, Jonathan.  _Readings in Moral Philosophy_.  New York: W. W. Norton & Company, 2018.
-
-Intro Text: Wolff, Jonathan.  _An Introduction to Moral Philosophy_.  New York: W. W. Norton &
-     Company, 2018.  
 
 
 ## Course Schedule
-!! Note that Facilitator may change the schedule, depending on the campus term dates.
 
-| **Unit topics**                               | **Reading List**                                | **Assessment**                                                                                                                           |
-|-----------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Unit 1: The Nature of Moral Inquiry           | Ch.1-2: *An Introduction to Moral Philosophy*.  | Reflective Journal (6%)                                                                                                                  |
-| Unit 2: Foundational Moral Concepts           | Ch.3-4: *An Introduction to Moral Philosophy*.  | Ethics Committee Response (5%)                                                                                                           |
-| Unit 3: Why Be Moral?                         | Ch.6-7: *An Introduction to Moral Philosophy*.  | Ethics Committee Response (5%)                                                                                                           |
-| Unit 4: How to Determine What is Moral Topics | Pp: 125-160: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%) <br>Reflective Journal (6%) <br>Partner Project Presentation (30%) *(Presentations due weeks 5-10 – sign up in class for time)* |
-| Unit 5: Free Speech and its Limits            | Pp: 252-278: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%) <br>Ethics Video (10%) *(Videos due week 9)*                                                  |
-| Unit 6: Sexual Morality                       | Pp: 293-328: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%)                                                                                                           |
-| Unit 7: Animal Rights                         | Pp: 426-443: *Readings in Moral Philosophy*.    | Reflective Journal (6%)                                                                                                                  |
-| Unit 8: End-of-Life Moral Dilemmas            | Pp: 372-406: *Readings in Moral Philosophy*.    | Reflective Journal (6%)                                                                                                                  |
-| Unit 9: The Ethics of Torture and Terrorism   | Pp: 488-511: *Readings in Moral Philosophy*.    | Reflective Journal (6%) <br>(Ethics Videos due)                                                                                              |
-| Unit 10: World Hunger and Foreign Aid         | Pp: 612-638: *Readings in Moral Philosophy*.    | Ethics Committee Response (5%)                                                                                                           |
 
 
 ## Course Policies:
-                                                                                                        
+
 ### Inclusive Classroom:
 TWU is committed to an ethic of inclusion centred on the principles of hospitality, reciprocity and reconciliation. We seek to produce generous learning spaces that are based on respect for difference and are open to diverse views, opinions, and identities. We welcome and value all voices, including those that have been silenced on account of race, religious beliefs, colour, gender, physical or mental variations, age, ancestry, place of origin, marital status, family status, sex, and sexual orientation, or on any other grounds identified in applicable human rights law.
 
-### GRADING GUIDELINES 
-Following is a description of the letter grading: 
+### GRADING GUIDELINES
+Following is a description of the letter grading:
 
 | **A range = Superior, exceptional, outstanding**. A+ 90-100%  A 85-89%  A- 80-84% | The assignment demonstrates critical, informed, and creative theological inquiry that reflects superior understanding of essential theological/historical concepts. This means the student demonstrates depth of insight beyond what is normally expected. Carefully nuanced reasoning and writing, free from material, structural and grammatical error are presupposed in this grade. |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
