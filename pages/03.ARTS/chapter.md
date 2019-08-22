@@ -1,5 +1,6 @@
 ---
-title: 'Facilitating a FAR Centre Course'
+title: 'Arts
+'
 taxonomy:
     category: docs
 ---
@@ -16,13 +17,13 @@ Note that other sections of the guide will go into specfics about your courses (
 * Motivating Students
 
 ## Learning
-* Active learning and engagement training methods. 
+* Active learning and engagement training methods.
 * Critical and Transformative Learning
 * Experiential learning
 
 ## Lesson Planning
 * Setting up your schedule
-* Setting clear learning targets and objectives. 
+* Setting clear learning targets and objectives.
 
 
 ## Techniques
@@ -30,7 +31,7 @@ Note that other sections of the guide will go into specfics about your courses (
 
 ## Assessment
 * Assessment techniques
-* 
+*
 
 ## Learning Activities
 * Creating open exercises
@@ -38,4 +39,3 @@ Note that other sections of the guide will go into specfics about your courses (
 * Leading Discussions
 * Partner and group work
 * Guiding student Presentations
-
