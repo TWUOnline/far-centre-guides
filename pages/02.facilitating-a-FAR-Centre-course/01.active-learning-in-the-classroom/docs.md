@@ -1,5 +1,5 @@
 ---
-title: 'Active Learning in the Classroom'
+title: 'What is Facilitation?'
 taxonomy:
     category:
         - docs
@@ -10,22 +10,8 @@ visible: true
 
 # Active Learning in the Classroom
 
-The heart and soul of teaching well is designing, sequencing and planning active learning opportunities around engaging and compelling content. This is creative work that requires the educator to research solid content aligned with the learning objectives and discern effective means of sharing and engaging learners with that content. Furthermore, it requires the educator to think about their specific learners, their prior knowledge about the topic, any fears or resistance they may bring to the topic and then carefully craft the time allotted so that objectives can be met in a fair, reasonably-paced, anxiety-free and hopefully enjoyable manner. It is tempting to try to use many fun activities during a session, but it’s very important to be judicious in selecting activities that serve a learning purpose. Avoid the trap of many beginning educators who focus more on ‘activitizing’ rather than aligning learning opportunities to objectives and assessment.
+To facilitate, in its most common definition, is to “make an action or process easy or easier”(Oxford definition). Therefore, a facilitator of learning is essentially someone who takes all measures to ensure that learning is possible and successful within its given context. Facilitators will consider contextual factors, student learning styles and educational targets to create a safe, productive space for student learning to be nurtured. 
 
-In the following sections, we'll list a number of ways to engage students in the course.  
+In most face-to-face learning environments, the instructor will assume most facilitation duties, but other roles such as teaching assistants, learning coaches and educational administrators facilitate learning as well. In that sense, traditional learning environments don’t have one designated learning facilitator, but have many different people working together to aid the educational process.
 
-Classroom activities include: discussions, partner/group assignments, role plays, vocabulary practice, study skills, online course help, videos, etc.
-
-### Class Discussions
-Facilitating discussion is a key skill of the adult educator and giving voice to the adult learner is one of the most important aspects for an adult educator to consider. Getting learners involved in the topic and having the confidence to speak in class and share their ideas whether through discussions or presentations, are essential elements of adult education.
-
-### Promoting Critical Thinking
-Here are some examples of how to use the elements of critical thinking when designing activities:
-
-  - Ask good questions – take your specific objectives for the lesson and create questions using the elements as prompts.
-
-  - Group discussion – give students the elements and ask them to use them to analyze a reading or video.
-
-  - Teach how to come up with a thesis statement using the elements. Take the topic and go around the circle asking each participant to create a statement from one of the prompts associated with the elements. At the end, you will end up with as many statements as there are participants. Help students work with the statements, combining them etc. to make their thesis statement. This process facilitates sharp thinking and helps to focus students.
-
-  - Use the elements as an outline to help students writing in a more disciplined way about a topic.
+In an international online learning community, facilitating learning looks different. The instructor can do their best to facilitate learning through online platforms, but because there are added barriers to learning in terms of proximity and culture differences, it can be challenging for instructors to provide their students with the support they need. This calls reframing how facilitation will work in this environment. A learning facilitator in a blended learning setting serves to fill the gaps in in international online high education by providing face-to-face support and learning facilitation, and they supplement the instructors’ facilitation duties by providing coaching, facilitation and IT support for the students who are taking the courses at their campus.
