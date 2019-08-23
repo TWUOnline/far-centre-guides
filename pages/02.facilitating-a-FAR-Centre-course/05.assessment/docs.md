@@ -28,6 +28,8 @@ Formative assessment is very effective in both pedagogy and andragogy. While the
 Formative assessment fosters learners who are self-directed and must be relevant, frequent and motivating to learners. Formative Assessment provides information to learners during
 instruction, before instruction has been completed. It allows learners to judge their own ongoing learning and progress, monitor, control, and improve their own learning. By using formative assessment methods instructors are able to gather information to modify their instruction, change course, or alter strategy while learning is still taking place.
 
-Formative instruction is not about grades, it’s about learning. An example of assessment as learning is the peer review process. By critically engaging with another’s work and giving substantive feedback, learners have the opportunity to respond from a learning stance. 
+Formative instruction is not about grades, it’s about learning. An example of assessment as learning is the peer review process. By critically engaging with another’s work and giving substantive feedback, learners have the opportunity to respond from a learning stance.
 
 Consider how you can give your students formative feedback on assessments throughout the course.
+
+[presentation="presentations/feedback-reflection"]
