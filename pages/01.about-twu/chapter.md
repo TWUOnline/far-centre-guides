@@ -18,4 +18,5 @@ Tap the arrow on the right to continue, or select Topics from the menu on the le
 
 <a href="https://pixabay.com/photos/map-travel-travel-map-explore-3578213/">Image</a> by <a href="https://pixabay.com/users/mohamed_hassan-5229782/">mohamed_hassan</a> on Pixabay
 
+<--!
 [presentation="presentations/creating-an-apa-template"]
