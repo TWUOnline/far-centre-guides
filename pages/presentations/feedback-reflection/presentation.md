@@ -15,3 +15,5 @@ Recalling (salient details of) your experience.
 *Thinking* about it deeply and at length.  
 *Evaluating* it in light of your existing knowledge and intentions and   
 *integrating* it into your existing conceptual frameworks of understanding.
+
+---
