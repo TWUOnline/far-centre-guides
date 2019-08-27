@@ -726,6 +726,6 @@ markdown
 ```
 
 Renders to  
-{c:red}Red Text{/c}
-{c:blue}Blue Text{/c}
-{c:green}Green Text{/c}
+{c:red}Red Text{/c}  
+{c:blue}Blue Text{/c}  
+{c:green}Green Text{/c}  
