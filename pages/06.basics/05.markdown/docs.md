@@ -724,4 +724,4 @@ markdown
 ```
 
 Renders to
-{c:"red"}Red Text{/c}
+{c:red}Red Text{/c}
