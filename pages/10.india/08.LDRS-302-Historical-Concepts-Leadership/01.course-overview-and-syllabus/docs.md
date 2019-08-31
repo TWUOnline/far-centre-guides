@@ -58,14 +58,14 @@ The final grade will be determined by the satisfactory completion of all require
 >   The final grade will be determined by the satisfactory completion of all
 >   requirements.
 
-| **Grade activity**          | **Linked Learning Outcomes\***         | **% of course grade** |
+| **Grade Activity**          | **Linked Learning Outcomes\***         | **% of course grade** |
 |-----------------------------|----------------------------------------|-----------------------|
-| In class dialogue/exercises | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 15%                   |
-| Journal Responses           | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 20%                   |
-| Historical Leader Paper     | 1 (a,b,c), 2 (d,e)                     | 15%                   |
-| Scientific Management Paper | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 20%                   |
-| Leadership Case Studies     | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 30%                   |
-| **Total**                   | **100%**                               |                       |
+| *In class dialogue/exercises* | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 15%                   |
+| *Journal Responses*           | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 20%                   |
+| *Historical Leader Paper*     | 1 (a,b,c), 2 (d,e)                     | 15%                   |
+| *Scientific Management Paper* | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 20%                   |
+| *Leadership Case Studies*     | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 30%                   |
+| **Total**                   |                               |            **100%**            |
 
 >   \***Key:** TWU Student Learning Outcome number (Course Student Learning
 >   Outcome letter)
