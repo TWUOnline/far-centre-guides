@@ -50,64 +50,33 @@ Part of your responsibility as the facilitator will be to evaluate student parti
 | **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
-| **Note:** An absence for **one** class will not result in a loss of participation marks.                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                            |
 
-Part 2: Organize the Jigsaw Activity:
--------------------------------------
+***Note:*** An absence for **one** class will not result in a loss of participation marks.         
 
-**Assign topics to student groups:**
+### Part 2: Organize the Jigsaw Activity:
 
--   For this activity, students will be divided into 4 groups. The number of
-    students you have per group equals the number of topics that will be
-    covered.
+**Assign Topics to Student Groups:**
 
--   Assign the following topics to each group: Frederick Taylor, Henri Fayol,
-    Mary Parker Follett, Max Weber,
+  -   For this activity, students will be divided into 4 groups. The number of students you have per group equals the number of topics that will be covered.
 
--   After they receive their topic, the idea is that all of the students in the
-    initial group will now become an expert on a historical leader. Instruct
-    students to research the person and clearly identify 5 key ideas about that
-    person. They will share this information with a teaching group so they need
-    to have a good understanding of who the person was and what their important
-    contributions were to the field of management.
+  -   Assign the following topics to each group: Frederick Taylor, Henri Fayol, Mary Parker Follett, Max Weber,
 
--   This Jigsaw activity will be completed in 1.5 hrs. To begin, students will
-    work in their “expert” groups for 30 minutes and then students will reform
-    in their “teaching” groups for 1 hour.
+  -   After they receive their topic, the idea is that all of the students in the initial group will now become an expert on a historical leader. Instruct students to research the person and clearly identify 5 key ideas about that person. They will share this information with a teaching group so they need to have a good understanding of who the person was and what their important contributions were to the field of management.
 
-**Introduce the activity:**
+  -    This Jigsaw activity will be completed in 1.5 hrs. To begin, students will work in their “expert” groups for 30 minutes and then students will reform in their “teaching” groups for 1 hour.
 
--   Today we are going to do a classroom jigsaw. [Break students into expert
-    groups]. You are now in your expert groups. Your task is to become experts
-    on the historical leader. Spend the time you have together refining your
-    understanding of the historical leader. After 30 minutes, we will break the
-    expert groups up and re-form into teaching groups. Teaching groups contain
-    one member from each expert group. You are now in your teaching groups for 1
-    hour. Each of you is an expert on a different historical leader. Your task
-    now is to teach your topic to the other members of your group. You will have
-    15 minutes each to share this information with your group members.
+**Introduce the Activity:**
 
-**Keep track of time**
+  -   Today we are going to do a classroom jigsaw. [Break students into expert groups]. You are now in your expert groups. Your task is to become experts on the historical leader. Spend the time you have together refining your understanding of the historical leader. After 30 minutes, we will break the expert groups up and re-form into teaching groups. Teaching groups contain one member from each expert group. You are now in your teaching groups for 1 hour. Each of you is an expert on a different historical leader. Your task now is to teach your topic to the other members of your group. You will have 15 minutes each to share this information with your group members.
 
--   Remind students when it is time to move from their expert groups to their
-    teaching groups.
+**Keep Track of Time**
 
--   Following the jigsaw session, the students will to write about the
-    information covered or the insights they gleaned from the session in their
-    journal response.
+-   Remind students when it is time to move from their expert groups to their teaching groups.
 
-Part 3: Assignment Reminders
-----------------------------
+-   Following the jigsaw session, the students will to write about the information covered or the insights they gleaned from the session in their journal response.
 
-After the class is done, remind students that they will need to work on two
-assignments during their homework time. First, they will need to provide a
-Journal Response which includes writing a 400-500 word (1-2 pages double spaced)
-response to questions provided in the Unit 2 assessment page.
+### Part 3: Assignment Reminders
 
-Next, they will need to complete Assignment \#1: Historical Leader Paper. This
-paper involves
+After the class is done, remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 2 assessment page.
 
-writing a well-researched 2-3-page paper on a historical leader or writer on
-leadership of their choice. The students will need to describe the
-leader/writer’s 1) life, 2) his or her historical time, and 3) what you think
-made him or her a great leader (or thought leader).
+Next, they will need to complete ***Assignment #1: Historical Leader Paper.*** This paper involves writing a well-researched 2-3-page paper on a historical leader or writer on leadership of their choice. The students will need to describe the leader/writer’s 1) life, 2) his or her historical time, and 3) what you think made him or her a great leader (or thought leader).
