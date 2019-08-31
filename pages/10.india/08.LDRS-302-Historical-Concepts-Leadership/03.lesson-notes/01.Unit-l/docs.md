@@ -28,13 +28,13 @@ Today you will have 3 hours in total with the students. The first 1.5hrs is devo
 
 The tasks to complete in class today are:
 
-    1.  Welcome students and orient them to the course.
+  1.  Welcome students and orient them to the course.
 
-    2.  Introductions – Facilitator and Students
+  2.  Introductions – Facilitator and Students
 
-    3.  Facilitate group discussions.
+  3.  Facilitate group discussions.
 
-    4.  Preparing Journal Responses
+  4.  Preparing Journal Responses
 
 ### Preparing for Facilitating Group Discussions:
 
