@@ -22,16 +22,14 @@ Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
 
 ### Learning Outcomes
 
-After successfully completing the course, you will be able to:
 
+***1. Knowledge and its Application***
 
-*1. Knowledge and its application*
+    -  Employ the conceptual language of historical leadership and management
 
-    a.  Employ the conceptual language of historical leadership and management
+    -  Investigate ancient, pre-industrial, and industrial leadership/management ideas;
 
-    b.  Investigate ancient, pre-industrial, and industrial leadership/management ideas;
-
-    c.  Compare and contrast historic and contemporary leadership ideas and experiences;
+    -  Compare and contrast historic and contemporary leadership ideas and experiences;
 
 >   *2. Cognitive complexity*
 
