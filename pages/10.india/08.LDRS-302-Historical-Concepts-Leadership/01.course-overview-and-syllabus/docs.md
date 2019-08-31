@@ -50,22 +50,35 @@ Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
 
 
 
-## Student Evaluation
+### Course Evaluation
 
-| **Assessment**               | **Grade**          | **Assesses Course Learning Outcome** |
-|------------------------------|--------------------|--------------------------------------|
-| Reflective Journal           | 30% (5 at 6% each) | 1.5                                  |
-| Ethics Committee Responses   | 30% (6 \@ 5% each) | 1,2,3,5                              |
-| Ethics Video                 | 10%                | 1,3,4,5                              |
-| Partner Presentation Project | 30%                | 1,2,3,4,5                            |
+The final grade will be determined by the satisfactory completion of all requirements.
+
+
+>   The final grade will be determined by the satisfactory completion of all
+>   requirements.
+
+| **Grade activity**          | **Linked Learning Outcomes\***         | **% of course grade** |
+|-----------------------------|----------------------------------------|-----------------------|
+| In class dialogue/exercises | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 15%                   |
+| Journal Responses           | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 20%                   |
+| Historical Leader Paper     | 1 (a,b,c), 2 (d,e)                     | 15%                   |
+| Scientific Management Paper | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 20%                   |
+| Leadership Case Studies     | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 30%                   |
+| **Total**                   | **100%**                               |                       |
+
+>   \***Key:** TWU Student Learning Outcome number (Course Student Learning
+>   Outcome letter)
+
 
  
-## Course Texts:
-Readings Text: Wolff, Jonathan.  _Readings in Moral Philosophy_.  New York: W. W. Norton & Company, 2018.
+### Required Texts and Materials:
 
-Intro Text: Wolff, Jonathan.  _An Introduction to Moral Philosophy_.  New York: W. W. Norton &
-     Company, 2018.  
+Northouse, P. G., (2019). Leadership: Theory and Practice (8th Edition). Thousand Oaks, CA: Sage Publications.
 
+Taylor, F. W., (2006). The Principles of Scientific Management. New York:       Cosimo, Inc.
+
+*Online articles accessible within MyCourses.*
 
 ## Course Schedule
 !! Note that Facilitator may change the schedule, depending on the campus term dates.
