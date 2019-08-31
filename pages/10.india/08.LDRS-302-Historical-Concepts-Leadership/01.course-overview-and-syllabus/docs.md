@@ -1,43 +1,65 @@
 ---
 title: 'Course Overview & Syllabus'
-media_order: PHIL210-Syllabus_Fall-2019.pdf
+media_order: LDRS302_Syllabus_Fall_2019.pdf
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-### Course Overview
+## Course Overview
 
-# Syllabus
+### Syllabus
 
 The following information is from the course syllabus, also located in Moodle.  Note that you will need to modify the schedule based on your term.  Please also discuss with the Faculty if there are any other changes to the syllabus.
 
-## Course Description
-An examination of some basic ethical theory and a critical focus on some current
-moral issues like consumerism, technoculture, environmental ethics,
-responsibility to distant peoples, genetic engineering and cloning, and the
-promise and peril of nanotechnology. The emphasis is on clarifying the issues,
-exploring various views on these and relevant supporting arguments, and exposing
-important underlying assumptions.
-
-!! *Note that topics listed in the course description above may differ from those in this course. See the Course Schedule below for specific topics to this offering of PHIL 210.*
-
-Read the full course syllabus [here](PHIL210-Syllabus_Fall-2019.pdf).
+### Course Description
+An exploration of what leaders can learn from the past to understand contemporary leadership and to imagine future ways of leading. Students are provided with the opportunity to use the historical method, including primary sources, to understand past leaders and leadership thought. Emphasis is given to the social circumstances and philosophical ideas that led to the Classical and Scientific Management theories, and subsequent leadership theories emerging through to the 1980s.
 
 
-## Learning Outcomes
+Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
+
+
+### Learning Outcomes
+
 After successfully completing the course, you will be able to:
-* Apply foundational ethical principles to actual situations in the search for correct moral action.
-* Identify key assumptions undergirding contemporary moral discourse.  
-* Discuss knowledgeably a few important metaethical issues:  e.g., moral subjectivism, moral objectivism, the unique features of moral discourse, etc. 
-* Describe a number of normative ethical theories: e.g., ethical egoism, utilitarianism, Kantian deontology, Utilitarianism, Social Contract morality, etc.
-* Reflect on your beliefs and assumptions throughout the course regarding a few significant ethical questions including sexual morality, freedom of speech, abortion, end-of-life moral dilemmas, torture, terrorism, and world hunger & foreign aid.
-* Explain how the teachings of Jesus re-frame certain social issues covered in this class.
+*1. Knowledge and its application*
+
+    a.  Employ the conceptual language of historical leadership and management
+    discourse;
+
+    b.  Investigate ancient, pre-industrial, and industrial leadership/management ideas;
+
+    c.  Compare and contrast historic and contemporary leadership ideas and experiences;
+
+>   *2. Cognitive complexity*
+
+1.  Evaluate the context of leaders, including thought leaders on leadership,
+    from the past;
+
+2.  Explain past changes in leadership/management theory and practice;
+
+>   *5. Spiritual Formation*
+
+1.  Identify the spiritual foundations of leadership in the historic texts of
+    the Christian tradition;
+
+>   *6. Social responsibility and global engagement*
+
+1.  Adopt wise practices that respond thoughtfully to the complicated and
+    layered histories of leadership and management ideas that have shaped
+    contemporary organizations;
+
+>   *7. Leadership*
+
+1.  Develop meaningful applications of historically informed leadership and
+    management ideas that are appropriate to a variety of contemporary
+    organizational settings.
+
 
 
 ## Student Evaluation
- 
+
 | **Assessment**               | **Grade**          | **Assesses Course Learning Outcome** |
 |------------------------------|--------------------|--------------------------------------|
 | Reflective Journal           | 30% (5 at 6% each) | 1.5                                  |
@@ -71,12 +93,12 @@ Intro Text: Wolff, Jonathan.  _An Introduction to Moral Philosophy_.  New York: 
 
 
 ## Course Policies:
-                                                                                                        
+
 ### Inclusive Classroom:
 TWU is committed to an ethic of inclusion centred on the principles of hospitality, reciprocity and reconciliation. We seek to produce generous learning spaces that are based on respect for difference and are open to diverse views, opinions, and identities. We welcome and value all voices, including those that have been silenced on account of race, religious beliefs, colour, gender, physical or mental variations, age, ancestry, place of origin, marital status, family status, sex, and sexual orientation, or on any other grounds identified in applicable human rights law.
 
-### GRADING GUIDELINES 
-Following is a description of the letter grading: 
+### GRADING GUIDELINES
+Following is a description of the letter grading:
 
 | **A range = Superior, exceptional, outstanding**. A+ 90-100%  A 85-89%  A- 80-84% | The assignment demonstrates critical, informed, and creative theological inquiry that reflects superior understanding of essential theological/historical concepts. This means the student demonstrates depth of insight beyond what is normally expected. Carefully nuanced reasoning and writing, free from material, structural and grammatical error are presupposed in this grade. |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
