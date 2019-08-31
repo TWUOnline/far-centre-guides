@@ -23,12 +23,6 @@ The following information is from the course syllabus, also located in Moodle.  
 
 ## Student Evaluation
 
-| **Assessment**               | **Grade**          | **Assesses Course Learning Outcome** |
-|------------------------------|--------------------|--------------------------------------|
-| Reflective Journal           | 30% (5 at 6% each) | 1.5                                  |
-| Ethics Committee Responses   | 30% (6 \@ 5% each) | 1,2,3,5                              |
-| Ethics Video                 | 10%                | 1,3,4,5                              |
-| Partner Presentation Project | 30%                | 1,2,3,4,5                            |
 
  
 ## Course Texts:
