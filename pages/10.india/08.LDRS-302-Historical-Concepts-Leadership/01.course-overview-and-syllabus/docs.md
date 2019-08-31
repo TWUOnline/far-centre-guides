@@ -67,18 +67,14 @@ The final grade will be determined by the satisfactory completion of all require
 | *Leadership Case Studies*     | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 30%                   |
 | **Total**                   |                               |            **100%**            |
 
->   \***Key:** TWU Student Learning Outcome number (Course Student Learning
->   Outcome letter)
-
-
  
 ### Required Texts and Materials:
 
-Northouse, P. G., (2019). Leadership: Theory and Practice (8th Edition). Thousand Oaks, CA: Sage Publications.
+- Northouse, P. G., (2019). Leadership: Theory and Practice (8th Edition). Thousand Oaks, CA: Sage Publications.
 
-Taylor, F. W., (2006). The Principles of Scientific Management. New York:       Cosimo, Inc.
+- Taylor, F. W., (2006). The Principles of Scientific Management. New York:       Cosimo, Inc.
 
-*Online articles accessible within MyCourses.*
+- *Online articles accessible within MyCourses.*
 
 ## Course Schedule
 !! Note that Facilitator may change the schedule, depending on the campus term dates.
