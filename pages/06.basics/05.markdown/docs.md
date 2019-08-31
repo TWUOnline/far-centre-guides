@@ -502,7 +502,7 @@ HTML:
 
 ### Syntax highlighting
 
-GFM, or "GitHub Flavored Markdown" also supports syntax highlighting. To activate it, simply add the file extension of the language you want to use directly after the first code "fence", ` ```js `, and syntax highlighting will automatically be applied in the rendered HTML. For example, to apply syntax highlighting to JavaScript code:
+GFM, or "GitHub Flavored Markdown" also supports syntax highlighting. To activate it, simply add the file extension of the language you want to use directly after the first code "fence", ` js `, and syntax highlighting will automatically be applied in the rendered HTML. For example, to apply syntax highlighting to JavaScript code:
 
 <pre>
 ```js
@@ -715,3 +715,17 @@ With a reference later in the document defining the URL location:
 
 
     [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
+## Coloured Text
+
+```
+markdown
+{c:red}Red Text{/c}
+{c:blue}Blue Text{/c}
+{c:green}Green Text{/c}
+```
+
+Renders to  
+{c:red}Red Text{/c}  
+{c:blue}Blue Text{/c}  
+{c:green}Green Text{/c}  
