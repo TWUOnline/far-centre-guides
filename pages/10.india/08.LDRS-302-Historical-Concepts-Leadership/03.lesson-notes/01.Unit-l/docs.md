@@ -162,21 +162,12 @@ Part of your responsibility as the facilitator will be to evaluate student parti
 
  ***Note:*** An absence for **one** class will not result in a loss of participation marks.                                                                       
 
-Part 4: Explain the Journal Response:
--------------------------------------
+### Part 4: Explain the Journal Response:
 
-After the class is done, remind students that they will need to work on their
-first assignment during their homework time. This will be the journal response
-which includes writing a 400-500 word (1-2 pages double spaced) response to
-questions provided in the Unit 1 assessment page. If there is time at the end of
-the class, walk students through the rubric (provided below) to help them
-understand what is expected.
+After the class is done, remind students that they will need to work on their first assignment during their homework time. This will be the journal response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 1 assessment page. If there is time at the end of the class, walk students through the rubric (provided below) to help them understand what is expected.
 
 | **Mastering**                                                                                                                                                                                                                               |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Demonstrates a clear recognition of the vocabulary, concepts, and themes presented in the readings and class discussion by utilizing each throughout the journal entry.                                                                     |
 | Journal entry illustrates a thorough description of material presented in the reflection question, readings, and the class discussion by providing appropriate explanations of material and descriptions or examples from past experiences. |
 | Journal entry displays student’s proficiency in articulating the use of material included in both the reading and class discussion through incorporation of practical evaluation and programming ideas.                                     |
-
-Unit 2 Notes
-============
