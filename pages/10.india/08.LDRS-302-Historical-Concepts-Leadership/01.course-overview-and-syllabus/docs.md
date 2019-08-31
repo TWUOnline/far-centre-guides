@@ -25,11 +25,11 @@ Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
 
 ***1. Knowledge and its Application***
 
-    -  Employ the conceptual language of historical leadership and management
+  -  Employ the conceptual language of historical leadership and management
 
-    -  Investigate ancient, pre-industrial, and industrial leadership/management ideas;
+  -  Investigate ancient, pre-industrial, and industrial leadership/management ideas;
 
-    -  Compare and contrast historic and contemporary leadership ideas and experiences;
+  -  Compare and contrast historic and contemporary leadership ideas and experiences;
 
 >   *2. Cognitive complexity*
 
