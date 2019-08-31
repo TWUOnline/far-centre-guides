@@ -1,5 +1,5 @@
 ---
-title: 'Facilitation Notes for PHIL 210'
+title: 'Facilitation Notes for LDRS 302'
 taxonomy:
     category:
         - docs
