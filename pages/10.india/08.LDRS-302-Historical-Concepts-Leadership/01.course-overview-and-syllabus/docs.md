@@ -22,7 +22,6 @@ Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
 
 ### Learning Outcomes
 
-
 ***1. Knowledge and its Application***
 
   -  Employ the conceptual language of historical leadership and management
@@ -31,29 +30,23 @@ Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
 
   -  Compare and contrast historic and contemporary leadership ideas and experiences;
 
->   *2. Cognitive complexity*
+***2. Cognitive Complexity***
 
-1.  Evaluate the context of leaders, including thought leaders on leadership,
-    from the past;
+  - Evaluate the context of leaders, including thought leaders on leadership, from the past;
 
-2.  Explain past changes in leadership/management theory and practice;
+  - Explain past changes in leadership/management theory and practice;
 
->   *5. Spiritual Formation*
+***5. Spiritual Formation***
 
-1.  Identify the spiritual foundations of leadership in the historic texts of
-    the Christian tradition;
+  - Identify the spiritual foundations of leadership in the historic texts of the Christian tradition;
 
->   *6. Social responsibility and global engagement*
+***6. Social Responsibility and Global Engagement***
 
-1.  Adopt wise practices that respond thoughtfully to the complicated and
-    layered histories of leadership and management ideas that have shaped
-    contemporary organizations;
+  - Adopt wise practices that respond thoughtfully to the complicated and layered histories of leadership and management ideas that have shaped contemporary organizations;
 
->   *7. Leadership*
+***7. Leadership***
 
-1.  Develop meaningful applications of historically informed leadership and
-    management ideas that are appropriate to a variety of contemporary
-    organizational settings.
+  - Develop meaningful applications of historically informed leadership and management ideas that are appropriate to a variety of contemporary organizational settings.
 
 
 
