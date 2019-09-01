@@ -1,82 +1,97 @@
 ---
-title: 'Unit 2 Lesson Notes'
+title: 'Unit 3 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 2: Industrialization and the Idea of Management
+## Unit 3: Theories of What Managers Do
 
-In this unit, students are introduced to the idea of management and they will discover how this idea can be traced back to the start of the Industrial Revolution. In this unit, they will learn about the major contributors to the field of management theory and how their ideas are used today.
+In this unit, students will explore management on the basis of what managers actually do. Rather than thinking about management at a very general, slightly abstract and impersonal level, this question asks what management looks like when we focus on the details of the day-¬‐to-¬‐day work that managers have to do and what practical responsibilities they exercise. This unit will deal with the practicalities of management work, namely, exploring managers’ 1) actions and responsibilities and 2) roles and relationships.
 
-The students will arrive in class prepared for group discussions based on what they have completed in their learning activities at home.  Specifically, students will have completed the following activities prior to attending class:
+The students will arrive in class prepared for group discussions based on what they have completed in their learning activities at home.  Specifically, students will have completed the following activities:
 
+| **☑** | **Activities**                            | **Expected Time Commitment** |
+|---|-------------------------------------------|------------------------------|
+|   | **Activity 3.1: Reflect and Respond** <ul><li> Classify a manager's workload. <li>Answer questions in your learning journal. | 30-60 mins                   |
+|   | **Activity 3.2: Reflect** <ul><li> Answer questions in your learning journal.             | 30 mins                      |
+|   | **Activity 3.3: Reflect** <ul><li>Answer questions in your learning journal.    | 30 mins.                     |
+|   | **Activity 3.4: Review and Reflect** <ul><li> Review Mintzberg’s management roles. <li> Answer questions in your learning journal.   | 30 mins.     |
+|   | **Activity 3.5: Review, Create, Reflect** <ul><li> Review [**The CIPD Resources on SWOT**](https://www.cipd.co.uk/knowledge/strategy/organisational-development/swot-analysis-factsheet). <li>Create a SWOT Analysis. <li>Answer questions in your learning journal.| 1 hr.    |
 
-| **☑** | **Activities**                      | **Expected Time Commitment** |
-|---|-------------------------------------|------------------------------|
-|   | **Activity 2.1: Watch and Reflect** <ul><li>Watch the following video [Leadership versus Management: What’s the Difference?](https://www.projectmanager.com/training/leadership-vs-management) <li>Answer questions in your learning journal. | 30 mins                      |
-|   | **Activity 2.2: Reflect** <ul><li> Watch the [Evolution of Management](https://www.youtube.com/watch?v=EobeHwOw3S4) video.<li> Review information in Topic 1 and Topic 2. <li>Answer questions in your learning journal.       | 30 mins                      |
-|   | **Activity 2.3: Read and Reflect** <ul><li>Reading Part 1 Notes: General Theories of Management <li> Read [**The Foundations of Henri Fayol’s Administrative Theory**](http://bus.lsu.edu/management/faculty/abedeian/articles/Fayol.pdf) <li>Answer questions in your learning journal.  | 1.5 hrs                      |
-|   | **Activity 2.4: Read and Reflect** <ul><li> Read Part 2 Notes: **The Split in the Field of Management.** <li>Answer questions in your learning journal.  | 30 mins.                     |
+## What Will You Be Doing?
 
-### What will you be doing?
+Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to facilitating group discussion and the second 1.5 hours will be focused on the Concept Map Activity (details below).
 
-Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to facilitating group discussion and the second 1.5 hours will be focused on organizing the Jigsaw Activity.
-
-**Part 1: Lead the Group Discussion:**
+### Part 1: Lead the Group Discussion:
 
 Divide the class into small groups. Have them discuss questions provided below, and then select a spokesperson who will summarize their findings for the rest of the class after you reconvene as a large group. Note: the same person should not be the spokesperson each week. The level of participation will contribute to each student’s individual participation grade. 
 
-In Unit 2, the group discussion will focus on the following questions:
+In Unit 3, the group discussion will focus on the following questions:
 
-  1. How did the western industrial revolution form the idea of management?
+  1.  To what extent is management work a fragmented experience for you?
 
-  2. What is the difference between leadership and management?
+  2.  Why do you undertake the activities that you do as a manager?
 
-  3. What are the similarities and the differences between the two broad positions on management of the four writers in the unit 2 (part 1) notes?
+  3.  What are the motivations behind how you manage your time and workload?
 
-  4. Do these positions reflect some of your own ideas and assumptions about management?
+  4.  To what extent are you in control of what you do? Or how much freedom do you have to prioritize the activity categories you employ?
 
-  5. Do the distinctions between management as a science and management as an art reflect your own experiences?
+  5.  How accurately do Fayol’s functions or Drucker’s functions of management describe the job you do as a manager in the twenty-first century?
 
-  6. Did this unit challenge your ideas about management, or those of managers you have known, or the assumptions about management you have encountered in different organisations and contexts? If so, how?
+  6.  Do you think there are any functions missing from Fayol’s and Drucker’s lists? Why or why not?
 
-  7. What do you see as the implications for practising managers if management is an art versus a science?
+  7.  Thinking about your own work context, which managers tend to be promoted most rapidly in your own organization? Is it those who are most effective in achieving organizational objectives, or those who are most successful at being noticed?
 
-### Evaluating Group Discussions:
+  8.  Which roles, according to Mintzberg, do you think are most and least important in your job? Why do you think this is the case?
 
-Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each class and then providing a score for each student at the end of the class based on the rubric provided below:
+  9.  Does the range of your roles throw any light on the problems of managing your time and activities, such as the difficulty of delegating or of saying ‘no’ to particular tasks? Would it be helpful to think in terms of avoiding or passing on certain roles (rather than activities)?
+
+  10. Describe the ways in which you balance what you want to do, and what you are expected and required to do as a manager.
+
+**Evaluating Group Discussions:**
+
+
+Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each class and then providing a score for each student at the end of the class based on the rubric provided below.
 
 | **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
 
-***Note:*** An absence for **one** class will not result in a loss of participation marks.         
+***Note:*** An absence for **one** class will not result in a loss of participation marks.
 
-### Part 2: Organize the Jigsaw Activity:
+### Part 2: Lead the Concept Map Activity
 
-**Assign Topics to Student Groups:**
+**Before**: *Gather Materials*
 
-  -   For this activity, students will be divided into 4 groups. The number of students you have per group equals the number of topics that will be covered.
+-   You will need large paper, index cards, and markers. Alternately you can have students draw on a chalk board with colored chalk or a white board with colored markers or use a computer drawing program.
 
-  -   Assign the following topics to each group: Frederick Taylor, Henri Fayol, Mary Parker Follett, Max Weber,
+**During:** *Tell students how to make a Concept Map (for instructions see the following link: (*<https://www.lucidchart.com/blog/how-to-make-a-concept-map>)
 
-  -   After they receive their topic, the idea is that all of the students in the initial group will now become an expert on a historical leader. Instruct students to research the person and clearly identify 5 key ideas about that person. They will share this information with a teaching group so they need to have a good understanding of who the person was and what their important contributions were to the field of management.
+-   Identify the main topic or concept. Write this concept/question in a highly visible place in the classroom. The main topic for this activity is: **What Should Managers Do?** This is the first stage of a process or sequence.
 
-  -    This Jigsaw activity will be completed in 1.5 hrs. To begin, students will work in their “expert” groups for 30 minutes and then students will reform in their “teaching” groups for 1 hour.
+-   Next, divide the class up into 4 or 5 groups and have them brainstorm ideas about key concepts (about ten for each group) from the readings, learning activities, or other sources. These are called *subordinate concepts.* Allow 20-30 minutes for this brainstorming time.
 
-**Introduce the Activity:**
+-   Ask each group to write each concept on a small index card or sticky note and post these notes on a visible board close to the main topic.
 
-  -   Today we are going to do a classroom jigsaw. [Break students into expert groups]. You are now in your expert groups. Your task is to become experts on the historical leader. Spend the time you have together refining your understanding of the historical leader. After 30 minutes, we will break the expert groups up and re-form into teaching groups. Teaching groups contain one member from each expert group. You are now in your teaching groups for 1 hour. Each of you is an expert on a different historical leader. Your task now is to teach your topic to the other members of your group. You will have 15 minutes each to share this information with your group members.
+-   Next, ask each group to rank, order, or cluster all of the *subordinate concepts*. Ask the students to place the more inclusive, general, broad or abstract concepts higher up and closer to the main concept and place most exclusive, specific, narrow, or concrete concepts lower on the map.
 
-**Keep Track of Time**
+-   Ask each group to draw the entire hierarchy on a piece of paper/board/computer softward with enclosures around the concepts and linking lines that are labeled to the specific relationship.
 
--   Remind students when it is time to move from their expert groups to their teaching groups.
+-   Ask them to identify any cross-links (connections across branches), draw in these links as dashed lines and label them. Allow 20-30 mins for this organizational time. Be concise!!!
 
--   Following the jigsaw session, the students will to write about the information covered or the insights they gleaned from the session in their journal response.
+-   Use the briefest and sharpest expression of each idea
+
+-   Clearly label each arrow
+
+**After: Present Your Map to the class**
+
+-   Have each group provide a presentation/explanation on the structure of the map they created.   
+
+-   Ask them to explain why they structured the map they way they did and why they felt their concepts were the most important to emphasize on their concept map.
+
+-   Allow 30 minutes for the presentations (approximately 6-8 minutes per group).
 
 ### Part 3: Assignment Reminders
 
-After the class is done, remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 2 assessment page.
-
-Next, they will need to complete ***Assignment #1: Historical Leader Paper.*** This paper involves writing a well-researched 2-3-page paper on a historical leader or writer on leadership of their choice. The students will need to describe the leader/writer’s 1) life, 2) his or her historical time, and 3) what you think made him or her a great leader (or thought leader).
+After the class is done, remind students that they will need to work on their journal response during their homework time. The journal response involves writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 3 assessment page.
