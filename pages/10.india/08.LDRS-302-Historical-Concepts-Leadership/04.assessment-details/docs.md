@@ -45,13 +45,13 @@ Write a well-researched 2-3-page paper on a historical leader or writer on   lea
 
 Write a 4-page response paper to Taylor’s book. Be sure to cite page numbers if you are using quotes (remember that I want to see your understanding of  the quote, not just the quote – use quotes minimally). In your paper address the following questions:
 
-    -   In your own words, what is Scientific Management?
+  -   In your own words, what is Scientific Management?
 
-    -   What are 5 principles about Scientific Management that you agree with and why?
+  -   What are 5 principles about Scientific Management that you agree with and why?
 
-    -   What are 5 principles about Scientific Management that you disagree with and why?
+  -   What are 5 principles about Scientific Management that you disagree with and why?
 
-    -   What are 3 principles can we learn from Scientific Management that apply to leadership practice today and how will you apply them to your own leadership?
+  -   What are 3 principles can we learn from Scientific Management that apply to leadership practice today and how will you apply them to your own leadership?
 
 **Grading Rubric:**
 
