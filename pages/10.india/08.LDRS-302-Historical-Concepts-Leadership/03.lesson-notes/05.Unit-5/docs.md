@@ -1,51 +1,66 @@
 ---
-title: 'Unit 4 Lesson Notes'
+title: 'Unit 5 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 4: The Principles of Scientific Management
+## Unit 5: Trait Approach
 
-In this unit, students will explore how companies maximized the productivity and efficiency of their workers in a scientific way during the industrial revolution. In this unit, the students will learn about the major contributors to the field of management theory and how their ideas are used today.
+At this point in the course, the gears shift from a historical account of leadership and management ideas to more contemporary approaches.  In this unit, students will begin by exploring transactional approaches to leadership which are typically those that focus on the leader.  Specifically, this unit examines the Trait Approach. These are the activities students are expected to complete before coming to class:
 
 | **☑** | **Activities**                             | **Expected Time Commitment** |
 |---|--------------------------------------------|------------------------------|
-|   | **Activity 4.1: Read, Watch and Reflect** <ul><li> Read all of Taylor’s book [**here**](http://wps.pearsoncustom.com/wps/media/objects/2429/2487430/pdfs/taylor.pdf) <li> Next, watch the video [**Scientific Management**](https://www.youtube.com/watch?v=vNfy_AHG-MU&t=68s) <li> Answer questions in your learning journal. | 2 hrs.                       |
-|   | **Activity 4.2: Watch and Reflect** <ul><li> Watch the video [**Time and Motion Studies**](https://www.youtube.com/watch?v=qUgKkBhZl9c) <li> Answer questions in your learning journal  | 30 mins                      |
-|   | **Activity 4.3: Read and Reflect** <ul><li> Read [**Alfred Marshall's Critical Analysis of Scientific Management**](https://ezproxy.student.twu.ca/login?url=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue&db=bth&AN=24232654&site=ehost-live) <li>Answer questions in your learning journal.  | 1.5 hrs                      |
-|   | **Activity 4.4: Read and Reflect** <ul><li> Watch the following three videos that provide a short introduction to the philosophy of W. Edwards Deming: <ul><li> [**Part 1**](https://www.youtube.com/watch?v=GHvnIm9UEoQ) <li> [**Part 2**](https://www.youtube.com/watch?v=mKFGj8sK5R8) <li> [**Part 3**](https://www.youtube.com/watch?v=6WeTaLRb-Bs) <li> Answer questions in your learning journal    | 30 mins.                     |
-|   | **Activity 4.5: Search, Read and Reflect** <ul><li> Search for contemporary companies that utilize the LEAN production system. <li> Read the following article by Priestley (2005) [**Scientific Management in the 21st Century**](http://www.articlecity.com/articles/business_and_finance/article_4161.shtml) | 30 mins.                     |
+|   | **Activity 5.1: Reflect** <ul><li> Answer questions in your learning journal.      | 15 mins                      |
+|   | **Activity 5.2: Watch, Read, and Reflect** <ul><li>-   Watch the video [**Trait Approach:** (Northouse Chapter 2)](https://www.youtube.com/watch?v=GgllfdT1jtA&list=PLx-uqKoW1C5nXd5jnA_Ut8TWbjCk7tWtL&index=2) <li>	Read chapter 2 of the Northouse’s Leadership: Theory and Practice. <li> Answer questions in your learning journal | 2 hrs        |
+|   | **Activity 5.3: Complete and Reflect** <ul><li> Complete the Leadership Trait Questionnaire <li> Answer questions in your learning journal.   | 1.5 hrs                      |
+|   | **Activity 5.4: Choose and Respond.** <ul><li> Choose ONE of the case studies that interests you. <li> Answer the case study questions. <li> Record your response.   | 2 hrs.                       |
 
 ## What Will You Be Doing?
 
-Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to facilitating group discussion and the second 1.5 hours will be focused on the Presentation Activity (details below).
+Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to facilitating group discussion and the second 1.5 hours will be focused on the Case Study Activity (details below).
 
 ### Part 1: Lead the Group Discussion
 
 Divide the class into small groups. Have them discuss questions provided below, and then select a spokesperson who will summarize their findings for the rest of the class after you reconvene as a large group. Note: the same person should not be the spokesperson each week. The level of participation will contribute to each student’s individual participation grade. 
 
-In Unit 4, the group discussion will focus on the following questions:
+In Unit 5, the group discussion will focus on the following questions:
 
-  1.  How did Taylor change people’s thinking about leadership and management?
+  1. Discuss the importance of the following traits associated with leaders: intelligence, self-confidence, determination, integrity, and sociability. Is this list all-inclusive?
 
-  2.  Where do you see the impact of Taylor’s theory occurring today?
+  2. Choose one of the main traits associated with leaders. Identify one or two people who have this trait. How does it serve them in their leadership role?
 
-  3.  How did the Gilbreth’s change people’s thinking about leadership and management at the time?
+  3. Discuss which of the “Big Five” personality traits you feel you possess and give a personal example of how they benefited you in a leadership context.
 
-  4.  Where do you see the impact of the motion studies occurring today?
+  4. How big of an impact do you think emotional intelligence has on helping people be successful? Give a personal example of its impact on your life.
 
-  5.  What goals seem to dominate early management principles?
+  5. Is charisma an inborn trait or can it be acquired later on in life? How might a person acquire charisma?
 
-  6.  Are there any jobs today for which time and motion studies would make sense to do? Would any other skills need to be taught as well?
+  6. Why do people’s perceptions of leaders matter? How does perception fit with the process nature of leadership? How does it fit with the influential nature of leadership?
 
-  7.  What do early management principles leave out?
+  7. What are some leadership challenges today? (e.g., economic policy, climate change, and world hunger). Which of the leadership traits from this chapter are most relevant to address that challenge?
 
-  8.  What are the differences and similarities that you noticed between Demming’s TQM and Taylor’s Scientific Management?
+  8. Are there any leadership traits needed by leaders today that aren’t listed in chapter 2? If so, what do you think is missing?
 
-  9.  How has scientific management thought influenced contemporary leadership?
+### Part 2: Case Study Activity
 
-  10. What are the strengths and the limitations of scientific management?
+Divide the class up into three different groups. Each group will be assigned to one of the case studies provided at the end of chapter 2. As a group, have the students read the case study together and answer the questions prepared at the end of the case study to guide discussion.
+
+  -   Each group will be responsible for leading the discussion with the guiding questions provided at the end of the case study.
+
+  -   Teamwork and communication are key aspects of this exercise. If needed, call on students who haven’t spoken yet or instigate another rule to encourage participation.
+
+  -   Each group will be responsible for recording key pieces of information discussed in the group.
+
+  -   Write out key facts on the board for reference.
+
+  -   Having the information written out makes it easier for students to reference during the discussion and helps maintain everyone on the same page. 
+
+  -   Keep an eye on the clock and make sure students are moving through the case study and questions at a reasonable pace.
+
+  -   Allow students to work on the case study and questions for 1 hour and then have students re-cap the key ideas discussed and present this information to the class in the last 30 minutes.
+
+  -   The re-cap should highlight the key points from the discussion. Make sure to compare and contrast alternate viewpoints that came up during the discussion and emphasize the take-home messages that can be applied to future situations.
 
 **Evaluating Group Discussions:**
 
@@ -56,52 +71,10 @@ Part of your responsibility as the facilitator will be to evaluate student parti
 | N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
 ***Note:*** An absence for **one** class will not result in a loss of participation marks.
 
-### Part 2: Presentation Activity
-
-For this activity, divide students into 4-5 groups. The objective of this activity is to research a 21st century company that uses scientific management. Then the group will prepare a short presentation to provide the rest of the class with information about how that company uses scientific management principles.
-
-**Prep**
-
-*Presentations will be group projects*
-
--   The amount of time available to prepare for the presentation will be class time only.
-
-*Set clear expectations for the presentations*
-
--   Give clear instructions. Things to consider include:
-
-    -   How long should it be?
-
-    -   What format should it be in (Powerpoint, Written on the board, A Handout, etc.)?
-
-    -   Should students be ready to field questions?
-
--   If students are presenting in groups, provide an opportunity for peer feedback. This will relieve frustrations of unequal contribution to the group. 
-
-**During**
-
-*Keep track of time.*
-
--   As students are presenting, makes sure to be strict timekeeper. It is often helpful to have a 5- or 2-min warning signal so students know to speed up if they are not going to make the time limit. 
-
-**After**
-
-*Provide constructive feedback.*
-
--   After the presentation, provide students with constructive feedback on both the content and delivery of their presentation.
-
--   You can also allow for peer feedback, after first modeling what constructive feedback looks and sounds like.
-
 ### Part 3: Assignments Reminders
 
-After the class is done remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 2 assessment page.
+After the class is done remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 5 assessment page.
 
-Next, they will need to complete Assignment \#2: Scientific Management Paper. This paper involves a 4-page response paper to Taylor’s book. Be sure to cite page numbers if you are using quotes (remember that I want to see your understanding of the quote, not just the quote – use quotes minimally). In your paper, address the following questions:
+Next, they need to provide a case study response. They are asked to choose ONE of the case studies that interests them from Chapter 2 and answer the questions for it that are provided at the end of the case.
 
--   In your own words, what is Scientific Management?
-
--   What are 5 principles about Scientific Management that you agree with and why?
-
--   What are 5 principles about Scientific Management that you disagree with and why?
-
--   What are 3 principles can we learn from Scientific Management that apply to leadership practice today and how will you apply them to your own leadership?
+They will record their response to the Case Study questions in a Word document or a Google document. The response should be no more than one page double-spaced. Label this Case Study 1. Keep this word document in a file folder on your computer because you will be adding to the document over the next 5 units. This case study response is part 1 of 6. 
