@@ -1,24 +1,22 @@
 ---
-title: 'Unit 9 Lesson Notes'
+title: 'Unit 10 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 9: Path‐Goal Theory
+## Unit 10: Leader-­Member Exchange Theory
 
-This unit introduces students to the path– goal theory of leadership. This unit discusses how leaders motivate followers to accomplish designated goals. The stated goal of this theory is to enhance follower performance and follower satisfaction by focusing on follower motivation and the nature of the work tasks.  
+This unit introduces you to the Leader-Member Exchange Theory (LMX). This theory makes the dyadic relationship between leaders and followers the focal point of the leadership process. Before LMX theory, researchers treated leadership as something leaders did toward all of their followers. This assumption implied that leaders treated followers in a collective way, as a group, using an average leadership style. LMX theory challenged this assumption and directed researchers’ attention to the differences that might exist between the leader and each of the leader’s followers.
 
 These are the activities students are expected to complete before coming to class:
 
-
-
-| **☑**  | **Activities**         | **Expected Time Commitment** |
-|---|--------------------------------------------|------------------------------|
-|   | **Activity 9.1: Watch, Read, and Reflect** <ul><li> Watch the video [**Path-Goal Theory** (Chapter 6)](https://www.youtube.com/watch?v=Zub6tdiLX04&list=PLx-uqKoW1C5nXd5jnA_Ut8TWbjCk7tWtL&index=6) <li>	Read Chapter 6 of the Northouse’s Leadership: Theory and Practice. <li> Answer questions in your learning journal.| 2 hrs                        |
-|   | **Activity 9.2: Complete and Reflect** <ul><li> Complete the ***Path–Goal Leadership Questionnaire.*** <li> Answer questions in your learning journal.     | 1.5 hrs                      |
-|   | **Activity 9.3: Choose and Respond.** <ul><li> Choose **ONE** of the case studies that interests you. <li> Answer the case study questions. <li>	Record your response.    | 2 hrs.                       |
-|   | **Assessment** <ul><li> Group Discussion led by the facilitator <li>	Journal Response <li> Complete Leadership Case Study #5      | 5 hours         |
+|  **☑**  | **Activities**      | **Expected Time Commitment** |
+|---|---------------------------------------------|------------------------------|
+|   | **Activity 10.1: Watch, Read, and Reflect** <ul><li> Watch the video  [**Leader-Memeber Exchange Theory** (Chapter 7)](https://www.youtube.com/watch?v=by18QVdD_WY&list=PLx-uqKoW1C5nXd5jnA_Ut8TWbjCk7tWtL&index=7) <li>	Read Chapter 7 of the Northouse’s Leadership: Theory and Practice. <li> Answer questions in your learning journal.| 2 hrs                        |
+|   | **Activity 10.2: Complete and Reflect** <ul><li> Complete the ***LMX 7 Questionnaire.*** <li> Answer questions in your learning journal.   | 1.5 hrs                      |
+|   | **Activity 10.3: Choose and Respond.** <ul><li> Choose **ONE** of the case studies that interests you. <li> Answer the case study questions. <li>	Record your response.   | 2 hrs.                       |
+|   | **Assessment** <ul><li> Group Discussion led by the facilitator <li>	Journal Response <li> **Complete Leadership Case Study #6**         | 5 hours    |
 
 ## What Will You Be Doing?
 
@@ -28,29 +26,23 @@ Today you will have 3 hours in total with the students. The first 1.5hrs is devo
 
 Divide the class into small groups. Have them discuss questions provided below, and then select a spokesperson who will summarize their findings for the rest of the class after you reconvene as a large group. Note: the same person should not be the spokesperson each week. The level of participation will contribute to each student’s individual participation grade. 
 
-In Unit 9, the group discussion will focus on the following questions:
+In Unit 10, the group discussion will focus on the following questions:
 
-  1.  What is the underlying assumption of expectancy theory? How does this pose a challenge for the leader?
+  1.  How does LMX theory challenge a basic assumption common to prior theories?
 
-  2.  Identify four leadership styles associated with path–goal theory. Explain each style and relate it to styles described in other theories. Can leaders exhibit more than one style?
+  2.  Contrast the experiences of in-group and out-group members. Have you observed groups that fit these descriptions in an organization in which you work or with which you affiliate? Give specific examples to support your observations.
 
-  3.  What practical examples can you think of for how leaders can enhance follower motivation?
+  3.  Why is it important to measure LMX from both the perspective of the leader and follower?
 
-  4.  What leadership traits or competencies are needed to be an effective motivator?
+  4.  In what ways has technology use enhanced or hindered your working relationship with a leader or follower? For example: texting (instead of phoning), use of social media sites (instead of in-person conversation), and so on.
 
-  5.  What is the follower’s role in path–goal theory?
+  5.  Can you think of an example where a leader’s effective management of a conflict at work improved his/her relationship with followers?
 
-  6.  Should a leader adapt his or her style to each individual follower, or to the work group as a whole?
-
-  7.  How can a leader find out what is rewarding to followers about their work?
-
-  8.  Do men and women leaders motivate followers differently?
-
-  9.  Apply path–goal theory to a work group you are currently in. How well does the leader’s style match the follower characteristics and task characteristics of your work group?
+  6.  How can LMX be used by CEOs to develop tactical relationships within their organizations?
 
 ### Part 2: Case Study Activity
 
-Divide the class up into three different groups. Each group will be assigned to one of the case studies provided at the end of chapter 6. As a group, have the students read the case study together and answer the questions prepared at the end of the case study to guide discussion.
+Divide the class up into three different groups. Each group will be assigned to one of the case studies provided at the end of chapter 7. As a group, have the students read the case study together and answer the questions prepared at the end of the case study to guide discussion.
 
   -   Allow students to work on the case study and questions for 1 hour and then have students re-cap the key ideas discussed and present this information to the class in the last 30 minutes.
 
@@ -69,4 +61,4 @@ Part of your responsibility as the facilitator will be to evaluate student parti
 
 After the class is done remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response.
 
-Next, they need to provide a case study response. They are asked to choose ONE of the case studies that interests them from Chapter 6 and answer the questions for it that are provided at the end of the case. This case study response is part 4 of 6. 
+Next, they need to provide a case study response. They are asked to choose ONE of the case studies that interests them from Chapter 7 and answer the questions for it that are provided at the end of the case. This case study response is part 6 of 6. 
