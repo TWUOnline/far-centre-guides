@@ -1,23 +1,24 @@
 ---
-title: 'Unit 8 Lesson Notes'
+title: 'Unit 9 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 8: Situational Approach
+## Unit 9: Path‐Goal Theory
 
-This unit introduces you to one of the more widely recognized approaches to leadership--the situational approach. The situational approach has been refined and revised several times since its inception and it has been used extensively in organizational leadership training and development.
+This unit introduces students to the path– goal theory of leadership. This unit discusses how leaders motivate followers to accomplish designated goals. The stated goal of this theory is to enhance follower performance and follower satisfaction by focusing on follower motivation and the nature of the work tasks.  
 
 These are the activities students are expected to complete before coming to class:
 
 
-| **☑** | **Activities**        | **Expected Time Commitment** |
+
+| **☑**  | **Activities**         | **Expected Time Commitment** |
 |---|--------------------------------------------|------------------------------|
-|   | **Activity 8.1: Watch, Read, and Reflect** <ul><li> Watch the video [**Situational Approach** (Chapter 5)](https://www.youtube.com/watch?v=ZjSwov19ubQ&list=PLx-uqKoW1C5nXd5jnA_Ut8TWbjCk7tWtL&index=5) <li>	Read Chapter 5 of the Northouse’s Leadership: Theory and Practice. <li> Answer questions in your learning journal. | 2 hrs                        |
-|   | **Activity 8.2: Complete and Reflect** <ul><li> Complete the ***Situational Leadership Questionnaire.*** <li> Answer questions in your learning journal.    | 1.5 hrs                      |
-|   | **Activity 8.3: Choose and Respond.** <ul><li> Choose **ONE** of the case studies that interests you. <li> Answer the case study questions. <li> Record your response   | 2 hrs.                       |
-|   | **Assessment** <ul><li>	Group Discussion led by the facilitator <li> Journal Response <li> Complete **Leadership Case Study #4**       | 5 hours          |
+|   | **Activity 9.1: Watch, Read, and Reflect** <ul><li> Watch the video [**Path-Goal Theory** (Chapter 6)](https://www.youtube.com/watch?v=Zub6tdiLX04&list=PLx-uqKoW1C5nXd5jnA_Ut8TWbjCk7tWtL&index=6) <li>	Read Chapter 6 of the Northouse’s Leadership: Theory and Practice. <li> Answer questions in your learning journal.| 2 hrs                        |
+|   | **Activity 9.2: Complete and Reflect** <ul><li> Complete the ***Path–Goal Leadership Questionnaire.*** <li> Answer questions in your learning journal.     | 1.5 hrs                      |
+|   | **Activity 9.3: Choose and Respond.** <ul><li> Choose **ONE** of the case studies that interests you. <li> Answer the case study questions. <li>	Record your response.    | 2 hrs.                       |
+|   | **Assessment** <ul><li> Group Discussion led by the facilitator <li>	Journal Response <li> Complete Leadership Case Study #5      | 5 hours         |
 
 ## What Will You Be Doing?
 
@@ -27,31 +28,29 @@ Today you will have 3 hours in total with the students. The first 1.5hrs is devo
 
 Divide the class into small groups. Have them discuss questions provided below, and then select a spokesperson who will summarize their findings for the rest of the class after you reconvene as a large group. Note: the same person should not be the spokesperson each week. The level of participation will contribute to each student’s individual participation grade. 
 
-In Unit 8, the group discussion will focus on the following questions:
+In Unit 9, the group discussion will focus on the following questions:
 
-  1.  Provide examples of behaviors that correspond with four proposed styles.
+  1.  What is the underlying assumption of expectancy theory? How does this pose a challenge for the leader?
 
-  2.  Can you think of examples of followers who would fit each of the four proposed development levels?
+  2.  Identify four leadership styles associated with path–goal theory. Explain each style and relate it to styles described in other theories. Can leaders exhibit more than one style?
 
-  3.  Explain the two steps leaders must fulfill to be effective. Apply these steps to a current situation in which you are a follower. What style would be most appropriate for leading you, according to the theory, and why? Do you agree?
+  3.  What practical examples can you think of for how leaders can enhance follower motivation?
 
-  4.  Does a leader’s motivation for adapting his or her leadership style have any effect on followers? In other words, would a leader with a high concern for task differ from a leader with a high concern for relationships?
+  4.  What leadership traits or competencies are needed to be an effective motivator?
 
-  5.  Do you think the prescribed leadership behaviors in the SLII model apply to all cultures? Why or why not?
+  5.  What is the follower’s role in path–goal theory?
 
-  6.  What would follower competence and commitment look like in your line of work (i.e., how are these qualities conceptualized)?
+  6.  Should a leader adapt his or her style to each individual follower, or to the work group as a whole?
 
-  7.  If a leader uses a different style of leadership with each of his followers, how might that lead to perceptions of favoritism? What could a leader do to avoid such impressions while still being adaptable to follower needs?
+  7.  How can a leader find out what is rewarding to followers about their work?
 
-  8.  If a leader matches his or her style to the overall developmental level of the group he or she is leading, how might this affect the performance and motivation of the workers who are different?
+  8.  Do men and women leaders motivate followers differently?
 
-  9.  How can a leader be sure his or her perceptions of followers’ competence and commitment are accurate?
-
-  10. Why wouldn’t the coaching style be effective in every situation?
+  9.  Apply path–goal theory to a work group you are currently in. How well does the leader’s style match the follower characteristics and task characteristics of your work group?
 
 ### Part 2: Case Study Activity
 
-Divide the class up into three different groups. Each group will be assigned to one of the case studies provided at the end of chapter 5. As a group, have the students read the case study together and answer the questions prepared at the end of the case study to guide discussion.
+Divide the class up into three different groups. Each group will be assigned to one of the case studies provided at the end of chapter 6. As a group, have the students read the case study together and answer the questions prepared at the end of the case study to guide discussion.
 
   -   Allow students to work on the case study and questions for 1 hour and then have students re-cap the key ideas discussed and present this information to the class in the last 30 minutes.
 
@@ -70,4 +69,4 @@ Part of your responsibility as the facilitator will be to evaluate student parti
 
 After the class is done remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response.
 
-Next, they need to provide a case study response. They are asked to choose ONE of the case studies that interests them from Chapter 5 and answer the questions for it that are provided at the end of the case. This case study response is part 4 of 6. 
+Next, they need to provide a case study response. They are asked to choose ONE of the case studies that interests them from Chapter 6 and answer the questions for it that are provided at the end of the case. This case study response is part 4 of 6. 
