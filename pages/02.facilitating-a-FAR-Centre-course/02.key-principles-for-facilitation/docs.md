@@ -8,7 +8,7 @@ taxonomy:
 ### Facilitating a FAR Centre Course
 
 # Key Principles for Facilitation
-Below are some key reminders for you as you plan and deliver lessons in the FAR Centres. Refer also to your resources and course material from LDRS 627, 662, 663, 664, and 667.
+Below here is an overview of some key concepts you should keep in mind when you begin to plan and deliver your sessions. You will explore more around these concepts as you take your Graduate Certificate in Facilitation and Coaching, and you will have more resources to draw from as you complete each course.
 
 
 ## Androgogy
@@ -58,7 +58,7 @@ prior life experience.
 
 ### Learning with the Senses
 
-Rather than planning a class based on the traditional lecture and PowerPoint, explore social-emotional learning and sensory-engaging pedagogies.  How can we incorporate the senses of sight, sound, smell, taste and touch into our teaching? 
+Rather than planning a class based on the traditional lecture and PowerPoint, explore social-emotional learning and sensory-engaging pedagogies.  How can we incorporate the senses of sight, sound, smell, taste and touch into our teaching?
 
 Examples of sensory-engaged teaching methods:
 
@@ -82,9 +82,26 @@ Examples of sensory-engaged teaching methods:
 
 * Use of interactive technology
 
-### Active Learning 
+### Active Learning
 
-Below are some active learning strategies you may want to incorporate into your lessons.
+The heart and soul of teaching well is designing, sequencing and planning active learning opportunities around engaging and compelling content. This is creative work that requires the educator to research solid content aligned with the learning objectives and discern effective means of sharing and engaging learners with that content. Furthermore, it requires the educator to think about their specific learners, their prior knowledge about the topic, any fears or resistance they may bring to the topic and then carefully craft the time allotted so that objectives can be met in a fair, reasonably-paced, anxiety-free and hopefully enjoyable manner. It is tempting to try to use many fun activities during a session, but it’s very important to be judicious in selecting activities that serve a learning purpose. Avoid the trap of many beginning educators who focus more on ‘activitizing’ rather than aligning learning opportunities to objectives and assessment.
+
+Here are some classroom activities that you could use in your sessions: discussions, partner/group assignments, role plays, vocabulary practice, study skills, online course help, videos, etc.
+
+**Class Discussions**
+
+Facilitating discussion is a key skill of the adult educator and giving voice to the adult learner is one of the most important aspects for an adult educator to consider. Getting learners involved in the topic and having the confidence to speak in class and share their ideas whether through discussions or presentations, are essential elements of adult education.
+
+**Promoting Critical Thinking**
+
+Here are some examples of how to use the elements of critical thinking when designing activities:
+•	Ask good questions – take your specific objectives for the lesson and create questions using the elements as prompts.
+•	Group discussion – give students the elements and ask them to use them to analyze a reading or video.
+•	Teach how to come up with a thesis statement using the elements. Take the topic and go around the circle asking each participant to create a statement from one of the prompts associated with the elements. At the end, you will end up with as many statements as there are participants. Help students work with the statements, combining them etc. to make their thesis statement. This process facilitates sharp thinking and helps to focus students.
+•	Use the elements as an outline to help students writing in a more disciplined way about a topic.
+
+
+With those in mind, below are some active learning strategies you may want to incorporate into your lessons.
 
 Choose one of the readings for a unit and ask students to:
 
