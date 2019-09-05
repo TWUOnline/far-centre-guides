@@ -5,10 +5,8 @@ taxonomy:
         - docs
 ---
 
-### Facilitating a FAR Centre Course
 
-# Key Principles for Facilitation
-Below here is an overview of some key concepts you should keep in mind when you begin to plan and deliver your sessions. You will explore more around these concepts as you take your Graduate Certificate in Facilitation and Coaching, and you will have more resources to draw from as you complete each course.
+Here is an overview of some key concepts you should keep in mind when you begin to plan and deliver your sessions. You will explore more around these concepts as you take your Graduate Certificate in Facilitation and Coaching, and you will have more resources to draw from as you complete each course.
 
 
 ## Androgogy
