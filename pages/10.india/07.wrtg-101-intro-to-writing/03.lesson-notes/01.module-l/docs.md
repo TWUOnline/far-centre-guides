@@ -10,12 +10,10 @@ taxonomy:
 
 ## Activity Checklist
 
-!! See the schedule for Module 1 [here](Schedule-for-Module-1.pdf)
-!! Also refer to this [checklist](Module-1-Activity-Checklist.pdf) of learning activities and assessments
 
 
-## Week 1
-**The First Day of the class (Week 1-1)**
+
+**The First Day of the class (Lab 1)**
 
   - Print out the Course Syllabus and the Student Survey form given on
     our course site. Give them to our students on the first day of the
@@ -63,7 +61,7 @@ taxonomy:
 
 
 
-## Topic 1: Academic Writing Basics
+## Lesson 1: Academic Writing Basics
 
 #### Class Activity 1.1 \[APA Template\]: (Individual work)
 
@@ -107,7 +105,7 @@ of the class time will not be accepted.
 6.  Please take attendance. This will be counted for a participation
     mark.
 
-## Topic 3: APA Documentation
+## Lesson 3: APA Documentation
 
 **Class Activity 1.2 \[Paraphrasing & APA documentation\]:** (Group
 work: 3\~4 students per group) *– Forum page hidden view for students*
@@ -265,7 +263,7 @@ this in advance. The detailed instructions are given
     dropbox where they can save up to 20 files. Then, please inform the
     issue to the professor by email immediately.
 
-## Topic 4: Academic Tone
+## Lesson 4: Academic Tone
 
 ## Assessment
 
@@ -290,9 +288,9 @@ check the details below.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Individual Activity 1.1 [Topic 1- Reading check]</p>
-<p>Individual Activity 1.2 [Topic 2- APA Format Check]</p>
-<p>Individual Activity 1.3 [Topic 3- Understanding of Plagiarism]</p></td>
+<td><p>Individual Activity 1.1 [Lesson 1- Reading check]</p>
+<p>Individual Activity 1.2 [Lesson 2- APA Format Check]</p>
+<p>Individual Activity 1.3 [Lesson 3- Understanding of Plagiarism]</p></td>
 <td>5 points per activity</td>
 </tr>
 <tr class="even">
@@ -308,11 +306,11 @@ check the details below.
 <tr class="even">
 <td><p><strong>[NOTE]</strong></p>
 <ul>
-<li><p>All the individual activities that are graded in Module 1~4 will be counted in total of 3%.</p>
+<li><p>All the individual activities that are graded in Module 1~4 will be counted in total of 2%.</p>
 <ul>
 <li><p>The individual activities are to encourage you to study spontaneously, so it does not matter how many correct answers you get. That is, whenever you complete each individual activity spontaneously, you will receive a full mark, 5 points. If not, you will be given ‘0’.</p></li>
 </ul></li>
-<li><p>All the class activities in Module 1~4 will be counted in total of 5%.</p>
+<li><p>All the class activities in Module 1~4 will be counted in total of 3%.</p>
 <ul>
 <li><p>Your facilitator will monitor your contribution to each class activity and give you a mark from 0 to 5. This will be reported to your professor.</p></li>
 <li><p>Remember that the class activities which are also formative are about your efforts, but not about the results of your group work. Please “participate” in each class activity diligently.</p></li>
@@ -323,7 +321,7 @@ check the details below.
 </tbody>
 </table>
 
-### APA Quiz: 5%
+### APA Quiz: 3%
 
 After you have completed Module 1, you will take an in-class quiz.
 Please read the details below and study the Module 1 materials and
