@@ -5,9 +5,6 @@ taxonomy:
         - docs
 ---
 
-### FAR Centre Assessment
-
-# Assessment
 
 Assessments in FAR Centres are graded by TWU faculty. FAR Centre Facilitators may need to guide students in understanding assessments, interpreting feedback, and identifying areas of improvement. Please refer to specific course rubrics for more details on Assessment.  Below are come key principles in Assessment that will guide you as you facilitate your courses.
 

@@ -6,12 +6,9 @@ taxonomy:
 visible: true
 ---
 
-### FAR Centre Facilitation
-
-# Student Resources
 
 When designing your activities your goal should be to enable students to be as successful as they can be. We want to give students meaningful opportunities to demonstrate
-learning. Note that there may be undiagnosed learning disabilities, cross cultural differences and English language learning that may impact student learning.  See the following resources to support students: 
+learning. Note that there may be undiagnosed learning disabilities, cross cultural differences and English language learning that may impact student learning.  See the following resources to support students:
 
 >> #### Learning Disabilities
 
