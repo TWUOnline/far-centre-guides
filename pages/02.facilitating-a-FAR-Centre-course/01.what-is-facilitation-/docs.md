@@ -19,9 +19,13 @@ At TWU Global, we believe that while there are barriers to creating successful i
 As a facilitator at a FAR Center, some of your primary duties will :
 
 •	Plan and lead weekly Learning Labs that correspond with the units in the students courses
+
 •	Provide both group and individual coaching in developing critical thinking skills, understanding major concepts and academic writing
+
 •	Oversee the students completion of their courses
+
 •	Facilitate quizzes and exams
+
 •	Help students with technological difficulties
 
 As you embark on your journey as a facilitator, your understanding of your own role will expand and shape according to where you are. Facilitators have a multilayered yet essential role that is informed by context, students and learning outcomes, and it requires flexibility, discernment and a readiness to learn.
