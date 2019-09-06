@@ -12,7 +12,7 @@ visible: true
 # Syllabus
 
 The following information is from the course syllabus, also located in Moodle.  Note that you will need to modify the schedule based on your term.  Please also discuss with the Faculty if there are any other changes to the syllabus.
-See full [syllabus](HIST_107_Syllabus_Fall2019) for more course details.
+See full [syllabus](HIST_107_Syllabus_Fall2019.pdf) for more course details.
 
 ## Course Description
 
