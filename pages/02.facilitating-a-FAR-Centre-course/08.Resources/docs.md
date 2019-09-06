@@ -1,5 +1,5 @@
 ---
-title: 'Opening Exercises (Ice-Breakers)'
+title: Resources
 taxonomy:
     category:
         - docs
