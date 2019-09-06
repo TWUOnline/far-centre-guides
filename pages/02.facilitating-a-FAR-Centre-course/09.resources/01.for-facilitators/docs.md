@@ -5,7 +5,7 @@ taxonomy:
         - docs
 visible: true
 ---
-##Opening Exercises
+## Opening Exercises
 
 Opening exercises (also referred to as warm-ups or icebreakers) should be tied to the data collected from pre-assessments and to the objectives of the session. It’s important to find ways to connect the learners’ experience to what you are going to be teaching. This will answer the unspoken question in participants’ minds: *Is this going to be worth my time?* Opening exercises should also help people feel connected in some way and establish some group sense of purpose.
 
