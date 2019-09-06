@@ -1,5 +1,5 @@
 ---
-title: Coaching and Assessment
+title: 'Resources'
 taxonomy:
     category:
         - docs
