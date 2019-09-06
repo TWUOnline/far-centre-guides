@@ -67,8 +67,7 @@ requires.**
 
 >   e.   Be comfortable with uncertainty.
 
-4.     **Apply the range of skills it takes to decode the historical record
-because of its incomplete, complex, and contradictory nature.**
+4.     **Apply the range of skills it takes to decode the historical record because of its incomplete, complex, and contradictory nature.**
 
 >   a.   Consider a variety of historical sources for credibility, position,
 >   perspective, and relevance.
@@ -80,7 +79,7 @@ because of its incomplete, complex, and contradictory nature.**
 
  
 
-**5.     Create historical arguments and narratives.**
+5.     **Create historical arguments and narratives.**
 
 >   a.   Generate substantive, open-ended questions about the past and develop
 >   research strategies to answer them.
@@ -90,8 +89,7 @@ because of its incomplete, complex, and contradictory nature.**
 
  
 
-**5.     Use historical perspective as central to engaged global citizenship and
-Christian discipleship. **
+6.     **Use historical perspective as central to engaged global citizenship and Christian discipleship. **
 
 >   a.   Apply historical knowledge and historical thinking to contemporary
 >   issues.
