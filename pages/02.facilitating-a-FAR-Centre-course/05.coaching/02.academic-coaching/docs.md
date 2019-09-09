@@ -14,28 +14,19 @@ The definition of a "coach" is someone who "meets students where they are at and
 
 As noted above, the role of the coach is not to as simple as helping students with their homework. Coaches have a wider scope of the learning process than tutors do, and their goal is to come along side students and strategically move them towards becoming  **self-regulated learners**. Self-regulated learners are those who learn by choice with determination and agency, and the goal of the learning coach is to help students become self-regulated learners through developing in them these three things:
 
--Competence- the sense of having control over one's environment, not being a victim or helpless
+- Competence the sense of having control over one's environment, not being a victim or helpless
+- Relatedness- being in relationship with others, being valued and cared for, which leads to a freedom to take risks in learning
+- Autonomy- being able to make one's own decisions and do things independently, motivated by a sense of value and pleasure in learning.
 
--Relatedness- being in relationship with others, being valued and cared for, which leads to a freedom to take risks in learning
-
--Autonomy- being able to make one's own decisions and do things independently, motivated by a sense of value and pleasure in learning.
 
 To coach in a way that focuses on these things, you can use these specific strategies:
 
-•	Give students choices and when choices are restricted, discuss why
-
-•	Use inviting language, such as “I’m interested in your idea. Can you tell me more about it?”
-
-•	Be in tune to the learner’s personal state during a session and adapt accordingly (Reeve, 2006; as cited in Moreno-Murcia, 2016).
-
-•	Do not shut down a student’s perspective or thought. Lead the student to ask themselves questions and seek more clarity on it.
-
-•	Do not pressure the learner to accept your thought or perspective
-
-•	Provide structure for each session. Help the learner understand the expectations for being successful in your sessions.
-
-•	Encourage the learner to evaluate his or her sources of support, whether material or human
-
-•	Welcome complaints and negative affect. Validate these emotions.
-
-•	Never use guilt or shame tactics.
+-	Give students choices and when choices are restricted, discuss why
+-	Use inviting language, such as “I’m interested in your idea. Can you tell me more about it?”
+-	Be in tune to the learner’s personal state during a session and adapt accordingly (Reeve, 2006; as cited in Moreno-Murcia, 2016).
+-	Do not shut down a student’s perspective or thought. Lead the student to ask themselves questions and seek more clarity on it.
+-	Do not pressure the learner to accept your thought or perspective
+-	Provide structure for each session. Help the learner understand the expectations for being successful in your sessions.
+-	Encourage the learner to evaluate his or her sources of support, whether material or human
+-	Welcome complaints and negative affect. Validate these emotions.
+-	Never use guilt or shame tactics.
