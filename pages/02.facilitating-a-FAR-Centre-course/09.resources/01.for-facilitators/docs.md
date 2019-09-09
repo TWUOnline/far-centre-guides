@@ -11,10 +11,10 @@ Opening exercises (also referred to as warm-ups or icebreakers) should be tied t
 
 Refer to Silberman chapter 3 for many practical strategies for team building, on the spot assessment and immediate learning involvement. Methods include: Open discussion, response cards, polling, subgroup discussions, partners, go-arounds, games, calling on the next speaker, panels and fishbowls.
 
-#### Syllabus Scavenger Hunt
+##### Syllabus Scavenger Hunt
 Consider having this activity for the first day of class.  See full details [here](http://thoughtsonteaching-jdunlap.blogspot.com/2008/10/scavenger-hunts-as-strategy-for.html)
 
-#### Name Bingo
+##### Name Bingo
 Text from Silberman ch. 3
 
 1. Participants wander around the room and meet each other.
@@ -31,7 +31,7 @@ Text from Silberman ch. 3
 
 7. As their names are picked, participants should introduce themselves to the group and share three facts about themselves.
 
-#### Instructions for Tell the Truth
+##### Instructions for Tell the Truth
 
 1. Ask each participant to write down on a card three personal facts not previously shared with the group.
 
@@ -41,4 +41,4 @@ Text from Silberman ch. 3
 
 4. Ask, " will the real bearer of this card please stand up?"
 
-5. Allow for surprise or self-congratulatory applause. 
+5. Allow for surprise or self-congratulatory applause.
