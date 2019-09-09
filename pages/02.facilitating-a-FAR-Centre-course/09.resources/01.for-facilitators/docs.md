@@ -42,3 +42,51 @@ Text from Silberman ch. 3
 4. Ask, " will the real bearer of this card please stand up?"
 
 5. Allow for surprise or self-congratulatory applause.
+
+# Tips for creating presentations
+
+##### **Gaining your audiences interest**
+
+1. Begin with a fun introductory exercise
+
+2. Use a leadoff story or interesting visual that ties to the topic
+
+3. Start off with an initial case problem
+
+4. Test their present knowledge with quiz questions
+
+5. Give them a preview of the presentation content
+
+##### **Maximizing understanding and retention**
+
+1. Opening summary of major points
+
+2. Use headlines in your presentations
+
+3. Provide real-life examples and illustrations
+
+4. Create analogies for the concepts your are teaching
+
+5. Visual back-up in your slides
+
+##### **Involving Participants during presentation**
+
+1. Assign students with assigned listening troubleshooting
+
+2. Create guided-notetaking in your slides
+
+3. On-the-spot challenge
+
+4. Involve synergetic learning through giving different information to different participants
+
+5. Use illuminating exercises throughout the presentation
+
+##### **Reinforcing presentations**
+
+1. Facilitate a mini-press conference where students present their questions and comments regarding session.
+
+2. Participant Review- Students review the contents of the presentation with each other
+
+3. Group processing and reflection on the material learned
+
+4. Post-presentation case problem based on the material learned 
