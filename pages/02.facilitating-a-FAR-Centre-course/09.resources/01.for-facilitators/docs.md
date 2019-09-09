@@ -14,7 +14,7 @@ Refer to Silberman chapter 3 for many practical strategies for team building, on
 ##### Syllabus Scavenger Hunt
 Consider having this activity for the first day of class.  See full details [here](http://thoughtsonteaching-jdunlap.blogspot.com/2008/10/scavenger-hunts-as-strategy-for.html)
 
-##### Name Bingo
+##### **Name Bingo**
 Text from Silberman ch. 3
 
 1. Participants wander around the room and meet each other.
