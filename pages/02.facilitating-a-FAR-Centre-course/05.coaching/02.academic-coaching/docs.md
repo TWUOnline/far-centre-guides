@@ -10,6 +10,8 @@ A significant part of the facilitator's role will be to provide academic coachin
 
 ---
 
+![](image-8.jpeg)
+
 The definition of a "coach" is someone who "meets students where they are at and provides direction, encouragement, correction, and wisdom to help the students become all they can be. The coach is process-focused, not product-focused. It is relational, not clinical. A coach is not an editor or tutor, not a "fixer" or a doctor. Coaches support the scholarly development of learners as they work on specific tasks, with clear targets"(Coaching Manual, p.1).
 
 As noted above, the role of the coach is not to as simple as helping students with their homework. Coaches have a wider scope of the learning process than tutors do, and their goal is to come along side students and strategically move them towards becoming  **self-regulated learners**. Self-regulated learners are those who learn by choice with determination and agency, and the goal of the learning coach is to help students become self-regulated learners through developing in them these three things:
