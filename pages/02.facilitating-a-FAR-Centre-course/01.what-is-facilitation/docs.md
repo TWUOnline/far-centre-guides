@@ -6,6 +6,7 @@ taxonomy:
 visible: true
 ---
 
+![](image-1.jpeg)
 
 When you first heard of the title, ‘Global Academic Facilitator’, you may have been curious as to what the position entails. To ‘facilitate’ something refers to making an action or process easier (Oxford definition), and a facilitator of learning is someone who does whatever is necessary to ensure that learning can happen in a given environment. This could be through administering learning materials, coaching students individually, teaching content in a group setting, providing tech support, or whatever is needed for students to have a comprehensive learning experience.
 
@@ -29,7 +30,3 @@ As a facilitator at a FAR Center, some of your primary duties will :
 •	Help students with technological difficulties
 
 As you embark on your journey as a facilitator, your understanding of your own role will expand and shape according to where you are. Facilitators have a multilayered yet essential role that is informed by context, students and learning outcomes, and it requires flexibility, discernment and a readiness to learn.
-
-[](photo-1531482615713-2afd69097998.webp)
-
-<a href= https://unsplash.com/photos/IgUR1iX0mqM
