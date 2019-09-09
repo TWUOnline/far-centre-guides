@@ -29,3 +29,4 @@ As a facilitator at a FAR Center, some of your primary duties will :
 •	Help students with technological difficulties
 
 As you embark on your journey as a facilitator, your understanding of your own role will expand and shape according to where you are. Facilitators have a multilayered yet essential role that is informed by context, students and learning outcomes, and it requires flexibility, discernment and a readiness to learn.
+[](photo-1531482615713-2afd69097998.webp)
