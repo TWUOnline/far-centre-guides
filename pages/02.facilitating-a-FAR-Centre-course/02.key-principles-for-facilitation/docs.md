@@ -8,7 +8,7 @@ taxonomy:
 
 Here is an overview of some key concepts you should keep in mind when you begin to plan and deliver your sessions. You will explore more around these concepts as you take your Graduate Certificate in Facilitation and Coaching, and you will have more resources to draw from as you complete each course.
 
-
+![](image-4.jpeg)
 ## Androgogy
 As you plan your learning activities, keep in mind these six assumptions about andragogy from Knowles (1980 cited in Merriam & Bierma, 2014, p.47)
 
@@ -41,6 +41,7 @@ Here are a couple more beliefs about adult learning that place a primary emphasi
 * Adults collaborate and support one another in their learning rather than compete. Everyone is capable of doing well.
 * Self-reflection, dialogue, writing and collaborative small group work are essential in sense-making and learning. Rote memory and lecture are deemphasized.
 
+![](image-5.jpeg)
 ### Prior Needs Assessment
 Before you plan to teach anything, it’s a good idea to find out what
 your students already know.  You can save time (and boredom) by not
@@ -53,7 +54,7 @@ The idea is to plan a way to learn what the participants already know on
 the topic. Because they are adults it’s important to recognize their
 prior life experience.
 
-
+![](image-2.jpeg)
 ### Learning with the Senses
 
 Rather than planning a class based on the traditional lecture and PowerPoint, explore social-emotional learning and sensory-engaging pedagogies.  How can we incorporate the senses of sight, sound, smell, taste and touch into our teaching?
@@ -80,6 +81,7 @@ Examples of sensory-engaged teaching methods:
 
 * Use of interactive technology
 
+![](image-3.jpeg)
 ### Active Learning
 
 The heart and soul of teaching well is designing, sequencing and planning active learning opportunities around engaging and compelling content. This is creative work that requires the educator to research solid content aligned with the learning objectives and discern effective means of sharing and engaging learners with that content. Furthermore, it requires the educator to think about their specific learners, their prior knowledge about the topic, any fears or resistance they may bring to the topic and then carefully craft the time allotted so that objectives can be met in a fair, reasonably-paced, anxiety-free and hopefully enjoyable manner. It is tempting to try to use many fun activities during a session, but it’s very important to be judicious in selecting activities that serve a learning purpose. Avoid the trap of many beginning educators who focus more on ‘activitizing’ rather than aligning learning opportunities to objectives and assessment.
@@ -113,7 +115,7 @@ d) draw a picture or graphic of the information
 
 e) ask, "What is the effect of these sensory additions to your reading?"
 
-
+![](image-1.jpeg)
 ### Experiential Learning
 
 Corporate trainer, Dave Root defines experiential learning as "immersive activities that mimic real-world challenges with a targeted debrief that connects the lessons learned with the reality of the workplace. It allows participants to learn by doing."  Some examples of experiential learning include cooperative education, practicums, internships, studies abroad, field trips, service learning projects, role playing, case studies and simulations. For excellent examples and best practices in experiential learning, be sure to read this article from Ryerson University's Learning and Teaching Office.
