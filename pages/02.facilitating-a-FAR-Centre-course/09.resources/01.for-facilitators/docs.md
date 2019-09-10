@@ -43,7 +43,7 @@ Text from Silberman ch. 3
 
 5. Allow for surprise or self-congratulatory applause.
 
-# Tips for creating presentations
+## Tips for creating presentations
 
 ##### **Gaining your audiences interest**
 
