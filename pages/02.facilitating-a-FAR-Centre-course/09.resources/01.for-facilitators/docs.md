@@ -71,9 +71,11 @@ Text from Silberman ch. 3
 
 ##### **Involving Participants during presentation**
 
+Involving participants during presentations is a way to foster student engagement, and it is another useful method in ensuring students understand and retain the information they are learning. Here are some practical ways you can involve students during presentations.
+
 1. Assign students with assigned listening troubleshooting
 
-2. Create guided-notetaking in your slides
+2. Create guided note-taking in your slides
 
 3. On-the-spot challenge
 
@@ -83,10 +85,32 @@ Text from Silberman ch. 3
 
 ##### **Reinforcing presentations**
 
+Here is a summary of recommendations from the Silberman text about how to reinforce presentations after you have finished presenting to your students. Reinforcing presentations is crucial to helping students retain what they have learned.
+
 1. Facilitate a mini-press conference where students present their questions and comments regarding session.
 
-2. Participant Review- Students review the contents of the presentation with each other
+2. Participant Review- Students review the contents of the presentation with each other.
 
-3. Group processing and reflection on the material learned
+3. Group processing and reflection on the material learned.
 
-4. Post-presentation case problem based on the material learned 
+4. Post-presentation case problem based on the material learned.
+
+5. Create an experiential activity that dramatically illustrates or summarizes the main points in the presentation.
+
+##### **Alternative Teaching Techniques**   
+
+While presentations may seem like the easiest way to communicate material to learners, using a variety of teaching techniques can keep learning labs interesting and cater to students unique learning styles. Here are some ideas for other ways you can teach students.
+
+1. **Demonstrate** your material either through group experiments of simulation exercises.
+
+2. Hand out **case studies** of relevant situations in which students are required to make reflections, assessments and recommendations in regard to the case.
+
+3. Create **guided teaching** exercises through asking students questions, recording their hypotheses or conclusions and then comparing them with the answers you have in your presentation points.
+
+4. Lead a **group inquiry** with the students that has them asking questions about the topic, and the teacher can guide the group through a problem-solving quest based on the student's questions.
+
+5. Create **information searching** assignments for the students to complete. This could look like a sheet of questions, fill in the blanks, or true or false, and then provide them resources where they can look for the answers.
+
+6. Have students form several **study groups**, and give a worksheet with notes from the presentation to all the groups for them to discuss with one another.
+
+7. Divide the students into groups and facilitate a **jigsaw learning** activity. Divide the presentation material into different sections, and give each group of students a section that they must learn and then teach to the rest of the class.
