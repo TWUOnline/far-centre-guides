@@ -97,7 +97,7 @@ Here is a summary of recommendations from the Silberman text about how to reinfo
 
 5. Create an experiential activity that dramatically illustrates or summarizes the main points in the presentation.
 
-##### **Alternative Teaching Techniques**   
+##### **Alternatives to Presentations**   
 
 While presentations may seem like the easiest way to communicate material to learners, using a variety of teaching techniques can keep learning labs interesting and cater to students unique learning styles. Here are some ideas for other ways you can teach students.
 
@@ -114,3 +114,18 @@ While presentations may seem like the easiest way to communicate material to lea
 6. Have students form several **study groups**, and give a worksheet with notes from the presentation to all the groups for them to discuss with one another.
 
 7. Divide the students into groups and facilitate a **jigsaw learning** activity. Divide the presentation material into different sections, and give each group of students a section that they must learn and then teach to the rest of the class.
+
+## Designing lessons
+
+Designing effective lessons takes strategic planning and consideration. Silberman emphasizes that the three essentials ingredients for quality lesson design are 1)objectives, 2)methods, and 3)format. In other words, the designer needs to clarify exactly what the purpose of learning is (objective), what they need to do to achieve that purpose(methods), and how exactly they will go about doing what they need to do (format).
+
+Silberman also makes a list of some important questions that are helpful to ask during the design process:
+
+1. Does the design achieve the activity's objective?
+2. What knowledge or skill level does the design require of participants
+3. How much time will everything take?
+4. Is the design slow-paced or fast-paced
+5. Is it suited to the size of the group?
+6. What skills are required to conduct the design?
+
+This is not a comprehensive list, but it is a good starting point to have when you begin thinkning about your lesson. To see how Silberman expands on each these questions, see Chapter 7 of *Active Training*. 
