@@ -145,7 +145,7 @@ The learning coach sends a weekly report by email to the program supervisor/dire
 
 **At-risk students**
 
-If the learning coach believes that a student is at-risk academically or socially, he orshe should identify this need to the program supervisor for further action.If a student’s need level or behavior is beyond the expertise of the learning coach, she or he should consult the program supervisor as well.
+If the learning coach believes that a student is at-risk academically or socially, he or she should identify this need to the program supervisor for further action.If a student’s need level or behavior is beyond the expertise of the learning coach, she or he should consult the program supervisor as well.
 
 **Privacy**
 
