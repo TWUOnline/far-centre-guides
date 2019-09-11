@@ -42,7 +42,7 @@ Facilitators can do this through asking students to talk to them about the essay
 It is crucial that coaching sessions focus on the process rather than the product. While facilitators will be helping students maximize the quality of their final assignments, the goal of the facilitator/coach is to impart tools and thinking skills to learners so that they know how to regulate their own learning in the future. Students who are not confident in their own problem-solving skills will likely struggle to achieve successful final products.
 
 
-----
+---
 
 **Coaching for Social Competency**
 
@@ -74,7 +74,7 @@ There is also a social component to coaching, as coaches can offer emotional and
 
 Students may be more developed in some domains than others, and socially competent individuals will vary on the spectrum of each domain. That is why it important for facilitators to dialogue with their students to get to know who they are and how they function. While it is not a coach's job to provide mental health counseling for a student, they can refer them to a counselor or get them connected to needed resources.
 
---
+---
 
 **Stages of Coaching**
 
