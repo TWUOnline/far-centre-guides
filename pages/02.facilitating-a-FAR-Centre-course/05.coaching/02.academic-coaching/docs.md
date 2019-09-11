@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-A significant part of the facilitator's role will be to provide academic coaching for FAR centre students. Coaching can happen with a group of students or one-on-one, and both situations require facilitators to consider the following principles and best practices. These notes have been taken from TWU's Coaching Manual used by the university's learning coaches.
+A significant part of the facilitator's role will be to provide academic coaching for FAR centre students. Coaching can happen with a group of students or one-on-one, and both situations require facilitators to consider the best principles and practice to inform their coaching. These notes have been taken from TWU's Learning Coach Manual used by the university's academic coaches.
 
 ---
 
@@ -14,32 +14,31 @@ A significant part of the facilitator's role will be to provide academic coachin
 
 The definition of a "coach" is someone who "meets students where they are at and provides direction, encouragement, correction, and wisdom to help the students become all they can be. The coach is process-focused, not product-focused. It is relational, not clinical. A coach is not an editor or tutor, not a "fixer" or a doctor. Coaches support the scholarly development of learners as they work on specific tasks, with clear targets"(Coaching Manual, p.1).
 
-As noted above, the role of the coach is not to as simple as helping students with their homework. Coaches have a wider scope of the learning process than tutors do, and their goal is to come along side students and strategically move them towards becoming  **self-regulated learners**. Self-regulated learners are those who learn by choice with determination and agency, and the goal of the learning coach is to help students become self-regulated learners through developing in them these three things:
+The role of the coach is not simply helping students with their homework. Coaches have a wider scope of the learning process than tutors do, and their goal is to come along side students and strategically move them towards becoming  **self-regulated learners**. Self-regulated learners are those who learn by choice with determination and agency, and the goal of the learning coach is to help students become self-regulated learners through developing in them these three things:
 
-- Competence the sense of having control over one's environment, not being a victim or helpless
-- Relatedness- being in relationship with others, being valued and cared for, which leads to a freedom to take risks in learning
-- Autonomy- being able to make one's own decisions and do things independently, motivated by a sense of value and pleasure in learning.
+* Competence: the sense of having control over one's environment, not being a victim or helpless
+* Relatedness: being in relationship with others, being valued and cared for, which leads to a freedom to take risks in learning
+* Autonomy: being able to make one's own decisions and do things independently, motivated by a sense of value and pleasure in learning.
 
+To coach in a way that effectively promotes self-regulated learning, you can use several possible strategies:
 
-To coach in a way that promotes self-regulated learning, consider these specific strategies:
-
--	Give students choices and when choices are restricted, discuss why
--	Use inviting language, such as “I’m interested in your idea. Can you tell me more about it?”
--	Be in tune to the learner’s personal state during a session and adapt accordingly (Reeve, 2006; as cited in Moreno-Murcia, 2016).
--	Do not shut down a student’s perspective or thought. Lead the student to ask themselves questions and seek more clarity on it.
--	Do not pressure the learner to accept your thought or perspective
--	Provide structure for each session. Help the learner understand the expectations for being successful in your sessions.
--	Encourage the learner to evaluate his or her sources of support, whether material or human
--	Welcome complaints and negative affect. Validate these emotions.
--	Never use guilt or shame tactics.
+*	Give students choices and when choices are restricted, discuss why
+*	Use inviting language, such as “I’m interested in your idea. Can you tell me more about it?”
+* Be in tune to the learner’s personal state during a session and adapt accordingly (Reeve, 2006; as cited in Moreno-Murcia, 2016).
+*	Do not shut down a student’s perspective or thought. Lead the student to ask themselves questions and seek more clarity on it.
+*	Do not pressure the learner to accept your thought or perspective
+*	Provide structure for each session. Help the learner understand the expectations for being successful in your sessions.
+*	Encourage the learner to evaluate his or her sources of support, whether material or human
+*	Welcome complaints and negative affect. Validate these emotions.
+*	Never use guilt or shame tactics.
 
 **Self-regulated learning through meta-cognitive skills**
 
-The learning coach guide suggests that "student progress towards self-regulated learning is related to the ability to analyze and articulate their own learning and learning tasks"(p.8). With that in mind, facilitators recognize that this ability develops over time, and therefore they should use the coaching sessions as an opportunity for students practice this type of critical thinking and analysis about their own learning.
+The learning coach guide suggests that "student progress towards self-regulated learning is related to the ability to analyze and articulate their own learning and learning tasks"(p.8). With that in mind, facilitators recognize that this ability develops over time, and coaching sessions are an opportunity for students to practice this type of critical thinking and analysis about their own learning methods.
 
-Facilitators can do this through asking students to talk to them about the essays they have worked on and the feedback they have been given by their instructors. Because the students will be practicing meta-language in their English and writing classes, the facilitators will be building upon what they are already learning in their classes, yet students may feel safer exploring new ways of thinking and reflecting on their work in a more personalized space with a learning coach.
+Facilitators can do this through asking students to talk them through their papers, as well as the feedback they have been given by their instructors. Because the students will be practicing meta-language in their English and writing classes, facilitators can build upon what the students are already learning in their classes. That being said, students may feel safer exploring new ways of thinking and reflecting in a more personalized space with a learning coach, which is why these spaces can be crucial in a student's academic flourishing.
 
-It is crucial that coaching sessions focus on the process rather than the product. While facilitators will be helping students maximize the quality of their final assignments, the goal of the facilitator/coach is to impart tools and thinking skills to learners so that they know how to regulate their own learning in the future. Students who are not confident in their own problem-solving skills will likely struggle to achieve successful final products.
+Coaching sessions are meant to focus on the process rather than the product. While coaches can help students maximize the quality of their final assignments, the goal of the facilitator/coach is to impart tools and thinking skills to learners so that they know how to regulate their own learning in the future. Students who are not confident in their own problem-solving skills will likely struggle to achieve successful final products.
 
 
 ---
@@ -78,11 +77,11 @@ Students may be more developed in some domains than others, and socially compete
 
 ### Stages of Coaching
 
-Because coaching is process-oriented, it can be helpful for coaches to approach their sessions with sequential stages in mind. The process may not be as linear as what is laid out here, but it can be a useful framework to reference for coaches as they design their sessions.
+Because coaching is process-oriented, it can be helpful for coaches to approach their sessions with sequential stages in mind. The process may not be as linear as described here, but it it is necessary that coaches have a framework to reference as they design their sessions.
 
 ![](new.png)
 
-When you strategize a development plan for your students, you can refer to these stages as you see fit. You can modify your coaching techniques in light of the assignment the student is working on. For example, if students are working on a presentation, you can have them do a mock presentation as practice and then provide feedback. More so, if students are not working on an assignment, you can take the time to ask them about their reading strategies and see how they can best work through their textbook readings. It is necessary for coaches to ask questions or create exercises that will increase the student's awareness of their own study strategies so they develop in areas of growth. 
+When you strategize a development plan for your students, you can refer to these stages as you see fit, and you can modify your coaching techniques in light of the assignment the student is working on. For example, if students are working on a presentation, you can have them do a mock presentation as practice and then provide feedback. More so, if students are not working on an assignment, you can take the time to ask them about their reading strategies and how they can more efficiently work through their textbook readings. It is necessary for coaches to ask questions or create exercises that will increase the student's awareness of their own study strategies so they know their areas of growth.
 
 ---
 
