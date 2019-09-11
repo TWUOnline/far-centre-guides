@@ -82,7 +82,7 @@ Because coaching is process-oriented, it can be helpful for coaches to approach 
 
 ![](new.png)
 
-When you strategize a development plan for your students, you can refer to these stages as you see fit.
+When you strategize a development plan for your students, you can refer to these stages as you see fit. You can modify your coaching techniques in light of the assignment the student is working on. For example, if students are working on a presentation, you can have them do a mock presentation as practice and then provide feedback. More so, if students are not working on an assignment, you can take the time to ask them about their reading strategies and see how they can best work through their textbook readings. It is necessary for coaches to ask questions or create exercises that will increase the student's awareness of their own study strategies so they develop in areas of growth. 
 
 ---
 
@@ -116,7 +116,7 @@ Here is a very brief summary of practical tips and considerations you should kee
 
 ---
 
-#Other important considerations for Coaching
+### Other important considerations for coaching
 
 Below here are some excerpts from the TWU Learning Coach manual that highlight important things facilitators should consider as they coach students. (note: this section is none of these sections are paraphrased, but taken directly from the manual)
 
