@@ -33,9 +33,31 @@ To coach in a way that promotes self-regulated learning, consider these specific
 -	Welcome complaints and negative affect. Validate these emotions.
 -	Never use guilt or shame tactics.
 
+**Self-regulated learning through meta-cognitive skills**
+
+The learning coach guide suggests that "student progress towards self-regulated learning is related to the ability to analyze and articulate their own learning and learning tasks"(p.8). With that in mind, facilitators recognize that this ability develops over time, and therefore they should use the coaching sessions as an opportunity for students practice this type of critical thinking and analysis about their own learning.
+
+
 ----
 
 Social Competency
 
-
 -----
+
+Strategies for the coaching process:
+
+---
+
+Guidelines for best practices
+
+* academic dishonesty
+*
+
+---
+Other considerations:
+* academic Dishonesty
+* record-keeping
+* Communicating with professors
+* communicating with the supervisor
+* At-risk Students
+* Privacy
