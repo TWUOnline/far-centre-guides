@@ -39,7 +39,9 @@ The learning coach guide suggests that "student progress towards self-regulated 
 
 Facilitators can do this through asking students to talk to them about the essays they have worked on and the feedback they have been given by their instructors. Because the students will be practicing meta-language in their English and writing classes, the facilitators will be building upon what they are already learning in their classes, yet students may feel safer exploring new ways of thinking and reflecting on their work in a more personalized space with a learning coach.
 
-It is crucial that coaching sessions focus on the process rather than the product. While facilitators will be helping students maximize the quality of their final assignments, the goal of the facilitator/coach is to impart tools and thinking skills to learners so that they know how to regulate their own learning in the future. Students who are not confident in their own problem-solving skills will likely struggle to achieve successful final products. 
+It is crucial that coaching sessions focus on the process rather than the product. While facilitators will be helping students maximize the quality of their final assignments, the goal of the facilitator/coach is to impart tools and thinking skills to learners so that they know how to regulate their own learning in the future. Students who are not confident in their own problem-solving skills will likely struggle to achieve successful final products.
+
+
 ----
 
 Social Competency
