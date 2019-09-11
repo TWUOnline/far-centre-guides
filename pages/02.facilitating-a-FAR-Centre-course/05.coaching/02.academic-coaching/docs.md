@@ -37,7 +37,9 @@ To coach in a way that promotes self-regulated learning, consider these specific
 
 The learning coach guide suggests that "student progress towards self-regulated learning is related to the ability to analyze and articulate their own learning and learning tasks"(p.8). With that in mind, facilitators recognize that this ability develops over time, and therefore they should use the coaching sessions as an opportunity for students practice this type of critical thinking and analysis about their own learning.
 
+Facilitators can do this through asking students to talk to them about the essays they have worked on and the feedback they have been given by their instructors. Because the students will be practicing meta-language in their English and writing classes, the facilitators will be building upon what they are already learning in their classes, yet students may feel safer exploring new ways of thinking and reflecting on their work in a more personalized space with a learning coach.
 
+It is crucial that coaching sessions focus on the process rather than the product. While facilitators will be helping students maximize the quality of their final assignments, the goal of the facilitator/coach is to impart tools and thinking skills to learners so that they know how to regulate their own learning in the future. Students who are not confident in their own problem-solving skills will likely struggle to achieve successful final products. 
 ----
 
 Social Competency
