@@ -121,6 +121,7 @@ Here is a very brief summary of practical tips and considerations you should kee
 Below here are some excerpts from the TWU Learning Coach manual that highlight important things facilitators should consider as they coach students. (note: this section is none of these sections are paraphrased, but taken directly from the manual)
 
 **Academic dishonesty**
+
 As the person on the front line with the student, the Learning Coach will be the first person to see a student’s written work. Thus, the Learning Coach has a role to pre-screen for suspected plagiarism and ghost writing.
 
 If the essay seems suspicious, the Learning Coach should:
