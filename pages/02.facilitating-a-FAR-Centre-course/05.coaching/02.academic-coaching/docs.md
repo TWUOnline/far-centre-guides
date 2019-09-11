@@ -94,7 +94,7 @@ Here is a very brief summary of practical tips and considerations you should kee
 
 * No editing- only suggest what the student should edit
 * No online feedback on drafts- only face-to-face
-* digital communication is fine for questions or conversations
+* Digital communication should only be used for questions or conversations
 
 *How to look at a student's paper*:
 
