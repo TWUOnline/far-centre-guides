@@ -21,7 +21,7 @@ As noted above, the role of the coach is not to as simple as helping students wi
 - Autonomy- being able to make one's own decisions and do things independently, motivated by a sense of value and pleasure in learning.
 
 
-To coach in a way that focuses on these things, you can use these specific strategies:
+To coach in a way that promotes self-regulated learning, consider these specific strategies:
 
 -	Give students choices and when choices are restricted, discuss why
 -	Use inviting language, such as “I’m interested in your idea. Can you tell me more about it?”
@@ -32,3 +32,10 @@ To coach in a way that focuses on these things, you can use these specific strat
 -	Encourage the learner to evaluate his or her sources of support, whether material or human
 -	Welcome complaints and negative affect. Validate these emotions.
 -	Never use guilt or shame tactics.
+
+----
+
+Social Competency
+
+
+-----
