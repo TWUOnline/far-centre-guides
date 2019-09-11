@@ -1,5 +1,5 @@
 ---
-title: *'Academic Coaching'*
+title: 'Academic Coaching'
 taxonomy:
     category:
         - docs
