@@ -75,6 +75,7 @@ There is also a social component to coaching, as coaches can offer emotional and
 Students may be more developed in some domains than others, and socially competent individuals will vary on the spectrum of each domain. That is why it important for facilitators to dialogue with their students to get to know who they are and how they function. While it is not a coach's job to provide mental health counseling for a student, they can refer them to a counselor or get them connected to needed resources.
 
 --
+
 **Stages of Coaching**
 
 Because coaching is process-oriented, it can be helpful for coaches to approach their sessions with sequential stages in mind. The process may not be as linear as what is laid out here, but it can be a useful framework to reference for coaches as they design their sessions.
@@ -82,6 +83,7 @@ Because coaching is process-oriented, it can be helpful for coaches to approach 
 ![](new.png)
 
 When you strategize a development plan for your students, you can refer to these stages as you see fit.
+
 ---
 
 **Guidelines for best practices**
