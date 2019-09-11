@@ -44,7 +44,22 @@ It is crucial that coaching sessions focus on the process rather than the produc
 
 ----
 
-Social Competency
+**Coaching for Social Competency**
+
+There is also a social component to coaching, as coaches can offer emotional and social support to students in the midst of the many stressful transitions they face when they begin their programs. According to a study done by Mellard and Hazel(1992), these are some domains of social competency that educators can assess:
+
+1.Language – “understanding others and making oneself understood”
+2.Pragmatics – interpreting a social situation, understanding expectations, interpreting comments as positive or negative
+3.Humor – realizing when someone is joking
+4.Personal-social involvement – participating in social activities and going out with friends
+5.Peer relations – how well other people get along with you; whether or not people avoid you
+6.Helpfulness – understanding other people’s feelings and needs; understanding your own
+7.Applied academics – functioning in everyday life, such as filling out forms andcomparing prices
+8.Money management – understanding costs, budgeting, making payments
+9.Coping – responding to stress and challenges, such as criticisms, changes in routine, expectations, and pressure
+10.Time management – scheduling and prioritizing
+11.Personal responsibility – knowing personal information, organizing yourself, keeping appointments, etc.
+12.Goal setting – organizing tasks, recognizing the need for help or resources, solving problems
 
 -----
 
