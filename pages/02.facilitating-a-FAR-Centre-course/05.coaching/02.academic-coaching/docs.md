@@ -75,17 +75,42 @@ There is also a social component to coaching, as coaches can offer emotional and
 Students may be more developed in some domains than others, and socially competent individuals will vary on the spectrum of each domain. That is why it important for facilitators to dialogue with their students to get to know who they are and how they function. While it is not a coach's job to provide mental health counseling for a student, they can refer them to a counselor or get them connected to needed resources.
 
 --
+**Stages of Coaching**
 
 Because coaching is process-oriented, it can be helpful for coaches to approach their sessions with sequential stages in mind. The process may not be as linear as what is laid out here, but it can be a useful framework to reference for coaches as they design their sessions.
 
 ![](new.png)
 
+When you strategize a development plan for your students, you can refer to these stages as you see fit.
 ---
 
-Guidelines for best practices
+**Guidelines for best practices**
 
-* academic dishonesty
-*
+Here is a very brief summary of practical tips and considerations you should keep in mind when you go about your coaching.
+
+*Principles to coach by*:
+
+* no editing
+* no online feedback on drafts- only face-to-face
+* digital communication is fine for questions or conversations
+
+*How to look at a student's paper*:
+
+* Read the assignment from the professor and ask the students if they feel they have addressed these requirements. Ask a lot of questions and suggest that the student clarify with the professor.
+
+* Check the big picture – whether the assignment meets the requirements. (Forexample, if the assignment is a research paper, does the student use research? Does it include all the required sections? Is it working towards a suitable length?
+
+* Reading #1 – read it without stopping or making notes to get a sense of the flow of the essay and whether it meets the assignment requirements and whether it is the student’s own work
+
+* Reading #2 -  read it for logic and cohesion, using a highlighter to identify keywords throughout. Help the student visualize whether the parts fit together ornot.
+
+* Reading #3 – read it for evidence to determine whether the student has used the right kind of evidence and sufficient evidence. Use questioning to help the reader discover gaps, mis-matched research, and weak integration of research. Discuss the kind of evidence they need (according to the assignment itself, the discipline, and the genre).
+
+* Reading #4 – read it for sentence-level recommendations. Point out all the sections in which you cannot understand due to grammar and ask the learnerto explain the meaning to you. Identify wrong uses of words and ask the student to explain his or her meaning. Suggest a few options but allow the student to choose. Point out the students’ most common problem areas for grammar and ask the student how to correct them. DO NOT PICK UP THE PEN AND CORRECT EVERYTHING YOURSELF.
+
+* Final step:  ask student what the rules are for formatting, use of documentation, and references page. Lead the student to tell you what he or she knows and direct them to the resources that are available to them, such as their coursepack or Purdue’s OWL.
+
+* When the student receives the assignment back with the instructor’s feedback, ask the student to read the feedback out loud and explain what they think it means. Together, come up with goals for the next assignment.
 
 ---
 Other considerations:
