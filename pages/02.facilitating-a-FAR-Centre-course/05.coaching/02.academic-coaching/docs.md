@@ -78,7 +78,7 @@ Students may be more developed in some domains than others, and socially compete
 
 Because coaching is process-oriented, it can be helpful for coaches to approach their sessions with sequential stages in mind. The process may not be as linear as what is laid out here, but it can be a useful framework to reference for coaches as they design their sessions.
 
-![](image-1.png) ![](image-2.png) ![](image-3.png)
+![](image-1.png)
 
 ---
 
