@@ -76,7 +76,7 @@ Students may be more developed in some domains than others, and socially compete
 
 ---
 
-# **Stages of Coaching**
+### **Stages of Coaching**
 
 Because coaching is process-oriented, it can be helpful for coaches to approach their sessions with sequential stages in mind. The process may not be as linear as what is laid out here, but it can be a useful framework to reference for coaches as they design their sessions.
 
@@ -86,7 +86,7 @@ When you strategize a development plan for your students, you can refer to these
 
 ---
 
-## **Guidelines for best practices**
+### **Guidelines for best practices**
 
 Here is a very brief summary of practical tips and considerations you should keep in mind when you go about your coaching.
 
