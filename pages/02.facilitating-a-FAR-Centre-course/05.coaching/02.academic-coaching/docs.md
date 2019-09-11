@@ -44,39 +44,39 @@ It is crucial that coaching sessions focus on the process rather than the produc
 
 ---
 
-**Coaching for Social Competency**
+### **Coaching for Social Competency**
 
 There is also a social component to coaching, as coaches can offer emotional and social support to students in the midst of the many stressful transitions they face when they begin their programs. According to a study done by Mellard and Hazel(1992), these are some domains of social competency that educators can assess:
 
-1.Language – “understanding others and making oneself understood”
+1. Language – “understanding others and making oneself understood”
 
-2.Pragmatics – interpreting a social situation, understanding expectations, interpreting comments as positive or negative
+2. Pragmatics – interpreting a social situation, understanding expectations, interpreting comments as positive or negative
 
-3.Humor – realizing when someone is joking
+3. Humor – realizing when someone is joking
 
-4.Personal-social involvement – participating in social activities and going out with friends
+4. Personal-social involvement – participating in social activities and going out with friends
 
-5.Peer relations – how well other people get along with you; whether or not people avoid you
+5. Peer relations – how well other people get along with you; whether or not people avoid you
 
-6.Helpfulness – understanding other people’s feelings and needs; understanding your own
+6. Helpfulness – understanding other people’s feelings and needs; understanding your own
 
-7.Applied academics – functioning in everyday life, such as filling out forms and comparing prices
+7. Applied academics – functioning in everyday life, such as filling out forms and comparing prices
 
-8.Money management – understanding costs, budgeting, making payments
+8. Money management – understanding costs, budgeting, making payments
 
-9.Coping – responding to stress and challenges, such as criticisms, changes in routine, expectations, and pressure
+9. Coping – responding to stress and challenges, such as criticisms, changes in routine, expectations, and pressure
 
-10.Time management – scheduling and prioritizing
+10. Time management – scheduling and prioritizing
 
-11.Personal responsibility – knowing personal information, organizing yourself, keeping appointments, etc.
+11. Personal responsibility – knowing personal information, organizing yourself, keeping appointments, etc.
 
-12.Goal setting – organizing tasks, recognizing the need for help or resources, solving problems
+12. Goal setting – organizing tasks, recognizing the need for help or resources, solving problems
 
 Students may be more developed in some domains than others, and socially competent individuals will vary on the spectrum of each domain. That is why it important for facilitators to dialogue with their students to get to know who they are and how they function. While it is not a coach's job to provide mental health counseling for a student, they can refer them to a counselor or get them connected to needed resources.
 
 ---
 
-**Stages of Coaching**
+# **Stages of Coaching**
 
 Because coaching is process-oriented, it can be helpful for coaches to approach their sessions with sequential stages in mind. The process may not be as linear as what is laid out here, but it can be a useful framework to reference for coaches as they design their sessions.
 
@@ -86,7 +86,7 @@ When you strategize a development plan for your students, you can refer to these
 
 ---
 
-**Guidelines for best practices**
+## **Guidelines for best practices**
 
 Here is a very brief summary of practical tips and considerations you should keep in mind when you go about your coaching.
 
