@@ -92,8 +92,8 @@ Here is a very brief summary of practical tips and considerations you should kee
 
 *Principles to coach by*:
 
-* no editing
-* no online feedback on drafts- only face-to-face
+* No editing- only suggest what the student should edit
+* No online feedback on drafts- only face-to-face
 * digital communication is fine for questions or conversations
 
 *How to look at a student's paper*:
