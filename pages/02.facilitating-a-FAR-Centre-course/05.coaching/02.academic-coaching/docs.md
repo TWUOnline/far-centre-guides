@@ -1,5 +1,5 @@
 ---
-title: 'Academic Coaching'
+title: *'Academic Coaching'*
 taxonomy:
     category:
         - docs
@@ -44,7 +44,7 @@ It is crucial that coaching sessions focus on the process rather than the produc
 
 ---
 
-### **Coaching for Social Competency**
+### Coaching for Social Competency
 
 There is also a social component to coaching, as coaches can offer emotional and social support to students in the midst of the many stressful transitions they face when they begin their programs. According to a study done by Mellard and Hazel(1992), these are some domains of social competency that educators can assess:
 
@@ -76,7 +76,7 @@ Students may be more developed in some domains than others, and socially compete
 
 ---
 
-### **Stages of Coaching**
+### Stages of Coaching
 
 Because coaching is process-oriented, it can be helpful for coaches to approach their sessions with sequential stages in mind. The process may not be as linear as what is laid out here, but it can be a useful framework to reference for coaches as they design their sessions.
 
@@ -86,7 +86,7 @@ When you strategize a development plan for your students, you can refer to these
 
 ---
 
-### **Guidelines for best practices**
+### Guidelines for best practices
 
 Here is a very brief summary of practical tips and considerations you should keep in mind when you go about your coaching.
 
@@ -115,10 +115,38 @@ Here is a very brief summary of practical tips and considerations you should kee
 * When the student receives the assignment back with the instructor’s feedback, ask the student to read the feedback out loud and explain what they think it means. Together, come up with goals for the next assignment.
 
 ---
-Other considerations:
-* academic Dishonesty
-* record-keeping
-* Communicating with professors
-* communicating with the supervisor
-* At-risk Students
-* Privacy
+
+#Other important considerations for Coaching
+
+Below here are some excerpts from the TWU Learning Coach manual that highlight important things facilitators should consider as they coach students. (note: this section is none of these sections are paraphrased, but taken directly from the manual)
+
+**Academic dishonesty**
+As the person on the front line with the student, the Learning Coach will be the first person to see a student’s written work. Thus, the Learning Coach has a role to pre-screen for suspected plagiarism and ghost writing.
+
+If the essay seems suspicious, the Learning Coach should:
+
+* Let the student know why. Show some examples of sentences that are too sophisticated and compare them to the student’s own sentences. Ask the student to restate the sentence out loud in his or her own style to check for comprehension. Write down what the student says and encourage her or him to rewrite the essay in this way.
+
+* Make a copy of the essay. Sign it and date it. Ask the student to sign it as well. Keep this on file in case the professor requests it.
+
+* Send an alert to the professor.
+
+**Record-keeping of sessions**
+
+At the end of each session, record briefly what you worked on with the student and anything you noted about the student’s engagement or mood. If you worked on a specific assignment, note what it was and which class it was for. Once each week, take time to upload all your records to our shared documents.
+
+**Communicating with professors**
+
+It is expected that you will communicate with faculty to request clarifications or further information. When doing so, cc the other learning coaches in your program. You may also communicate with faculty if you are hearing the same question or confusion from several students. Your message should be offered as a suggestion not a complaint.
+
+**Communicating with the supervisor**
+
+The learning coach sends a weekly report by email to the program supervisor/director. This report should include the names of all students who did not show up for an appointment as well as significant concerns for individual students and other prayer requests.  It is also very helpful to highlight students who are doing particularly well or have experienced something to celebrate.
+
+**At-risk students**
+
+If the learning coach believes that a student is at-risk academically or socially, he orshe should identify this need to the program supervisor for further action.If a student’s need level or behavior is beyond the expertise of the learning coach, she or he should consult the program supervisor as well.
+
+**Privacy**
+
+We must respect privacy laws. Do not have student files or work open on your desk or computer. Do not show a student another student’s work without permission. If a student shares something in confidence, keep this trust. If you feel that it is something requiring intervention, ask the student if you can do so. Do not share any information about a student with a parent unless we have a signed Release of Information form from the student.
