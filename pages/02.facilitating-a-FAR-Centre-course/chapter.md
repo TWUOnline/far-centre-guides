@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-### Facilitating a FAR Centre Course
+## Facilitating a FAR Centre Course
 
 -> ##Overview <-
 
