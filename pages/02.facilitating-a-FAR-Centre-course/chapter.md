@@ -15,6 +15,7 @@ This facilitation guide is meant to help the facilitator navigate the complex an
 
 
 <p style='text-align: justify;'>
+
 - What is a facilitator of learning, and what does the job entail?
 
 - How do you facilitate learning successfully?
