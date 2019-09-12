@@ -16,19 +16,19 @@ This facilitation guide is meant to help the facilitator navigate the complex an
 
 - <p style='text-align: justify;'>What is a facilitator of learning, and what does the job entail?</p>
 
-- How do you facilitate learning successfully?
+- <p style='text-align: justify;'>How do you facilitate learning successfully?</p>
 
-- How does the facilitator help students engage in online learning?
+- <p style='text-align: justify;'>How does the facilitator help students engage in online learning?</p>
 
-- What will the facilitator's schedule look like?
+- <p style='text-align: justify;'>What will the facilitator's schedule look like?</p>
 
-- What is the coaching component of facilitation?
+- <p style='text-align: justify;'>What is the coaching component of facilitation?</p>
 
-- Do facilitators do any assessment?
+- <p style='text-align: justify;'>Do facilitators do any assessment?</p>
 
-- How should the facilitator plan their learning labs?
+- <p style='text-align: justify;'>How should the facilitator plan their learning labs?</p>
 
-- What are effective learning activities to include in learning labs?
+- <p style='text-align: justify;'>What are effective learning activities to include in learning labs?</p>
 
 
 These are just some of the questions that will be addressed in this manual, and because it is working document, the experiences of FAR Center facilitators will continue to inform the material.  
