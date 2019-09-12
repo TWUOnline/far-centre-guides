@@ -120,7 +120,7 @@ life” and gaining insight into themselves and their interactions with the worl
 6. *Creating emotional investment:* Students must be fully immersed in the experience, not merely doing
 what they feel is required of them. The “process needs to engage the learner to a point where what is
 being learned and experience strikes a critical, central chord within the learner.”
-7. *The re-examination of values:* By working within a space that has been made safe for selfexploration, students can begin to analyze and even alter their own values.
+7. *The re-examination of values:* By working within a space that has been made safe for self-exploration, students can begin to analyze and even alter their own values.
 8. *The presence of meaningful relationships:* One part of getting students to see their learning in the
 context of the whole world is to start by showing the relationships between “learner to self, learner to
 teacher, and learner to learning environment.”
