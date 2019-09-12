@@ -14,8 +14,6 @@ Note that other sections of the guide will go into specfics about your courses (
 This facilitation guide is meant to help the facilitator navigate the complex and exciting territory of their own role. It will help answer the following questions:
 
 
-<p style='text-align: justify;'>
-
 - What is a facilitator of learning, and what does the job entail?
 
 - How do you facilitate learning successfully?
@@ -30,6 +28,6 @@ This facilitation guide is meant to help the facilitator navigate the complex an
 
 - How should the facilitator plan their learning labs?
 
-- What are effective learning activities to include in learning labs?</p>
+- What are effective learning activities to include in learning labs?
 
 These are just some of the questions that will be addressed in this manual, and because it is working document, the experiences of FAR Center facilitators will continue to inform the material.  
