@@ -25,7 +25,7 @@ This facilitation guide is meant to help the facilitator navigate the complex an
 
 * What is the coaching component of facilitation?
 
-* Do faciliator's do any assessment?
+* Do facilitators do any assessment?
 
 * How should the facilitator plan their learning labs?
 
