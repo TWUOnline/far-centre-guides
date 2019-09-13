@@ -1,5 +1,5 @@
 ---
-title: ' Assessment and TWU's Grading Scale '
+title: 'Assessment and TWUs Grading Scale'
 taxonomy:
     category:
         - docs
