@@ -26,11 +26,6 @@ Formative assessment fosters learners who are self-directed and must be relevant
 
 Formative instruction is not about grades, it’s about learning. An example of assessment as learning is the peer review process. By critically engaging with another’s work and giving substantive feedback, learners have the opportunity to respond from a learning stance.
 
-Consider how you can give your students formative feedback on assessments throughout the course.
-
-[presentation="presentations/feedback-reflection"]
-
-
 In addition to course and unit learning outcomes, FAR Centre courses align with TWU's Student Learning Outcomes. As a Facilitator, please review all outcomes of your courses and be sure to address these with your students.
 
 ## TWU Student Learning Outcomes
