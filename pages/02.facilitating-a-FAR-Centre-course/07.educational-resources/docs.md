@@ -6,6 +6,19 @@ taxonomy:
 visible: true
 ---
 
+There are plenty of resources that facilitators can draw upon when planning Learning Labs and coaching sessions. While facilitating learning in an international blended-learning environment takes some pioneering, the best practices in adult education and coaching are a great place to build off of. Here are some articles, resources and websites you can refer to as you look for helpful activities and strategies:
+
+*Books*:
+  - 'Active Training: A Handbook of Techniques, Designs, Case Examples and Tips' by Mel Silberman & Elaine Biech
+  - 'Powerful Techniques for Teaching Adults' by Stephen Brookfield
+  - 'The Discussion Book: 50 Great Ways to Get People Talking' by Stephen Brookfield & Stephen Preskill
+
+*Websites*:
+  - Purdue Online Writing Lab // https://owl.purdue.edu/owl/purdue_owl.html
+
+
+  Below here I have listed some helpful tips and ideas from these resources. 
+
 ## Opening Exercises
 
 Opening exercises (also referred to as warm-ups or icebreakers) should be tied to the data collected from pre-assessments and to the objectives of the session. It’s important to find ways to connect the learners’ experience to what you are going to be teaching. This will answer the unspoken question in participants’ minds: *Is this going to be worth my time?* Opening exercises should also help people feel connected in some way and establish some group sense of purpose.
