@@ -1,5 +1,5 @@
 ---
-title: 'Educational Resources for Facilitators'
+title: 'Facilitator Resources'
 taxonomy:
     category:
         - docs
@@ -17,7 +17,7 @@ There are plenty of resources that facilitators can draw upon when planning Lear
   - Purdue Online Writing Lab // https://owl.purdue.edu/owl/purdue_owl.html
 
 
-  Below here I have listed some helpful tips and ideas from these resources. 
+  Below here I have listed some helpful tips and ideas from these resources.
 
 ## Opening Exercises
 

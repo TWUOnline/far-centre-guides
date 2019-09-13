@@ -1,5 +1,5 @@
 ---
-title: 'Resources for Students'
+title: 'Student Resources'
 taxonomy:
     category:
         - docs
