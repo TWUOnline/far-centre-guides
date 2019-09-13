@@ -12,7 +12,7 @@ Assessment is the systematic collection of information about student's abilities
 
 Assessment can be used:
 
-  - for learning,
+  - for learning
 
   - to improve instruction
 
