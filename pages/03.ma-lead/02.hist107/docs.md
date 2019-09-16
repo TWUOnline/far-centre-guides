@@ -1,5 +1,5 @@
 ---
-title: 'Psychology 106'
+title: 'History 106'
 taxonomy:
     category:
         - docs
