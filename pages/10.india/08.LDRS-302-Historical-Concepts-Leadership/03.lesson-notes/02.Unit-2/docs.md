@@ -9,7 +9,7 @@ taxonomy:
 
 In this unit, students are introduced to the idea of management and they will discover how this idea can be traced back to the start of the Industrial Revolution. In this unit, they will learn about the major contributors to the field of management theory and how their ideas are used today.
 
-The students will arrive in class prepared for group discussions based on what they have completed in their learning activities at home.  Specifically, students will have completed the following activities prior to attending class:
+The students will arrive for learning lab prepared for group discussions based on what they have completed in their learning activities at home.  Specifically, students will have completed the following activities prior to attending the learning lab:
 
 
 | **☑** | **Activities**                      | **Expected Time Commitment** |
@@ -45,13 +45,13 @@ In Unit 2, the group discussion will focus on the following questions:
 
 ### Evaluating Group Discussions:
 
-Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each class and then providing a score for each student at the end of the class based on the rubric provided below:
+Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each learning lab and then providing a score for each student at the end of the learning lab based on the rubric provided below:
 
 | **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
 
-***Note:*** An absence for **one** class will not result in a loss of participation marks.         
+***Note:*** An absence for **one** learning lab will not result in a loss of participation marks.         
 
 ### Part 2: Organize the Jigsaw Activity:
 
@@ -77,6 +77,6 @@ Part of your responsibility as the facilitator will be to evaluate student parti
 
 ### Part 3: Assignment Reminders
 
-After the class is done, remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 2 assessment page.
+After the learning lab is done, remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 2 assessment page.
 
 Next, they will need to complete ***Assignment #1: Historical Leader Paper.*** This paper involves writing a well-researched 2-3-page paper on a historical leader or writer on leadership of their choice. The students will need to describe the leader/writer’s 1) life, 2) his or her historical time, and 3) what you think made him or her a great leader (or thought leader).
