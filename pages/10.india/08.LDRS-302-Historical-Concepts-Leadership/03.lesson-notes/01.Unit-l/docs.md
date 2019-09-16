@@ -11,9 +11,9 @@ In unit 1, students are introduced to the key concepts and developments of how t
 
 The course has been designed in such away that the unit learning activities should be completed at home on the student’s own time.  These activities will include: readings, watching videos, writing in a learning journal.
 
-For the very first class students will likely not arrive in class prepared for group discussions.  Please build in some time to allow the students to work on the learning activities in class and then let them know that for the next 9 days they should complete the learning activities at home and then come to class prepared for group discussions.
+For the very first class students will likely not arrive to the learning lab prepared for group discussions.  Please build in some time to allow the students to work on the learning activities in class and then let them know that for the next 9 days they should complete the learning activities at home and then come to the learning lab prepared for group discussions.
 
-In unit 1, here is a list of learning activities that the students will complete during the first class.
+In unit 1, here is a list of learning activities that the students will complete during the first Learning Lab.
 
 
 | **☑** | **Activities**                            | **Expected Time Commitment** |
@@ -26,7 +26,7 @@ In unit 1, here is a list of learning activities that the students will complete
 
 Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to covering discussion questions provided in Unit 1.
 
-The tasks to complete in class today are:
+The tasks to complete during the first learning lab are:
 
   1.  Welcome students and orient them to the course.
 
@@ -154,7 +154,7 @@ In Unit 1, the group discussion will focus on the following questions:
 
 ### Evaluating group discussions:
 
-Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each class and then providing a score for each student at the end of the class based on the rubric provided below.
+Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each class and then providing a score for each student at the end of the learning lab based on the rubric provided below.
 
 | **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -164,7 +164,7 @@ Part of your responsibility as the facilitator will be to evaluate student parti
 
 ### Part 4: Explain the Journal Response:
 
-After the class is done, remind students that they will need to work on their first assignment during their homework time. This will be the journal response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 1 assessment page. If there is time at the end of the class, walk students through the rubric (provided below) to help them understand what is expected.
+After the learning lab is done, remind students that they will need to work on their first assignment during their homework time. This will be the journal response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 1 assessment page. If there is time at the end of the learning lab, walk students through the rubric (provided below) to help them understand what is expected.
 
 | **Mastering**                                                                                                                                                                                                                               |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
