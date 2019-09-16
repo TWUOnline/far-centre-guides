@@ -167,9 +167,8 @@ Students will undoubtedly find some issues more difficult than others and will n
 ### Attention-Getting Devices
 
 Occasionally, you will get the sense that the students’ collective attention is lagging. There are varieties of effective attention-getting devices available—voicing an outrageous assertion or quotation, calling on students by name, or even the old classic, “This will be on the final.” (The latter can induce a bit of anxiety, which some say reduces attention, so it may best be used as an obvious joke.) One can also be less dramatic and play on the desire of students to generalize about history by culling examples, metaphors, and analogies from the textbook and then asking students to expand on their representative value. If none of these approaches works, you may just want to try a complete change of pace, telling the students that you will return to these questions later (be sure to do so), and attack the issue from a completely different direction. If you resort to the latter tactic, it is useful to flip back a page or two, and get a running start. Try asking about something that you are sure the students must know as a way of building momentum and getting opinions out in the open. Often the students themselves will then return to your earlier question with a loud “I get it\!” (For further ideas, see “Dealing with Problems” in this guide.) The purpose of using these exercises in discussion building is to link the knowledge available in the textbook and lectures with the individual students’ reasoning powers.
-##
 
-## 3\. Testing
+## 3 Testing
 
 ### Standards
 
@@ -183,9 +182,8 @@ The best approach is to hand out sample identifications or essay topics provided
 Now comes the heart of the review session. Ask the student or students who tackled the first problem to write their outline(s) on the board and to explain the logic of their structure. Your task at this point is simply to question the comparative worth of details. By this time in the semester, the students should be talking fairly freely with one another, and you can count on the other students to point out errors or failures of logic.
 
 Once you have moved through all the problems in turn and covered the boards with sample outlines, you may want to repeat the basic expectations for the exam. Specifically, you can remind students what is considered an excellent answer and what constitutes a barely acceptable one. If students are convinced that they understand the nature of the exam, they will be much more comfortable taking it, and they will produce better work. It is vital that you remember how important it is for students to do well on the final. With a review session, you not only allow students to provide one another with sample outlines but also encourage them to think about the problems before them.
-##
 
-## 4\. Essay Assignments
+## 4 Essay Assignments
 
 ### Helping Students Generate Topics
 
@@ -212,172 +210,33 @@ You will probably note that many professors operate on the assumption that, at l
 
 Much of your work as a facilitator will be devoted to guiding essay assignments. It is advisable to offer extra office hours during the week before a paper is due. In these consultations, many students will essentially ask you for their thesis. Avoid the impulse to provide one. You will need to ask many leading questions (e.g., “Do you think that world security was threatened by Germany in 1917?” or “How did Europeans’ exploitation of colonial peoples and resources affect Asian and African societies after 1880?”), and you may think the student’s thesis lacks depth, but you do not want to be accountable for the paper when it comes time to grade it. And remember, many students try to distance themselves from responsibility for the final product. Do not let them say “your paper”; it is “my paper.”
 
-The single most common gripe about history classes is this comment: “It
-was not an English class, and yet I was graded on my grammar.” You
-therefore need to explain, in the strongest possible terms, that writing
-clearly is an absolute necessity. A history course requires the same
-level of writing as any composition class. History papers are not the
-regurgitation of facts but the expression of a mode of analysis. It does
-not matter how good an idea is if no one can understand it. If a student
-seems to be struggling with writing, make sure to let her or him know
-what resources are available on your campus or online, such as writing
-centers and tutor services. See [<span class="underline">Student
-Resources</span>](https://far.twu.ca/guides/facilitating-a-far-centre-course/student-resources)
-for more information on the TWU Writing Centre and how students can book
-appointments for online sessions.
+The single most common gripe about history classes is this comment: “It was not an English class, and yet I was graded on my grammar.” You therefore need to explain, in the strongest possible terms, that writing clearly is an absolute necessity. A history course requires the same level of writing as any composition class. History papers are not the regurgitation of facts but the expression of a mode of analysis. It does not matter how good an idea is if no one can understand it. If a student seems to be struggling with writing, make sure to let her or him know what resources are available on your campus or online, such as writing centers and tutor services. See [<span class="underline">Student Resources</span>](https://far.twu.ca/guides/facilitating-a-far-centre-course/student-resources) for more information on the TWU Writing Centre and how students can book appointments for online sessions.
 
-Make clear the expectations for student writing assignments. You may
-want to establish certain recommendations for the preparation of a
-superior essay. Generally, it is wise to keep such guidelines brief so
-that students will actually read them. (Use the handout “Guidelines for
-Writing a Good History Essay” as an example.).
+Make clear the expectations for student writing assignments. You may want to establish certain recommendations for the preparation of a superior essay. Generally, it is wise to keep such guidelines brief so that students will actually read them. (Use the handout “Guidelines for Writing a Good History Essay” as an example.).
+The very last point in the writing guidelines handout on plagiarism (see: “[<span class="underline">Proper Source Citation and Plagiarism Examples</span>](https://docs.google.com/document/d/1gCPBKdIK683fqr1CI0Y40e2V0m7j1jzIJ6TUe1AGQB0/edit#heading=h.gjdgxs)”) may require further guidance. When defending themselves against accusations of plagiarism, some students may say: (1) “The teacher did not explain plagiarism,” (2) “My culture/former school/other professors permitted copying directly from the book,” and (3) “I printed the wrong file from my computer.” None of these is a good excuse, but it does not prevent students’ repeated attempts to use them. Therefore, it is imperative that you hand out precise explanations of plagiarism in a hopeful effort to prevent problems.
 
-The very last point in the writing guidelines handout on plagiarism
-(see: “[<span class="underline">Proper Source Citation and Plagiarism
-Examples</span>](https://docs.google.com/document/d/1gCPBKdIK683fqr1CI0Y40e2V0m7j1jzIJ6TUe1AGQB0/edit#heading=h.gjdgxs)”)
-may require further guidance. When defending themselves against
-accusations of plagiarism, some students may say: (1) “The teacher did
-not explain plagiarism,” (2) “My culture/former school/other professors
-permitted copying directly from the book,” and (3) “I printed the wrong
-file from my computer.” None of these is a good excuse, but it does not
-prevent students’ repeated attempts to use them. Therefore, it is
-imperative that you hand out precise explanations of plagiarism in a
-hopeful effort to prevent problems.
+Plagiarism is usually fairly easy to discern, as you will note the complete absence of grammatical errors or the use of obscure archival sources. Proving plagiarism is a very difficult and time-consuming task, unless the miscreant plagiarizes from the textbook (a great deal more common than you might think). If you suspect plagiarism, inform your professor immediately. Note that as the professor marks all assignments, he will check for plagiarism.
 
-Plagiarism is usually fairly easy to discern, as you will note the
-complete absence of grammatical errors or the use of obscure archival
-sources. Proving plagiarism is a very difficult and time-consuming task,
-unless the miscreant plagiarizes from the textbook (a great deal more
-common than you might think). If you suspect plagiarism, inform your
-professor immediately. Note that as the professor marks all assignments,
-he will check for plagiarism.
+## 5 Dealing with Problems
+
+Facilitating a course at a TWU FAR Centre carries with it problems large and small. Keep the distinction clear and avoid making problems that are easily solved into complicated situations that drain you of time and energy. An overly aggressive student whose conduct borders on sexual harassment is a large problem. A student who comes to you with tales of woe may become a large problem. Do not—repeat, DO NOT—attempt to deal with these large problems yourself. Every college employs people who are trained to handle these kinds of problems. At the very least, it is your professor who should address any complicated issues or threatening situations. Report any such matters to the professor immediately, and let others with more authority or professional preparation cope with them. Careers have been cut short by a facilitator’s conviction that a major confrontation or talk of suicide was a joke. Disengage yourself as quickly as possible from an undergraduate’s personal problems, and allow people with more experience and resources to take over.
+
+What is mainly of concern to you are the little problems that arise as you learn any new skill. No one is a born teacher any more than anyone is a born bicycle rider. Every teacher makes mistakes and confronts roadblocks; recognize them as part of your training, identify the problem, and work on it. Talk with your fellow facilitators (if possible) or the professor about a specific difficulty, and learn how they dealt with it. While students are most creative in inventing new crises for teachers, there are a few common difficulties you may encounter that you should consider.
+
+You may not suffer from this trauma, but many students have a deep fear of speaking in public. You may observe a student who is a blabbermouth in the cafeteria yet clams up in your classroom. Usually, these students are just afraid of making fools of themselves. There are several ways of getting a shy student, or most of a quiet class, to participate. The first step is to avoid phrasing questions in a manner that implies only one answer (factual questions aside). Having the class write their responses to a specific question and read them out loud in class is very effective; even shy people feel safe reading aloud something they have already written. Breaking the class into smaller groups responsible for developing reactions to a historical problem also draws quieter students into the conversation, though you need to be particularly alert to the dynamic of each group.
+
+On the other extreme are those who participate too much. A private conversation during your office hours is the best way to let a student know that, while you appreciate his or her contributions to the class discussion, you would like his or her help in drawing out some of the quieter students. All but the dimmest students will get the hint.
+
+Often in the course of the day, you will find your class getting bogged down. Petty debate over minor details or a frustrating inability to understand the larger issues can prevent you from making steady progress. Worse still, you may discover that none of the students has done the assigned reading. It is important on these occasions not to lose your temper. Try, literally, to focus students’ attention on something different. Illustrations in the textbook are especially effective for changing direction in a conversation or bringing home a point. Ask questions about the illustrations that require students to reflect on specific issues raised in the text or lectures. Illustrations have a way of waking up students and inspiring those who are most disengaged. Even a picture lacking obvious drama can bring forth deep passions and insights. The textbook allows you to bring history to life and ensures that your class discussions reflect that drama.
+
+There may be occasions when none of these methods works or when the problem persists class after class. Outstaring students is generally not a good approach. Students, like most people, hate extended silences. Make the silence itself a point worthy of discussion: “OK, my friends, why doesn’t anyone want to talk today?” Such a question may evoke laughter and cause students to admit that they just don’t get it or that none of them has done the reading. For those who don’t get it, go back to the book, open it up, and start parsing a passage. To deal with students who simply fail to do the work, it may just be appropriate to remind a student or the entire class that “F” is an option.
+
+Better still, though, you can avoid such confrontations by careful preparation. It is important to remember that students want to resolve the intellectual problem under consideration. Begin by reaching an agreement on the nature of the topic under discussion, and keep clarifying that issue and where you are in the process—for instance, defining, suggesting hypotheses and evidence, evaluating alternatives—involving the students as much as possible. If you get a sense that many students are overwhelmed by the reading, provide them with questions beforehand to guide them through the material. It is vitally important to make sure students have done the reading, even if you are not confident of their level of understanding. Thus, recall the importance of never denigrating an initial interpretation; rather, build on it, find something positive to say about every comment, rephrase silly comments (and yes, there are dumb questions), write key phrases spoken by students on the board to encourage a sense of responsibility and pride in one’s words, and link the comments of one student with those of another to get them to talk to each other and not just to you. Such extra energy early on will convince students that they can master the material and offer something of value. Nourish that confidence, as it is the very foundation of education.
 
 ##
 
-## 5\. Dealing with Problems
+## 6 Effective Facilitation: Polishing Your Skills
 
-Facilitating a course at a TWU FAR Centre carries with it problems large
-and small. Keep the distinction clear and avoid making problems that are
-easily solved into complicated situations that drain you of time and
-energy. An overly aggressive student whose conduct borders on sexual
-harassment is a large problem. A student who comes to you with tales of
-woe may become a large problem. Do not—repeat, DO NOT—attempt to deal
-with these large problems yourself. Every college employs people who are
-trained to handle these kinds of problems. At the very least, it is your
-professor who should address any complicated issues or threatening
-situations. Report any such matters to the professor immediately, and
-let others with more authority or professional preparation cope with
-them. Careers have been cut short by a facilitator’s conviction that a
-major confrontation or talk of suicide was a joke. Disengage yourself as
-quickly as possible from an undergraduate’s personal problems, and allow
-people with more experience and resources to take over.
+The point of teaching is to be effective, to impart a body of information and a mode of analysis. As you start facilitating this course, the clearer your own perception of the workings of history may become, an insight that cannot but improve your teaching. There are several ways of improving your teaching and facilitation skills. Ask your students for written evaluations, and read them carefully. With time, you may find these evaluations valuable components of a job application. Be honest with yourself in identifying weaknesses, and work to correct flaws. Some methods of self-examination are more attractive than others; videotaping your class is painful but valuable. Just as you encourage your students to show their rough drafts to friends, invite your professors into your classroom, so that they can suggest improvements and later attest to your teaching abilities in letters of recommendation.
 
-What is mainly of concern to you are the little problems that arise as
-you learn any new skill. No one is a born teacher any more than anyone
-is a born bicycle rider. Every teacher makes mistakes and confronts
-roadblocks; recognize them as part of your training, identify the
-problem, and work on it. Talk with your fellow facilitators (if
-possible) or the professor about a specific difficulty, and learn how
-they dealt with it. While students are most creative in inventing new
-crises for teachers, there are a few common difficulties you may
-encounter that you should consider.
-
-You may not suffer from this trauma, but many students have a deep fear
-of speaking in public. You may observe a student who is a blabbermouth
-in the cafeteria yet clams up in your classroom. Usually, these students
-are just afraid of making fools of themselves. There are several ways of
-getting a shy student, or most of a quiet class, to participate. The
-first step is to avoid phrasing questions in a manner that implies only
-one answer (factual questions aside). Having the class write their
-responses to a specific question and read them out loud in class is very
-effective; even shy people feel safe reading aloud something they have
-already written. Breaking the class into smaller groups responsible for
-developing reactions to a historical problem also draws quieter students
-into the conversation, though you need to be particularly alert to the
-dynamic of each group.
-
-On the other extreme are those who participate too much. A private
-conversation during your office hours is the best way to let a student
-know that, while you appreciate his or her contributions to the class
-discussion, you would like his or her help in drawing out some of the
-quieter students. All but the dimmest students will get the hint.
-
-Often in the course of the day, you will find your class getting bogged
-down. Petty debate over minor details or a frustrating inability to
-understand the larger issues can prevent you from making steady
-progress. Worse still, you may discover that none of the students has
-done the assigned reading. It is important on these occasions not to
-lose your temper. Try, literally, to focus students’ attention on
-something different. Illustrations in the textbook are especially
-effective for changing direction in a conversation or bringing home a
-point. Ask questions about the illustrations that require students to
-reflect on specific issues raised in the text or lectures.
-
-Illustrations have a way of waking up students and inspiring those who
-are most disengaged. Even a picture lacking obvious drama can bring
-forth deep passions and insights. The textbook allows you to bring
-history to life and ensures that your class discussions reflect that
-drama.
-
-There may be occasions when none of these methods works or when the
-problem persists class after class. Outstaring students is generally not
-a good approach. Students, like most people, hate extended silences.
-Make the silence itself a point worthy of discussion: “OK, my friends,
-why doesn’t anyone want to talk today?” Such a question may evoke
-laughter and cause students to admit that they just don’t get it or that
-none of them has done the reading. For those who don’t get it, go back
-to the book, open it up, and start parsing a passage. To deal with
-students who simply fail to do the work, it may just be appropriate to
-remind a student or the entire class that “F” is an option.
-
-Better still, though, you can avoid such confrontations by careful
-preparation. It is important to remember that students want to resolve
-the intellectual problem under consideration. Begin by reaching an
-agreement on the nature of the topic under discussion, and keep
-clarifying that issue and where you are in the process—for instance,
-defining, suggesting hypotheses and evidence, evaluating
-alternatives—involving the students as much as possible. If you get a
-sense that many students are overwhelmed by the reading, provide them
-with questions beforehand to guide them through the material. It is
-vitally important to make sure students have done the reading, even if
-you are not confident of their level of understanding. Thus, recall the
-importance of never denigrating an initial interpretation; rather, build
-on it, find something positive to say about every comment, rephrase
-silly comments (and yes, there are dumb questions), write key phrases
-spoken by students on the board to encourage a sense of responsibility
-and pride in one’s words, and link the comments of one student with
-those of another to get them to talk to each other and not just to you.
-Such extra energy early on will convince students that they can master
-the material and offer something of value. Nourish that confidence, as
-it is the very foundation of education.
-
-##
-
-## 6\. Effective Facilitation: Polishing Your Skills
-
-The point of teaching is to be effective, to impart a body of
-information and a mode of analysis. As you start facilitating this
-course, the clearer your own perception of the workings of history may
-become, an insight that cannot but improve your teaching. There are
-several ways of improving your teaching and facilitation skills. Ask
-your students for written evaluations, and read them carefully. With
-time, you may find these evaluations valuable components of a job
-application. Be honest with yourself in identifying weaknesses, and work
-to correct flaws. Some methods of self-examination are more attractive
-than others; videotaping your class is painful but valuable. Just as you
-encourage your students to show their rough drafts to friends, invite
-your professors into your classroom, so that they can suggest
-improvements and later attest to your teaching abilities in letters of
-recommendation.
-
-Much of what is offered in this brief guide is given to you in the
-spirit of exploration. A great deal can be learned from talking with and
-observing experienced teachers, but that does not mean you should try to
-become some ideal type of a college professor. You will quickly discover
-your own voice and style as a facilitator, and you should have no
-trouble retaining your sense of humor in the process. Do not hesitate to
-experiment—and abandon an idea if it flops. Some approaches work for
-some facilitators and not for others. Do not be afraid to try something
-new. It is your Learning Lab, your career—and facilitating should be
-fun. With music, as Duke Ellington said, “If it sounds good, it is
-good.” With teaching, if it works for you, it is good teaching.
+Much of what is offered in this brief guide is given to you in the spirit of exploration. A great deal can be learned from talking with and observing experienced teachers, but that does not mean you should try to become some ideal type of a college professor. You will quickly discover your own voice and style as a facilitator, and you should have no trouble retaining your sense of humor in the process. Do not hesitate to experiment—and abandon an idea if it flops. Some approaches work for some facilitators and not for others. Do not be afraid to try something new. It is your Learning Lab, your career—and facilitating should be fun. With music, as Duke Ellington said, “If it sounds good, it is good.” With teaching, if it works for you, it is good teaching.
