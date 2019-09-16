@@ -49,12 +49,12 @@ In Unit 4, the group discussion will focus on the following questions:
 
 **Evaluating Group Discussions:**
 
-Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each class and then providing a score for each student at the end of the class based on the rubric provided below.
+Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each learning lab and then providing a score for each student at the end of the learning lab based on the rubric provided below.
 
 | **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
-***Note:*** An absence for **one** class will not result in a loss of participation marks.
+***Note:*** An absence for **one** learning lab will not result in a loss of participation marks.
 
 ### Part 2: Presentation Activity
 
@@ -64,7 +64,7 @@ For this activity, divide students into 4-5 groups. The objective of this activi
 
 *Presentations will be group projects*
 
--   The amount of time available to prepare for the presentation will be class time only.
+-   The amount of time available to prepare for the presentation will be learning lab time only.
 
 *Set clear expectations for the presentations*
 
@@ -94,7 +94,7 @@ For this activity, divide students into 4-5 groups. The objective of this activi
 
 ### Part 3: Assignments Reminders
 
-After the class is done remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 2 assessment page.
+After the learning lab is done remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 2 assessment page.
 
 Next, they will need to complete Assignment \#2: Scientific Management Paper. This paper involves a 4-page response paper to Taylor’s book. Be sure to cite page numbers if you are using quotes (remember that I want to see your understanding of the quote, not just the quote – use quotes minimally). In your paper, address the following questions:
 
