@@ -30,7 +30,7 @@ In addition to course and unit learning outcomes, FAR Centre courses align with 
 
 ## TWU Student Learning Outcomes
 
-Trinity Western is a Christian, liberal arts University. As a ***Christian*** university, Trinity Western is grounded in the historical Christian tradition and seeks to unite reason and faith through teaching and scholarship. As a ***liberal arts*** university,
+Trinity Western is a Christian, liberal arts university. As a ***Christian*** university, Trinity Western is grounded in the historical Christian tradition and seeks to unite reason and faith through teaching and scholarship. As a ***liberal arts*** university,
 Trinity Western prepares students to deal with complexity, diversity, and change by providing them with a broad knowledge of the wider world and helping them to develop transferable intellectual and practical skills.
 
 The Student Learning Outcomes pertain to the whole University but it is recognized that they apply most directly to the undergraduate experience. The University’s graduate programs are diverse and highly specialized and thus support the University student learning outcomes

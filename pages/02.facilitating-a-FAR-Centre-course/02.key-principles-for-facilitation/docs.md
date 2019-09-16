@@ -18,7 +18,7 @@ As you plan your learning activities, keep in mind these six assumptions about a
 
 2.  An adult accumulates a growing reservoir of **experience**, which is a rich resource for learning.
 
-3.  The readiness of an adult to learn is closely related to the developmental tasks of his or her social role.
+3.  The readiness of an adult to learn is closely related to the **developmental tasks** of his or her social role.
 
 4.  There is a change in time perspective as people mature – from future application of knowledge to immediacy of **application**. Thus, an adult is more problem than subject centered in learning.
 
