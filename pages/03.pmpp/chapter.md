@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-## Project Management Professional Program
+## Project Management Professional Program (PMPP)
 
 ![](projectmanagment.jpg)
 
