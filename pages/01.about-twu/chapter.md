@@ -17,4 +17,4 @@ taxonomy:
 Tap the arrow on the right to continue, or select Topics from the menu on the left. Let's begin the journey!
 ![](map-3578213_1920.jpg)
 
-<a href="https://pixabay.com/photos/map-travel-travel-map-explore-3578213/ >Image</a> by Mohamed Hassan
+>Image</a> by Mohamed Hassan
