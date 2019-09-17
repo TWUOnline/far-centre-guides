@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-## Bachelor of Arts in Leadership
+## Bachelor of Arts in Leadership (BA Lead)
 
 ![](leadership.jpg)
 
