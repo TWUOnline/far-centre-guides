@@ -1,5 +1,5 @@
 ---
-title: 'BA in Leadership"
+title: 'Bachelor of Arts in Leadership'
 '
 taxonomy:
     category: docs
