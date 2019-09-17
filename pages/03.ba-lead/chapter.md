@@ -5,6 +5,8 @@ taxonomy:
     category: docs
 ---
 
+![](leadership.jpg)
+
 In this section you will find all resources and course materials for the Bachelor of Arts in Leadership program. Some of these courses wlil include:
 
 * LDRS 300: Leadership Theory and Practice
