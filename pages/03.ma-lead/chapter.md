@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-## Masters of Arts in Leadership 
+## Masters of Arts in Leadership  (MA Lead)
 
 ![](maleadership.jpg)
 

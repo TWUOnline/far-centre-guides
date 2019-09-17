@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-## Faculty of Natural and Applied Sciences
+## Faculty of Natural and Applied Sciences (FNAS)
 
 ![](science.jpg)
 

@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-## Faculty of Humanities and Social Sciences
+## Faculty of Humanities and Social Sciences (FHSS)
 
 ![](humanities.jpg)
 
