@@ -31,7 +31,7 @@ There are plenty of resources that facilitators can draw upon when planning Lear
 
 ______________________________________________
 
-#### *<span style="color:red">Below here I have listed some helpful tips and ideas from these resources</span> *
+#### *<span style="color:green">Below here I have listed some helpful tips and ideas from these resources</span> *
 
 ### Opening Exercises
 
