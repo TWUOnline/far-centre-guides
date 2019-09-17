@@ -4,7 +4,8 @@ taxonomy:
     category: docs
 ---
 
+## Project Management Professional Program
 
-![] (projectmanagement.jpg)
+![](projectmanagment.jpg)
 
 This section provides the course resources for TWU's Project Management Professional Program, which will being offered at some of the FAR Centres.
