@@ -8,6 +8,18 @@ visible: true
 
 There are plenty of resources that facilitators can draw upon when planning Learning Labs and coaching sessions. While facilitating learning in an international blended-learning environment takes some pioneering, the best practices in adult education and coaching are a great place to build off of. Here are some articles, resources and websites you can refer to as you look for helpful activities and strategies:
 
+*On culture*:
+
+<a class="embedly-card" data-card-controls="0" href="https://www.cmf.org.uk/resources/publications/content/?context=article&id=26728">Foreign to Familiar: A Guide to Understanding Hot- and Cold-Climate Cultures</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<a class="embedly-card" data-card-controls="0" href="https://www.erinmeyer.com/">Welcome! - Erin Meyer</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<a class="embedly-card" data-card-controls="0" href="http://www.aupress.ca/index.php/books/120229">Athabasca University Press - Teaching in Blended Learning Environments: Creating and Sustaining Communities of Inquiry</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
 *Books*:
   - 'Active Training: A Handbook of Techniques, Designs, Case Examples and Tips' by Mel Silberman & Elaine Biech
   - 'Powerful Techniques for Teaching Adults' by Stephen Brookfield
@@ -17,7 +29,9 @@ There are plenty of resources that facilitators can draw upon when planning Lear
   - Purdue Online Writing Lab // https://owl.purdue.edu/owl/purdue_owl.html
 
 
-  Below here I have listed some helpful tips and ideas from these resources.
+----
+
+*Below here I have listed some helpful tips and ideas from these resources.*
 
 ## Opening Exercises
 
