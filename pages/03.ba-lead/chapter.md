@@ -5,6 +5,8 @@ taxonomy:
     category: docs
 ---
 
+## Bachelor of Arts in Leadership
+
 ![](leadership.jpg)
 
 In this section you will find all resources and course materials for the Bachelor of Arts in Leadership program. Some of these courses wlil include:
