@@ -6,9 +6,14 @@ taxonomy:
 visible: true
 ---
 
-Learning Coach Manual
 
-2016
+
+A significant part of the facilitator's role will be to provide academic coaching for FAR centre students. Coaching can happen with a group of students or one-on-one, and both situations require facilitators to consider the best principles and practice to inform their coaching. Here is TWU's Learning Coach Manual used by the university's academic coaches, which outlines the essential principles and practices of coaching.
+
+![](image-8.jpeg)
+
+---
+## Learning Coach Manual (2016)##
 
 ### Our goal:
 
@@ -216,6 +221,8 @@ sentence-level language should work towards *learner development* rather
 than editing or “cleaning up” an essay.
 
 The work of the learning coach might involve:
+
+![](new.png)
 
 <table>
 <thead>
