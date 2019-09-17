@@ -11,4 +11,4 @@ In this section you will find all resources and course materials for the Bachelo
 * LDRS 302: Historical Concepts of Leadership
 * LDRS 303: Contemporary and Popular Approaches to Leadership
 * LDRS 310: The Learning Organization
-* LDRS 410: Communication Methods and Mediums of Persuasian and Positive Influences
+* LDRS 410: Communication Methods and Mediums of Persuasion and Positive Influences
