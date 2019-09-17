@@ -31,18 +31,18 @@ There are plenty of resources that facilitators can draw upon when planning Lear
 
 ______________________________________________
 
-#### Below here I have listed some helpful tips and ideas from these resources. #### 
+#### *Below here I have listed some helpful tips and ideas from these resources.*
 
-## Opening Exercises
+### Opening Exercises
 
 Opening exercises (also referred to as warm-ups or icebreakers) should be tied to the data collected from pre-assessments and to the objectives of the session. It’s important to find ways to connect the learners’ experience to what you are going to be teaching. This will answer the unspoken question in participants’ minds: *Is this going to be worth my time?* Opening exercises should also help people feel connected in some way and establish some group sense of purpose.
 
 Refer to Silberman chapter 3 for many practical strategies for team building, on the spot assessment and immediate learning involvement. Methods include: Open discussion, response cards, polling, subgroup discussions, partners, go-arounds, games, calling on the next speaker, panels and fishbowls.
 
-##### **Syllabus Scavenger Hunt**
+### **Syllabus Scavenger Hunt**
 Consider having this activity for the first day of class.  See full details [here](http://thoughtsonteaching-jdunlap.blogspot.com/2008/10/scavenger-hunts-as-strategy-for.html)
 
-##### **Name Bingo**
+### **Name Bingo**
 Text from Silberman ch. 3
 
 1. Participants wander around the room and meet each other.
@@ -59,7 +59,7 @@ Text from Silberman ch. 3
 
 7. As their names are picked, participants should introduce themselves to the group and share three facts about themselves.
 
-##### **Instructions for Tell the Truth**
+### **Instructions for Tell the Truth**
 
 1. Ask each participant to write down on a card three personal facts not previously shared with the group.
 
@@ -73,7 +73,7 @@ Text from Silberman ch. 3
 
 ## Tips for creating presentations
 
-##### **Gaining your audiences interest**
+### **Gaining your audiences interest**
 
 1. Begin with a fun introductory exercise
 
@@ -85,7 +85,7 @@ Text from Silberman ch. 3
 
 5. Give them a preview of the presentation content
 
-##### **Maximizing understanding and retention**
+### **Maximizing understanding and retention**
 
 1. Opening summary of major points
 
@@ -97,7 +97,7 @@ Text from Silberman ch. 3
 
 5. Visual back-up in your slides
 
-##### **Involving Participants during presentation**
+### **Involving Participants during presentation**
 
 Involving participants during presentations is a way to foster student engagement, and it is another useful method in ensuring students understand and retain the information they are learning. Here are some practical ways you can involve students during presentations.
 
@@ -111,7 +111,7 @@ Involving participants during presentations is a way to foster student engagemen
 
 5. Use illuminating exercises throughout the presentation
 
-##### **Reinforcing presentations**
+### **Reinforcing presentations**
 
 Here is a summary of recommendations from the Silberman text about how to reinforce presentations after you have finished presenting to your students. Reinforcing presentations is crucial to helping students retain what they have learned.
 
@@ -125,7 +125,7 @@ Here is a summary of recommendations from the Silberman text about how to reinfo
 
 5. Create an experiential activity that dramatically illustrates or summarizes the main points in the presentation.
 
-##### **Alternatives to Presentations**   
+### **Alternatives to Presentations**   
 
 While presentations may seem like the easiest way to communicate material to learners, using a variety of teaching techniques can keep learning labs interesting and cater to students unique learning styles. Here are some ideas for other ways you can teach students.
 
@@ -143,7 +143,7 @@ While presentations may seem like the easiest way to communicate material to lea
 
 7. Divide the students into groups and facilitate a **jigsaw learning** activity. Divide the presentation material into different sections, and give each group of students a section that they must learn and then teach to the rest of the class.
 
-## Designing lessons
+### Designing lessons
 
 Designing effective lessons takes strategic planning and consideration. Silberman emphasizes that the three essentials ingredients for quality lesson design are 1)objectives, 2)methods, and 3)format. In other words, the designer needs to clarify exactly what the purpose of learning is (objective), what they need to do to achieve that purpose(methods), and how exactly they will go about doing what they need to do (format).
 
