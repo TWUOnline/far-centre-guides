@@ -1,14 +1,16 @@
 ---
-title: 'Coaching'
+title: 'Academic Coaching'
 taxonomy:
-    category: docs
-child_type: docs
+    category:
+        - docs
+visible: true
 ---
+
 Learning Coach Manual
 
 2016
 
-### Our goal:
+# Our goal:
 
 Learning Coaches lead university (graduate and undergraduate) students
 in developing academic and linguistic confidence with the ultimate goal
@@ -19,7 +21,7 @@ to see: “Proactive, self-regulated learners are problem solvers: They
 seek out information, take steps to master material, and persist when
 tasks are challenging” (p. 252).
 
-### Definition of a coach:
+# Definition of a coach:
 
 A coach meets students where they are at and provides direction,
 encouragement, correction, and wisdom to help the students become all
@@ -45,7 +47,7 @@ zone of proximal development” and scaffolding in that it assumes:
 4.  The transfer of responsibility for the task to the students as the
     major goal (p. 38).
 
-### Towards self-regulated learning
+# Towards self-regulated learning
 
 *Self-regulated learning* (SRL) is a term that helps us understand
 students who are active, who “learn with volition and agency” (Grolnick
