@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-## School of Arts, Media and Culture
+## School of Arts, Media and Culture (SAMC)
 
 ![](SAMC.jpg)
 
