@@ -87,7 +87,7 @@ Following is a description of the letter grading:
 
 
 ### Academic Integrity and Avoiding Plagiarism at TWU
-One of the core values of Trinity Western University is the integration of academic excellence with high standards of personal, moral, and spiritual integrity. The University considers it a serious offence when an individual attempts to gain unearned academic credit. It is the student’s responsibility to be informed about what constitutes academic dishonesty. For details on this, and on identifying and avoiding plagiarism go to [https://www.twu.ca/about/policy-academic-dishonesty](https://www.twu.ca/about/policy-academic-dishonesty)
+One of the core values of Trinity Western University is the integration of academic excellence with high standards of personal, moral, and spiritual integrity. The University considers it a serious offence when an individual attempts to gain unearned academic credit. It is the student’s responsibility to be informed about what constitutes academic dishonesty. For details on this, and on identifying and avoiding plagiarism go to [**https://www.twu.ca/about/policy-academic-dishonesty**](https://www.twu.ca/about/policy-academic-dishonesty)
 
 Here are some other other helpful links:
 
