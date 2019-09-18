@@ -21,7 +21,7 @@ important underlying assumptions.
 
 !! *Note that topics listed in the course description above may differ from those in this course. See the Course Schedule below for specific topics to this offering of PHIL 210.*
 
-Read the full course syllabus <span style="color:blue">[here](PHIL210-Syllabus_Fall-2019.pdf)
+Read the full course syllabus [*here*](PHIL210-Syllabus_Fall-2019.pdf)
 
 
 ## Learning Outcomes
