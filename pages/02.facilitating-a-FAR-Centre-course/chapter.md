@@ -4,9 +4,9 @@ taxonomy:
     category: docs
 ---
 
-## <p style='text-align: center;'>Facilitating a FAR Centre Course</p>
+#<p style='text-align: center;'>Facilitating a FAR Centre Course</p>
 
-## <p style='text-align: center;'>Overview</p>
+#<p style='text-align: center;'>Overview</p>
 
 <p style='text-align: justify;'>Welcome to the adventure of a lifetime!  If you have accepted the position of a FAR Centre Facilitator, you are in for quite an experience!  As explained in the [FAR Centre Overview](https://far.twu.ca/guides/about-twu/far-centres), facilitators will be responsible for guiding students through Trinity courses, both to help them navigate the online components, but also to engage students in active learning experiences in the classroom.  In this section of the guide, we will explore various techniques that will help you in this role.</p>
 
