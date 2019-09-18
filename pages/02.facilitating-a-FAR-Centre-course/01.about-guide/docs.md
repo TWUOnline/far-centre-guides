@@ -1,5 +1,5 @@
 ---
-title: 'Facilitating a FAR Centre Course'
+title: 'About the Facilitator's Guide'
 taxonomy:
     category:
         - docs
