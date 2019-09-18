@@ -95,7 +95,7 @@ http://bit.ly/1p00KX3  (Google Slide presentation offering more comprehensive in
 
 
 ### University Standard Grading System
-The Standard Grading System can be found at the University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices     University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices.
+The Standard Grading System can be found on the TWU website at https://www.twu.ca/about/university-standard-grading-system (https://www.twu.ca/about/university-standard-grading-system)
 
 
 ### Students with a Disability
