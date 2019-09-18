@@ -91,13 +91,13 @@ One of the core values of Trinity Western University is the integration of acade
 
 Here are some other other helpful links:
 
-[**Prezi presentation**](**https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/**)
+[**Prezi presentation on **](https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/)
 
-[**Google Slide presentation offering more comprehensive information**](**http://bit.ly/1p00KX3**)
+[**Google Slide presentation offering more comprehensive information**](http://bit.ly/1p00KX3)
 
 
 ### University Standard Grading System
-The Standard Grading System can be found on the TWU website at [**https://www.twu.ca/about/university-standard-grading-system**](**https://www.twu.ca/about/university-standard-grading-system**)
+The Standard Grading System can be found on the TWU website at [**https://www.twu.ca/about/university-standard-grading-system**](https://www.twu.ca/about/university-standard-grading-system)
 
 
 ### Students with a Disability
