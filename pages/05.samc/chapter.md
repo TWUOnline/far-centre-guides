@@ -12,3 +12,5 @@ TWU's School of Arts, Media and Culture offers programs in music, fine art, comm
 
 * MCOMM 221: Digital Filmmaking
 * MCOMM 281: Public Speaking
+
+### About SAMC
