@@ -91,7 +91,7 @@ One of the core values of Trinity Western University is the integration of acade
 
 Here are some other other helpful links:
 
-[**Prezi presentation on **](https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/)
+[**Prezi presentation on plagiarism**](https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/)
 
 [**Google Slide presentation offering more comprehensive information**](http://bit.ly/1p00KX3)
 
