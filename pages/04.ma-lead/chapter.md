@@ -1,10 +1,10 @@
 ---
-title: 'Masters of Arts in Leadership'
+title: 'Master of Arts in Leadership'
 taxonomy:
     category: docs
 ---
 
-## Masters of Arts in Leadership  (MA Lead)
+## Master of Arts in Leadership  (MA Lead)
 
 ![](maleadership.jpg)
 
