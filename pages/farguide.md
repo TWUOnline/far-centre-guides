@@ -104,33 +104,33 @@ that TWU is different than at any other university.
 
 ### Weekly Classes
 
-  - Students will meet weekly with their **\[insert\]** class to
+  * Students will meet weekly with their **\[insert\]** class to
     participate in active learning guided by the Facilitator. Classes
     will invite personal inquiry and engagement with intended learning
     outcomes through a variety of in-class activities and out of class
     assignments.
 
-  - Students are expected to engage with the weekly classes,
+  * Students are expected to engage with the weekly classes,
     thoughtfully present ideas and opinions during class discussions,
     and contribute to building a respectful and caring environment for
     all students to learn.
 
 ### Online Engagement
 
-  - Students will be required to view all course materials online via
+  * Students will be required to view all course materials online via
     Moodle. The Moodle course contains key information on assignments,
     as well as crucial teaching designed by the Instructor.
 
 ### Assignments
 
-  - Students will view all assignment details online via Moodle. Please
+  * Students will view all assignment details online via Moodle. Please
     ask your Facilitator if you have any questions or concerns, as they
     will guide you through your learning.
 
-  - All assignments will be submitted via Moodle to the instructor. The
+  * All assignments will be submitted via Moodle to the instructor. The
     instructor will assign grades and give feedback.
 
-  - See the assignment details and Grading Scale below. Full
+  * See the assignment details and Grading Scale below. Full
     instructions are in your Moodle course.
 
 **Course Policies:**
