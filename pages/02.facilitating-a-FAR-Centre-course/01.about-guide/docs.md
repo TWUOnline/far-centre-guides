@@ -1,32 +1,37 @@
 ---
-title: 'What is Facilitation?'
+title: 'Facilitating a FAR Centre Course'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-![](image-1.jpeg)
+## Facilitating a FAR Centre courses
 
-When you first heard of the title, ‘Global Academic Facilitator’, you may have been curious as to what that term means. To ‘facilitate’ something refers to making an action or process easier (Oxford definition), and a facilitator of learning is someone who does whatever is necessary to ensure that learning can happen in a given environment. This could be through administering learning materials, coaching students individually, teaching content in a group setting, providing tech support, or whatever is needed for students to have a comprehensive learning experience.
+### Overview
 
-Vaughan refers to facilitation as “the central activity of teaching in an educational community of inquiry that emerges from the activity between students and instructor”(p.46). Thus, in most face-to-face learning environments, the primary learning facilitator is the instructor and sees facilitative duties as a central part of their role. Nevertheless, facilitating a quality, transformational learning experience is a big role, and teaching assistants, learning coaches and educational administrators are there to perform supplemental facilitation duties roles so the instructor doesn’t have to. In that sense, facilitation of learning is a multifaceted endeavor, and it often takes a joint effort from several educational professionals to serve a learning community.
+Welcome to the adventure of a lifetime!  If you have accepted the position of a FAR Centre Facilitator, you are in for quite an experience!  As explained in the [FAR Centre Overview](https://far.twu.ca/guides/about-twu/far-centres), facilitators will be responsible for guiding students through Trinity courses, both to help them navigate the online components, but also to engage students in active learning experiences in the classroom.  In this section of the guide, we will explore various techniques that will help you in this role.
 
-In an international online learning community, facilitating becomes even more complex. The instructor does their best to facilitate learning through online platforms, but because there are added barriers to learning, such as proximity and culture differences, it can be challenging for instructors to provide their students with the support they need.  Studies have shown that many students who attempt to take online courses from overseas institutions are not successful, and this is often linked to the nuanced cultural differences in Western education and online learning technologies that students have no easy way to understand. It may be more cost-effective to complete international degrees virtually in their home country, but it comes with significant challenges.
+<p style='text-align: justify;'>Note that other sections of the guide will go into specifics about your courses (e.g. India/ PHIL 210 / Instructor's Notes), so be sure to review those notes in detail.  For now, we will discuss key ideas you may remember from your courses in completing the Graduate Certificate In Adult Learning: Coaching And Facilitation.</p>
 
-At TWU Global, we believe that while there are barriers to creating successful international online learning communities, it is not impossible with some restructuring of how facilitation will work in this environment. In addition to the online instructor, GLOBAL has designed a blended online learning program that relies on their academic facilitator to fill in these gaps in international online higher education. The role of the academic facilitator is to supplement the instructors’ facilitation duties by providing face-to-face coaching, administration, learning facilitation, and IT support for the students who are taking the courses at their campus. They do not instruct the course, but they provide direction for how students approach their courses and bridge any gaps in learning.
+<p style='text-align: justify;'>This facilitation guide is meant to help the facilitator navigate the complex and exciting territory of their own role. It will help answer the following questions:</p>
 
 
-As a facilitator at a FAR Center, some of your primary duties will :
+- <p style='text-align: justify;'>What is a facilitator of learning, and what does the job entail?</p>
 
-•	Plan and lead weekly Learning Labs that correspond with the units in the students courses
+- <p style='text-align: justify;'>How do you facilitate learning successfully?</p>
 
-•	Provide both group and individual coaching in developing critical thinking skills, understanding major concepts and academic writing
+- <p style='text-align: justify;'>How does the facilitator help students engage in online learning?</p>
 
-•	Oversee the students completion of their courses
+- <p style='text-align: justify;'>What will the facilitator's schedule look like?</p>
 
-•	Facilitate quizzes and exams
+- <p style='text-align: justify;'>What is the coaching component of facilitation?</p>
 
-•	Help students with technological difficulties
+- <p style='text-align: justify;'>Do facilitators do any assessment?</p>
 
-As you embark on your journey as a facilitator, your understanding of your own role will expand and shape according to where you are. Facilitators have a multilayered yet essential role that is informed by context, students and learning outcomes, and it requires flexibility, discernment and a readiness to learn.
+- <p style='text-align: justify;'>How should the facilitator plan their learning labs?</p>
+
+- <p style='text-align: justify;'>What are effective learning activities to include in learning labs?</p>
+
+
+<p style='text-align: justify;'>These are just some of the questions that will be addressed in this manual, and because it is working document, the experiences of FAR Center facilitators will continue to inform the material.</p>
