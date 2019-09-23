@@ -1,13 +1,11 @@
 ---
-title: 'Course Overview & Syllabus'
+title: 'Course Overview'
 media_order: PHIL210-Syllabus_Fall-2019.pdf
 taxonomy:
     category:
         - docs
 visible: true
 ---
-
-### Course Overview
 
 # Syllabus
 
@@ -23,21 +21,21 @@ important underlying assumptions.
 
 !! *Note that topics listed in the course description above may differ from those in this course. See the Course Schedule below for specific topics to this offering of PHIL 210.*
 
-Read the full course syllabus [here](PHIL210-Syllabus_Fall-2019.pdf).
+Read the full course syllabus [**here**](PHIL210-Syllabus_Fall-2019.pdf)
 
 
 ## Learning Outcomes
 After successfully completing the course, you will be able to:
 * Apply foundational ethical principles to actual situations in the search for correct moral action.
 * Identify key assumptions undergirding contemporary moral discourse.  
-* Discuss knowledgeably a few important metaethical issues:  e.g., moral subjectivism, moral objectivism, the unique features of moral discourse, etc. 
+* Discuss knowledgeably a few important metaethical issues:  e.g., moral subjectivism, moral objectivism, the unique features of moral discourse, etc.
 * Describe a number of normative ethical theories: e.g., ethical egoism, utilitarianism, Kantian deontology, Utilitarianism, Social Contract morality, etc.
 * Reflect on your beliefs and assumptions throughout the course regarding a few significant ethical questions including sexual morality, freedom of speech, abortion, end-of-life moral dilemmas, torture, terrorism, and world hunger & foreign aid.
 * Explain how the teachings of Jesus re-frame certain social issues covered in this class.
 
 
 ## Student Evaluation
- 
+
 | **Assessment**               | **Grade**          | **Assesses Course Learning Outcome** |
 |------------------------------|--------------------|--------------------------------------|
 | Reflective Journal           | 30% (5 at 6% each) | 1.5                                  |
@@ -71,12 +69,12 @@ Intro Text: Wolff, Jonathan.  _An Introduction to Moral Philosophy_.  New York: 
 
 
 ## Course Policies:
-                                                                                                        
+
 ### Inclusive Classroom:
 TWU is committed to an ethic of inclusion centred on the principles of hospitality, reciprocity and reconciliation. We seek to produce generous learning spaces that are based on respect for difference and are open to diverse views, opinions, and identities. We welcome and value all voices, including those that have been silenced on account of race, religious beliefs, colour, gender, physical or mental variations, age, ancestry, place of origin, marital status, family status, sex, and sexual orientation, or on any other grounds identified in applicable human rights law.
 
-### GRADING GUIDELINES 
-Following is a description of the letter grading: 
+### GRADING GUIDELINES
+Following is a description of the letter grading:
 
 | **A range = Superior, exceptional, outstanding**. A+ 90-100%  A 85-89%  A- 80-84% | The assignment demonstrates critical, informed, and creative theological inquiry that reflects superior understanding of essential theological/historical concepts. This means the student demonstrates depth of insight beyond what is normally expected. Carefully nuanced reasoning and writing, free from material, structural and grammatical error are presupposed in this grade. |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -89,15 +87,17 @@ Following is a description of the letter grading:
 
 
 ### Academic Integrity and Avoiding Plagiarism at TWU
-One of the core values of Trinity Western University is the integration of academic excellence with high standards of personal, moral, and spiritual integrity. The University considers it a serious offence when an individual attempts to gain unearned academic credit. It is the student’s responsibility to be informed about what constitutes academic dishonesty. For details on this, and on identifying and avoiding plagiarism go to the University Homepage > Academics > Academic Calendar > Academic Information > Academic Policies > Academic Dishonesty and Plagiarism.
+One of the core values of Trinity Western University is the integration of academic excellence with high standards of personal, moral, and spiritual integrity. The University considers it a serious offence when an individual attempts to gain unearned academic credit. It is the student’s responsibility to be informed about what constitutes academic dishonesty. For details on this, and on identifying and avoiding plagiarism go to [**https://www.twu.ca/about/policy-academic-dishonesty**](https://www.twu.ca/about/policy-academic-dishonesty)
 
-https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi presentation)
+Here are some other other helpful links:
 
-http://bit.ly/1p00KX3  (Google Slide presentation offering more comprehensive information)
+[**Prezi presentation on plagiarism**](https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/)
+
+[**Google Slide presentation offering more comprehensive information**](http://bit.ly/1p00KX3)
 
 
 ### University Standard Grading System
-The Standard Grading System can be found at the University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices     University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices.
+The Standard Grading System can be found on the TWU website at [**https://www.twu.ca/about/university-standard-grading-system**](https://www.twu.ca/about/university-standard-grading-system)
 
 
 ### Students with a Disability

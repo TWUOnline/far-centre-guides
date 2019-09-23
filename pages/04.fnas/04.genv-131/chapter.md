@@ -6,6 +6,6 @@ taxonomy:
 
 ### GENV 131
 
-# Chapter Title
+# Facilitation Notes
 
 Chapter description.

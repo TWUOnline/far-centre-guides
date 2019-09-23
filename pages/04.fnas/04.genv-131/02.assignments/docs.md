@@ -1,5 +1,5 @@
 ---
-title: 'Course Overview'
+title: 'Assignments'
 taxonomy:
     category:
         - docs
