@@ -29,4 +29,4 @@ In the classroom, I have envelopes with these 6 questions printed and inside tha
 3. **Concept Mapping**: Create a risk concept map pulling together all the key learning from this unit. A concept map is a creative way to organize ideas on a topic that are connected in interesting ways. You can use paper and pen and then take a photo of your map. Or you can use online free software to help. A risk concept maps are ways to make connections between three sections of learning in this unit. Be creative. There are no wrong answers. This will help you decide what was most significant to you as you read, watched and distilled this rather large and layered topic of risk in leadership.
 
 Additional Resources for this topic:
-- [Article: Creating a Concept Map](https://creately.com/blog/diagrams/ultimate-concept-map-tutorial/)
+- Article: Creating a Concept Map https://creately.com/blog/diagrams/ultimate-concept-map-tutorial/
