@@ -13,4 +13,5 @@ Review the syllabus with students and encourage them to please follow the sugges
 Plan icebreaker activity based on Course Café introductions (e.g. peer interview)
 
 *Activity 1.4: Comparing Models of Leadership*
-See Moodle for instructions. Let students know whether this will be a full lab activity, or whether they should start/complete their sketch note at home.
+
+<span style="color:red"> See Moodle for instructions. Let students know whether this will be a full lab activity, or whether they should start/complete their sketch note at home. </span>
