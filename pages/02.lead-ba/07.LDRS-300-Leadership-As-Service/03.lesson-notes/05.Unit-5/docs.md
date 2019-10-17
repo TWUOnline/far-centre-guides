@@ -33,7 +33,7 @@ taxonomy:
   - Go online and look for information on coaching questions  
   - Have index cards and markers
 
--	*Evaluate*: Watch & Evaluate: Coaching demo by Essential Impact  https://essentialimpact.com/blog/excelerate-leadership-dave-marj-coaching-demo/
+-	*Evaluate*: Watch & Evaluate: Coaching demo by Essential Impact [click here](https://essentialimpact.com/blog/excelerate-leadership-dave-marj-coaching-demo/)
   - Evaluate as a group the demonstration they watched. Discuss observations, reflections and key takeaways they can use in their own leadership coaching.
 
 -	*Practice*: Find a partner and do a mini-coaching session in the lab. Have 1 person be the coach and the other the coachee. Ideally if you have three people, the third person is the observer and takes notes and then provides helpful feedback about the session to the other two students. You can set a limit of 10 minutes, then debrief. Then switch the partners and do a second coaching session. If there are just groups of two, the facilitator can observe and provide some helpful feedback to the students.
