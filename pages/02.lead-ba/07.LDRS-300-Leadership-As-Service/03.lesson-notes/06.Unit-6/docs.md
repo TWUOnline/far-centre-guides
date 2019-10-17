@@ -25,7 +25,7 @@ taxonomy:
 
 **Create**:
 - A case study tells the story of a problem fixed or a question answered.
-  - *State* the situation/ problem
+  - *State* the situation/problem
   - *Give* background
   - *Describe* the solution
   - *Evaluate* the response to the solution

@@ -1,5 +1,5 @@
 ---
-title: 'LSRS 302: Historical Concepts and Theories of Leadership'
+title: 'LDRS 302: Historical Concepts and Theories of Leadership'
 taxonomy:
     category: docs
 ---
