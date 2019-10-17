@@ -18,10 +18,10 @@ taxonomy:
 
 **Details**:
 - Let’s take a look at a global company called Atlassian. They are a software development company. [click here](https://www.atlassian.com)
-  - [plugin:youtube]https://www.youtube.com/watch?v=Hd0JflMdqyM
-  - https://www.youtube.com/watch?v=zgFNTNYJlUk
-  - https://www.youtube.com/watch?v=Exx_LVWpNII
-  - https://www.youtube.com/watch?v=8xiwyk3ouuI
+  - [plugin:youtube](https://www.youtube.com/watch?v=Hd0JflMdqyM)
+  - [plugin:youtube](https://www.youtube.com/watch?v=zgFNTNYJlUk)
+  - [plugin:youtube](https://www.youtube.com/watch?v=Exx_LVWpNII)
+  - [plugin:youtube](https://www.youtube.com/watch?v=8xiwyk3ouuI)
 
 **Create**:
 - A case study tells the story of a problem fixed or a question answered.
