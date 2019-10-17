@@ -14,4 +14,5 @@ taxonomy:
 
 ![](example1.png)
 
-<span style="color:red"> *Facilitator to go over this activity with students in the lab (either how to create a word cloud and/or share word clouds with the rest of the class).* </span>
+<span style="color:red"> Facilitator to go over this activity with students in the lab (either how to create a word cloud and/or share word clouds with the rest of the class). </span>
+{c=red}red{/c}

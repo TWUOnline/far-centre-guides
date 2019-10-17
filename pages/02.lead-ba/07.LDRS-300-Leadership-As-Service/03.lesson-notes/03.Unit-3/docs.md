@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-## Unit 3: Theories of What Managers Do
+## Unit 3: The Head of a Servant Leader: What’s your Vision, Mission and Values?
 
 In this unit, students will explore management on the basis of what managers actually do. Rather than thinking about management at a very general, slightly abstract and impersonal level, this question asks what management looks like when we focus on the details of the day-¬‐to-¬‐day work that managers have to do and what practical responsibilities they exercise. This unit will deal with the practicalities of management work, namely, exploring managers’ 1) actions and responsibilities and 2) roles and relationships.
 
