@@ -6,7 +6,7 @@ taxonomy:
         - docs
 visible: true
 ---
-!!!NEEDS TO BE CHANGED TO 300 Syllabus
+!! **NEEDS TO BE CHANGED TO 300 Syllabus**
 
 ## Course Overview
 

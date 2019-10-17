@@ -1,11 +1,11 @@
 ---
-title: 'Facilitation Notes for LDRS 300'
+title: 'Facilitation Notes for LDRS 300: Leadership as Service'
 taxonomy:
     category:
         - docs
 visible: true
 ---
-!!!NEEDS TO BE CHANGED TO 300 Notes
+!! **NEEDS TO BE CHANGED TO 300 Notes**
 
 In this section, we will outline a couple of key ideas to consider as you facilitate this course.  See below for advice on setting up your class schedule, facilitating activities and discussions, and guiding students through assessments.
 
