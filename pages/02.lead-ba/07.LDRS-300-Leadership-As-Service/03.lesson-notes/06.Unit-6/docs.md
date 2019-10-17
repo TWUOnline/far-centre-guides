@@ -17,7 +17,7 @@ taxonomy:
 - Have the students create a case study around the topic “Can the being habits be integrated/ practiced as part of a healthy organizational culture” (This question can be nuanced or refined by the students).
 
 **Details**:
-- Let’s take a look at a global company called Atlassian. They are a software development company. [click here](https://www.atlassian.com)
+- Let’s take a look at a global company called Atlassian. They are a software development company. [Click here!](https://www.atlassian.com)
   - [plugin:youtube](https://www.youtube.com/watch?v=Hd0JflMdqyM)
   - [plugin:youtube](https://www.youtube.com/watch?v=zgFNTNYJlUk)
   - [plugin:youtube](https://www.youtube.com/watch?v=Exx_LVWpNII)
