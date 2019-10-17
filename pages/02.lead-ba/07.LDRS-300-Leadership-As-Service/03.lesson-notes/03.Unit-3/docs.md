@@ -7,91 +7,31 @@ taxonomy:
 
 ## Unit 3: The Head of a Servant Leader: What’s your Vision, Mission and Values?
 
-In this unit, students will explore management on the basis of what managers actually do. Rather than thinking about management at a very general, slightly abstract and impersonal level, this question asks what management looks like when we focus on the details of the day-¬‐to-¬‐day work that managers have to do and what practical responsibilities they exercise. This unit will deal with the practicalities of management work, namely, exploring managers’ 1) actions and responsibilities and 2) roles and relationships.
+###Topic 3: Good Leadership begins with Good Followership
 
-The students will arrive for the learning lab prepared for group discussions based on what they have completed in their learning activities at home.  Specifically, students will have completed the following activities:
+**Facilitation Lab Activity:**
+  **What**: Paper Bag Creations: Lead or Follow?
+  **Why**: To see how a group of people make decisions when tasked with a project in a specific time frame. Observations about who leads, who follows, why those dynamics unfolded and self-learning/ group learning about how to accomplish something together and how we feel about it in the end.
+  **How many people**: Can be used if you have 4 or more people. Put students in groups of 2, 3 or 4.
 
-| **☑** | **Activities**                            | **Expected Time Commitment** |
-|---|-------------------------------------------|------------------------------|
-|   | **Activity 3.1: Reflect and Respond** <ul><li> Classify a manager's workload. <li>Answer questions in your learning journal. | 30-60 mins                   |
-|   | **Activity 3.2: Reflect** <ul><li> Answer questions in your learning journal.             | 30 mins                      |
-|   | **Activity 3.3: Reflect** <ul><li>Answer questions in your learning journal.    | 30 mins.                     |
-|   | **Activity 3.4: Review and Reflect** <ul><li> Review Mintzberg’s management roles. <li> Answer questions in your learning journal.   | 30 mins.     |
-|   | **Activity 3.5: Review, Create, Reflect** <ul><li> Review [**The CIPD Resources on SWOT**](https://www.cipd.co.uk/knowledge/strategy/organisational-development/swot-analysis-factsheet). <li>Create a SWOT Analysis. <li>Answer questions in your learning journal.| 1 hr.    |
+###Details:
+**PREP**: Assemble a couple of paper bags (or any bag that you cannot see inside) with 15-20 random items (LEGO, pens, tooth picks, bottle caps, string, etc.). Inside each bag write out an idea that the group has to work together to accomplish using only the items in the bag.
 
-## What Will You Be Doing?
+*For example*:
+  •	Create something that represents servant leadership
+  •	Create your ideal restaurant
+  •	Create the home of the future
+  •	Create your neighbourhood
 
-Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to facilitating group discussion and the second 1.5 hours will be focused on the Concept Map Activity (details below).
+**EXECUTE**:
+Set a time limit for the activity (10-20 minutes). Make your own observations about what you see taking place. When the time is finished, have each group explain to the other groups what their task was, what they produced and explain the various parts of their creation.
 
-### Part 1: Lead the Group Discussion:
+**DEBRIEF**:
+*Part 1*: After all the groups have finished, have a group discussion using the following prompts:
+  1.	What was difficult about this activity? What was easy?
+  2.	Did everyone participate in your group? Why or why not?
+  3.	How did you decide on the design?
+  4.	Any other observations?
 
-Divide the class into small groups. Have them discuss questions provided below, and then select a spokesperson who will summarize their findings for the rest of the learning lab after you reconvene as a large group. Note: the same person should not be the spokesperson each week. The level of participation will contribute to each student’s individual participation grade. 
-
-In Unit 3, the group discussion will focus on the following questions:
-
-  1.  To what extent is management work a fragmented experience for you?
-
-  2.  Why do you undertake the activities that you do as a manager?
-
-  3.  What are the motivations behind how you manage your time and workload?
-
-  4.  To what extent are you in control of what you do? Or how much freedom do you have to prioritize the activity categories you employ?
-
-  5.  How accurately do Fayol’s functions or Drucker’s functions of management describe the job you do as a manager in the twenty-first century?
-
-  6.  Do you think there are any functions missing from Fayol’s and Drucker’s lists? Why or why not?
-
-  7.  Thinking about your own work context, which managers tend to be promoted most rapidly in your own organization? Is it those who are most effective in achieving organizational objectives, or those who are most successful at being noticed?
-
-  8.  Which roles, according to Mintzberg, do you think are most and least important in your job? Why do you think this is the case?
-
-  9.  Does the range of your roles throw any light on the problems of managing your time and activities, such as the difficulty of delegating or of saying ‘no’ to particular tasks? Would it be helpful to think in terms of avoiding or passing on certain roles (rather than activities)?
-
-  10. Describe the ways in which you balance what you want to do, and what you are expected and required to do as a manager.
-
-**Evaluating Group Discussions:**
-
-
-Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each learning lab and then providing a score for each student at the end of the learning lab based on the rubric provided below.
-
-| **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
-
-***Note:*** An absence for **one** learning lab will not result in a loss of participation marks.
-
-### Part 2: Lead the Concept Map Activity
-
-**Before**: *Gather Materials*
-
--   You will need large paper, index cards, and markers. Alternately you can have students draw on a chalk board with colored chalk or a white board with colored markers or use a computer drawing program.
-
-**During:** *Tell students how to make a Concept Map (for instructions see the following link: (*<https://www.lucidchart.com/blog/how-to-make-a-concept-map>)
-
--   Identify the main topic or concept. Write this concept/question in a highly visible place in the classroom. The main topic for this activity is: **What Should Managers Do?** This is the first stage of a process or sequence.
-
--   Next, divide the class up into 4 or 5 groups and have them brainstorm ideas about key concepts (about ten for each group) from the readings, learning activities, or other sources. These are called *subordinate concepts.* Allow 20-30 minutes for this brainstorming time.
-
--   Ask each group to write each concept on a small index card or sticky note and post these notes on a visible board close to the main topic.
-
--   Next, ask each group to rank, order, or cluster all of the *subordinate concepts*. Ask the students to place the more inclusive, general, broad or abstract concepts higher up and closer to the main concept and place most exclusive, specific, narrow, or concrete concepts lower on the map.
-
--   Ask each group to draw the entire hierarchy on a piece of paper/board/computer softward with enclosures around the concepts and linking lines that are labeled to the specific relationship.
-
--   Ask them to identify any cross-links (connections across branches), draw in these links as dashed lines and label them. Allow 20-30 mins for this organizational time. Be concise!!!
-
--   Use the briefest and sharpest expression of each idea
-
--   Clearly label each arrow
-
-**After: Present Your Map to the class**
-
--   Have each group provide a presentation/explanation on the structure of the map they created.   
-
--   Ask them to explain why they structured the map they way they did and why they felt their concepts were the most important to emphasize on their concept map.
-
--   Allow 30 minutes for the presentations (approximately 6-8 minutes per group).
-
-### Part 3: Assignment Reminders
-
-After the learning lab is done, remind students that they will need to work on their journal response during their homework time. The journal response involves writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 3 assessment page.
+*Part 2*: Hand out a debrief sheet for them to each fill out. This debrief sheet should be uploaded to the moodle for the professor's perusal.
+Provide any of your own feedback to the professor about this activity.
