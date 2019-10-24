@@ -96,7 +96,7 @@ Following is a description of the letter grading:
 
 !! It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.
 
-[**ACADEMIC DISHONESTY POLICY***](https://www.twu.ca/about/policies/policy-academic-dishonesty)
+[**ACADEMIC DISHONESTY POLICY**](https://www.twu.ca/about/policies/policy-academic-dishonesty)
 
 
 ### Academic Integrity and Avoiding Plagiarism at TWU
