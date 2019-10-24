@@ -68,12 +68,12 @@ The final grade will be determined by the satisfactory completion of all require
 |-----------------------------|----------------------------------------|-----------------------|
 | *Learning Lab dialogue/exercises* | 1 (a,b), 2 (c), 4 (e), 6 (f), 7 (g,h) | 5%                 |
 | *Servant Leadership Portfolio – Six (6) Assignments
-| 1. Humility & Leadership
-| 2. Vision, Mission, Values
-| 3. S.E.R.V.E. Profile
-| 4. Being Habits
-| 5. Doing Habits
-| 6. Love Languages*            | ALL                                    | 6 x 5% = 3            |
+ 1. Humility & Leadership
+ 2. Vision, Mission, Values
+ 3. S.E.R.V.E. Profile
+ 4. Being Habits
+ 5. Doing Habits
+ 6. Love Languages*            | ALL                                    | 6 x 5% = 3            |
 | *Unit Reflection – Jesus & Leadership through the book of Mark*     | 1 (a,b)                     | 10%                   |
 | *Two (2) Quizzes* | ALL       | 2 x 10% = 20%                   |
 | *Case Study Paper: Saving Mr. Banks (2013)*     | ALL      | 15%                   |
@@ -102,20 +102,18 @@ Following is a description of the letter grading:
 
 !! It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.
 
-[button url="https://www.twu.ca/about/policies/policy-academic-dishonesty" target="blank" label="Academic Dishonesty Policy" type="danger" classes="external-link"]
+[**ACADEMIC DISHONESTY POLICY***](https://www.twu.ca/about/policies/policy-academic-dishonesty)
 
 
 ### Academic Integrity and Avoiding Plagiarism at TWU
 One of the core values of Trinity Western University is the integration of academic excellence with high standards of personal, moral, and spiritual integrity. The University considers it a serious offence when an individual attempts to gain unearned academic credit. It is the student’s responsibility to be informed about what constitutes academic dishonesty. For details on this, and on identifying and avoiding plagiarism go to the University Homepage > Academics > Academic Calendar > Academic Information > Academic Policies > Academic Dishonesty and Plagiarism.
 
-https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi presentation)
+[click here for Prezi presentation](https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/)
 
-http://bit.ly/1p00KX3  (Google Slide presentation offering more comprehensive information)
-
+[click here for Google Slide presentation offering more comprehensive information](http://bit.ly/1p00KX3)
 
 ### University Standard Grading System
 The Standard Grading System can be found at the University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices     University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices.
-
 
 ### Students with a Disability
 Students with a disability who need assistance are encouraged to contact the Equity of Access Office upon admission to TWU to discuss their specific needs. All disabilities must be recently documented by an appropriately certified professional and include the educational impact of the disability along with recommended accommodations. Within the first two weeks of the semester, students must meet with their professors to agree on accommodations appropriate to each class. Students should follow the steps detailed by the Equity of Access Office outlined in the Student Life section of the University Calendar.
