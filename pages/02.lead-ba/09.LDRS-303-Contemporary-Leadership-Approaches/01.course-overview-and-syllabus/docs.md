@@ -9,44 +9,29 @@ visible: true
 
 ## Course Overview
 
-### Syllabus
-
-The following information is from the course syllabus, also located in Moodle.  Note that you will need to modify the schedule based on your term.  Please also discuss with the Faculty if there are any other changes to the syllabus.
-
 ### Course Description
-An exploration of what leaders can learn from the past to understand contemporary leadership and to imagine future ways of leading. Students are provided with the opportunity to use the historical method, including primary sources, to understand past leaders and leadership thought. Emphasis is given to the social circumstances and philosophical ideas that led to the Classical and Scientific Management theories, and subsequent leadership theories emerging through to the 1980s.
+An overview of contemporary approaches in leadership from the 1990s to present day, including practices that focus on psychodynamics, individual and organizational values, ethical relations, teamwork, emotional and social intelligence, and other aspects that have helped define current interpretations of leadership.
 
+### Course Learning Outcomes
+*1. Knowledge and its application*
+  a. Employ the conceptual language of contemporary leadership discourses, notably authentic, strength-based, transformational, and servant leadership approaches and theories;
+  b. Compare and contrast contemporary leadership ideas and apply to personal experiences;
 
-Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
+*2. Cognitive complexity*
+  c.	Evaluate the human context of leaders, including personality, gender, culture, and ethics;
+  d.	Investigate the role of followership and the nature of the leader-follower relationship;
+  e. Consider the strengths and limitations of contemporary perspectives on leadership;
 
+*3. Inter- and intra-personal wellness*
+  f. Identify personal strengths, personality characteristics, purpose, and calling and demonstrate its application to leadership practice within the contexts of life and work.
 
-### Learning Outcomes
+*4. Social responsibility and global engagement*
+  g. Adopt wise practices that respond thoughtfully and ethically to the diversity of contemporary individual and organizational values with informed and ethical reasoning, social and emotional intelligence, and respect for the dignity, and rights of all persons.
 
-***1. Knowledge and its Application***
+*5. Leadership*
+  h. Develop practical skills to become creative, collaborative, informed, competent, and compassionate people who influence the various contexts into which they are called.
+  i. Develop a meaningful answer to the question, “Why should anyone be led by you?”
 
-  -  Employ the conceptual language of historical leadership and management
-
-  -  Investigate ancient, pre-industrial, and industrial leadership/management ideas;
-
-  -  Compare and contrast historic and contemporary leadership ideas and experiences;
-
-***2. Cognitive Complexity***
-
-  - Evaluate the context of leaders, including thought leaders on leadership, from the past;
-
-  - Explain past changes in leadership/management theory and practice;
-
-***5. Spiritual Formation***
-
-  - Identify the spiritual foundations of leadership in the historic texts of the Christian tradition;
-
-***6. Social Responsibility and Global Engagement***
-
-  - Adopt wise practices that respond thoughtfully to the complicated and layered histories of leadership and management ideas that have shaped contemporary organizations;
-
-***7. Leadership***
-
-  - Develop meaningful applications of historically informed leadership and management ideas that are appropriate to a variety of contemporary organizational settings.
 
 
 
@@ -54,9 +39,6 @@ Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
 
 The final grade will be determined by the satisfactory completion of all requirements.
 
-
->   The final grade will be determined by the satisfactory completion of all
->   requirements.
 
 | **Grade Activity**          | **Linked Learning Outcomes\***         | **% of course grade** |
 |-----------------------------|----------------------------------------|-----------------------|
