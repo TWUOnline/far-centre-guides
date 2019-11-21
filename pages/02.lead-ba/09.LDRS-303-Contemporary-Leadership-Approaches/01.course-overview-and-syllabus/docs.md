@@ -33,7 +33,7 @@ An overview of contemporary approaches in leadership from the 1990s to present d
   i. Develop a meaningful answer to the question, “Why should anyone be led by you?”
 
 
-
+!! From here on is 302 material!
 
 ### Course Evaluation
 
