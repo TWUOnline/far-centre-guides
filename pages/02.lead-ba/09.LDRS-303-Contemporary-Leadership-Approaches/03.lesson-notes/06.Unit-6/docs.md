@@ -5,77 +5,72 @@ taxonomy:
         - docs
 ---
 
-## Unit 6: Skills Approach
+Unit 6: Strengths-Based Leadership
+==================================
 
-This unit will explore the skills approach to leadership. This approach is the second of the transactional approaches. The skills approach is a leader-centered perspective that emphasizes the competencies of leaders, specifically the technical, human, and conceptual skills.
+Unit 6 Topics: Strengths-Based Leadership
+-----------------------------------------
 
-These are the activities students are expected to complete before coming to the learning lab:
+*Notes for the facilitator: Students might ask you about their weaknesses. This
+exercise is about discovering strengths. Please tell the students we are
+interested in helping them build their strengths. We all have twenty-four hours
+in a day. If we spend an extra half an hour to an hour working with our five
+strengths, we will have less time to work on our weaknesses. They can include a
+short discussion on their weaknesses in their assignment, but this is not our
+emphasis. Besides, they only have two pages to write about their strengths.*
 
-| **☑**  | **Activities**                             | **Expected Time Commitment** |
-|---|--------------------------------------------|------------------------------|
-|   | **Activity 6.1: Watch, Read, and Reflect** <ul><li>Watch the video  [**Skills Approach:** (Northouse Chapter 3)](https://www.youtube.com/watch?v=c7O67nVtzag&list=PLx-uqKoW1C5nXd5jnA_Ut8TWbjCk7tWtL&index=3) <li> Read Chapter 3 of the Northouse’s Leadership: **Theory and Practice**. <li>Answer questions in your learning journal. | 2 hrs  |
-|   | **Activity 6.2: Complete and Reflect** <ul><li> Complete the ***Skills Inventory.*** <li>Answer questions in your learning journal.     | 1.5 hrs                      |
-|   | **Activity 6.3: Choose and Respond.** <ul><li> Choose **ONE** of the case studies that interests you. <li> Answer the case study questions. <li> Record your response.   | 2 hrs.                       |
+*(Facilitator: Please note that students must do Assignment 6.4c before coming
+to class).*
 
-## What Will You Be Doing?
+### **Assignment 6c (**lab **activity)**: Student Presentations
 
-Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to facilitating group discussion and the second 1.5 hours will be focused on the Case Study Activity (details below).
+Form of a team of (no more and no less than) 3-4 students. Look at the strengths
+of your team members and prepare a team presentation in class. The presentation
+should be about 5-minutes for each student.
 
-### Part 1: Lead the Group Discussion
+-   Feedback:
 
-Divide the class into small groups. Have them discuss questions provided below, and then select a spokesperson who will summarize their findings for the rest of the learning lab after you reconvene as a large group. Note: the same person should not be the spokesperson each week. The level of participation will contribute to each student’s individual participation grade. 
+>   Each team will receive the same grade for their PowerPoint. The facilitator
+>   will assess each student individually based on their presentation.
+>   *(Facilitator: You will be given a rubric and each student will be given a
+>   grade for their presentation based on the criteria listed). (Facilitator:
+>   Please provide students some collective feedback on their presentations. A
+>   checklist is provided below. Also, please feel free to add any comments you
+>   may have and e-mail them to the professor. Your input is much appreciated.
+>   Thank you!).*
 
-In Unit 6, the group discussion will focus on the following questions:
+-   Checklist:
 
-  1. When the skills model was developed, what were researchers trying to explain?
+    -   PowerPoints:
 
-  2. How do the problem-solving skills of leaders and managers differ?
+        -   PowerPoints should be point form, not long sentences.
 
-  3. How does the skills approach fit with the nature of leadership development?
+        -   The bullets, numbering, tables, figures, and pictures much be
+            consistent in all slides.
 
-  4. How might leadership in the army be similar to/different from leadership in business, the arts, collegiate sports, or scientific research?
+        -   The font sizes should be big and yet visually appealing.
 
-  5. How would leadership skills (technical, human, and conceptual) be used and expressed in an online environment?
+    -   Individual Presentation:
 
-  6. What are some examples of situations in which a leader must demonstrate behavioral flexibility?
+        -   Does the student have the appropriate attire? (minimum is business
+            casual).
 
-  7. In pairs, think of an unusual or ill-defined organizational problem. Which of the nine key problem-solving skills are most important to solve this problem?
+        -   Is the voice projection load enough for the audience at the back of
+            the room to hear?
 
-  8. Which of the nine key problem-solving skills are most important for the career you are in or planning to enter?
+        -   Is the student making eye contact with his audience?
 
-### Part 2: Case Study Activity
+        -   Does the student face the audience? (Not keeping his head down
+            reading notes or reading off a cell phone).
 
-Divide the class up into three different groups. Each group will be assigned to one of the case studies provided at the end of Chapter 3. As a group, have the students read the case study together and answer the questions prepared at the end of the case study to guide discussion.
+        -   Does the student maintain proper posture and movement (e.g. hand
+            motions, gestures)?
 
-  -   Each group will be responsible for leading the discussion with the guiding questions provided at the end of the case study.
+*Submission instructions:*
 
-  -   Teamwork and communication are key aspects of this exercise. If needed, call on students who haven’t spoken yet or instigate another rule to encourage participation.
+*Upload your PowerPoint in your individual assignment Dropbox. Please note that
+each student still must upload Assignment 4c individually even though the
+PowerPoint is the same for the team.*
 
-  -   Each group will be responsible for recording key pieces of information discussed in the group.
-
-  -   Write out key facts on the board for reference.
-
-  -   Having the information written out makes it easier for students to reference during the discussion and helps maintain everyone on the same page. 
-
-  -   Keep an eye on the clock and make sure students are moving through the case study and questions at a reasonable pace.
-
-  -   Allow students to work on the case study and questions for 1 hour and then have students re-cap the key ideas discussed and present this information to the class in the last 30 minutes.
-
-  -   The re-cap should highlight the key points from the discussion. Make sure to compare and contrast alternate viewpoints that came up during the discussion and emphasize the take-home messages that can be applied to future situations.
-
-**Evaluating Group Discussions:**
-
-Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each learning lab and then providing a score for each student at the end of the learning lab based on the rubric provided below.
-
-| **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
-***Note:*** An absence for **one** learning lab will not result in a loss of participation marks.
-
-### Part 3: Assignments Reminders
-
-After the learning lab is done remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 6 assessment page.
-
-Next, they need to provide a case study response. They are asked to choose ONE of the case studies that interests them from Chapter 3 and answer the questions for it that are provided at the end of the case.
-
-They will record their response to the Case Study questions in a Word document or a Google document. The response should be no more than one page double-spaced. Label this Case Study 2. Keep this word document in a file folder on your computer because you will be adding to the document over the next 5 units. This case study response is part 2 of 6. 
+[Note to Facilitator: Go over presentation instructions and grading criteria.
+Plan for a debrief session with peer/facilitator feedback]
