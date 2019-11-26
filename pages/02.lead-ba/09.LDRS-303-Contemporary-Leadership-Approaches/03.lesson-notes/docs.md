@@ -6,8 +6,8 @@ taxonomy:
 visible: true
 ---
 
-# Lesson Notes for LDRS 302
+# Lesson Notes for LDRS 303
 
-The following pages provide key information for the LDRS 302 modules
+The following pages provide key information for the LDRS 303 modules
 (schedules, activity instructions, etc.). Please see the full course
 notes on Moodle.
