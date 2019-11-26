@@ -13,6 +13,7 @@ In this section, we will outline a couple of key ideas to consider as you facili
 During the design process, the following course timeline was created as a recommendation for the 4-week course structure. It is suggested that the Facilitator and Instructor review this timeline and make changes as they see fit...:
 
 ***Week 1 - Units 1 & 2
+
 Week 2 - Units 3 & 4
 Week 3 - Units 5-7
 Week 4 - Units 8-10***
