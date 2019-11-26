@@ -15,7 +15,9 @@ During the design process, the following course timeline was created as a recomm
 ***Week 1 - Units 1 & 2***
 
 ***Week 2 - Units 3 & 4***
+
 ***Week 3 - Units 5-7***
+
 ***Week 4 - Units 8-10***
 
 ### Class Schedule
