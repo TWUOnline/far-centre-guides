@@ -12,11 +12,11 @@ In this section, we will outline a couple of key ideas to consider as you facili
 
 During the design process, the following course timeline was created as a recommendation for the 4-week course structure. It is suggested that the Facilitator and Instructor review this timeline and make changes as they see fit...:
 
-***Week 1 - Units 1 & 2
+***Week 1 - Units 1 & 2***
 
-Week 2 - Units 3 & 4
-Week 3 - Units 5-7
-Week 4 - Units 8-10***
+***Week 2 - Units 3 & 4***
+***Week 3 - Units 5-7***
+***Week 4 - Units 8-10***
 
 ### Class Schedule
 Note that students will do part of the learning online, and part in the Learning Lab.  This is a flipped classroom model where students engage with the content at home by reading the textbook, reading and viewing the course materials on Moodle as designed by the instructor, and preparing activities and assignments for the next class.  In class, they will engage in group discussions, assignments, and other activities in order to help them further engage with the course material.  
