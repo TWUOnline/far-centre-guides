@@ -20,25 +20,25 @@ An overview of contemporary approaches in leadership from the 1990s to present d
 
 *2. Cognitive complexity*
 
-  c.	Evaluate the human context of leaders, including personality, gender, culture, and ethics;
+  a.	Evaluate the human context of leaders, including personality, gender, culture, and ethics;
   
-  d.	Investigate the role of followership and the nature of the leader-follower relationship;
+  b.	Investigate the role of followership and the nature of the leader-follower relationship;
   
-  e. Consider the strengths and limitations of contemporary perspectives on leadership;
+  c. Consider the strengths and limitations of contemporary perspectives on leadership;
 
 *3. Inter- and intra-personal wellness*
 
-  f. Identify personal strengths, personality characteristics, purpose, and calling and demonstrate its application to leadership practice within the contexts of life and work.
+  a. Identify personal strengths, personality characteristics, purpose, and calling and demonstrate its application to leadership practice within the contexts of life and work.
 
 *4. Social responsibility and global engagement*
 
-  g. Adopt wise practices that respond thoughtfully and ethically to the diversity of contemporary individual and organizational values with informed and ethical reasoning, social and emotional intelligence, and respect for the dignity, and rights of all persons.
+  a. Adopt wise practices that respond thoughtfully and ethically to the diversity of contemporary individual and organizational values with informed and ethical reasoning, social and emotional intelligence, and respect for the dignity, and rights of all persons.
 
 *5. Leadership*
 
-  h. Develop practical skills to become creative, collaborative, informed, competent, and compassionate people who influence the various contexts into which they are called.
+  a. Develop practical skills to become creative, collaborative, informed, competent, and compassionate people who influence the various contexts into which they are called.
   
-  i. Develop a meaningful answer to the question, “Why should anyone be led by you?”
+  b. Develop a meaningful answer to the question, “Why should anyone be led by you?”
 
 
 Assessment
