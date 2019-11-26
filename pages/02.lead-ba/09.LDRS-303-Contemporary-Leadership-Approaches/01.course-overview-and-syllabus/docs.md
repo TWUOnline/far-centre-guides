@@ -1,6 +1,5 @@
 ---
 title: 'Course Overview & Syllabus'
-media_order: LDRS302_Syllabus_Fall_2019.pdf
 taxonomy:
     category:
         - docs
@@ -42,22 +41,27 @@ An overview of contemporary approaches in leadership from the 1990s to present d
   i. Develop a meaningful answer to the question, “Why should anyone be led by you?”
 
 
-!! From here on is 302 material!
+Assessment
+==========
 
-### Course Evaluation
+| **Assignment**                      | **% of Grade**  | **Unit Due**    |
+|-------------------------------------|-----------------|-----------------|
+| Learning Lab Dialogue/Participation | 10%             | All Units       |
+| Reflective Papers (9)               | 45% (7.5% each) | Units 1-5; 7-10 |
+| Strengths Paper                     | 7.5%            | Unit 6          |
+| Strengths Presentation              | 7.5%            | Unit 6          |
+| Final Exam                          | 30%             | End of Course   |
+| **Total**                           | **100%**        |                 |
 
-The final grade will be determined by the satisfactory completion of all requirements.
+### Reflection Paper Assignments (Units 1-5;7-10)
 
+-   Go over the assignment details and submission instructions with students.
 
-| **Grade Activity**          | **Linked Learning Outcomes\***         | **% of course grade** |
-|-----------------------------|----------------------------------------|-----------------------|
-| *Learning Lab dialogue/exercises* | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 15%                   |
-| *Journal Responses*           | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 20%                   |
-| *Historical Leader Paper*     | 1 (a,b,c), 2 (d,e)                     | 15%                   |
-| *Scientific Management Paper* | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 20%                   |
-| *Leadership Case Studies*     | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 30%                   |
-| **Total**                   |                               |            **100%**            |
+-   This assignment is to be uploaded in Moodle Dropbox before 11:55 p.m. the
+    day before your next lab [*Facilitator: please insert the date, the evening
+    before the following week’s lab*]
 
+!! Change the Required Texts and Materials: These ones are for LDRS 302
  
 ### Required Texts and Materials:
 
