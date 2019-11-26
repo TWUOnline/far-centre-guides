@@ -1,5 +1,5 @@
 ---
-title: 'Facilitation Notes for LDRS 302'
+title: 'Facilitation Notes for LDRS 303'
 taxonomy:
     category:
         - docs
@@ -13,16 +13,16 @@ In this section, we will outline a couple of key ideas to consider as you facili
 During the design process, the following course timeline was created as a recommendation for the 4-week course structure. It is suggested that the Facilitator and Instructor review this timeline and make changes as they see fit...:
 
 ***Week 1 - Units 1 & 2
-Week 2 - Units 3 & 4
-Week 3 - Units 5-7
-Week 4 - Units 8-10***
+***Week 2 - Units 3 & 4
+***Week 3 - Units 5-7
+***Week 4 - Units 8-10***
 
 ### Class Schedule
 Note that students will do part of the learning online, and part in the Learning Lab.  This is a flipped classroom model where students engage with the content at home by reading the textbook, reading and viewing the course materials on Moodle as designed by the instructor, and preparing activities and assignments for the next class.  In class, they will engage in group discussions, assignments, and other activities in order to help them further engage with the course material.  
 
 ***Part 1: Sample Welcome Message and Orientation to the Course:***
 
-I am excited to be your facilitator for LDRS 302 this fall. As you know the course begins today and will continue for the next 5 weeks.  Let’s take some time now to walk through the course and get a sense of what is ahead. 
+I am excited to be your facilitator for LDRS 303 this fall. As you know the course begins today and will continue for the next 5 weeks.  Let’s take some time now to walk through the course and get a sense of what is ahead. 
 
 This course is organized into 10 units. Each page of the course will provide you with the following information:
 
@@ -38,7 +38,7 @@ This course is organized into 10 units. Each page of the course will provide you
 
 There is a timeline on the course website that outlines for you when assignments are due and what your deliverables are each week. Please consult the timeline for an overview of what is expected each week.
 
-For those who are new to using Moodle as the platform for your course content and for submitting assignments, then you can find information on how to navigate through this course on the tab provided [**HERE**](https://learn.twu.ca/course/view.php?id=7008&section=1).
+For those who are new to using Moodle as the platform for your course content and for submitting assignments, you can find information on how to navigate through this course on the tab provided [**HERE**](https://learn.twu.ca/course/view.php?id=7008&section=1).
 
 Over the duration of the course, we will be meeting together for 3 hrs/2x per week. During our time together, I will be facilitating group discussions, answering questions, helping you with your assignments, and evaluating your participation in class.
 
