@@ -5,6 +5,4 @@ taxonomy:
         - docs
 ---
 
-## Unit 7: The Behavioral Approach
-
-***No Notes***
+## No Notes
