@@ -15,7 +15,7 @@ The TWU FAR Centres exist to guide students through online and face-to-face clas
 A significant aspect of this mission involves helping students discover who God has created them to be, what He has called them to do, and how TWU can help them prepare for those unique callings. It is in these ways that TWU is different than at any other university.
 
 ### Core Values
-TRINITY WESTERN UNIVERSITY IS COMMITTED TO SIX CORE VALUES:
+TRINITY WESTERN UNIVERSITY IS COMMITTED TO SEVEN CORE VALUES:
 
 * Obeying the Authority of Scripture: Both individually and corporately Trinity Western wholeheartedly embraces all the Bible teaches in regard to faith, ethical commitments, and way of life, believing it to be the ultimate standard of truth and hope.
 
