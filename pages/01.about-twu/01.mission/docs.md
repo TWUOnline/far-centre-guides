@@ -28,3 +28,5 @@ TRINITY WESTERN UNIVERSITY IS COMMITTED TO SIX CORE VALUES:
 * Striving for Excellence in University Education: Trinity Western promotes not only academic and intellectual excellence, but integrates these with high standards of personal, moral, and spiritual integrity.
 
 * Discipling in Community: At Trinity Western, students, staff, faculty and administrators are all invited and encouraged to deepen their understanding of what it means to be disciples of Jesus Christ, to practice such discipleship, and to sustain and help others to be and become disciples. They strive to act justly, love mercy, and walk humbly with our God.
+
+* Practising Christian Hospitality: Welcomes, genuinely includes and consistently cares for all individuals. Christ taught and modeled hospitality to all, including those on the margins, as an essential element of Christian faith and practice. Hospitality is vital to our life in the Trinity Western University community and to our life in, and witness to, other communities.
