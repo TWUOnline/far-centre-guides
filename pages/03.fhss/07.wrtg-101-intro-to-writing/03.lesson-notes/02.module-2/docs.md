@@ -7,10 +7,6 @@ taxonomy:
 
 # Module 2: Personal Response
 
-## Activity Checklist
-
-!! See the schedule for Module 2 [here](Schedule-for-Module-1.pdf)
-!! Also refer to this [checklist](Module-1-Activity-Checklist.pdf) of learning activities and assessments
 
 ## Week 3-2
 **The First Day of the class (Week 3-2)**
