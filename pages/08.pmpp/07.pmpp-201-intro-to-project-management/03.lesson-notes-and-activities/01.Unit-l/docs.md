@@ -22,6 +22,6 @@ Review the syllabus with students and encourage them to please follow the sugges
         worse than another.
 - Optional: **Course Cafe:** Plan icebreaker activity based on Course Café introductions (e.g. peer interview)
 
-[plugin:content-inject](../_1-2)
-[plugin:content-inject](../_1-3)
-[plugin:content-inject](../_1-4)
+[plugin:content-inject](_1-2)
+[plugin:content-inject](_1-3)
+[plugin:content-inject](_1-4)
