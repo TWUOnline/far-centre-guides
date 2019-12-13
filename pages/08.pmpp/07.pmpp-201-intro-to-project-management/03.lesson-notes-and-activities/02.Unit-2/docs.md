@@ -25,3 +25,4 @@ primary actions are:
     [plugin:content-inject](_1-2)
     [plugin:content-inject](_1-3)
     [plugin:content-inject](_1-4)
+    [plugin:content-inject](_1-5)
