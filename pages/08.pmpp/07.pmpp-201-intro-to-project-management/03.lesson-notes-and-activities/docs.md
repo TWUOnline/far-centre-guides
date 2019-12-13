@@ -50,6 +50,12 @@ management. Your primary actions are:
         ‘correct’ answers… no student should think that one type is better or
         worse than another.
 
+[plugin:content-inject](../_1-2)
+[plugin:content-inject](../_1-3)
+[plugin:content-inject](../_1-4)
+
+
+---
 **Unit 2:**
 
 This week starts the 10 weeks of the primary topics of project management. Your
