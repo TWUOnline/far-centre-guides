@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 3 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -21,3 +21,7 @@ actions are:
     [www.yworks.com](http://www.yworks.com), and download yEd.
 
     -   If necessary, play the 6-minute tutorial to help them.
+
+    [plugin:content-inject](_1-2)
+    [plugin:content-inject](_1-3)
+    [plugin:content-inject](_1-4)

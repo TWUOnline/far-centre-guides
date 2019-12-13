@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 7 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -14,3 +14,7 @@ This unit is the 6th topic of PM work. Your actions are:
 -   You may need to help with ‘organizational chart’ building in Excel.
 
 -   Play the web videos.
+
+[plugin:content-inject](_1-2)
+[plugin:content-inject](_1-3)
+[plugin:content-inject](_1-4)

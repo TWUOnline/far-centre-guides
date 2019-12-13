@@ -25,3 +25,6 @@ Review the syllabus with students and encourage them to please follow the sugges
 [plugin:content-inject](_1-2)
 [plugin:content-inject](_1-3)
 [plugin:content-inject](_1-4)
+
+
+!! Check if plugins are installed

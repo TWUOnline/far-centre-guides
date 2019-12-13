@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 4 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -20,3 +20,7 @@ This is the third topic of PM work. Your actions are:
     -   Review the text.
 
     -   Or play a describing web-video.
+
+    [plugin:content-inject](_1-2)
+    [plugin:content-inject](_1-3)
+    [plugin:content-inject](_1-4)

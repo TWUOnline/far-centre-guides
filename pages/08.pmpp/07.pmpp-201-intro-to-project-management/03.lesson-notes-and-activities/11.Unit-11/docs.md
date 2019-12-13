@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 11 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -33,3 +33,7 @@ This is the 10th and final topic. Your actions are:
 
         -   Therefore, only those that are at the extreme edges have difficulty
             communicating with those that are their opposites.
+
+            [plugin:content-inject](_1-2)
+            [plugin:content-inject](_1-3)
+            [plugin:content-inject](_1-4)

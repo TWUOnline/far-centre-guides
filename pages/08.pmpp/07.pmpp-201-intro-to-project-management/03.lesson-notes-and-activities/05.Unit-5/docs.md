@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 5 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -18,3 +18,7 @@ This is the 4th topic. Your actions are:
 -   Some students may have a rough time using the Excel file ‘EV Calculations’.
 
     -   It is OK to offer assistance, or go through this as an entire group.
+
+    [plugin:content-inject](_1-2)
+    [plugin:content-inject](_1-3)
+    [plugin:content-inject](_1-4)

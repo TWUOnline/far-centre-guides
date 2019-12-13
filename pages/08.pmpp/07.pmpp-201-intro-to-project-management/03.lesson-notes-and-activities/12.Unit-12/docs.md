@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 12 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -15,3 +15,7 @@ are:
     -   Consider writing some on paper/chalkboard/whiteboard.
 
 -   Play the web videos.
+
+[plugin:content-inject](_1-2)
+[plugin:content-inject](_1-3)
+[plugin:content-inject](_1-4)

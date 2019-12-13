@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 8 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -14,3 +14,7 @@ This is the 7th topic: Your actions are:
 
 -   For 8.3.1, students will need to creatively fabricate the data to build the
     charts. Offer guidance as necessary.
+
+    [plugin:content-inject](_1-2)
+    [plugin:content-inject](_1-3)
+    [plugin:content-inject](_1-4)

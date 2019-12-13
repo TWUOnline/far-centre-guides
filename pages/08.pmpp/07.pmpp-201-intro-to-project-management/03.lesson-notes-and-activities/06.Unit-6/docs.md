@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 6 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -16,3 +16,7 @@ This unit contains the 5th topic. Your actions are:
 
 -   In the Standard Deviation Data file, the answers can be found on Sheet 2,
     beginning at column AA.
+
+    [plugin:content-inject](_1-2)
+    [plugin:content-inject](_1-3)
+    [plugin:content-inject](_1-4)

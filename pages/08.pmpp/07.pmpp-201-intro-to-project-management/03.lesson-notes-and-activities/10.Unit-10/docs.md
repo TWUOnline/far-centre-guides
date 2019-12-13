@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 10 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -17,3 +17,7 @@ This is the 9th topic of 10. Your actions are:
         more details
 
 -   Play the web videos.
+
+[plugin:content-inject](_1-2)
+[plugin:content-inject](_1-3)
+[plugin:content-inject](_1-4)

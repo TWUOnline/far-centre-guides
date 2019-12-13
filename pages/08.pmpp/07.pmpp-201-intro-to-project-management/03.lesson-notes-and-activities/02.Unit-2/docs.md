@@ -21,3 +21,7 @@ primary actions are:
     11x17/A4 sheet of paper.
 
     -   The result is to look like a real-world organizational dashboard.
+
+    [plugin:content-inject](_1-2)
+    [plugin:content-inject](_1-3)
+    [plugin:content-inject](_1-4)

@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 9 Lesson Notes'
 taxonomy:
     category:
         - docs
@@ -18,3 +18,7 @@ This is the 8th topic of PM work. Your actions are:
         -   Encourage revision (lowering) if this happens.
 
     -   Allow student to enter creative content as necessary to complete this.
+
+    [plugin:content-inject](_1-2)
+    [plugin:content-inject](_1-3)
+    [plugin:content-inject](_1-4)
