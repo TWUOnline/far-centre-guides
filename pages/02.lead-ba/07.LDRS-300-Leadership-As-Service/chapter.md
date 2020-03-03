@@ -10,7 +10,7 @@ taxonomy:
 
 ## Welcome to LDRS 300: Leadership as Service!
 
-This course is organized into 10 units and is designed for an condensed 4 week course. Each page of the course will provide you with the following information:
+This course is organized into 10 units and is designed for an condensed 4-6 week course delivery. Each page of the course will provide you with the following information:
 
 - A general overview of the topic that will be addressed during the unit.
 - Specific learning outcomes and topics for the unit.
