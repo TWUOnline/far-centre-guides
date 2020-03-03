@@ -70,8 +70,8 @@ The final grade will be determined by the satisfactory completion of all require
 | *Servant Leadership Portfolio – Six (6) Assignments: 1) Humility & Leadership, 2) Vision, Mission, Values, 3) S.E.R.V.E. Profile, 4) Being Habits, 5) Doing Habits 6) Love Languages*            | ALL                                    | 6 x 5% = 3            |
 | *Unit Reflection – Jesus & Leadership through the book of Mark*     | 1 (a,b)                     | 10%                   |
 | *Two (2) Quizzes* | ALL       | 2 x 10% = 20%                   |
-| *Case Study Paper: Saving Mr. Banks (2013)*     | ALL      | 20%                   |
-| *Group Project: In-Depth Case Study Project* | 1 (b), 2 (c,d), 6 (g), 7 (h) | 20%  |
+| *Case Study in Leadership Paper: Saving Mr. Banks (2013)*     | ALL      | 20%                   |
+| *Case Study in Service Culture: In-Depth Research & Presentation* | 1 (b), 2 (c,d), 6 (g), 7 (h) | 20%  |
 | **Total**                     |                                        |**100%**               |
 
  
