@@ -18,4 +18,4 @@ The course cafe is a forum for interaction between the facilitator, the learners
 <span style="color:red"> See Moodle for instructions. Let students know whether this will be a full lab activity, or whether they should start/complete their sketch note at home. </span>
 
 *Activity 1.5: Ted Talk: Drew Dudley*
-<span style="color:red"> See Moodle for instructions. This is a great, short and inspiring talk. This could be down in the lab with some meaningful discussion around the prompts listed after the video. </span>
+<span style="color:red"> See Moodle for instructions. This is a great, short and inspiring talk. This video could be shown in the lab with some meaningful discussion around the prompts listed after the video to spark discussion and connect to the readings in this unit. </span>
