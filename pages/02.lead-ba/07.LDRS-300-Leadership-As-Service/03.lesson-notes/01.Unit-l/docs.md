@@ -11,6 +11,8 @@ Review the syllabus with students and strongly encourage them to follow the sugg
 
 Take time to review the set-up of the moodle and familiarize yourself and the students with the course format, content and due dates.
 
+Remind the students that the next unit has their first assignment, Servant Leadership Portfolio #1.
+
 **Course Cafe**
 The course cafe is a forum for interaction between the facilitator, the learners and the course instructor. Use it for enouragement, to share resources, ask and answer questions pertinent to the entire course and post reminders for upcoming lab activities or assignment due dates. Consider planning an icebreaker activity based on Course Café introductions (e.g. peer interview, self-portraits, snowball, etc...). Here is a link to other ice breaker activities https://www.edgalaxy.com/journal/2012/8/27/10-great-activities-to-break-the-ice-with-your-students.html
 
