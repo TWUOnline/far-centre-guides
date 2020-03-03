@@ -18,6 +18,6 @@ This course is organized into 10 units and is designed for an condensed 4 week c
 - Learning activities that you will need to complete each week.
 - Assessments pages will provide you with information about assignments that you will need to complete each week.
 
-Over the next 4 weeks, you will have the opportunity to attend Facilitated Learning Labs. During lab times, a course facilitator will be guiding group discussions, answering any questions you may have, helping you understand your assignments, and evaluating your participation in class.
+Over the next 4-6 weeks, you will be hosting Facilitated Learning Labs at a designated FAR Centre location. During lab times, as course facilitator, you will be guiding group discussions, answering any questions learners and faculty may have, helping learners understand the assignments, and evaluating their participation in labs as specified by the LDRS 300 Participation and Engagement Guidelines. 
 
-If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.
+If you have any questions, do not hesitate to ask. We are here to bring clarity and supportive connection on this journey.
