@@ -76,7 +76,7 @@ The final grade will be determined by the satisfactory completion of all require
 
  
 ## Course Schedule
-!! Note that Facilitator may need to adjust the course schedule due to campus term dates and/or other extenuating circumstances. Be sure to communicate with the learners, the course instructor and FAR Centre Lab partners any potential and inevitable changes.
+Please note that the Facilitator may need to adjust the course schedule due to campus term dates and/or other extenuating circumstances. Be sure to communicate with the learners, the course instructor and FAR Centre Lab partners any potential and inevitable changes.
 
 ## Course Policies:
 
