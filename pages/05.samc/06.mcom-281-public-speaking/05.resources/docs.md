@@ -13,5 +13,5 @@ Please feel free to add key ones here:
 
 
 ### English pronunciation websites
-https://www.dictionary.com/
-https://howjsay.com/
+- [Dictionary.com](https://www.dictionary.com/)
+- [howjsay.com](https://howjsay.com/)
