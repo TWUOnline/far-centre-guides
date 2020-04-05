@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-## Unit 3: The Head of a Servant Leader: What’s your Vision, Mission and Values?
+## Unit 3: Financial Statements - Part 2
 
 This is the second of 2 units that discuss the 4 common organizational financial statements. Your actions are:
 
