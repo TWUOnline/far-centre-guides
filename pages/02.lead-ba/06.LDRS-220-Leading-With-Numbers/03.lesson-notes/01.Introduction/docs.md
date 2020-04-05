@@ -5,19 +5,16 @@ taxonomy:
         - docs
 ---
 
-## Unit 1:  Leadership, Service and Jesus: An Introduction
+**General Comments:**
 
-Review the syllabus with students and strongly encourage them to follow the suggested due dates. You may want to say, "The due dates in this course are meant to "chunk" the course into manageable parts so that you are successful. Feel free to ‘go ahead’ but please don’t get behind. Sometimes life throws us challenges and set-backs and we might need to take a day away from the course, but please do your best to catch up the very next day. In an asynchronous environment it behooves us all to manage our time so that posts are up on time and ready to be responded to. This will avoid frustration for everyone!"
+Thank you for taking on the role of a FAR Centre Facilitator. You are the ‘conduit’ between the students and the instructor. Your input into the FAR Centre activities will help shape the quality of the education that awaits the students. This is a very noble role to be in.
 
-Take time to review the set-up of the moodle and familiarize yourself and the students with the course format, content and due dates.
+It is recommended that you review each unit (especially Learning Labs) prior to the sessions. Do not hesitate to contact the instructor with any questions you have.
 
-Remind the students that the next unit has their first assignment, Servant Leadership Portfolio #1.
+As a facilitator, you will be considering the unit input that each student offers. You will supply the instructor with a weekly recap of each student’s participation… both in quality and quantity. Plus, you will consider and denote their team participation. This will be documented in the LDRS 220 FC Weekly Facilitator Feedback Form file (Excel).
 
-**Course Cafe**
-The course cafe is a forum for interaction between the facilitator, the learners and the course instructor. Use it for enouragement, to share resources, ask and answer questions pertinent to the entire course and post reminders for upcoming lab activities or assignment due dates. Consider planning an icebreaker activity based on Course Café introductions (e.g. peer interview, self-portraits, snowball, etc...). Here is a link to other ice breaker activities https://www.edgalaxy.com/journal/2012/8/27/10-great-activities-to-break-the-ice-with-your-students.html
+***Important:*** Sometimes the activities will include student opinions and experiences. As long as they are fitting to the assignment, these really cannot be graded. In this course, we strongly encourage students to share their experiences...it only has to be relevant to the course content. Again, you are looking for the quality and quantity of what the students share.
 
-**Activity 1.4: Comparing Models of Leadership**
-<span style="color:red"> See Moodle for instructions. Let students know whether this will be a full lab activity, or whether they should start/complete their sketch note at home. </span>
+There will be numerous occasions when the assignment calls for content that doesn not exist. No worries. The students must (creatively) ‘develop’ their own. They can make up names, descriptions, dollar estimates, and so on. You see, the goal of the assignment work is not always in the details but in the overall format of the finished assignment.
 
-**Activity 1.5: Ted Talk: Drew Dudley**
-<span style="color:red"> See Moodle for instructions. This is a great, short and inspiring talk. This video could be shown in the lab with some meaningful discussion around the prompts listed after the video to spark discussion and connect to the readings in this unit. </span>
+It is important to note that some units will be heavy with videos and others will not. No worries, the course is built in this manner to maximize learning. Your participation in facilitating discussion is important for all videos presented. DO NOT HESITATE to play a video more than once to aid in learning.
