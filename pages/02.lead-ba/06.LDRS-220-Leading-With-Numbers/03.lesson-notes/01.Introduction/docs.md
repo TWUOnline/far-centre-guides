@@ -1,5 +1,5 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Introduction'
 taxonomy:
     category:
         - docs
