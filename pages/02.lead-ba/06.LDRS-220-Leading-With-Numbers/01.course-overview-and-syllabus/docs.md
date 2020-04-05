@@ -15,7 +15,9 @@ Please read the full course syllabus [**HERE**](https://github.com/TWUOnline/ba-
 For information on how to navigate through this course on Moodle, see [**HERE**](http://create.twu.ca/help/moodle).
 
 ### Course Description
-This course examines the pattern of leading through serving exemplified by the life of Jesus; explores the character, principles and practices of this way of leading that motivates and mobilizes others to accomplish a task or to think with creativity, vision, integrity and skill for the benefit of all concerned by investing in others’ development and well-being.
+
+This course is a practical study of the leadership application of quantitative reasoning ideas and methods. Emphasis is placed on how leaders use and interpret numbers to make a diverse set of informed decisions.
+
 
 ### Learning Outcomes
 
