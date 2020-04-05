@@ -6,37 +6,14 @@ taxonomy:
 ---
 
 
-## Unit 8: Case Study in Leadership: Saving Mr. Banks (2013)
+## Unit 8: The Seven Quality Tools
 
+This unit focuses on data collection and reporting (part of “Monitoring and Controlling”, discussed in several other courses), and is therefore part of the prior unit because the SPC can now be charted. This unit focuses on the ‘monitoring’ part of “Monitoring and Controlling.”
 
-This unit focuses on the movie Saving Mr. Banks (2013). The students are to
-watch the film then complete a case study on leadership analysis as per the
-details outlined in the Guidelines. This case study gives the students the
-opportunity to integrate the formal learning to date with their own lived
-experiences and with what they observe and analyze from the film. The film
-is accessible in terms of the universal values of empathy, forgiveness,
-humility and creating connection. It is interesting the see some of the
-changes undergone by the characters as they get to know one another and
-their unique and sometimes painful pasts.
+Your actions are:
 
-It would be helpful for you as a facilitator to also be familiar with the
-movie. It could be shown in the lab as a lab activity with a debrief time
-after. Review the case study guidelines to help guide the debrief
-conversations following the film.
-
-Conversely, you could do a character or characteristics profile in class.
-Have students collectively create a poster or other creative artifact about
-a character from the film or a servant leadership characteristic that was
-demonstrated in the film.
-
-E-Portfolio: Have students create a personal reflective artifact about the
-film to include in their E-portfolio.
-
-Prompts to consider:
-
--   Favorite scene from the film and why.
-
--   Would you recommend it as a case study in leadership? Why or why not?
-
-Do some additional research about the story behind the story of this film –
-there are some details left out. How is the reality v. the movie different?
+- You need to be comfortable running this exercise. This activity can only be successful when all can understand how to build charts using Excel.
+ - It may prove to help by watching additional web videos on just doing that
+- This unit requires the downloading of free software. This software is very similar to the powerful Microsoft Visio program, but has no fees.
+ - Do not hesitate to play the tutorial(s) as needed
+- This unit also requires the students to ‘create data’ by throwing dice. A pair of dice will need to be obtained for each group of 3 to 5 students.
