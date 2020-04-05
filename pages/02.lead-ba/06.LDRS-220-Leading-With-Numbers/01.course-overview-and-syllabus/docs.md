@@ -1,6 +1,6 @@
 ---
 title: 'Course Overview & Syllabus'
-media_order: LDRS300_Syllabus_Fall_2019.pdf
+media_order: FC_LDRS_220_Syllabus_Simonis.pdf
 taxonomy:
     category:
         - docs
