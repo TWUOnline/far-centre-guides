@@ -11,73 +11,61 @@ visible: true
 
 ### Syllabus
 The syllabus includes key information about the course schedule, assignments, and policies.
-Please read the full course syllabus [**HERE**](https://github.com/TWUOnline/ba-lead/blob/master/pages/04.ldrs300/06.home/LDRS_300-Syllabus-Fall-2019.pdf).
+Please read the full course syllabus [**HERE**](FC_LDRS_220_Syllabus_Simonis.pdf).
 For information on how to navigate through this course on Moodle, see [**HERE**](http://create.twu.ca/help/moodle).
 
 ### Course Description
 
 This course is a practical study of the leadership application of quantitative reasoning ideas and methods. Emphasis is placed on how leaders use and interpret numbers to make a diverse set of informed decisions.
 
-
 ### Learning Outcomes
 
-***1. Knowledge and its Application***
+Upon successful completion of this course, the student will be able to:
 
-  -  Develop an understanding of Jesus as a model leader who served God and others;
+1.	**Knowledge and Application**
+ - Use foundational terms and concepts in accounting/financial management methodologies
+ - Interpret financial documents (typically monthly or annual reports) to aid in organizational decision making
+  - Including the use of ratios to denote trends and health of an organization
+ - Assemble and use a basic budget, including variance control
+ - Accurately calculate standard deviation, selecting the appropriate formula of ‘population’ or ‘sample’
+ - Convert SPC data into the ‘Seven Quality Tools’, reporting the data into a usable format for stakeholders to use for decision making.
 
-  - Articulate a personal understanding of leadership-as-service based on His model;
+2. **Cognitive Complexity**
+ - Overcome the challenges of the data collection and reporting to result in ‘valuable’ data that can guide a leader and shape organizational decision making.
 
-***2. Cognitive Complexity***
-  - Examine the service qualities of the leadership pattern modeled by the life of Jesus;
+3. **Social Responsibility and Global Engagement**
+ - Use the power of quantitative analysis to guide an organization, regardless of size. But many organizations have impact within their communities; and this can certainly extend to having global impact.
+  - This can include the reporting of the data in a legally compliant and ethical manner
 
-  - Develop a comprehensive approach to applying these qualities in terms of four domains of leadership, including the leader’s character, assumptions, behaviors, and disciplines;
-
-***4. Inter- and intra-personal wellness***
-
-  - Develop a holistic awareness of how to serve both self (that is, as practices of self-care) and others by living out the patterns of leading as an act of service as modeled by Jesus;
-
-***5. Spiritual Formation***
-
-  - Identify the values and character qualities Jesus modeled as a leader and evaluate them in relation to your own personal values and how you live out your values as a leader;
-
-***6. Social Responsibility and Global Engagement***
-
-  - Develop a commitment to a service leadership approach characterized by the informed and ethical reasoning, respect for the dignity and rights of all persons, and respect for creation and its sustainable use and care exemplified by Jesus and his way of leading;
-
-***7. Leadership***
-
-  - Develop an understanding of how leaders can serve others and build cultures of service to others within and outside their organizations when applying the model of Jesus as leader.
-
+4. **Leadership**
+ - Make sound organizational decision based on the results of the quantitative analysis
+ - Decisions can sometimes provoke emotions and holding to properly tabulated quantitative analysis can improve the quality of the decisions.
 
 ### Texts and Reading Resources
 
-  - Blanchard, K., Hodges, P., & Hendry, P. (2016). *Lead Like Jesus Revisited: Lessons from the greatest leadership role model of all time*. New York, NY: MJF Books.
+- Berman K, and Knight, J. (2013). Financial Intelligence. Boston: Harvard Business Review Press.
+- ISBN: 978-1-4221-4411-4
 
-  - Toister, J. (2017). *The Service Culture Handbook: A Step-by-Step Guide to Getting Your Employees Obsessed with Customer Service*. Toister Performance Solutions.
+- Roundtree, D. (2004). Statistics Without Tears: A Primer for Non-Mathematicians. TWU Package.
+- No ISBN
 
-  - Wilkes, C. Gene. (1998). *Jesus on Leadership: Discovering the secrets of servant leadership from the life of Christ*. Wheaton, IL: Tyndale House Publishers, Inc.
+- Scientific Calculator (optional)
 
-  - Access to the Bible Online [click here](www.biblegateway.com). Unless otherwise stated, this course prefers the use of the NRSV translation (New Revised Standard Version). We will be reading the book of Mark in the New Testament.
-
-  - Other articles, videos, resources as required and posted in the Moodle.
+- *Microsoft Excel*
 
 ### Course Evaluation
 
 The final grade will be determined by the satisfactory completion of all requirements.
 
+|**Assignment**   | **% of Grade** |
+|--------------------------------------------------------------|----------------|
+| Unit Written Assignments                                  | 60% (6% each)  |
+|Unit Status Reports | 20%  (2% each)            |
+| FAR Center Participation     | 20%       |
+| **Total:**                                                   | **100%**       |
 
-| **Grade Activity**          | **Linked Learning Outcomes**         | **% of course grade** |
-|-----------------------------|----------------------------------------|-----------------------|
-| *Learning Lab Participation & Engagement* | 1 (a,b), 2 (c), 4 (e), 6 (f), 7 (g,h) | 10%                 |
-| *Servant Leadership Portfolio – Six (6) Assignments: 1) Humility & Leadership, 2) Vision, Mission, Values, 3) S.E.R.V.E. Profile, 4) Being Habits, 5) Doing Habits 6) Love Languages*            | ALL                                    | 6 x 5% = 3            |
-| *Unit Reflection – Jesus & Leadership through the book of Mark*     | 1 (a,b)                     | 10%                   |
-| *Two (2) Quizzes* | ALL       | 2 x 10% = 20%                   |
-| *Case Study in Leadership Paper: Saving Mr. Banks (2013)*     | ALL      | 20%                   |
-| *Case Study in Service Culture: In-Depth Research & Presentation* | 1 (b), 2 (c,d), 6 (g), 7 (h) | 20%  |
-| **Total**                     |                                        |**100%**               |
+## Course Schedule:
 
- 
-## Course Schedule
 Please note that the Facilitator may need to adjust the course schedule due to campus term dates and/or other extenuating circumstances. Be sure to communicate with the learners, the course instructor and FAR Centre Lab partners any potential and inevitable changes.
 
 ## Course Policies:
