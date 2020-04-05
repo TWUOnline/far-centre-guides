@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-## Unit 5: The Leader’s Behaviours: The Hands of a Great Leader
+## Unit 5: Mutual Funds
 
 This unit now brings the knowledge from the first 4 units to a different perspective… on how mutual funds are a ‘collection of shares of varying companies’ “mutually funded” by the fund owners (that own shares in the fund, not the companies the fund possesses).
 
