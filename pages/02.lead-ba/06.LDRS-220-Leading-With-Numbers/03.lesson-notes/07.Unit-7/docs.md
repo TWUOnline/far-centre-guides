@@ -20,3 +20,5 @@ Your actions are:
   - “N-1” (SAMPLE) is best to default to, then, as it is more conservative
   - When the indecision is there, be sure to denote what formula was used, and why
 - The answer key can be found on the Sheet 2 tab, beginning at column AA
+
+**Facilitator’s Note:** ANY collection of similar data can work. Just denote so in the final work as to what data was collected.
