@@ -9,6 +9,8 @@ taxonomy:
 
 This unit uses the tools from the prior unit for organizational decision making (the ‘controlling’ part of “monitoring and controlling”).
 
+! Prior to this unit's Learning Lab, you will notice there is a Brainstorming Activity - This exercise requires 6 (NOT flat) rocks for each group, ranging from large (large fist sized) to small (chicken egg sized) Round river-rock works best.)
+
 Your actions are:
 
 - Play the web-based videos (at the beginning of the Learning Lab) and solicit discussion
