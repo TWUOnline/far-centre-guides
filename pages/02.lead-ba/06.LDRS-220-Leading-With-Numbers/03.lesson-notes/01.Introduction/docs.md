@@ -15,6 +15,6 @@ As a facilitator, you will be considering the unit input that each student offer
 
 ***Important:*** Sometimes the activities will include student opinions and experiences. As long as they are fitting to the assignment, these really cannot be graded. In this course, we strongly encourage students to share their experiences...it only has to be relevant to the course content. Again, you are looking for the quality and quantity of what the students share.
 
-There will be numerous occasions when the assignment calls for content that doesn not exist. No worries. The students must (creatively) ‘develop’ their own. They can make up names, descriptions, dollar estimates, and so on. You see, the goal of the assignment work is not always in the details but in the overall format of the finished assignment.
+There will be numerous occasions when the assignment calls for content that does not exist. No worries. The students must (creatively) ‘develop’ their own. They can make up names, descriptions, dollar estimates, and so on. You see, the goal of the assignment work is not always in the details but in the overall format of the finished assignment.
 
-It is important to note that some units will be heavy with videos and others will not. No worries, the course is built in this manner to maximize learning. Your participation in facilitating discussion is important for all videos presented. DO NOT HESITATE to play a video more than once to aid in learning.
+It is important to note that some units will be heavy with videos and others will not. No worries, the course is built in this manner to maximize learning. Your participation in facilitating discussion is important for all videos presented. ***DO NOT HESITATE to play a video more than once to aid in learning.***
