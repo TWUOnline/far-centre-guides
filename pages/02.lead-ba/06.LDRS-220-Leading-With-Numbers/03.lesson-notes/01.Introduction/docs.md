@@ -11,7 +11,7 @@ Thank you for taking on the role of a FAR Centre Facilitator. You are the ‘con
 
 It is recommended that you review each unit (especially Learning Labs) prior to the sessions. Do not hesitate to contact the instructor with any questions you have.
 
-As a facilitator, you will be considering the unit input that each student offers. You will supply the instructor with a weekly recap of each student’s participation… both in quality and quantity. Plus, you will consider and denote their team participation. This will be documented in the LDRS 220 FC Weekly Facilitator Feedback Form file (Excel).
+As a facilitator, you will be considering the unit input that each student offers. You will supply the instructor with a weekly recap of each student’s participation...both in quality and quantity. Plus, you will consider and denote their team participation. This will be documented in the LDRS 220 FC Weekly Facilitator Feedback Form file (Excel).
 
 ***Important:*** Sometimes the activities will include student opinions and experiences. As long as they are fitting to the assignment, these really cannot be graded. In this course, we strongly encourage students to share their experiences...it only has to be relevant to the course content. Again, you are looking for the quality and quantity of what the students share.
 
