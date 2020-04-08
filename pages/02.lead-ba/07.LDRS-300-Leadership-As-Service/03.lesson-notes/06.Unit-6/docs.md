@@ -33,4 +33,4 @@ taxonomy:
 - At the end of the lab have the students present their case study to the class.
 
 **Give Feedback**:
-- Give feedback to the students as appropriate.Film or take photos and send them to the instructor along with your feedback about the learning that took place around this activity.
+- Give feedback to the students as appropriate. Film or take photos and send them to the instructor along with your feedback about the learning that took place around this activity.
