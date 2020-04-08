@@ -16,7 +16,7 @@ Remind the students that the next unit has their first assignment, Servant Leade
 **Course Cafe**
 The course cafe is a forum for interaction between the facilitator, the learners and the course instructor. Use it for enouragement, to share resources, ask and answer questions pertinent to the entire course and post reminders for upcoming lab activities or assignment due dates. Consider planning an icebreaker activity based on Course Café introductions (e.g. peer interview, self-portraits, snowball, etc...). Here is a link to other ice breaker activities https://www.edgalaxy.com/journal/2012/8/27/10-great-activities-to-break-the-ice-with-your-students.html
 
-The following activities can be done in the lab to generate disucssion and further learning outcomes.
+**The following two unit activities can be done in the learning lab:
 
 **Activity 1.4: Comparing Models of Leadership**
 <span style="color:red"> See Moodle for instructions. Let students know whether this will be a full lab activity, or whether they should start/complete their sketch note at home. </span>
