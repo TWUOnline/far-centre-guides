@@ -21,7 +21,6 @@ In the classroom, I have envelopes with these 6 questions printed and inside tha
 
 ![](lab-risk-and-me.png)
 
-###*Topic 3: Let’s take a look at how Jesus was a risk taker.*
 
 ###Lab Activity: Concept Mapping
 {c:red}Let students know whether this will be a full lab activity, or whether they should start/complete this sketch note at home. Ask students to send concept maps to the professor for review.{/c}
