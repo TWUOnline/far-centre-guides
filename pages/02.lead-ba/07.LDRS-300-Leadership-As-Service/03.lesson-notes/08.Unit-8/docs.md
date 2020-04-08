@@ -9,9 +9,10 @@ taxonomy:
 ## Unit 8: Case Study in Leadership: Saving Mr. Banks (2013)
 
 
-This unit focuses on the movie Saving Mr. Banks (2013). The students are to
-watch the film then complete a case study on leadership analysis as per the
-details outlined in the Guidelines. This case study gives the students the
+This unit focuses on the film Saving Mr. Banks (2013). 
+
+The students are to watch the film then complete a case study on leadership analysis as per the
+details outlined in the Case Study Guidelines posted in the moodle. This case study gives the students the
 opportunity to integrate the formal learning to date with their own lived
 experiences and with what they observe and analyze from the film. The film
 is accessible in terms of the universal values of empathy, forgiveness,
@@ -21,8 +22,13 @@ their unique and sometimes painful pasts.
 
 It would be helpful for you as a facilitator to also be familiar with the
 movie. It could be shown in the lab as a lab activity with a debrief time
-after. Review the case study guidelines to help guide the debrief
-conversations following the film.
+after. 
+
+Review the case study guidelines prior to watching the film to help guide the debrief
+conversations following the film. Student's should pay attention to the following themes: 
+-   servant leadership charcteristics as demonstrated by the key characters;
+-   where forgiveness shows up and the role of forgiveness in leading ourselves and others;
+-   how to work with difficult people.
 
 Conversely, you could do a character or characteristics profile in class.
 Have students collectively create a poster or other creative artifact about
@@ -38,5 +44,5 @@ Prompts to consider:
 
 -   Would you recommend it as a case study in leadership? Why or why not?
 
-Do some additional research about the story behind the story of this film –
+-   Have students do some additional research about the story behind the story of this film –
 there are some details left out. How is the reality v. the movie different?
