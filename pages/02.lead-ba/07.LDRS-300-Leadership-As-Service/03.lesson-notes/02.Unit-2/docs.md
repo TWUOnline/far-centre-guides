@@ -7,7 +7,7 @@ taxonomy:
 
 ## Unit 2: Heart of Servant Leadership
 
-###**Lab Activity**
+###**Lab Activity: Case Study & Word Clouds**
 
 The following two unit activities can be done in the learning lab. Additionally, teaching the students what a case study is all about, the roles of case studies in deepening learning and how to approach a case study would be beneficial.**
 
