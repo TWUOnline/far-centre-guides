@@ -33,7 +33,6 @@ share their maps with the other groups.
 
 
 #### Lab Activity: Read, Navigate, and E-Portfolio Response
-Students can work on this in the lab:
 
 E-Portfolio Response to Unit 9: Create an e-portfolio response to this
 Unit. Consider answering the question, *“What is culture and how does
