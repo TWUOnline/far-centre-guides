@@ -7,7 +7,12 @@ taxonomy:
 
 ## Unit 9: Cultivating A Service Culture: Asking the Why
 
-#### Lab Activity #1: Culture Mapping 1,2,4:
+#### Lab Activity: Culture Mapping 1,2,4, All
+
+Review this unit in the moodle. This unit examines the role of culture, servant leadership cultures 
+and orgnaizational cultures in assessing and analysizng customer-focused cultures. This activity
+asks students to create their own culture maps based on one of the two models
+presented in this unit's PPT. Once completed, let the sharing (and collective learning) begin!
 
 Step 1: Individually: At your tables choose **one of the two culture models**
 and map out your unique culture. (10 minutes)
@@ -27,7 +32,7 @@ when it comes to what you record on your culture map. Once complete, have groups
 share their maps with the other groups.
 
 
-#### Activity 9.3: Read, Navigate, and E-Portfolio Response
+#### Lab Activity: Read, Navigate, and E-Portfolio Response
 Students can work on this in the lab:
 
 E-Portfolio Response to Unit 9: Create an e-portfolio response to this
@@ -38,7 +43,7 @@ process and reflect on the power of culture to shape individuals and
 organizations.
 
 
-#### Lab Activity \#2: The Power of Hostmanship – Tedx Talk by Jan Gunnarsson.
+#### Lab Activity: The Power of Hostmanship – Tedx Talk by Jan Gunnarsson.
 Jan Gunnarsson is a hospitality industry veteran from Sweden who exhibits a
 refreshing take upon customer service and leadership. Jan believes customer
 experience is not in the first place about strategies and tactics but about the
