@@ -7,9 +7,7 @@ taxonomy:
 
 ## Unit 3: The Head of a Servant Leader: What’s your Vision, Mission and Values?
 
-###*Topic 3: Good Leadership begins with Good Followership*
-
-###**Facilitation Lab Activity:**  
+###**Learning Lab Activity:**  
   **What**: Paper Bag Creations: Lead or Follow?  
   **Why**: To see how a group of people make decisions when tasked with a project in a specific time frame. Observations about who leads, who follows, why those dynamics unfolded and self-learning/ group learning about how to accomplish something together and how we feel about it in the end.  
   **How many people**: Can be used if you have 4 or more people. Put students in groups of 2, 3 or 4.  
