@@ -54,8 +54,15 @@ about treating others as you yourself would want to be treated and remembering
 that no one can make that decision for you – how you show up each day is your
 choice.
 
+Watch this Ted Talk in the lab and then debrief his ideas. Use some of the 
+following prompts to get you started:
+
+1. Have you ever heard of this idea of "hostmanship' before?
+2. What is the connection between leading and hosting? 
+3. What idea of his impacted you and why?
+4. Jan talks about how we welcome ourselves in the morning, saying,
+*"It starts with welcoming yourself when you get up each morning. Be kind to yourself. Treat yourself like you would want others to treat you – respect, honor, friendship, laughter, love".* Discuss.
+
 [Video Link](https://www.youtube.com/watch?v=VEfUyOpG4b8)
 
-Some final thoughts from Jan…
 
-![](media/d81077a1e2a1835a786ce5a7e2c342a7.emf)
