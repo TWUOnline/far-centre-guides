@@ -5,69 +5,174 @@ taxonomy:
         - docs
 ---
 
-## Unit 8: Situational Approach
+## **UNIT 8: Diversity**
 
-This unit introduces you to one of the more widely recognized approaches to leadership--the situational approach. The situational approach has been refined and revised several times since its inception and it has been used extensively in organizational leadership training and development.
+**Facilitated Learning Lab Activities:**
 
-These are the activities students are expected to complete before coming to the learning lab:
+**Activity 8.1:** Chain Diversity Activity – Unique me
 
+**Activity 8.2:** Perception Game
 
-| **☑** | **Activities**        | **Expected Time Commitment** |
-|---|--------------------------------------------|------------------------------|
-|   | **Activity 8.1: Watch, Read, and Reflect** <ul><li> Watch the video [**Situational Approach** (Chapter 5)](https://www.youtube.com/watch?v=ZjSwov19ubQ&list=PLx-uqKoW1C5nXd5jnA_Ut8TWbjCk7tWtL&index=5) <li>	Read Chapter 5 of the Northouse’s Leadership: Theory and Practice. <li> Answer questions in your learning journal. | 2 hrs                        |
-|   | **Activity 8.2: Complete and Reflect** <ul><li> Complete the ***Situational Leadership Questionnaire.*** <li> Answer questions in your learning journal.    | 1.5 hrs                      |
-|   | **Activity 8.3: Choose and Respond.** <ul><li> Choose **ONE** of the case studies that interests you. <li> Answer the case study questions. <li> Record your response   | 2 hrs.                       |
-|   | **Assessment** <ul><li>	Group Discussion led by the facilitator <li> Journal Response <li> Complete **Leadership Case Study #4**       | 5 hours          |
+**Activity 8.3:** First Impressions Activity – Herman Grid
 
-## What Will You Be Doing?
+**Activity 8.4:** Connect the Dots – Thinking out of the box
 
-Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to facilitating group discussion and the second 1.5 hours will be focused on the Case Study Activity (details below).
+**Activity 8.5:** Stereotyping What they know or what they’ve heard
 
-### Part 1: Lead the Group Discussion
+**Activity 8.6:** Chapter 9 - Team Reading/Reporting Activity
 
-Divide the class into small groups. Have them discuss questions provided below, and then select a spokesperson who will summarize their findings for the rest of the learning lab after you reconvene as a large group. Note: the same person should not be the spokesperson each week. The level of participation will contribute to each student’s individual participation grade. 
+**Activity 8.7:** Debate Teams chosen and Teams their Topic
 
-In Unit 8, the group discussion will focus on the following questions:
+**Activity 8:8:** Group Case Study Teams and Study chosen
 
-  1.  Provide examples of behaviors that correspond with four proposed styles.
+Note some activities are from [Educational Diversity Activities](https://diversity.missouristate.edu/activities.htm)
 
-  2.  Can you think of examples of followers who would fit each of the four proposed development levels?
+## Topic 1: Defining Diversity
 
-  3.  Explain the two steps leaders must fulfill to be effective. Apply these steps to a current situation in which you are a follower. What style would be most appropriate for leading you, according to the theory, and why? Do you agree?
+#### Activity 7.1: Chain of Diversity (Lab activity)
 
-  4.  Does a leader’s motivation for adapting his or her leadership style have any effect on followers? In other words, would a leader with a high concern for task differ from a leader with a high concern for relationships?
+In the Bible, it clearly states, “I am fearfully and wonderfully made” (Psalm 139:14). When I first read that scripture, I realized how truly unique I am. And guess what? You are unique, too. In this first activity, you will discover and recognize the many ways in which you are similar and different from each other, and as well how your uniqueness as an individual.
 
-  5.  Do you think the prescribed leadership behaviors in the SLII model apply to all cultures? Why or why not?
+**Facilitator** (Attach PDF instructions for the game Chain of Diversity (15 – 20 minute activity)
 
-  6.  What would follower competence and commitment look like in your line of work (i.e., how are these qualities conceptualized)?
+See Online instructions [here](https://diversity.missouristate.edu/academic-diversity-activity-chain-of-diversity.htm)
 
-  7.  If a leader uses a different style of leadership with each of his followers, how might that lead to perceptions of favoritism? What could a leader do to avoid such impressions while still being adaptable to follower needs?
+## Topic 2: Stereotyping
 
-  8.  If a leader matches his or her style to the overall developmental level of the group he or she is leading, how might this affect the performance and motivation of the workers who are different?
+#### Activity 7.2: The Perception Game
 
-  9.  How can a leader be sure his or her perceptions of followers’ competence and commitment are accurate?
+**Perception Game (10 minutes)**
 
-  10. Why wouldn’t the coaching style be effective in every situation?
+Begin the exercise be having [three] volunteers come to the front, facing the audience. Each is given one sheet of colored paper. You will then instruct them to follow your directions exactly as you say. Before you give the instructions, they must close their eyes.
 
-### Part 2: Case Study Activity
+Advise the students in the audience that no comments can be made on their behalf. And, laughing is allowed!
 
-Divide the class up into three different groups. Each group will be assigned to one of the case studies provided at the end of chapter 5. As a group, have the students read the case study together and answer the questions prepared at the end of the case study to guide discussion.
+Have the [students], with eyes closed, hold their sheets of paper in front of them. Then instruct them to fold the paper in half; then in half again. They must then turn the paper x number of times to the right and left; each time tearing off a piece of paper in the corner. Repeat this three or four times and end by having the volunteers fold the sheet in half one more time and tearing off a piece in the middle. During this whole process, never say specifically which corner to tear.
 
-  -   Allow students to work on the case study and questions for 1 hour and then have students re-cap the key ideas discussed and present this information to the class in the last 30 minutes.
+With their eyes closed, ask them to unfold their sheet of paper while holding it in front of them. They may then open their eyes, only to discover that each design is totally different.
 
-  -   The re-cap should highlight the key points from the discussion. Make sure to compare and contrast alternate viewpoints that came up during the discussion and emphasize the take-home messages that can be applied to future situations.
+**Facilitator asks students answer Round Robin:**
 
-**Evaluating Group Discussions:**
+1.  Why is each design totally different?
 
-Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each learning lab and then providing a score for each student at the end of the learning lab based on the rubric provided below.
+2.  Did they not have the same instructions?
 
-| **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
-***Note:*** An absence for **one** learning lab will not result in a loss of participation marks.
+3.  Didn’t they all follow those instructions?
 
-### Part 3: Assignments Reminders
+4.  Then why do we have totally different pieces?
 
-After the learning lab is done remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response.
+Retrieved from http://www.uh.edu/cdi/diversity_education/resources/activities/pdf/PerceptionGame.pdf
 
-Next, they need to provide a case study response. They are asked to choose ONE of the case studies that interests them from Chapter 5 and answer the questions for it that are provided at the end of the case. This case study response is part 4 of 6. 
+#### Activity 7:3: First Impressions (10 – 20 minutes)
+
+In the next Activity; the Herman Grid, you will realize we often see something that does not exist.
+
+**Facilitator:** Students are invited to share their examples of their scenarios with First Impressions. (see online instructions [here](https://diversity.missouristate.edu/academic-diversity-activity-first-impressions.htm)) Attach PDFs
+
+#### Activity 7.4: Connect the Dots
+
+In this exercise, students will experience the fact that we often subconsciously limit our perspectives and alternatives.
+
+In the Connect the Dots activity you will do in your lab, you will be confronted with a problem to solve and will have to change your perspectives to solve it.
+
+**Facilitator:** (see PDF for Connect the Dot instructions) Online instructions [here](https://diversity.missouristate.edu/academic-diversity-activities-nine-dots.htm).
+
+#### Activity 7.5: Stereotyping
+
+What is stereotyping?
+
+**Facilitator** writes down student’s answers.
+
+As a young child, I was told by my parents to stay away from Catholics. Growing up in Scotland, Catholic and Protestants often segregated themselves from each other. I would ride the public transit to school, and the Catholic children would sit at the back of the bus, and the Protestant children would sit at the front. We all knew who we were because of the school jackets we wore!
+
+Believing Catholics were terrible people, stayed with me for many years until I finally realized stereotyping is an untrue belief and prejudice against others. I guess I missed many great opportunities to build lasting relationships merely because of stereotyping. As leaders, we must first recognize, stop judging and then correct the errors of our ways with regards to stereotyping.
+
+Note for Facilitator
+
+**Stereotyping**
+
+In this next activity, students will recognize the widespread use of stereotypes. Students will engage writing on sheets of paper on the walls of the room “What they know or what they’ve heard about a particular group.”
+
+“Each sheet of paper could be titled: Women, Men, Teenagers, African American Males, Asian Americans, Latino Americans, Catholics, Christians, Jews, Arabs, Moslems, Amish People, Wealthy People, Poor People, The Homeless, People on Welfare, People with a physical challenge, Californians, Southerners, People 75 years and older, People who live in the Country, People who live in the City, etc. At the end of the activity, students will discuss stereotypes. We often become conditioned to think about stereotypes on an almost automatic basis when we see or hear about someone whose background is different from our own. We all use stereotypes at one point or another. The important thing is that we begin to become more conscious of the fact that we are often thinking “on automatic.”
+
+The goal at the end of this activity is to stop and ask if what we are thinking is a fact or a stereotype.
+
+(Retrieved from Academic Diversity Activity: What Do You Know or What Have .... <https://diversity.missouristate.edu/academic-diversity-activity-know-heard.htm>)
+
+**Facilitator** (see PDF) Upon gathering up wall sheets, the Facilitator will choose students to read the sheets out loud. The facilitator will ask the following questions:
+
+1.  What do many of the comments you have written on the lists represent?
+
+2.  Are they all true?
+
+3.  Where did they come from? (Responses might include parents, friends, teachers, books, the media, and others.)
+
+## Topic 3: Diversity and Intercultural Competence (know-how)
+
+#### Activity 7.6: Case Study
+
+In your Learning Lab, you will participate in analyzing case studies, using the ideas presented in the text. Be sure to take notes and bring them to share with your peers.
+
+To promote diversity, the facilitator will Use three different coloured candies (green, red, blue) to separate students into three groups. Each group will take a section of the Chapter:
+
+**Group 1:** Read and report to the class main points on pages 222 – 227 of Chapter 9 writing down the key points on the board.
+
+**Group 2**: Read and report to the class main points on pages 228 – 234 of Chapter 9 writing down the key points on the board.
+
+**Group 3**: Read and report to the class main points on pages 234 – 240 of Chapter 9 writing down the key points on the board.
+
+Next, groups will look at three Case Studies:
+
+Group 1 Case Study 1
+
+Group 2 Case Study 3
+
+Group 3 Case Study 4
+
+Groups will make a mini presentation on their findings.
+
+## Assessment
+
+**Assignment: Debate Assignment**
+
+**Debate Teams and Topics**
+
+**The class will be divided into debate teams, usually 3 students on each team. Two teams will debate. The instructor will provide a list of topic options and each team will defend their point of view.**
+
+**For example:**
+
+***Team 1 states*: “The most important characteristic of a good team is having a wide variety of backgrounds”.***
+
+***Team 2 states*: “We believe that a wide variety of backgrounds is not the most important characteristic of a good team. We feel that being able to get along is the most important”.***
+
+**See Assessment section for notes on Preparation for Debate**
+
+**Facilitator:**
+- Choose Debate Teams.
+- Students will choose and submit their Topic.
+- Topics to choose from are posted on Moodle.
+
+**Assignment: Case Study Assignment**
+
+**See Assessment for details**
+
+Each team will be responsible to evaluate a case study by following the case study evaluation guidelines (How to Approach Case Studies) given below. The team will make a presentation to the class and will hand in a report of their evaluation. The approach to the case study should be based on the communication: persuasion and positive influence and the concepts that you have been learning in class.
+
+Important points:
+
+Presentation: The teams must be prepared to answer questions from the other teams. Each team must prepare 5 questions to ask the team presenting. Presentations will take place during the last 2 classes.
+
+Report: The report must follow the APA guidelines (includes not plagiarizing)
+
+1.  Each member of the team must state which topic they completed in the report.
+
+2.  The entire report must be a cohesive compilation of all the writing done by the members of the team (for example, flow well from one point to another).
+
+3.  Report should be between 4-5 pages.
+
+4.  The report is due on the last day of class.
+
+**Facilitator**
+
+- Teams will be chosen for the Group Case Study Assignment.
+- Students will choose their Case Study. These are posted on Moodle.

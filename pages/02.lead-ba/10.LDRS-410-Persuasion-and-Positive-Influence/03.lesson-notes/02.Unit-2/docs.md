@@ -5,78 +5,54 @@ taxonomy:
         - docs
 ---
 
-## Unit 2: Industrialization and the Idea of Management
+## **Unit 2: Persuasion & Positive Influence**
 
-In this unit, students are introduced to the idea of management and they will discover how this idea can be traced back to the start of the Industrial Revolution. In this unit, they will learn about the major contributors to the field of management theory and how their ideas are used today.
+#### Activity 2.1: “Speaking as a Leader”
 
-The students will arrive for learning lab prepared for group discussions based on what they have completed in their learning activities at home.  Specifically, students will have completed the following activities prior to attending the learning lab:
+**In Class Activity:** Ask students to work with a partner using
+Humphries (2012) book to share their responses to the questions. Encourage students to consider the application of these ideas, or discuss their experiences (e.g. times they have no practiced a speech, etc.).
 
+#### Activity 2.2: My Listening Skills
 
-| **☑** | **Activities**                      | **Expected Time Commitment** |
-|---|-------------------------------------|------------------------------|
-|   | **Activity 2.1: Watch and Reflect** <ul><li>Watch the following video [Leadership versus Management: What’s the Difference?](https://www.projectmanager.com/training/leadership-vs-management) <li>Answer questions in your learning journal. | 30 mins                      |
-|   | **Activity 2.2: Reflect** <ul><li> Watch the [Evolution of Management](https://www.youtube.com/watch?v=EobeHwOw3S4) video.<li> Review information in Topic 1 and Topic 2. <li>Answer questions in your learning journal.       | 30 mins                      |
-|   | **Activity 2.3: Read and Reflect** <ul><li>Reading Part 1 Notes: General Theories of Management <li> Read [**The Foundations of Henri Fayol’s Administrative Theory**](http://bus.lsu.edu/management/faculty/abedeian/articles/Fayol.pdf) <li>Answer questions in your learning journal.  | 1.5 hrs                      |
-|   | **Activity 2.4: Read and Reflect** <ul><li> Read Part 2 Notes: **The Split in the Field of Management.** <li>Answer questions in your learning journal.  | 30 mins.                     |
+Students will share one of the (scored 4 or 5 questions) with the class
+on the listening skill they are going to work on.
 
-### What will you be doing?
+#### Activity 2.3: Levels of Listening
 
-Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to facilitating group discussion and the second 1.5 hours will be focused on organizing the Jigsaw Activity.
+**Complete the following activities in class:**
 
-**Part 1: Lead the Group Discussion:**
+(a) **Break Out Session:**
 
-Divide the class into small groups. Have them discuss questions provided below, and then select a spokesperson who will summarize their findings for the rest of the class after you reconvene as a large group. Note: the same person should not be the spokesperson each week. The level of participation will contribute to each student’s individual participation grade. 
+**Active Listening Skill Set**.
 
-In Unit 2, the group discussion will focus on the following questions:
+The facilitator will put students in Group. Each Group (1 through 6) is
+assigned each active listening **key word** (*Pay attention, Suspend Judgment, Reflect, Clarify, Summarize, and Share*). After reading Hoppe (2014) students will **role play**,  modelling to the class the meaning of each word assigned.
 
-  1. How did the western industrial revolution form the idea of management?
+(b) **Speed Dating Game**:
 
-  2. What is the difference between leadership and management?
+**Barriers to Active Listening** (Hoppe, 2014 pg. 13 – 15). How to play: This Speed Dating session consists of a series of brief one-on-one interactions between students. After talking with one student for several minutes, students rotate to another. Students will discuss briefly the Barriers to Active Listening, (*The Image of Leadership, Silence as Agreement, External Pressures, Lack of know-how, Individual Make-up, Time and Place, Emotion, Cultural Differences).*
 
-  3. What are the similarities and the differences between the two broad positions on management of the four writers in the unit 2 (part 1) notes?
+#### Activity 2.4: Types of Decision-Makers
 
-  4. Do these positions reflect some of your own ideas and assumptions about management?
+#### Lab Activity: Role Play
 
-  5. Do the distinctions between management as a science and management as an art reflect your own experiences?
+5 Groups will break out and will create a mini-play (5-minute role play) showing the attributes of the different decision-making types. The groups will be assigned **one** of the decision-maker types.
 
-  6. Did this unit challenge your ideas about management, or those of managers you have known, or the assumptions about management you have encountered in different organisations and contexts? If so, how?
+Lab Activity: **Beat the Clock**
 
-  7. What do you see as the implications for practising managers if management is an art versus a science?
+1. As a way for students to recall important vocabulary terms, students
+will form groups of 4 or 5 to play a game of **Beat the Clock**.
 
-### Evaluating Group Discussions:
+Each group is provided with five blank cards to write the words: *Charismatic, Skeptic, Thinker, Follower, Controller.* Each group will also write the definitions on separate sheets of paper provided. One student in each group volunteers to be the caller and the rest of the team work together to identify the correct definition. Groups will exchange cards and definitions. The facilitator will start the timer at 3 mins. The first team to get the words and definitions in order wins. Team yells “TIME” when they complete the task.
 
-Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each learning lab and then providing a score for each student at the end of the learning lab based on the rubric provided below:
+**Note:** Facilitator will provide; Index Cards; felt pens and 8 by 11 paper.
 
-| **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
+perceive your ideas. It gives you access to the reservations and
+objections that others might have. And it deepens your understanding of
+the person you’re speaking to.
 
-***Note:*** An absence for **one** learning lab will not result in a loss of participation marks.         
+## Assessment
 
-### Part 2: Organize the Jigsaw Activity:
+**Assignment #3: Introduction to the Field Interview Report Due on Unit 7**
 
-**Assign Topics to Student Groups:**
-
-  -   For this activity, students will be divided into 4 groups. The number of students you have per group equals the number of topics that will be covered.
-
-  -   Assign the following topics to each group: Frederick Taylor, Henri Fayol, Mary Parker Follett, Max Weber,
-
-  -   After they receive their topic, the idea is that all of the students in the initial group will now become an expert on a historical leader. Instruct students to research the person and clearly identify 5 key ideas about that person. They will share this information with a teaching group so they need to have a good understanding of who the person was and what their important contributions were to the field of management.
-
-  -    This Jigsaw activity will be completed in 1.5 hrs. To begin, students will work in their “expert” groups for 30 minutes and then students will reform in their “teaching” groups for 1 hour.
-
-**Introduce the Activity:**
-
-  -   Today we are going to do a classroom jigsaw. [Break students into expert groups]. You are now in your expert groups. Your task is to become experts on the historical leader. Spend the time you have together refining your understanding of the historical leader. After 30 minutes, we will break the expert groups up and re-form into teaching groups. Teaching groups contain one member from each expert group. You are now in your teaching groups for 1 hour. Each of you is an expert on a different historical leader. Your task now is to teach your topic to the other members of your group. You will have 15 minutes each to share this information with your group members.
-
-**Keep Track of Time**
-
--   Remind students when it is time to move from their expert groups to their teaching groups.
-
--   Following the jigsaw session, the students will to write about the information covered or the insights they gleaned from the session in their journal response.
-
-### Part 3: Assignment Reminders
-
-After the learning lab is done, remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response which includes writing a 400-500 word (1-2 pages double spaced) response to questions provided in the Unit 2 assessment page.
-
-Next, they will need to complete ***Assignment #1: Historical Leader Paper.*** This paper involves writing a well-researched 2-3-page paper on a historical leader or writer on leadership of their choice. The students will need to describe the leader/writer’s 1) life, 2) his or her historical time, and 3) what you think made him or her a great leader (or thought leader).
+Review the Field Interview Report Assignment with students. Students will submit the two names who they will be interviewing, to you at the end of this Unit 2.

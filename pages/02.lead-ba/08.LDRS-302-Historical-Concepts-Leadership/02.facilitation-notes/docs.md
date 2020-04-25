@@ -48,21 +48,20 @@ If you have any questions, do not hesitate to ask. I am here to help and be your
 
 Before we get started today, let’s all introduce ourselves and get to know each other as a class. I’d like everyone to share a little about who you are and why you are here taking this course. If you already know most of your classmates, be sure to include some new information they might not all know about you such as:
 
-  -   General information about yourself as a person, a professional, and a
-    student
+  - General information about yourself as a person, a professional, and a student
 
-  -   What your professional background is—whether you currently work in the field or you’re new to it.
+  - What your professional background is—whether you currently work in the field or you’re new to it.
 
-  -   Your biggest question, doubt, or fear about the class.
+  - Your biggest question, doubt, or fear about the class.
 
-  -   How did you come to enroll in this course or program?
+  - How did you come to enroll in this course or program?
 
-  -   Do you have experience with the topic?
+  - Do you have experience with the topic?
 
-  -   What do you hope to gain from this class?
+  - What do you hope to gain from this class?
 
-  -   Keep the information you include, and the tone you use (i.e., language, approach) professional and relevant to participation in the course.
+  - Keep the information you include, and the tone you use (i.e., language, approach) professional and relevant to participation in the course.
 
-  -   Include professional and personal information.
+  - Include professional and personal information.
 
-  -   Prepare an icebreaker activity
+  - Prepare an icebreaker activity

@@ -7,6 +7,8 @@ taxonomy:
 visible: true
 ---
 
+#TO BE EDITED, still reflects LDRS 302
+
 ## Course Overview
 
 ### Syllabus

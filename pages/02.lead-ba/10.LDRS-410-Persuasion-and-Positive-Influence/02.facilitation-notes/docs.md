@@ -21,11 +21,7 @@ During the first class, you will discuss key concepts from the
 Slideshow and will participate in Break Out Sessions for each topic.
 
 This is a great time of learning from other members of the class. Every
-team member is <span class="underline">required</span> to participate in
-group discussions, meetings, and all written group assignments. Always
-show respect for all members of the class; both in your speech and
-manner. Team Leaders will make the effort to engage all participants in
-your group and provide helpful feedback and support to others.
+team member is *required* to participate in group discussions, meetings, and all written group assignments. Always show respect for all members of the class; both in your speech and manner. Team Leaders will make the effort to engage all participants in your group and provide helpful feedback and support to others.
 
 During discussions, everyone is encouraged to raise thoughtful
 questions, share ideas, synthesize key points from course texts and
@@ -74,7 +70,7 @@ succeed in your assessments for this course.
 See Case Study in Moodle (Retrieved from
 [<span class="underline">https://www.sagepub.com/sites/default/files/upm-binaries/4985\_Dainton\_Chapter\_5.pdf</span>](https://www.sagepub.com/sites/default/files/upm-binaries/4985_Dainton_Chapter_5.pdf))
 
-# **Unit 2: Persuasion & Positive Influence**
+## **Unit 2: Persuasion & Positive Influence**
 
 #### Activity 2.1: “Speaking as a Leader”
 
