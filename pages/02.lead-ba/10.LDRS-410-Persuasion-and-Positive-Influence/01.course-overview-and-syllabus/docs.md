@@ -57,9 +57,6 @@ Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
 The final grade will be determined by the satisfactory completion of all requirements.
 
 
->   The final grade will be determined by the satisfactory completion of all
->   requirements.
-
 | **Grade Activity**          | **Linked Learning Outcomes\***         | **% of course grade** |
 |-----------------------------|----------------------------------------|-----------------------|
 | *Learning Lab dialogue/exercises* | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 15%                   |
@@ -67,7 +64,7 @@ The final grade will be determined by the satisfactory completion of all require
 | *Historical Leader Paper*     | 1 (a,b,c), 2 (d,e)                     | 15%                   |
 | *Scientific Management Paper* | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 20%                   |
 | *Leadership Case Studies*     | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 30%                   |
-| **Total**                   |                               |            **100%**            |
+| **Total**                     |                                        | **100%**              |
 
  
 ### Required Texts and Materials:
