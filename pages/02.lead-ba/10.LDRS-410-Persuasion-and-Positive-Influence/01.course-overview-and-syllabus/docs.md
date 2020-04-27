@@ -101,4 +101,4 @@ Note: These books or e-books **MUST** be present with you during ALL Learning La
 !! It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.
 
 
-[button url="https://www.twu.ca/about/policies/policy-academic-dishonesty" target="_blank" label="Academic Dishonesty Policy" type="danger" classes="external-link"]_
+[button url="https://www.twu.ca/about/policies/policy-academic-dishonesty" target="blank" label="Academic Dishonesty Policy" type="danger" classes="external-link"]
