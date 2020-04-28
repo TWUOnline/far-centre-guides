@@ -9,13 +9,11 @@ taxonomy:
 
 #### Activity 2.1: “Speaking as a Leader”
 
-**In Class Activity:** Ask students to work with a partner using
-Humphries (2012) book to share their responses to the questions. Encourage students to consider the application of these ideas, or discuss their experiences (e.g. times they have no practiced a speech, etc.).
+**In Class Activity:** Ask students to work with a partner using Humphries (2012) book to share their responses to the questions. Encourage students to consider the application of these ideas, or discuss their experiences (e.g. times they have no practiced a speech, etc.).
 
 #### Activity 2.2: My Listening Skills
 
-Students will share one of the (scored 4 or 5 questions) with the class
-on the listening skill they are going to work on.
+Students will share one of the (scored 4 or 5 questions) with the class on the listening skill they are going to work on.
 
 #### Activity 2.3: Levels of Listening
 
@@ -25,8 +23,7 @@ on the listening skill they are going to work on.
 
 **Active Listening Skill Set**.
 
-The facilitator will put students in Group. Each Group (1 through 6) is
-assigned each active listening **key word** (*Pay attention, Suspend Judgment, Reflect, Clarify, Summarize, and Share*). After reading Hoppe (2014) students will **role play**,  modelling to the class the meaning of each word assigned.
+The facilitator will put students in Group. Each Group (1 through 6) is assigned each active listening **key word** (*Pay attention, Suspend Judgment, Reflect, Clarify, Summarize, and Share*). After reading Hoppe (2014) students will **role play**,  modelling to the class the meaning of each word assigned.
 
 (b) **Speed Dating Game**:
 
@@ -40,16 +37,13 @@ assigned each active listening **key word** (*Pay attention, Suspend Judgment, R
 
 Lab Activity: **Beat the Clock**
 
-1. As a way for students to recall important vocabulary terms, students
-will form groups of 4 or 5 to play a game of **Beat the Clock**.
+1. As a way for students to recall important vocabulary terms, students will form groups of 4 or 5 to play a game of **Beat the Clock**.
 
 Each group is provided with five blank cards to write the words: *Charismatic, Skeptic, Thinker, Follower, Controller.* Each group will also write the definitions on separate sheets of paper provided. One student in each group volunteers to be the caller and the rest of the team work together to identify the correct definition. Groups will exchange cards and definitions. The facilitator will start the timer at 3 mins. The first team to get the words and definitions in order wins. Team yells “TIME” when they complete the task.
 
 **Note:** Facilitator will provide; Index Cards; felt pens and 8 by 11 paper.
 
-perceive your ideas. It gives you access to the reservations and
-objections that others might have. And it deepens your understanding of
-the person you’re speaking to.
+perceive your ideas. It gives you access to the reservations and objections that others might have. And it deepens your understanding of the person you’re speaking to.
 
 ## Assessment
 

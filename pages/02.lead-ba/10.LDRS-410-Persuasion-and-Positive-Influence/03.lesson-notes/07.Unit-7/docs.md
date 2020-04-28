@@ -9,14 +9,11 @@ taxonomy:
 
 #### ***Activity 7:1 Assessing Your Network***
 
-**[Note to Facilitator: Put class in triads and ask them to share their
-answers to #1.]**
+**[Note to Facilitator: Put class in triads and ask them to share their answers to #1.]**
 
 #### ***Activity 7:3 Six Requirements of Leadership Networking***
 
-In triads, students will review the six requirements, taking notes. In
-class, you will work in triads, each taking one concept and summarizing
-your findings.
+In triads, students will review the six requirements, taking notes. In class, you will work in triads, each taking one concept and summarizing your findings.
 
 **Facilitator: Assigns the following to the students:**
 

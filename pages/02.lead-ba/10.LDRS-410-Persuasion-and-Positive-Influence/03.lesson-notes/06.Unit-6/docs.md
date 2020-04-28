@@ -9,14 +9,11 @@ taxonomy:
 
 **THE CHOICE**
 
-Process: Divide class into small groups and provide the following
-information to them. They must make a choice about the distribution of
-the scholarship money based on the information provided. (link to pdf
-U6_the-choice)
+Process: Divide class into small groups and provide the following information to them. They must make a choice about the distribution of the scholarship money based on the information provided. (link to pdf U6_the-choice)
 
 #### Optional activity:
 
-<https://www.esu.org/wp-content/uploads/2019/01/Cross-The-Circle-If%E2%80%A6.pdf>
+[https://www.esu.org/wp-content/uploads/2019/01/Cross-The-Circle-If%E2%80%A6.pdf]
 
 ## Assessment
 

@@ -51,4 +51,4 @@ Read the following case study. Which theories of persuasion would help solve the
 
 **Case Study**
 
-See Case Study in Moodle (Retrieved from https://www.sagepub.com/sites/default/files/upm-binaries/4985_Dainton_Chapter_5.pdf)
+See Case Study in Moodle (Retrieved from [https://www.sagepub.com/sites/default/files/upm-binaries/4985_Dainton_Chapter_5.pdf])

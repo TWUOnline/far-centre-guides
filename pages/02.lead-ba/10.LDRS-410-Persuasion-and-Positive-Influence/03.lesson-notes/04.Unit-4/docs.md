@@ -17,10 +17,7 @@ Each group will present their Rhetoric definition to the class.
 
 #### Assignment #3: Elevator Pitch
 
-After you have revised your pitch in class with the help of peer
-feedback, you will be asked to deliver your Elevator Pitch with your
-partner. One student will be the Pitcher and one will be the Person
-being pitched to.
+After you have revised your pitch in class with the help of peer feedback, you will be asked to deliver your Elevator Pitch with your partner. One student will be the Pitcher and one will be the Person being pitched to.
 
 **Be sure to refer to the rubrics for Oral Presentations. (link to pdf)**
 
@@ -30,6 +27,4 @@ Facilitator will record these presentations for marking. Students have exactly 3
 
 #### Assignment #4: Persuasion Topic
 
-Remind students: Persuasion Topic due at the beginning of this class.
-Please put your Topic name in the Dropbox provided for this Unit. (2%
-out of 15%)
+Remind students: Persuasion Topic due at the beginning of this class. Please put your Topic name in the Dropbox provided for this Unit. (2% out of 15%)
