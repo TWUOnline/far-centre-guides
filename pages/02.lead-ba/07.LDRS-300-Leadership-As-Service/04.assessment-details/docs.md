@@ -40,8 +40,8 @@ In order to understand the leadership of Jesus more fully, it is helpful to go b
 
 For extra credit, students can write up to 5 short reflections, worth 1 bonus mark each, based on the unit readings assigned. They can submit a journal type reflection response that includes their observations and critical evaluations to the following three prompts:
 
-*1. What key words or phrases did I notice that intrigued or confused me? Discuss.
-2. What event or interaction between Jesus and another person did I observe that taught me about a specific servant leadership principle?
-3. One idea I could apply to my life and leadership right now is ____.*
+*1. What key words or phrases did I notice that intrigued or confused me? Discuss.*
+*2. What event or interaction between Jesus and another person did I observe that taught me about a specific servant leadership principle?*
+*3. One idea I could apply to my life and leadership right now is ____.*
 
 Please see the syllabus and Moodle for more details and the grading rubric.
