@@ -26,12 +26,12 @@ Based on their observations and reflections of the film, *Saving Mr. Banks (2013
 
 ### Case Study Research Project (Group or Individual) Presentation
 
-On the final day of class, students will present their Case Study Project in the lab. Depending upon the number of students enrolled in the FAR Centre, these will be either group presentations or individual presentations. No longer that 20 minutes, please ensure students understand the scope, context and specific requirements for this project. Please see the syllabus and Moodle for more details and the grading rubric. 
+On the final day of class, students will present their Case Study Project in the Lab. Depending upon the number of students enrolled in the FAR Centre, these will be either group presentations or individual presentations. No longer that 20 minutes, please ensure students understand the scope, context and specific requirements for this project. Please see the syllabus and Moodle for more details and the grading rubric. 
 
 
 ### Two Quizzes - Unit 4 & Unit 9
 
-There are two quizzes in this course - Unit 4 and Unit 9. The goal of these quizzess is to ensure students are on track with the key learning outcomes, to ensure that they have been reading their text books and engaging the learning activities assigned in each unit. Remind the students of the dates when the quizzess will be administered. Please administer the quizzes in the lab. Help keep the students focused during the quizzess with interval reminders of time remaining. 90 minutes will be allotted for each quiz.
+There are two quizzes in this course - Unit 4 and Unit 9. The goal of these quizzess is to ensure students are on track with the key learning outcomes, to ensure that they have been reading their text books and engaging the learning activities assigned in each unit. Remind the students of the dates when the quizzess will be administered. Please administer the quizzes in the Lab. Help keep the students focused during the quizzess with interval reminders of time remaining. 90 minutes will be allotted for each quiz.
 
 
 ### Bonus Activity - Book of Mark Reflections (Up to 5 Bonus Marks)
