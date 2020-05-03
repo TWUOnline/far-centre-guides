@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-## Course Activities/Requirements: Please Check the Moodle for the Most Up-to-Date Information
+## Course Activities & Requirements: Please Check the Moodle for the Most Up-to-Date Information
 
 
 ### In Class Participation and Engagement
