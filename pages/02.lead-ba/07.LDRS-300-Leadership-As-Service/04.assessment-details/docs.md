@@ -6,10 +6,10 @@ taxonomy:
 visible: true
 ---
 
-## Course Activities/Requirements:Please Check the Moodle for the Most Up-to-Date Information
+## Course Activities/Requirements: Please Check the Moodle for the Most Up-to-Date Information
 
 
-### In Class Dialogue/Participation
+### In Class Participation and Engagement
 
 Active participation in group exercises, reflections, and critical discourse is an essential component of this course. Students are expected to show respect for all members of the course, both in speech and actions. They are to contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Please see the syllabus and Moodle for more details and the grading rubric and as facilitator your feedback in this area is invaluable.
 
@@ -21,7 +21,7 @@ Throughout this course, students will have six (6) small assignments that will e
 
 ### Case Study Paper: Saving Mr. Banks (2013)
 
-Based on their observations and reflections of the film, Saving Mr. Banks (2013) students will write a well-researched 4-6 page reflective paper. There are three sections to this paper so please see the syllabus and Moodle for more details and the grading rubric.
+Based on their observations and reflections of the film, *Saving Mr. Banks (2013)* students will write a well-researched 4-6 page reflective paper. There are three sections to this paper so please see the syllabus and Moodle for more details and the grading rubric.
 
 
 ### Case Study Research Project (Group or Individual) Presentation
@@ -40,6 +40,8 @@ In order to understand the leadership of Jesus more fully, it is helpful to go b
 
 For extra credit, students can write up to 5 short reflections, worth 1 bonus mark each, based on the unit readings assigned. They can submit a journal type reflection response that includes their observations and critical evaluations to the following three prompts:
 
-1. What key words or phrases did I notice that intrigued or confused me? Discuss.
+*1. What key words or phrases did I notice that intrigued or confused me? Discuss.
 2. What event or interaction between Jesus and another person did I observe that taught me about a specific servant leadership principle?
-3. One idea I could apply to my life and leadership right now is ____.
+3. One idea I could apply to my life and leadership right now is ____.*
+
+Please see the syllabus and Moodle for more details and the grading rubric.
