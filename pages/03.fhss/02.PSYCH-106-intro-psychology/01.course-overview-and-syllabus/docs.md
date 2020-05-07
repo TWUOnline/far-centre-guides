@@ -16,7 +16,7 @@ For information on how to navigate through this course on Moodle, see [**HERE**]
 
 ### Course Description
 
-This course is a practical study of the leadership application of quantitative reasoning ideas and methods. Emphasis is placed on how leaders use and interpret numbers to make a diverse set of informed decisions.
+Introduction to Psychology, is intended as a broad introduction to the field of psychology. It may be seen as an answer to the questions "What is psychology?" and "What do psychologists do?" Topics considered include: thought and language, intelligence, lifespan development, personality, social processes, health, stress and coping, behavioral disorders, and therapy. Attempts will be made throughout to relate the content of psychology to students' everyday experience as well as to a Christian  worldview. Of course, to take this course it is not necessary that you be a Christian. Whatever your beliefs, you are encouraged to examine them in light of what you are learning.
 
 ### Learning Outcomes
 
