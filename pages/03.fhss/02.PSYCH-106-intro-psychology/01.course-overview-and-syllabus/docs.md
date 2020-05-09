@@ -23,35 +23,29 @@ Introduction to Psychology, is intended as a broad introduction to the field of 
 Upon successful completion of this course, the student will be able to:
 
 1.	**Knowledge and Application**
- - Use foundational terms and concepts in accounting/financial management methodologies
- - Interpret financial documents (typically monthly or annual reports) to aid in organizational decision making
-  - Including the use of ratios to denote trends and health of an organization
- - Assemble and use a basic budget, including variance control
- - Accurately calculate standard deviation, selecting the appropriate formula of ‘population’ or ‘sample’
- - Convert SPC data into the ‘Seven Quality Tools’, reporting the data into a usable format for stakeholders to use for decision making.
+ - Identify basic concepts and research findings, and give examples of psychology’s integrative themes.
+ - Apply psychological principles to everyday life.
+ - Describe ethical principles that guide psychologists in research and therapy.
 
 2. **Cognitive Complexity**
- - Overcome the challenges of the data collection and reporting to result in ‘valuable’ data that can guide a leader and shape organizational decision making.
+ - Draw appropriate, logical, and objective conclusions about behaviour and mental processes from empirical evidence.
+ - Evaluate misconceptions or erroneous behavioral claims based on evidence from psychological science.
+ - Design, conduct, or evaluate basic psychological research.
 
-3. **Social Responsibility and Global Engagement**
- - Use the power of quantitative analysis to guide an organization, regardless of size. But many organizations have impact within their communities; and this can certainly extend to having global impact.
-  - This can include the reporting of the data in a legally compliant and ethical manner
+3. **Spiritual Formation**
+ - To explore ways to integrate and articulate a Christian perspective of psychology
+ - To consider and evaluate current psychological literature through a Christian worldview
+ - To strengthen your understanding of God through reflective integration of psychological phenomena with your personal spirituality
 
-4. **Leadership**
- - Make sound organizational decision based on the results of the quantitative analysis
- - Decisions can sometimes provoke emotions and holding to properly tabulated quantitative analysis can improve the quality of the decisions.
 
 ### Texts and Reading Resources
 
-- Berman K, and Knight, J. (2013). Financial Intelligence. Boston: Harvard Business Review Press.
-- ISBN: 978-1-4221-4411-4
+- Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). Revel for An Introduction to Psychological Science, 2nd Canadian Edition. Pearson Ed.
 
-- Roundtree, D. (2004). Statistics Without Tears: A Primer for Non-Mathematicians. TWU Package.
-- No ISBN
+***Purchase/Register at:*** https://console.pearson.com/enrollment/uj4kje
 
-- Scientific Calculator (optional)
+!!! *Be sure to make use of the resources (i.e., chapter quizzes, videos, etc.) that are included with your etextbook purchase.*
 
-- *Microsoft Excel*
 
 ### Course Evaluation
 
@@ -59,9 +53,11 @@ The final grade will be determined by the satisfactory completion of all require
 
 |**Assignment**   | **% of Grade** |
 |--------------------------------------------------------------|----------------|
-| Unit Written Assignments                                  | 60% (6% each)  |
-|Unit Status Reports | 20%  (2% each)            |
-| FAR Center Participation     | 20%       |
+| Quizzes                      | 30%  |
+| Writing Assignments | 20%       |
+| Final Exam         | 30%     |
+| Term Assignment   | 15%    |
+| FAR Center Participation     | 5%       |
 | **Total:**                                                   | **100%**       |
 
 ## Course Schedule:
