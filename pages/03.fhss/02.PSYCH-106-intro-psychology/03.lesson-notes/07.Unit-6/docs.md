@@ -1,24 +1,45 @@
 ---
-title: 'Unit 7 Lesson Notes'
+title: 'Unit 6 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 7: Standard Deviation
+## Unit 6: Social Pyschology - Part 1
 
-This unit is a radical change from the prior 6 units. We now start our study into Statistical Process Control, or SPC, (using Standard Deviation as the primary tool).
+Unit 6 & 7 are another two-part section from the textbook.
 
-Your actions are:
+***Topic 1***
 
-- Play the web-based videos (at the beginning of the Learning Lab) and solicit discussion
-- Students will learn the manual calculation of standard deviation first… and this USUALLY proves to be overwhelming for some… but no worries… at the end we will reveal the AUTOMATIC way to do the calculation using Excel.
-- One of the key concepts is to identify which formula to use (with the denominator as “N” or “N-1”)
- - “N” is used when the data is ALL of the data, from the entire ‘population’ of data
- - “N-1” is used when the data is a SAMPLE of all of the data available
- - There may be some occasions in real-world applications when this is hard to determine
-  - “N-1” (SAMPLE) is best to default to, then, as it is more conservative
-  - When the indecision is there, be sure to denote what formula was used, and why
-- The answer key can be found on the Sheet 2 tab, beginning at column AA
+ - Describe a time when you were forced to act in a certain way, and then later found you had come to enjoy what you were doing. That is, your attitude followed your actions.
+ - Could this happen with religious attitudes and beliefs too?
 
-**Facilitator’s Note:** ANY collection of similar data can work. Just denote so in the final work as to what data was collected.
+---
+
+***Topic 2***
+
+ - What pressures for conformity exist in your community? On your campus?***
+ - What happens to people who do not conform?
+ - Is conformity good or bad? What would society be like without conformity?
+
+---
+
+***Topic 3***
+
+Consider the following scenario/prompt:
+
+*When people read about Stanley Milgram's experiments on obedience to au­thor­ity, they are often puzzled at the ethics of this research. You have probably have heard of these studies before and already have some views about the ap­propriate­ness of the procedures. All psychologists follow ethical guidelines in their research established by national governing bodies (e.g., CPA, APA). At the heart of these state­ments about ethics are the responsibilities to: protect the subject's welfare, avoid deception, provide anonymity, and provide therapy or relief from any unin­tended results of the experiment. Each of these general principles applies to the Milgram studies. Do you believe that the studies could be conducted today, given what we know now about ethics and about Milgram's results?*
+
+ - Does the severity of the problem studied—in this case destructive obedience—justify more extreme steps to manipulate and deceive experimental subjects?
+
+ - Under what circumstances do you personally think that deceiving subjects in a scientific experiment might be ethically warranted or justified?
+
+---
+
+***Topic 4***
+
+ - Have you ever been taught a sales technique in your job experience? If so, explain...
+
+If you have not been taught a sales technique, you certainly have experienced many as a consumer. Can you give an example? Here is one:
+
+*One of the standard ways that door-to-door salespersons will try to get you to buy something is the so-called foot-in-the-door technique: They will ask you to do them a small favor. Having done so, you will have to justify your own behavior to yourself by think­ing nice things about the seller. Hence, you are more likely to comply when they ask you to sign on the dotted line.*
