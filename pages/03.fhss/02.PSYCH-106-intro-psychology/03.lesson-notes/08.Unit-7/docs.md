@@ -1,19 +1,25 @@
 ---
-title: 'Unit 8 Lesson Notes'
+title: 'Unit 7 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
 
-## Unit 8: The Seven Quality Tools
+## Unit 7: Social Pyschology - Part 2
 
-This unit focuses on data collection and reporting (part of “Monitoring and Controlling”, discussed in several other courses), and is therefore part of the prior unit because the SPC can now be charted. This unit focuses on the ‘monitoring’ part of “Monitoring and Controlling.”
+This unit is the second part that continues to build upon Unit 6.
 
-Your actions are:
+***Topic 1***
 
-- You need to be comfortable running this exercise. This activity can only be successful when all can understand how to build charts using Excel.
- - It may prove to help by watching additional web videos on just doing that
-- This unit requires the downloading of free software. This software is very similar to the powerful Microsoft Visio program, but has no fees.
- - Do not hesitate to play the tutorial(s) as needed
-- This unit also requires the students to ‘create data’ by throwing dice. A pair of dice will need to be obtained for each group of 3 to 5 students.
+ - If removing parts of the brain reliably reduced aggression, do you think violent criminals should be forced to have this operation?
+
+ - Should violent content be removed from video games, movies, and TV (why or why not)?
+
+---
+
+***Topic 2***
+
+ - What do you think contribute to you being able to quickly judge whether or not you think someone is attractive?
+
+ - Some social psychologists believe that there is always a reward for helping and that this motivates people to help. In other words, people never help without expecting a reward of some kind (either in this life or in the next). What do you think?
