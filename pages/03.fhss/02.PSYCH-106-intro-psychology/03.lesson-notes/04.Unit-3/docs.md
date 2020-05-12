@@ -1,19 +1,37 @@
 ---
-title: 'Unit 4 Lesson Notes'
+title: 'Unit 3 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 4: Financial Statement Ratios
+## Unit 3: The Developing Person - Part 1
 
-In this unit, we bring together the knowledge of the first three units and can now compare data (through the use of ratios):
-- Within the organization
-- From one company to another
+This is the first part of a two part section of the course. In this first part, we look at important developmental considerations in the field of psychology....
 
-Your actions are:
+***Topic 1***
 
-- Play the web-based videos (at the beginning of the Learning Lab) and solicit discussion
-- Like last unit, there is a fair amount of web work to be included during this session. Each group will need access to the internet.
-- This course requires the skill of copying of an Excel tab (the whole tab) to make more tabs. You may need to help with this.
-- Each student/group may not have the correct answers, so reviewing results as a full group will permit students/groups to revise their work accordingly.
+This Topic begins looking at the idea of Designer babies. Please refer to this this topic (specifically). For this guiding question, it refers to a pamphlet found in the Learning Activities section of Topic 1 - students are then asked for their thoughts.
+
+!! *Please bare in mind that some might consider this a controversial subject - remind students of the expectations for Learning Labs and that the focus is on open-mindedness and respectful dialogue.*
+
+---
+
+***Topic 2***
+
+This Topic focuses on "children" as a developmental stage:
+
+ - What is God like for children of different levels of cognitive development? If you can, give some examples from children you know....
+
+ -  Would children even have an idea of God if they were not taught it?
+
+---
+
+***Topic 3***
+
+Although this Topic discusses adolescence, student's are asked to reflect on that period of time in their own life:
+
+
+ - Would you want to live your adolescence over again if you could? Why or why not?
+
+ 
