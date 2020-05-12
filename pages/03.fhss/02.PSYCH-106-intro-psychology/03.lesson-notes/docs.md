@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# Lesson Notes for LDRS 220
+# Lesson Notes for PSYCH 106
 
-The following pages provide key information for the LDRS 220 unit modules (schedules, activity instructions, lab suggestions, key learnings, etc.). Please see the full course notes on Moodle.
+The following pages provide key information for the PSYCH 106 unit modules (schedules, activity instructions, lab suggestions, key learnings, etc.). Please see the full course notes on Moodle.
