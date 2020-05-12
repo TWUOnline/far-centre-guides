@@ -1,17 +1,31 @@
 ---
-title: 'Unit 5 Lesson Notes'
+title: 'Unit 4 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 5: Mutual Funds
+## Unit 4: The Developing Person - Part 2
 
-This unit now brings the knowledge from the first 4 units to a different perspective… on how mutual funds are a ‘collection of shares of varying companies’ “mutually funded” by the fund owners (that own shares in the fund, not the companies the fund possesses).
+This is the second part that continues to build upon Unit 3. Many of the questions will be similiar but focus on later developmental stages.
 
-Your actions are:
+***Topic 1***
 
-- You should ask the students if there are any videos they would like to review.
-- Again, there is a fair amount of web work to be included during this session. Each group will need access to the internet.
-- Encourage discussion after videos and activities
- - If a student or team is ‘shy’, offer time for input before you move on
+This Topic addresses Adulthood. As many student's are either approaching this, at this, or potentially past this - it should be an interesting conversation that everyone can contribute to:
+
+ - What do you hope to accomplish during your “adult development” years?***
+  - *(If you are past these years, what are you most pleased with?)*
+
+---
+
+***Topic 2***
+
+This final Topic brings up the idea of aging and death. Depending on where this course is being offered, please be aware that there are many cultural complexities to this particular topic. It might be a good idea to invite students to respond to these questions while providing some insight/context of their own culture:
+
+ - How do react to the thought of your inevitable death?
+ - Do your religious beliefs make a difference?
+ - Is death ever easy? What concerns do you have about your death? Pain? Those left behind? The unknown? Unfinished business?
+
+---
+
+! *Student's are also responsible for completing a quiz and a writing assignment following Unit 4. Please remind student's of this. If they have any questions, have them contact the instructor ASAP.*
