@@ -55,3 +55,5 @@ This activity helps to:
  - Create closer connections among group members.
 
 !!! *Note: This is a good activity to consider if student's are particularly reluctant to engage in discussion*
+
+! ***The following sections will outline the guiding questions for each unit in the course. As you read through, consider which activity(s) you might consider to facilitate conversation. If you are struggling, please contact the instructor for additional guidance. 
