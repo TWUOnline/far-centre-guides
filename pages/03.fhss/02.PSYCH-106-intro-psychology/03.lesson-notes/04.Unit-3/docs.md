@@ -34,4 +34,6 @@ Although this Topic discusses adolescence, student's are asked to reflect on tha
 
  - Would you want to live your adolescence over again if you could? Why or why not?
 
- 
+---
+
+!!! *Please remind student's that the next unit (Unit 4), also includes some major assignments - their first quiz and their first writing assignment. Please suggest that student's turn their attention to these assignments and begin thinking about preparing.*
