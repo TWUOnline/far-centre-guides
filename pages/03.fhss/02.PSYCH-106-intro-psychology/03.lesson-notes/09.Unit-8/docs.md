@@ -1,27 +1,27 @@
 ---
-title: 'Unit 9 Lesson Notes'
+title: 'Unit 8 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 9: TQM Problem Solving and Pareto Charting
+## Unit 8 : Health
 
-This unit uses the tools from the prior unit for organizational decision making (the ‘controlling’ part of “monitoring and controlling”).
+Unit 8 and Unit 9 will reflect content from Chapter 14 of the textbook. Unit 8 will focus on health.
 
-! Prior to this unit's Learning Lab, you will notice there is a Brainstorming Activity - This exercise requires 6 (NOT flat) rocks for each group, ranging from large (large fist sized) to small (chicken egg sized) Round river-rock works best.)
+***Topic 1***
 
-Your actions are:
+ - How many ancient or old-fashioned methods for telling if someone is lying can you find on the internet?
 
-- Play the web-based videos (at the beginning of the Learning Lab) and solicit discussion
-- This exercise requires 6 random rocks for each group of 3 to 5 students
- - Rocks should be no larger than a human fist, but should vary in size and shape
-- The key to the latter activities is when the group comes together to form the ‘master list of causes’, many groups may offer the same cause of the stacking problem… this really helps! The activity is designed to track the FREQUENCY of duplicates
- - For example, 4 groups may have a collective total of 14 causes
- - One cause may show up in all 4 groups’ individual lists
- - Others may show up on 3
- - Others may show up on only 2… and so on.
-- It is THIS data that is in the final chart
- - That becomes the master Pareto chart
- - Number of times it shows up (frequency) on the left/’Y’ axis
- - The cause listed at the bottom/’X’ axis
+---
+
+***Topic 2***
+
+ - Do you think that people make distinctive facial expressions when they lie? Give your answer, and an example if you can.
+
+---
+
+***Topic 3***
+
+ - Do you think that we can “put on a happy face” and really feel different?
+ - Can we make ourselves happy or sad by what we think?
