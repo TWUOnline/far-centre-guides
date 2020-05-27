@@ -3,7 +3,7 @@ title: 'Course Overview & Syllabus'
 media_order: LDRS300_Syllabus_Fall_2019.pdf
 taxonomy:
     category:
-        - docs
+      - docs
 visible: true
 ---
 
@@ -21,43 +21,43 @@ Examines the pattern of leading through serving exemplified by the life of Jesus
 
 ***1. Knowledge and its Application***
 
-  -  Develop an understanding of Jesus as a model leader who served God and others;
+-  Develop an understanding of Jesus as a model leader who served God and others;
 
-  - Articulate a personal understanding of leadership-as-service based on His model;
+- Articulate a personal understanding of leadership-as-service based on His model;
 
 ***2. Cognitive Complexity***
-  - Examine the service qualities of the leadership pattern modeled by the life of Jesus;
+- Examine the service qualities of the leadership pattern modeled by the life of Jesus;
 
-  - Develop a comprehensive approach to applying these qualities in terms of four domains of leadership, including the leader’s character, assumptions, behaviors, and disciplines;
+- Develop a comprehensive approach to applying these qualities in terms of four domains of leadership, including the leader’s character, assumptions, behaviors, and disciplines;
 
 ***4. Inter- and intra-personal wellness***
 
-  - Develop a holistic awareness of how to serve both self (that is, as practices of self-care) and others by living out the patterns of leading as an act of service as modeled by Jesus;
+- Develop a holistic awareness of how to serve both self (that is, as practices of self-care) and others by living out the patterns of leading as an act of service as modeled by Jesus;
 
 ***5. Spiritual Formation***
 
-  - Identify the values and character qualities Jesus modeled as a leader and evaluate them in relation to your own personal values and how you live out your values as a leader;
+- Identify the values and character qualities Jesus modeled as a leader and evaluate them in relation to your own personal values and how you live out your values as a leader;
 
 ***6. Social Responsibility and Global Engagement***
 
-  - Develop a commitment to a service leadership approach characterized by the informed and ethical reasoning, respect for the dignity and rights of all persons, and respect for creation and its sustainable use and care exemplified by Jesus and his way of leading;
+- Develop a commitment to a service leadership approach characterized by the informed and ethical reasoning, respect for the dignity and rights of all persons, and respect for creation and its sustainable use and care exemplified by Jesus and his way of leading;
 
 ***7. Leadership***
 
-  - Develop an understanding of how leaders can serve others and build cultures of service to others within and outside their organizations when applying the model of Jesus as leader.
+- Develop an understanding of how leaders can serve others and build cultures of service to others within and outside their organizations when applying the model of Jesus as leader.
 
 
 ### Texts and Reading Resources
 
-  - Blanchard, K., Hodges, P., & Hendry, P. (2016). *Lead Like Jesus Revisited: Lessons from the greatest leadership role model of all time*. New York, NY: MJF Books.
+- Blanchard, K., Hodges, P., & Hendry, P. (2016). *Lead Like Jesus Revisited: Lessons from the greatest leadership role model of all time*. New York, NY: MJF Books.
 
-  - Toister, J. (2017). *The Service Culture Handbook: A Step-by-Step Guide to Getting Your Employees Obsessed with Customer Service*. Toister Performance Solutions.
+- Toister, J. (2017). *The Service Culture Handbook: A Step-by-Step Guide to Getting Your Employees Obsessed with Customer Service*. Toister Performance Solutions.
 
-  - Wilkes, C. Gene. (1998). *Jesus on Leadership: Discovering the secrets of servant leadership from the life of Christ*. Wheaton, IL: Tyndale House Publishers, Inc.
+- Wilkes, C. Gene. (1998). *Jesus on Leadership: Discovering the secrets of servant leadership from the life of Christ*. Wheaton, IL: Tyndale House Publishers, Inc.
 
-  - Access to the Bible Online [click here](www.biblegateway.com). Unless otherwise stated, this course prefers the use of the NRSV translation (New Revised Standard Version). We will be reading the book of Mark in the New Testament.
+- Access to the Bible Online [click here](www.biblegateway.com). Unless otherwise stated, this course prefers the use of the NRSV translation (New Revised Standard Version). We will be reading the book of Mark in the New Testament.
 
-  - Other articles, videos, resources as required and posted in the Moodle.
+- Other articles, videos, resources as required and posted in the Moodle.
 
 ### Course Evaluation
 
