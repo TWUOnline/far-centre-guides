@@ -5,67 +5,91 @@ taxonomy:
         - docs
 ---
 
-## Unit 7: The Behavioral Approach
+## **UNIT 7: Leadership Networking**
 
-This unit introduces students to the behavioral approach of leadership. This approach emphasizes the behavior of the leader. This distinguishes it from the trait approach, which emphasizes the personality characteristics of the leader, and the skills approach, which emphasizes the leader’s capabilities. The behavioral approach focuses exclusively on what leaders do and how they act.
+#### ***Activity 7:1 Assessing Your Network***
 
-These are the activities students are expected to complete before coming to the learning lab:
+**[Note to Facilitator: Put class in triads and ask them to share their answers to #1.]**
 
+#### ***Activity 7:3 Six Requirements of Leadership Networking***
 
-| **☑**  | **Activities**     | **Expected Time Commitment** |
-|---|--------------------------------------------|------------------------------|
-|   | **Activity 7.1: Watch, Read, and Reflect** <ul><li> Watch the video  [**Behavioral Approach** (Chapter 4)](https://www.youtube.com/watch?v=EkNSwnLVaA0&list=PLx-uqKoW1C5nXd5jnA_Ut8TWbjCk7tWtL&index=4) <li> Read Chapter 4 of the Northouse’s Leadership: Theory and Practice. <li> Answer questions in your learning journal.| 2 hrs                        |
-|   | **Activity 7.2: Complete and Reflect** <ul><li> Complete the ***Leadership Behavior Questionnaire.*** <li> Answer questions in your learning journal.    | 1.5 hrs                      |
-|   | **Activity 7.3: Choose and Respond.** <ul><li> Choose ONE of the case studies that interests you. <li> Answer the case study questions. <li> Record your response.    | 2 hrs.                       |
-|   | **Assessment** <ul><li> Group Discussion led by the facilitator <li>	Journal Response <li> **Complete Leadership Case Study #3**                     | 5 hours                      |
+In triads, students will review the six requirements, taking notes. In class, you will work in triads, each taking one concept and summarizing your findings.
 
-## What Will You Be Doing?
+**Facilitator: Assigns the following to the students:**
 
-Today you will have 3 hours in total with the students. The first 1.5hrs is devoted to facilitating group discussion and the second 1.5 hours will be focused on the Case Study Activity (details below).
+Triad 1: Leadership Networking Demands Authenticity
 
-### Part 1: Lead the Group Discussion
+Triad 2: Leadership Networking Trades in Resources
 
-Divide the class into small groups. Have them discuss questions provided below, and then select a spokesperson who will summarize their findings for the rest of the learning lab after you reconvene as a large group. Note: the same person should not be the spokesperson each week. The level of participation will contribute to each student’s individual participation grade. 
+Triad 3: Leadership Networking Calls for Thoughtful and Deliberate Use of Power
 
-In Unit 7, the group discussion will focus on the following questions:
+Triad 4: Leadership Networking Requires Skillful Communication
 
-  1. What is the central purpose of the behavioral approach?
+Triad 5: Leadership Networking Calls for Savvy Negotiating Skills
 
-  2. Explain the origin of the five major styles.
+Triad 6: Leadership Networking Means Managing Conflict.
 
-  3. In what types of situations might each of these styles be the best one to use?
+#### ***Activity 7:4 Barriers to Building a Leadership Network***
 
-  4. As a follower, how do you respond to each of these different leadership styles?
+Review the five Barriers of Building a Leadership Network (2007, p. 16-20) and take notes. In class, you will work in teams (5 teams), each taking one concept and reporting to the class your findings.  
 
-  5. Who is the best leader you know? The worst?
+**Facilitator Assigns:**
 
-  6. To what extent does the style approach account for the differences between these leaders?
+Team 1: Operational Differences
 
-  7. Why does leadership style matter?
+Team 2: Level Differences
 
-  8. Should leaders hire only those people who can work with the leader’s leadership style?
+Team 3: Demographic Differences
 
-  9. What is your dominant grid style and when do you revert to your backup style?
+Team 4: Personal Preferences
 
-### Part 2: Case Study Activity
+Team 5: Other Barriers
 
-Divide the class up into three different groups. Each group will be assigned to one of the case studies provided at the end of chapter 4. As a group, have the students read the case study together and answer the questions prepared at the end of the case study to guide discussion.
+#### ***Activity 7.6: Speed Networking Exercise***
 
-  -   Allow students to work on the case study and questions for 1 hour and then have students re-cap the key ideas discussed and present this information to the class in the last 30 minutes.
+It is time to put what you have learned into practice. The students' goal is to create a comfortable interaction, in which each person shares something about themselves.
 
-  -   The re-cap should highlight the key points from the discussion. Make sure to compare and contrast alternate viewpoints that came up during the discussion and emphasize the take-home messages that can be applied to future situations.
+Students will move around the room in a “Speed Networking” (similar to “Speed Dating”) format; one on one.
 
-**Evaluating Group Discussions:**
+**Facilitator shares** questions (see slide) they can ask each other:
+- *How did you choose Trinity Western University?*
+- *What organizations do you belong to?*
+- *Why did you join these organizations?*
+- *What other activities do you participate in?*
+- *What are your plans for the next one to two years?*
 
-Part of your responsibility as the facilitator will be to evaluate student participation in group discussions. You can do this by keeping a student list with you in each learning lab and then providing a score for each student at the end of the learning lab based on the rubric provided below.
+Students will switch every 2 minutes, until each person has had a chance to meet everyone in the room.
 
-| **Emerging (0-64%)**                                                                                                                                                                                                                                                                                                               | **Developing (65-89%)**                                                                                                                                                                                                                                                                                                                                           | **Mastering (90-100%)**                                                                                                                                                                                                                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| N*ever to almost never:* (a) demonstrates *active* listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), (b) initiates any contributions in class or small groups, (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | S*ometimes to fairly often:* (a) demonstrates *active* listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), (b) initiates a contribution at least once in a class or small group discussion; (c) makes insightful or constructive comments, (d) helps maintain a supportive space for others to speak. | *Very often to nearly always*: (a) demonstrates *active* listening (as indicated by fully engaged body language and comments that build on others’ remarks), (b) initiates more than one contribution in a class or small group discussion, (c) makes insightful or constructive comments, (d) creates a space for others to speak and takes initiative to include others. |
-***Note:*** An absence for **one** learning lab will not result in a loss of participation marks.
+Students will debrief after the speed networking and the Facilitator will invite students to share their reactions answering:
 
-### Part 3: Assignments Reminders
+1. *How much did you learn in 2 minutes?*
 
-After the learning lab is done remind students that they will need to work on two assignments during their homework time. First, they will need to provide a Journal Response.
+2. *Did it feel like a conversation?*
 
-Next, they need to provide a case study response. They are asked to choose ONE of the case studies that interests them from Chapter 4 and answer the questions for it that are provided at the end of the case. This case study response is part 3 of 6. 
+3. *Did it get more comfortable as you interviewed people?*
+
+4. *Was it easier to connect with some people?*
+
+5. *What made it easier or more difficult? *
+
+**If time, students can brainstorm about other questions.**
+
+#### ***Activity 7.7: Strategies for Developing your Leadership Network***
+
+Watch the Ted Talk video: [*The Secret to Great Opportunities*](https://www.ted.com/talks/tanya_menon_the_secret_to_great_opportunities_the_person_you_haven_t_met_yet/reading-list).
+
+Take notes, as in the lab you will discuss your thoughts, as well as the strategies and goals found on pages 25–28.
+
+Note for Facilitator:
+
+Students discuss their home written notes on the video “Ted Talks; The Secret to Great Opportunities…” and will also discuss strategies and goals found on pages 25–28.
+
+For homework students will set goals and make a plan. See “Making a Plan” on p. 29 (2007).
+
+This homework activity will be submitted for marking. (Participation Mark 1%)
+
+#### ***Activity 7.8***
+
+Students will choose a Topic for Debate. Teams will be chosen too.
+
+If time permits: Students have group time to work on their Debate Outline and Script.

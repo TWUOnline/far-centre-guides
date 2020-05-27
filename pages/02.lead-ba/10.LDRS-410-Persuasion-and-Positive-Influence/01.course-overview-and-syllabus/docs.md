@@ -1,130 +1,104 @@
 ---
 title: 'Course Overview & Syllabus'
-media_order: LDRS302_Syllabus_Fall_2019.pdf
+media_order: LDRS_410-Syllabus_Fall_2019far.pdf
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-## Course Overview
+## Welcome to LDRS 410: Persuasion and Positive Influence!
 
-### Syllabus
+This course is organized into 8 units and is designed for an condensed 3 credit course. Each page of the course will provide you with the following information:
 
-The following information is from the course syllabus, also located in Moodle.  Note that you will need to modify the schedule based on your term.  Please also discuss with the Faculty if there are any other changes to the syllabus.
+* A general overview of the topic that will be addressed during the unit.
+* Specific learning outcomes and topics for the unit.
+* Resources that you will need to address learning activities and assessments in the unit.
+* Learning activities that you will need to complete each week.
+* Assessments pages will provide you with information about assignments that you will need to complete each week.
+
+Over the next few weeks, you will have the opportunity to attend Facilitated Learning Labs. During lab times, a course facilitator will guide group discussions, answer any questions you may have, help you understand your assignments, and may evaluate your participation in the lab.  Your TWU instructor will mark any graded assignments and will send feedback via Moodle.
+
+If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.
+
+!! The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus [here](LDRS_410-Syllabus-Fall-2019far.pdf).
+For information on how to navigate through this course on Moodle, see [here](http://create.twu.ca/help/moodle).
+
 
 ### Course Description
-An exploration of what leaders can learn from the past to understand contemporary leadership and to imagine future ways of leading. Students are provided with the opportunity to use the historical method, including primary sources, to understand past leaders and leadership thought. Emphasis is given to the social circumstances and philosophical ideas that led to the Classical and Scientific Management theories, and subsequent leadership theories emerging through to the 1980s.
-
-
-Read the full course syllabus [**HERE**](LDRS302_Syllabus_Fall_2019.pdf).
-
+A practical study of leadership methods and mediums used to persuade and positively influence others, examines how to promote understanding through listening, build trusting relationships, and create and convey messages that direct, guide, motivate, or inspire others to action. Personal selling and negotiating skills are also explored.
 
 ### Learning Outcomes
 
-***1. Knowledge and its Application***
+After successfully completing the course, you will be able to:
 
-  -  Employ the conceptual language of historical leadership and management
+1. *Knowledge and its application*
 
-  -  Investigate ancient, pre-industrial, and industrial leadership/management ideas;
+    a. Examine the significant role communication plays in the leader’s practice — among colleagues, subordinates, and superiors, as well as with external relations;
 
-  -  Compare and contrast historic and contemporary leadership ideas and experiences;
+    b. Map, assess, and develop their professional and personal networks of influence;
 
-***2. Cognitive Complexity***
+2. *Cognitive complexity*
 
-  - Evaluate the context of leaders, including thought leaders on leadership, from the past;
+    c. Develop skills to listen actively by paying attention, holding judgment, reflecting, clarifying, summarizing, and sharing their own point of view;
 
-  - Explain past changes in leadership/management theory and practice;
+    d. Create and convey messages that direct, guide, motivate, or inspire others to action;
 
-***5. Spiritual Formation***
+3. *Social Responsibility and Global Engagement*
 
-  - Identify the spiritual foundations of leadership in the historic texts of the Christian tradition;
+    e. Adopt wise and ethical practices that move people and organizations from ideas to action;
 
-***6. Social Responsibility and Global Engagement***
+4. *Leadership*
 
-  - Adopt wise practices that respond thoughtfully to the complicated and layered histories of leadership and management ideas that have shaped contemporary organizations;
+    f. Demonstrate skills of personal selling, from selling their own personal brand and abilities through to selling ideas, vision, values, and their organization’s brand and offerings.
 
-***7. Leadership***
 
-  - Develop meaningful applications of historically informed leadership and management ideas that are appropriate to a variety of contemporary organizational settings.
+### **Required** Texts and Materials
+
+Note: These books or e-books **MUST** be present with you during ALL Learning Labs.
+
+- Grayson, C., & Baldwin, D. (2007). *Leadership Networking: Connect, Collaborate, And Create.*
+ 	Greensboro: CCL Press.
+
+- Hoppe, M. (2006). *Active Listening: Improve Your Ability to Listen and Lead.*
+ 	Greensboro: CCL Press.
+
+- Humphrey, J. (2012). *Speaking as a leader how to lead every time you speak — from board
+ 	rooms to meeting rooms, from town halls to phone calls.* Mississauga, Ontario: John Wiley & Sons Canada. (**Available on Audible**)
 
 
 
 ### Course Evaluation
 
-The final grade will be determined by the satisfactory completion of all requirements.
-
-
->   The final grade will be determined by the satisfactory completion of all
->   requirements.
-
-| **Grade Activity**          | **Linked Learning Outcomes\***         | **% of course grade** |
-|-----------------------------|----------------------------------------|-----------------------|
-| *Learning Lab dialogue/exercises* | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 15%                   |
-| *Journal Responses*           | 1 (a,b,c), 2 (d,e), 5 (f) 6 (g), 7 (h) | 20%                   |
-| *Historical Leader Paper*     | 1 (a,b,c), 2 (d,e)                     | 15%                   |
-| *Scientific Management Paper* | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 20%                   |
-| *Leadership Case Studies*     | 1 (a,b,c), 2 (d,e), 6 (g), 7 (h)       | 30%                   |
-| **Total**                   |                               |            **100%**            |
-
- 
-### Required Texts and Materials:
-
-- Northouse, P. G., (2019). Leadership: Theory and Practice (8th Edition). Thousand Oaks, CA: Sage Publications.
-
-- Taylor, F. W., (2006). The Principles of Scientific Management. New York:       Cosimo, Inc.
-
-- *Online articles accessible within MyCourses.*
-
-## Course Schedule
-!! Note that Facilitator may change the schedule, depending on the campus term dates.
-
-*Overarching Question:* What can leaders learn about leadership from the past?
-
-| **Unit** | **Assigned Readings**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Deliverables**                                                                | **Due Dates** |
-|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------|
-| 1        | Northouse (2019): Chapter 1 & Unit Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Group Discussion; Journal Response                                              |               |
-| 2        | Unit 2 Notes Part 1 and Part 2 & Wren, Bedeian, & Breeze, (2002). [The foundations of Henri Fayol’s administrative theory](http://bus.lsu.edu/management/faculty/abedeian/articles/Fayol.pdf).                                                                                                                                                                                                                                                                                                                         | Group Discussion; Journal Response; Assignment \#1: Historical Leader Paper     |               |
-| 3        | Unit Topics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Group Discussion; Journal Response                                              |               |
-| 4        | Taylor (2006) [The principles of scientific management](https://wwnorton.com/college/history/america-essential-learning/docs/FWTaylor-Scientific_Mgmt-1911.pdf); Caldari (2007) [Alfred Marshall's critical analysis of scientific management](https://ezproxy.student.twu.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=24232654&site=ehost-live); Priestley (2005) [Scientific Management in 21st Century](http://www.articlecity.com/articles/business_and_finance/article_4161.shtml). | Group Discussion, Journal Response; Assignment \#2: Scientific Management Paper |               |
-| 5        | Northouse (2019): Chapter 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Group Discussion; Journal Response; Case Study \#1                              |               |
-| 6        | Northouse (2019): Chapter 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Group Discussion; Journal Response; Case Study \#2                              |               |
-| 7        | Northouse (2019): Chapter 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Group Discussion; Journal Response; Case Study \#3                              |               |
-| 8        | Northouse (2019): Chapter 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Group Discussion; Journal Response; Case Study \#4                              |               |
-| 9        | Northouse (2019): Chapter 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Group Discussion; Journal Response; Case Study \#5                              |               |
-| 10       | Northouse (2019): Chapter 7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Group Discussion; Journal Response; Case Study \#6                              |               |
+| **Assessment**                           | **% of Grade** | **Unit due**  |
+|------------------------------------------|----------------|---------------|
+| Elevator Pitch                           | 5%             | 4             |
+| Negotiation Case Study                   | 5%             | 5             |
+| Persuasion Presentation & Leader Script  | 15%            | 6             |
+| Field Interview Report                   | 15%            | 7             |
+| Team Debate                              | 10%            | 8             |
+| Group Case Study (Presentation & Report) | 15%            | 8             |
+| Reflective Journal Continuum             | 10%            | All units     |
+| Lab Participation                        | 10%            | All units     |
+| Final Exam                               | 15%            | End of course |
+| **Total**                                | **100%**       |               |
 
 
 
-## Course Policies:
 
-### Inclusive Classroom:
-TWU is committed to an ethic of inclusion centred on the principles of hospitality, reciprocity and reconciliation. We seek to produce generous learning spaces that are based on respect for difference and are open to diverse views, opinions, and identities. We welcome and value all voices, including those that have been silenced on account of race, religious beliefs, colour, gender, physical or mental variations, age, ancestry, place of origin, marital status, family status, sex, and sexual orientation, or on any other grounds identified in applicable human rights law.
+#### Pre-Course Activities:
 
-### GRADING GUIDELINES
-Following is a description of the letter grading:
+1.  Purchase the three mandatory course books (see syllabus).
 
-| **A range = Superior, exceptional, outstanding**. A+ 90-100%  A 85-89%  A- 80-84% | The assignment demonstrates critical, informed, and creative theological inquiry that reflects superior understanding of essential theological/historical concepts. This means the student demonstrates depth of insight beyond what is normally expected. Carefully nuanced reasoning and writing, free from material, structural and grammatical error are presupposed in this grade. |
-|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **B range = Good.**  B+ 77-79%    B 73-76%    B- 70-72%                       | The assignment demonstrates ready command of full range of concepts and shows some critical, informed, and creative inquiry that reflects above average understanding of essential theological/historical concepts. This means the student has produced an assignment that is free from material, structural and grammatical errors.                                                    |
-| **C range = Acceptable.**    C+ 67-69%  C 63-66%    C- 60-62%                | The assignment demonstrates satisfactory ability to describe overall picture and essential concepts. This means the student has completed the assignment in a manner involving no significant errors. Material may not be free from structural and grammatical errors. Nuanced reasoning is not demonstrated.                                                                           |
-| **D range = Below average**.    D+ 57-59%   D 53-56%    D- 50-52%           | The assignment demonstrates reasoning that is neither carefully nuanced nor coherently presented; writing is insufficient in depth of insight and/or use of texts; presentation is not free from material error in structure, spelling and grammar. This means that the student failed to respond adequately to the assignment and its intentions.                                      |
-| **F = Unsatisfactory**.     F -50%                      | In one or more of the following ways the student: 1) failed to turn in the assignment; 2) did not respond to the assignment as given; 3) submitted work so thoroughly flawed as to indicate that the student did not make a serious effort, 4) was involved in plagiarism or cheating.                                                       |
-|  |
+2.  Pre-read Syllabus. Write down any questions you may have and bring
+    them to the first Facilitated Learning Lab. Your facilitator will review the Syllabus during the first lab and answer any questions you may have. Pay
+    close attention to Assignment dates.
+
+3.  Pre-read chapters 1 through 4, *Speaking as a Leader*, Humphries
+    (2012).
 
 
-
-### Academic Integrity and Avoiding Plagiarism at TWU
-One of the core values of Trinity Western University is the integration of academic excellence with high standards of personal, moral, and spiritual integrity. The University considers it a serious offence when an individual attempts to gain unearned academic credit. It is the student’s responsibility to be informed about what constitutes academic dishonesty. For details on this, and on identifying and avoiding plagiarism go to the University Homepage > Academics > Academic Calendar > Academic Information > Academic Policies > Academic Dishonesty and Plagiarism.
-
-https://prezi.com/od62fxnkbmxh/plagiarism-how-to-get-it-out-of-your-life/ (Prezi presentation)
-
-http://bit.ly/1p00KX3  (Google Slide presentation offering more comprehensive information)
+!! It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.
 
 
-### University Standard Grading System
-The Standard Grading System can be found at the University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices     University Homepage > Academics > Academic Calendar > Academic Information > Grading Practices.
-
-
-### Students with a Disability
-Students with a disability who need assistance are encouraged to contact the Equity of Access Office upon admission to TWU to discuss their specific needs. All disabilities must be recently documented by an appropriately certified professional and include the educational impact of the disability along with recommended accommodations. Within the first two weeks of the semester, students must meet with their professors to agree on accommodations appropriate to each class. Students should follow the steps detailed by the Equity of Access Office outlined in the Student Life section of the University Calendar.
+#### [Click here for Academic Dishonesty Policy](https://www.twu.ca/about/policies/policy-academic-dishonesty)
