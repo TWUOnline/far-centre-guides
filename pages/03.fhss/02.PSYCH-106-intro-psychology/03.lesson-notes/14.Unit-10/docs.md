@@ -1,36 +1,55 @@
 ---
-title: 'Unit 9 Lesson Notes'
+title: 'Unit 10 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 9: Stress and Coping
+## Unit 10: Psychological Disorders
 
-Unit 9 is the second half of Chapter 14 and expands upon our studies in Unit 8.
+Unit 10 focuses on Chapter 15 and explores psychological disorders.
 
 ***Topic 1***
 
-Topic one is a study on stress. Here, student's will begin by completing a personal reflection on difference way to respond to stress.
+Topic one is a study on anxiety disorders and how a disorder differs from "normal" anxiety.
 
-In additions, student's will consider the following:
+Student's will consider the following:
 
-- Each of us has some minor annoyances that add to our stress level more than they should. What gets you stressed out? What are your everyday "pet peeves" (annoyances)? Does the stress that these things produce seem justified? What are some things you can do to decreases your stress responses to these situations?
+- Would you expect Christians to be more mentally healthy than non-Christians? Why or why not?
+- What about people with other religious/spiritual beliefs?
+- What about people with no religious/spiritual beliefs?
 
 ---
 
 ***Topic 2***
 
-Student's turn their attention to health psychology. Student's will need to watch a video and read an article on stress and healthy coping skills.
-
-Learning activities will include a key terms quiz - please ensure student's understand that this is ungraded.
+Next, we turn to mood disorders.
 
 Student's will also be asked to consider:
 
-- Who is ultimately responsible for how you react to different situations and circumstances in your life? How do you know this?
-- Is there a good time to just laugh something off?
-- What are some potential stress related consequences of habitually turning to humour when dealing with stress?
+- Can you think of some examples of biblical characters that apparently suffered from a mood disorder? Describe their behavior?
+- What do their examples suggest about possible causes? (Hint: Elijah, David, Saul, others?)
 
-!! Please remind student's that they are also responsible for their Quiz #2 and Writing Assignment #2 upon completion of this unit. 
+!!! *Note: If a student is not familiar with biblical personages, they can give an example from literature or contemporary public life.*
+
+---
+
+***Topic 3***
+
+Schizophrenia is our next topic of study.
+
+Student's will also be asked to consider:
+
+- Before the development of modern psychology, how do you think people suffering from schizophrenia were treated? How much better is treatment today?
+
+---
+
+***Topic 4***
+
+Finally, we end this unit with Personality Disorders
+
+In addition to an ungraded key terms quiz, Student's will also be asked to consider:
+
+- Do you ever wonder if someone you know seems to have a personality disorder? What are some indications that you have seen that make you curious if there may be a problem? (If you don’t know anyone personally, you can describe someone you know about or have seen in a movie/TV show.)
 
 ---
