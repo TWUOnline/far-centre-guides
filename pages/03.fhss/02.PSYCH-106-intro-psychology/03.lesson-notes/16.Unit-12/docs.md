@@ -1,55 +1,52 @@
 ---
-title: 'Unit 10 Lesson Notes'
+title: 'Unit 12 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 10: Psychological Disorders
+## Unit 12: Therapies - Part 2
 
-Unit 10 focuses on Chapter 15 and explores psychological disorders.
+This is the final unit for the course and will focus on the second half of Chapter 16.
+
+---
+
+!! **IMPORTANT** - Please have student's look ahead to the Term Paper Assignment, as well as the Final Exam. It is important that they begin planning and focusing their time to complete the final assessments for this course.
+
+---
 
 ***Topic 1***
 
-Topic one is a study on anxiety disorders and how a disorder differs from "normal" anxiety.
+Topic one focuses on giving student's a basis for evaluating therapies.
 
 Student's will consider the following:
 
-- Would you expect Christians to be more mentally healthy than non-Christians? Why or why not?
-- What about people with other religious/spiritual beliefs?
-- What about people with no religious/spiritual beliefs?
+- Do you think an empathic, trusting, caring friend could be as effective as a trained psychotherapist or counselor?
 
 ---
 
 ***Topic 2***
 
-Next, we turn to mood disorders.
+Topic 2 looks at biological therapies.
 
 Student's will also be asked to consider:
 
-- Can you think of some examples of biblical characters that apparently suffered from a mood disorder? Describe their behavior?
-- What do their examples suggest about possible causes? (Hint: Elijah, David, Saul, others?)
+- As biological influence in psychological disorders becomes more obvious, what are the implications for psychologists and "talk therapy?”
 
-!!! *Note: If a student is not familiar with biblical personages, they can give an example from literature or contemporary public life.*
+- Will biological therapies eventually replace old style talk therapies?
 
 ---
 
 ***Topic 3***
 
-Schizophrenia is our next topic of study.
+The last topic (for the entire course!) is on preventing problems.
 
 Student's will also be asked to consider:
 
-- Before the development of modern psychology, how do you think people suffering from schizophrenia were treated? How much better is treatment today?
+- What role do your religious or other beliefs play in your efforts to avoid psychological difficulties and promote growth?
 
----
+- Do your beliefs affect your choice of the kind of help you would look for?
 
-***Topic 4***
-
-Finally, we end this unit with Personality Disorders
-
-In addition to an ungraded key terms quiz, Student's will also be asked to consider:
-
-- Do you ever wonder if someone you know seems to have a personality disorder? What are some indications that you have seen that make you curious if there may be a problem? (If you don’t know anyone personally, you can describe someone you know about or have seen in a movie/TV show.)
+!!! Upon completing this unit, student's will need to write the Quiz #3 - it covers all content from Unit 10-12. 
 
 ---
