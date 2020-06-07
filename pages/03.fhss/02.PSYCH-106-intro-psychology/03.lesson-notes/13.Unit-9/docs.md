@@ -1,11 +1,11 @@
 ---
-title: 'Unit 10 Lesson Notes'
+title: 'Unit 9 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 10: Other Powerful Formulae
+## Unit 9: Stress and Coping
 
 This final unit adds additional powerful formulae to the ‘toolbox’ of organizational ‘monitoring and controlling’.
 
