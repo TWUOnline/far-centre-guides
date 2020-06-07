@@ -1,54 +1,44 @@
 ---
-title: 'Unit 1 Lesson Notes'
+title: 'Unit 2 Lesson Notes'
 taxonomy:
     category:
         - docs
 ---
 
-## Unit 1: Thought and Language
+## Unit 2: Intelligence Testing
 
 ***Topic 1***
 
-Topic 1 will review important considerations when conducting research. Student's will then complete a quiz on important terminology.
+Topic 1 will introduce intelligence (what it is). In addition, student's will also explore different types of intelligence. The Learning Activity will provide student's with the opportunity complete their own intelligence tests and reflect on the outcome. In addition, student's are also asked to consider:
+
+- How do you feel about the EMOTIONAL INTELLIGENCE TESTS? Did you learn anything? If so, what were the important areas that were illumined by the test?
+- Is ‘emotional intelligence’ a valid concept worth measuring?
+- Do you believe E-IQ is more important than "intelligence" as measured by IQ scores for success and happiness in your life?”
 
 ---
 
 ***Topic 2***
 
-This section focuses on problem-solving...in that context, student's are asked to respond to the following scenario/prompt:
+This section focuses on IQ Testing. Student's will be given the opportunity to take some IQ Tests and, once again, consider the "meaning" of the outcomes. In addition, student's are asked to consider the following:
 
-In the largest sense, society is breaking into two classes:
+The Bible says, in James; Chapter 2:
 
-*The first class are people who know how to think. These people realize that most problems are open to examination and creative solution. If a problem appears in the lives of these people, their intellectual training will quickly lead them to a solution or an alternative statement of the problem. These people are the source of the most important product in today's economy – ideas.*
+*My brothers, as believers in our glorious Lord Jesus Christ, don't show favoritism. Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in shabby clothes also comes in. If you show special attention to the man wearing fine clothes and say, "Here's a good seat for you," but say to the poor man, "You stand there" or "Sit on the floor by my feet," have you not discriminated among yourselves and become judges with evil thoughts?*
 
-*The second class, the vast majority of society, are people who cannot think for themselves. I call these people ‘idea consumers’ – metaphorically speaking, they wander around in a gigantic open-air mall of facts and ideas. The content of their experience is provided by television, the Internet and other shallow data pools. These people believe collecting images and facts makes them educated and competent, and all their experiences reinforce this belief. The central, organizing principle of this class is that ideas come from somewhere else, from magical persons, geniuses, ‘them.’*
-
-Consider the following prompts to help better prepare for the discussion:
-
- - Do you agree or disagree with this claim?
-
- - Do you know people that fit in the second category? What causes this difference? How might it be changed?
+- Could we be guilty of favoritism in esteeming more intelligent people above less intelligent people? In society? In Church?
 
 ---
 
 ***Topic 3***
 
-This Topic discussed bias - in that context, students are asked to consider the following question:
+Finally, Topic 3 explores the idea of Nature-Nature and IQ - specifically, the challenge around test biases.
 
- - Give an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.
+After exploring the content, student's will be provided with a short quiz to test their own understanding of some important terms. Please remind student's that this quiz is NOT GRADED.
 
----
+Student's will also be asked to consider the following (and discuss the questions below):
 
-***Topic 4***
+*If you suggest that Asians have darker skin than Caucasians, you are not considered racist; this is an obvious fact with a genetic basis. However, if you suggest that Asians are more intelligent than Caucasians (as IQ tests show), or that African Americans are less intelligent, watch out!*
 
-This topic shifted focus to the importance of language - in this case, the language in the Bible:
+- What is different about these two claims that makes us accept one and not the other? Is it the role of nature versus nurture? Or is it more closely tied to the high value our culture places on intelligence, and especially IQ scores?
 
- - Give some examples of the importance of language in the Bible or other religious writings.
-
-----
-
-***Topic 5***
-
-Considering everything student's have learned in this unit, they are asked to consider:
-
- - How important for our understanding of who we are as humans is the distinctiveness of our language ability? Is it a sign of the image of God?***
+- If IQ were unimportant would it matter if one racial or gender group tended to score higher than another group? Would you be considered racist or sexist for suggesting this?
