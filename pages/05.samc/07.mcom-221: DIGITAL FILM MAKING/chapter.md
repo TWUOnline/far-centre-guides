@@ -1,5 +1,5 @@
 ---
-title: 'MCOM 281: Public Speaking'
+title: 'MCOM 221: Digital Filmmaking'
 taxonomy:
     category: docs
 ---
