@@ -5,9 +5,9 @@ taxonomy:
         - docs
 visible: true
 ---
-# Class Schedule
 
-  - Example below:
+### Class Schedule
+
 
 ## **Course Schedule:**
 
