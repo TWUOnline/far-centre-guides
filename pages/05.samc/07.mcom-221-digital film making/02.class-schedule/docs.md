@@ -6,9 +6,6 @@ taxonomy:
 visible: true
 ---
 
-### Class Schedule
-
-
 ## **Course Schedule:**
 
 <table>
