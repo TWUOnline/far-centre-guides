@@ -1,6 +1,12 @@
 ---
 title: 'Assessment Details'
+taxonomy:
+    category:
+        - docs
+visible: true
+---
 
+### MCOM 221 Assessment
 
 <table>
 <thead>
@@ -76,7 +82,7 @@ for each exercise and project:
 
 There are key documents for each assessment in this course. These are available online (in Moodle) for students. Be sure to review these important documents with students and contact the professor if any details are unclear.
 
-\#\#\#\# Participation Documents:
+#### Participation Documents:
 
 \* \[Journal Guidelines\](MCOM\_221\_Journal\_Guidelines.pdf)
 

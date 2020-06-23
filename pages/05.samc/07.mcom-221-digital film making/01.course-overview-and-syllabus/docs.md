@@ -5,7 +5,7 @@ taxonomy:
         - docs
 visible: true
 ---
-
-# Course Overview & Syllabus
+### Course Overview for MCOM 221
+# Syllabus
 
   - See separate Syllabus document
