@@ -1,6 +1,6 @@
 ---
 title: 'Assessment Details'
-# Assessment **Details:**
+
 
 <table>
 <thead>
