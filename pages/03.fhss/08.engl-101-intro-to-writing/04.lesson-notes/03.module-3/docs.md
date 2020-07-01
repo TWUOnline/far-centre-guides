@@ -2,7 +2,7 @@
 title: 'Module 3 Lesson Notes'
 ---
 
-# Module 3: Module 3 – Research Writing
+# Module 3 – Research Writing
 ## Theme: Social and Environmental Justice
 
 
