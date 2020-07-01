@@ -131,3 +131,61 @@ This dropbox is Turnitin dropbox which is different from regular dropbox. You wi
   * Then, they will receive a receipt that can indicate that they can submit their file to the dropbox. 
 - If students keep getting an error message and cannot activate it, direct them to submit their file to the previous APA template dropbox where they can save up to 20 files. Then, please inform the issue to the professor by email immediately.
 
+**Individual Activity 1.3 [Review of Module 1]**
+
+Check Your Understanding of Academic Tone, in-text citations, and cross-referencing. 
+- Read this article "What Plagiarism News Stories Can Teach Students".
+- Based on Module 1 lessons, identify informal expressions in the first 5 paragraphs of the article. 
+- Paraphrase the first 5 paragraphs and write them formally with proper citations.
+- Create a reference list that matches your citations. 
+- Post your word document to the designated forum page. 
+- Your professors’ example will be posted within 24 hours, so please check what you have missed in relation to academic tone, citations, and cross-referencing.  
+
+[NOTEs to the facilitator]
+
+This activity forum page has been hidden, so please activate the forum page link for students when they need to prepare for their APA quiz. Please give them 1 day to finish this individual task out of the lab. Then, post [this example answer file](example-answer-file.pdf) to the same forum page the next day. 
+ 
+
+#### Individual Activity 1.4 [Review of APA] – H5P
+
+**Check Your Understanding of APA Format/Documentation**. 
+
+Source from [https://owl.excelsior.edu/citation-and-documentation/apa-style/apa-activity/](https://owl.excelsior.edu/citation-and-documentation/apa-style/apa-activity/)
+
+#### APA Quiz: 5%
+
+After you have completed Module 1, you will take an APA quiz in the lab.  Please read the details below and study the Module 1 materials and practice activities.  Check with your Facilitator for the exact date of the exam **(Lab 4)**.
+* **Duration of the exam: Total- 75 minutes**.
+* **The APA Quiz consists of ‘one writing task'**. 
+    1. APA writing task - One short article about social justice will be given.
+    2. **Write ONE summary of the article- 150-200 words**
+    3. Use YOUR APA template (The failure of using your APA template automatically results in "0" mark on the writing task. That is, don't borrow your friend's APA template.)
+    4. Decide your own title based on the given reading article.
+    5. The type of essay that you need to indicate on your title page is APA Essay.
+    6. Fully paraphrase all key points of the article and indicate citations properly.
+    7. List the article to the References page.
+    
+Before this quiz, please be sure that you have revised your APA template based on the APA template tutorial video 
+
+!!! [NOTE: if you have technical difficulties, please talk to your facilitator.]. You must use your APA template to complete a writing task for the quiz. If not, the grade will be “0” automatically.
+
+**[NOTEs to the facilitator]**
+
+- The quiz material will be available to the facilitator 1~2 days earlier (This can be negotiated by communications based on the facilitator’s situation. This is because school administrators who want their students to get a good mark and pass the course might give pressure to the facilitator to show the exam materials to them in advance.) 
+  * On the APA quiz day, make sure if students are ready to start the quiz first. Then, the facilitator can make the reading article visible to students on Moodle.
+- Inform this information to students 1 week earlier. 
+  * Students should bring their laptop for the quiz. IF not, they are not allowed to take the quiz and their grade will be automatically “0”.
+  * Students must use their OWN APA template. IF not, their mark will be “0”.
+- By the END of the exam, students must upload their APA template (i.e. the completion of their summary) to the Turnitin Dropbox given on the Module 1 course site. **[IMPORTANT]**: Please check if they successfully upload their file to the given Dropbox or not before they leave the classroom. 
+  * This dropbox is Turnitin Dropbox which is different from regular Dropbox. You will need to help students to activate their Turnitin dropbox one week earlier for the APA quiz. Please find time for this in advance. 
+  
+![alt-text](APA-Quiz.jpg)
+
+  * How to activate the Turnitin dropbox? 
+  1. Click the APA quiz dropbox link.
+  
+  2. There will be a message as a blue-link form on the middle of the dropbox page. They need to click the link and check the “I agree” box and click “OK”. 
+  
+  3. Then, they will receive a receipt that can indicate that they can submit their file to the dropbox. 
+  * If students keep getting an error message and cannot activate it, direct them to submit their file to the previous APA template dropbox where they can save up to 20 files. Then, please inform the issue to the professor by email immediately.
+- Students will receive their grade and feedback from their professor within 2 weeks.
