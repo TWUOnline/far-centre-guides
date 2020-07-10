@@ -10,8 +10,8 @@ visible: true
 
 | **Assessment**               | **Grade**          | **Due Date** |
 |------------------------------|--------------------|--------------------------------------|
-| Reflective Journal           | 30% (5 at 6% each) | Units 1, 4, 7, 8, 9.                                  |
-| Ethics Committee Responses   | 30% (6 \@ 5% each) | Units 2, 3, 4, 5, 6, 10.                            |
+| Reflective Journal           | 30% (5 @ 6% each) | Units 1, 4, 7, 8, 9.                                  |
+| Ethics Committee Responses   | 30% (6 @ 5% each) | Units 2, 3, 4, 5, 6, 10.                            |
 | Ethics Video                 | 10%                | On week 5-9 topics – Due Week 9)                              |
 | Partner Presentation Project | 30%                | Due weeks 5-10 – sign up in class for time                         |
 
