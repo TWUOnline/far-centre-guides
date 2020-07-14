@@ -1,11 +1,10 @@
 ---
-title: 'LDRS 410: Communication Methods and Mediums of Persuasion and Positive Influences'
+title: 'LDRS 620: wordview-foundations-of-educational leadership'
 taxonomy:
     category: docs
 ---
+# Facilitator’s Guide for LDRS 620:  
 
-## Facilitation Guide
+Worldview Foundations of Educational Leadership
 
-# LDRS 410: Communication Methods and Mediums of Persuasion and Positive Influences
-
-This guide will give you an overview of the course, including the syllabus, suggested facilitation strategies, and instructor notes. Please also review in detail the course contents in Moodle. Another key resource for every Facilitator is the TWU Faculty instructor of record. Please ensure you have set up a meeting weeks before the class begins.
+This guide will give you an overview of the course, including the syllabus, suggested facilitation strategies, and instructor notes. Please also review the course contents in Moodle. All assignments and learning activities for each unit are explained in detail, and this guide is meant to supplement the information found in the Moodle course. Another key resource for every Facilitator is the TWU Faculty instructor of record. Please ensure you have set up a meeting several weeks before the class begins.

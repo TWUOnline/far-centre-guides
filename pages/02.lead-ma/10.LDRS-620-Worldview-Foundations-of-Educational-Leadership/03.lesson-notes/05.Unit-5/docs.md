@@ -4,35 +4,53 @@ taxonomy:
     category:
         - docs
 ---
+# Unit 5: The Reflective Journey Towards Serving and Empowering Others
 
-## **UNIT 5: Negotiating**
+In this final unit of LDRS 620, students will examine the significance of moving from a self-centered leadership worldview to a Christ-like, others-centered posture. Students will explore ways of integrating Biblical leadership principles as they develop your awareness of being led by humility rather than a hunger for power. Students will learn from modern-day servant leaders, and consider practical ways to integrate new ideas into their leadership approaches. Finally, students will complete a self-assessment of personal leadership development thus far, and generate a plan for further growth.
 
-**Note to Facilitator:**
+***Activity 5.2: Letting God Lead***
 
-**Since many students may not know the cultural references listed in Topic 1, brainstorm with students which stars in their culture fit the descriptions.**
+Show the following 6.5 minute video:
 
-**Choose from the following Lab Activities:**
+  - [<span class="underline">Biblical Leadership Qualities</span>](https://www.youtube.com/watch?v=1jFrWmj1KSI) (Mia Rene | Christian entrepreneur and speaker)
 
-#### **Activity 5:1: Cross that Line**
+Lead a group discussion using the list of Biblical leadership qualities from Moodle. If a student is unfamiliar with Biblical stories, they may share applicable stories from other contexts or personal experiences.
 
-Cross That Line works great in any environment, including high school and even business meetings. Divide your group up into two teams. Each team picks a team leader. Place the teams on opposite sides of the room and run a piece of rope down the middle of the room. Players cannot move to the other team’s side. The leaders stand across from each other during this game. Each team tries to negotiate with the leader of the other team to make him move to their side. They can debate, cajole and even bribe the leader into changing sides. All bribes must be honored by the team for them to successfully win the game. The other team tries to negotiate with the other captain, making this game a frantic and an exciting debate game.
+***Topic 3: Past Experiences, Present Growth, Future Plans***
 
-#### **Activity 5:2: Tennis Game**
+As time allows, invite participants to share about their personal transformation journey with as many or few details as they feel comfortable. It may work best to split participants into smaller groups to facilitate a safer discussion environment.
 
-Tennis is a great metaphor for the art of negotiation. Use this metaphor to help improve your group’s negotiation skills. Set your team across from each other at a table. Select a negotiation topic, such as who is going to pay for the sodas after the meeting. Randomly choose a team to start. The first team member makes an offer, such as “we’ll pay for 60 percent of the sodas, as long as we get to take half of the bottles in for a refund.” The player directly across from him on the other team makes a counter proposal to the player next to the “serving” player as quickly as possible. This game must be done fast. This player then makes another proposal to the player across from him. Continue this order until the very end, when the proposals cycle through again. It continues cycling until one team accepts the proposal.
+***Assignment 5.1: Personal Application and Participation***
 
-#### **Activity 5:3: Auction Game**
+Students should complete Assignment 5.1 as listed in Moodle using prose, video, audio, slide deck with narration and/or speakers notes, or any other creative method. They will share ideas during in-class discussion/presentation and summarize their learning by posting in the Unit 1 Forum Discussion in Moodle. As the facilitator, please fill out a rubric for each student to let the instructor know about engagement and participation. This will be part of the student’s grade for this portion of the course.
 
-The auction game can give your group a true understanding of the importance of negotiation. Play this game only in a workplace with people who can afford to lose a little money. Everyone puts at least $1 in the game pot. After this has finished, players bid on how much they are going to pay to buy the pot. The twist to this game is that the highest bidder and the second highest bidder pay the final bid amounts. However, only the highest bidder wins the money. This game drives players to negotiate prices with people who are willing to spend money and either split the pot or get a percentage. Naturally, the second highest bidder will want to get an equal amount of money, but this is entirely up to the highest bidder. Players learn the importance of negotiation in a very short time.
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Emerging (0-64%)</strong></td>
+<td><strong>Developing (65-89%)</strong></td>
+<td><strong>Mastering (90-100%)</strong></td>
+</tr>
+<tr class="even">
+<td><p><em>Never to almost never:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+<td><p><em>Sometimes to fairly often:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+<td><p><em>Very often to nearly always:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+</tr>
+</tbody>
+</table>
 
-Note that you may want to bring other prizes for the classroom or ask students to bring something from home. Or use monopoly money.
+***Assignment 5.2: Summative Academic Paper***
 
-#### **Activity 5:4: Charades Game Who am I?**
-
-2 teams of 5 or 6
-
-The charade game allows teams to act out the different types of negotiators without speaking a word. Team members guess at what negotiation style the actor is acting out. (King of the Hill, Earnest and Honest, Linear logical, Emotional Ping Pong, People Pleaser, Expeditor, Rocking Chair)
-
-## Assessment
-
-See Assessment section for Case Study Team assignment.
+After the learning lab is done, remind students they need to work on their final unit assignment at home. See Moodle for a full explanation of what is expected, including a rubric for assessment, and walk students through the assignment description and success criteria.

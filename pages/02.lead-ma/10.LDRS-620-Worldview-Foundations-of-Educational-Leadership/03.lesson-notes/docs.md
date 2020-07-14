@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# Lesson Notes for LDRS 410
+# Lesson Notes for LDRS 620
 
-The following pages provide key information for the LDRS 410 modules (schedules, activity instructions, etc.). Please see the full course notes on Moodle.
+The following pages provide key information for LDRS 620 units (schedules, activity instructions, etc). Please review the full course in Moodle and connect with the course instructor if you need clarification.

@@ -4,27 +4,57 @@ taxonomy:
     category:
         - docs
 ---
+# Unit 4: Personal Biases, Indigenous Gifts, and Educational Leadership
 
-## **Unit 4: Elevator Pitch**
+Each person has a unique perspective of the world, based on beliefs, values, and experiences. This worldview influences thoughts, behaviours, and decision making, and over the past three units students have explored the importance of knowing personal worldview and uncovering your own strengths and shadows. In Unit 4, students will analyze how hidden personal biases affect how they treat others, and apply this knowledge to the history of Canadian Indigenous groups and Indigenous groups from the students’ own culture. Through learning from primary sources, students will examine the role of Indigineous ways of knowing in educational leadership, and consider ways of applying Indigenous gifts in their current leadership context.
 
-#### Activity 4.6: 5 Canons of Rhetoric
+Note: Before starting this unit, please take the time to have a class discussion about the definition of “Indigenous,” and any localized cultural terms for Indigenous people groups in your context (e.g. First Nations). This will help students create a common definition of terms used throughout this unit.
 
-Read the 5 Canons of Rhetoric (link to pdf) and take notes. In class, you will break into 5 groups of 2. Each group will take one of the 5 Canons of Rhetoric definition: *Inventio; dispositio; elocutio, memoria, actio* and will explain their meanings and how they can help create a perfect speech. (Roman orator Cicero, in his treatise, *De Inventione*, written around 50 BC).
+#### **Activity 4.4: Interviews on the Role of Indigineous Gifts in Cultural Formation and Educational Leadership  
+**
 
-Each group will present their Rhetoric definition to the class.
+This is an in-depth learning activity with a substantive amount of material. Feel free to adjust time allotted for this activity based on student learning needs. For example, you may wish to allow more time for longer discussion, or shorten the activity by assigning a portion of the interview clips or fewer reflection questions. You may need to use another collaborative whiteboard, such as Etherpad, a collaborative Google Doc, or a Forum 4 discussion in Moodle.
 
-## Assessment
+#### **Topic 3: The Role of Traditional Indigenous Worldviews in Educational Leadership**
 
-#### Assignment #3: Elevator Pitch
+This topic uses Canadian residential schools as an example of how Indigenous worldview can be integrated with educational leadership. Invite participants to give examples from their own cultural contexts to deepen discussion and create opportunities for personal application.
 
-After you have revised your pitch in class with the help of peer feedback, you will be asked to deliver your Elevator Pitch with your partner. One student will be the Pitcher and one will be the Person being pitched to.
+#### **Activity 4.6: First Peoples Principles of Learning  
+**
 
-**Be sure to refer to the rubrics for Oral Presentations. (link to pdf)**
+Students may not be able to complete the entire table. Encourage students to use this activity to deepen their understanding of how Indigenous gifts can enhance existing practices and uncover hidden biases. Students may complete this activity in a personal Word document or a collaborative Google Doc.
 
-**Facilitator will remind students of Rubrics for Oral Presentations. Will remind the students to: Take your time, make it conversational, avoid jargon, be confident.**
+### ***Assignment 4.1: Personal Application and Participation***
 
-Facilitator will record these presentations for marking. Students have exactly 30 seconds to deliver their pitch. Facilitator will stress the time frame.
+Allow time for students to discuss their reflections with colleagues during in-class discussion opportunities. After completing in-class discussion activities, students should post notes and a summarizing paragraph of what they learned during the discussion activities in a Unit 4 Forum Discussion in Moodle. Students can represent their ideas in forums using prose, video, audio, slide deck with narration and/or speakers notes, or any other creative method of choice. As the facilitator, please fill out a rubric for each student to let the instructor know about engagement and participation. This will be part of the student’s grade for this portion of the course.
 
-#### Assignment #4: Persuasion Topic
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Emerging (0-64%)</strong></td>
+<td><strong>Developing (65-89%)</strong></td>
+<td><strong>Mastering (90-100%)</strong></td>
+</tr>
+<tr class="even">
+<td><p><em>Never to almost never:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+<td><p><em>Sometimes to fairly often:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+<td><p><em>Very often to nearly always:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+</tr>
+</tbody>
+</table>
 
-Remind students: Persuasion Topic due at the beginning of this class. Please put your Topic name in the Dropbox provided for this Unit. (2% out of 15%)
+***Assignment 4.2: Unit Reflective Journal***
+
+After the learning lab is done, remind students they need to work on their unit assignment at home. See Moodle for a full explanation of what is expected, including a rubric for assessment, and walk students through the assignment description and success criteria.

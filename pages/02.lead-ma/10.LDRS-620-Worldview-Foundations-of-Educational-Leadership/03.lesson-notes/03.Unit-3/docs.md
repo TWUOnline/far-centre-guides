@@ -4,57 +4,65 @@ taxonomy:
     category:
         - docs
 ---
+# Unit 3: Connecting Self Knowledge, Personality Traits, and Educational Leadership  
 
-## **UNIT 3: Leader Script**
+Transformational servant leadership is rooted in the concept of serving others before self, modelled after the life and ministry of Jesus Christ. However, students must gain a deep understanding of themselves as leaders and learn who their followers are before they can begin the work of serving them. What are their beliefs and values? What motivates their actions? What kind of support do they need to thrive and grow? And how does each student answer all these questions for themselves? In Unit 3, students will investigate ways to engage in the process of knowing themselves, discovering personal strengths and shadows while exploring practical ways to get to know their followers as they aim to serve them in their vocational settings.
 
-#### **Activity 3:1: Researching Grabbers**
+***Facilitated Learning Lab Activity 3.3: From Shadow to Light***
 
-In the Learning Lab, you will be asked to work in small groups to go online and research Grabbers in news articles, books, blogs, etc. You may want to do an initial search now and bring your notes to class.
+The topic of shadow lends itself to opportunities for vulnerable, honest conversation. Set up a safe discussion environment where participants feel confident in sharing their struggles. It may be helpful to set up some ground rules before starting discussion (e.g. “We will not share information outside of this room”). Acknowledge and affirm each participant through listening empathetically and without judgment.
 
-Note for Facilitator: Ask students to work in small groups to go online and research 3 Grabbers in news articles, books, blogs, etc. Students will create a Word Document recording these Grabbers. Students will share a short class discussion sharing the grabbers.
+***Facilitated Learning Lab Activity 3.4: Reviewing Your Birkman Assessment***
 
-#### **Activity 3:4: Analyzing Famous Speeches**
+The Birkman Assessment section titles may change when the assessment is upgraded. If participants have a difficult time finding the listed sections, please direct them to look at the beginning of their report under the “Life Style Grid” heading.
 
-In class students will watch the video “I have a dream” (insert link to video) and are invited to make notes.
+***Facilitated Learning Lab Activity 3.6: The Importance of Building Relationships***
 
-**Background of Martin Luther King Jr.:**
+This topic lends itself well to whole group discussion, where participants can share their newfound knowledge of personal strengths and weaknesses. Encourage dialogue where participants build empathy skills through listening and understanding the perspectives of others.
 
-Martin Luther King Jr. a Baptist preacher, lead the civil rights movement through nonviolence and civil disobedience. He was assassinated in 1968. King inspired his audiences telling them; “I have a dream that my four little children will one day live in a nation where they will not be judged by the colour of their skin, but by the content of their character.”
+***Facilitated Learning Lab Activity 3.8: Case Study  
+***  
+Use the case study as an opportunity for group discussion.
 
-Students divide into tri-ads and will answer the following questions for class discussion.
+### ***Assignment 3.1: Case Study Discussion and Participation***
 
-1. What was King’s Grabber?
+Before discussing the case study, students should share the following information in small groups:
 
-2. What was King’s main argument in the speech?
+  - Shadow(s) and light(s)
 
-3. What was the main theme of King’s speech?
+  - Birkman colour
 
-4. How did King use pathos (appealing to emotions), logos (Word of God, or divine reason and creative order) and ethos (character) in his speech?
+  - Results of personality assessments (Enneagram, NERIS Type Explorer, The Big Five Aspects Scale, and/or CliftonStrengths)
 
-5. What repetitious words did King use in his speech?
+Students will share ideas during in-class discussion/presentation and summarize their learning by posting in the Unit 3 Forum Discussion in Moodle using the Assignment 3.1 criteria listed in Moodle. As the facilitator, please fill out a rubric for each student to let the instructor know about engagement and participation. This will be part of the student’s grade for this portion of the course.
 
-6. What was Kings call to action?
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Emerging (0-64%)</strong></td>
+<td><strong>Developing (65-89%)</strong></td>
+<td><strong>Mastering (90-100%)</strong></td>
+</tr>
+<tr class="even">
+<td><p><em>Never to almost never:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+<td><p><em>Sometimes to fairly often:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+<td><p><em>Very often to nearly always:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+</tr>
+</tbody>
+</table>
 
-#### **Activity 3.3**
+***Assignment 3.2: Unit Reflective Journal***
 
-Small Groups will create their own Grabbers for 3 different topics, chosen by students. Students will write grabbers on a wall chart. The teams will explain their Grabbers to the class and the class will choose the most effective Grabbers (1 for each group).
-
-#### **Activity 3.4**
-
-The teams will present and explain their Grabbers to the class and the class will choose the most effective Grabbers (1 for each group).
-
-#### **Activity 3.5**
-
-Groups will research one other famous speech that has changed the course of history and answer the same questions for King speech (see six questions above).
-
-#### **Activity 3.6**
-
-Groups will report to class with a mini presentation on the famous speech they researched.
-
-**Note to Facilitator**
-
-Facilitator may give famous speech suggestions if groups need the help:
-- *We shall Fight on the Beaches – Winston Churchill*
-- *I am the First Accused – Nelson Mandela*
-- *Gettysburg Address – Abraham Lincoln*
-- *JF Kennedy - Inaugruration Speech*
+After the learning lab is done, remind students they need to work on their unit assignment at home. See Moodle for a full explanation of what is expected, including a rubric for assessment, and walk students through the assignment description and success criteria.

@@ -4,49 +4,57 @@ taxonomy:
     category:
         - docs
 ---
+# Unit 2: Principles of Christian Worldview and Transformational Servant Leadership Theory  
 
-## **Unit 2: Persuasion & Positive Influence**
+In the second unit of LDRS 620, we will examine principles of Christian worldview and transformational servant leadership theory. Each of these complex topics have enough discussion and research elements for entire courses separately, so we will do a broad overview of foundational understandings and influential ideologies from each area. Students in this course will have a wide variety of previous knowledge and experience with Christianity and transformational servant leadership, so you are encouraged to listen closely and share generously as we learn with and from each other in this collaborative environment. As you progress through the readings, learning activities, and assignments, reflect on how the ideas and theories align with your own worldview and background and how you might make changes to your personal philosophy of leadership based on new understandings.
 
-#### Activity 2.1: “Speaking as a Leader”
+#### **Activity 2.1: Christianity as the One True Worldview**
 
-**In Class Activity:** Ask students to work with a partner using Humphries (2012) book to share their responses to the questions. Encourage students to consider the application of these ideas, or discuss their experiences (e.g. times they have no practiced a speech, etc.).
+Not all participants may be Christians in this course. Invite respectful debate around this topic where necessary, and actively monitor class climate and emotional levels during and after discussion. Emphasize the importance of developing the transformational servant leadership skills of empathy and others-focused communication.
 
-#### Activity 2.2: My Listening Skills
+#### **Activity 2.2: Leader Interview**
 
-Students will share one of the (scored 4 or 5 questions) with the class on the listening skill they are going to work on.
+If participants struggle to find a leader to interview, encourage them to complete one of the mentioned alternatives.
 
-#### Activity 2.3: Levels of Listening
+***Facilitated Learning Lab Activity 2.3: Case Study - Southwest Airlines***
 
-**Complete the following activities in class:**
+Show the following 5.5 minute video: [<span class="underline">How Southwest Airlines Built Its Culture</span>](https://www.youtube.com/watch?v=8_CeFiUkV7s) (Herb Kelleher | Founder, Southwest Airlines)
 
-(a) **Break Out Session:**
+Lead a group discussion using the “Questions to Consider” from Moodle. Depending on your location, transformational servant leadership principles may be new concepts for participants. You have the freedom to take extra time to discuss these principles in more depth. Encourage participants to share knowledge and application from personal experience wherever possible.
 
-**Active Listening Skill Set**.
+***Assignment 2.1: Jigsaw Discussion and Participation***
 
-The facilitator will put students in Group. Each Group (1 through 6) is assigned each active listening **key word** (*Pay attention, Suspend Judgment, Reflect, Clarify, Summarize, and Share*). After reading Hoppe (2014) students will **role play**,  modelling to the class the meaning of each word assigned.
+Please review the [<span class="underline">Jigsaw Method video</span>](https://www.youtube.com/watch?v=euhtXUgBEts) in preparation for facilitating this activity. Students should come prepared with notes about their “expert group” topics to share during Round 1 of discussions. Substantive participation is encouraged. As the facilitator, please fill out a rubric for each student to let the instructor know about engagement and participation. This will be part of the student’s grade for this portion of the course.
 
-(b) **Speed Dating Game**:
+Place students in expert groups before the session, and give them time to research and prepare for group discussion. After Round 1, place students in teaching groups so that one member of each expert group is represented in the new teaching groups. Students will summarize and disseminate information from Round 1 during Round 2.
 
-**Barriers to Active Listening** (Hoppe, 2014 pg. 13 – 15). How to play: This Speed Dating session consists of a series of brief one-on-one interactions between students. After talking with one student for several minutes, students rotate to another. Students will discuss briefly the Barriers to Active Listening, (*The Image of Leadership, Silence as Agreement, External Pressures, Lack of know-how, Individual Make-up, Time and Place, Emotion, Cultural Differences).*
+<table>
+<tbody>
+<tr class="odd">
+<td><strong>Emerging (0-64%)</strong></td>
+<td><strong>Developing (65-89%)</strong></td>
+<td><strong>Mastering (90-100%)</strong></td>
+</tr>
+<tr class="even">
+<td><p><em>Never to almost never:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+<td><p><em>Sometimes to fairly often:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+<td><p><em>Very often to nearly always:</em></p>
+<p>(a) demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),</p>
+<p>(b) initiates any contributions in class or small groups,</p>
+<p>(c) makes insightful or constructive comments,</p>
+<p>(d) helps maintain a supportive space for others to speak.</p></td>
+</tr>
+</tbody>
+</table>
 
-#### Activity 2.4: Types of Decision-Makers
+***Assignment 2.2: Reflection and Application Project***
 
-#### Lab Activity: Role Play
-
-5 Groups will break out and will create a mini-play (5-minute role play) showing the attributes of the different decision-making types. The groups will be assigned **one** of the decision-maker types.
-
-Lab Activity: **Beat the Clock**
-
-1. As a way for students to recall important vocabulary terms, students will form groups of 4 or 5 to play a game of **Beat the Clock**.
-
-Each group is provided with five blank cards to write the words: *Charismatic, Skeptic, Thinker, Follower, Controller.* Each group will also write the definitions on separate sheets of paper provided. One student in each group volunteers to be the caller and the rest of the team work together to identify the correct definition. Groups will exchange cards and definitions. The facilitator will start the timer at 3 mins. The first team to get the words and definitions in order wins. Team yells “TIME” when they complete the task.
-
-**Note:** Facilitator will provide; Index Cards; felt pens and 8 by 11 paper.
-
-perceive your ideas. It gives you access to the reservations and objections that others might have. And it deepens your understanding of the person you’re speaking to.
-
-## Assessment
-
-**Assignment #3: Introduction to the Field Interview Report Due on Unit 7**
-
-Review the Field Interview Report Assignment with students. Students will submit the two names who they will be interviewing, to you at the end of this Unit 2.
+After the learning lab is done, remind students they need to work on their unit assignment at home. See Moodle for a full explanation of what is expected, including a rubric for assessment, and walk students through the assignment description and success criteria.

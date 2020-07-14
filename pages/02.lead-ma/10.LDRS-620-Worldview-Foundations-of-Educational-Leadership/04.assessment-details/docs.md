@@ -6,19 +6,18 @@ taxonomy:
 visible: true
 ---
 
-## Course Evaluation
+# Course Evaluation
 
-| **Assessment**                           | **% of Grade** | **Unit due** |
-|------------------------------------------|------------|---------------|
-| Elevator Pitch                           | 5%         | 4             |
-| Negotiation Case Study                   | 5%         | 5             |
-| Persuasion Presentation & Leader Script  | 15%        | 6             |
-| Field Interview Report                   | 15%        | 7             |
-| Team Debate                              | 10%        | 8             |
-| Group Case Study (Presentation & Report) | 15%        | 8             |
-| Reflective Journal Continuum             | 10%        | All units     |
-| Lab Participation                        | 15%        | All units     |
-| Final Exam                               | 15%        | End of course |
-| **Total**                                | **100%**   |               |
+|                                        |                |              |
+| -------------------------------------- | -------------- | ------------ |
+| **Assignment**                         | **% of Grade** | **Due Date** |
+| **Group Discussion and Participation** | 35%            | Units 1-5    |
+| **Unit Reflective Paper**              | 10%            | Unit 1       |
+| **Reflection and Application Project** | 15%            | Unit 2       |
+| **Unit Reflective Journals**           | 20%            | Units 3-4    |
+| **Summative Academic Paper**           | 20%            | Unit 5       |
+| **Total**                              | 100%           |              |
 
-! See the specific Assessment details in Moodle.
+# Rubrics
+
+See Assessments section in Moodle for the assignment rubrics. You may want to go through these with the students so they are aware of expectations and how they can improve their work.

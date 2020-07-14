@@ -1,104 +1,69 @@
 ---
 title: 'Course Overview & Syllabus'
-media_order: LDRS_410-Syllabus_Fall_2019far.pdf
+media_order:
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-## Welcome to LDRS 410: Persuasion and Positive Influence!
+# Course Overview
 
-This course is organized into 8 units and is designed for an condensed 3 credit course. Each page of the course will provide you with the following information:
+This course examines the complex relationships between worldview formation, personal development, leadership theories, and educational leadership. Through participating in a variety of learning activities and assessments, learners will explore the following essential questions:
 
-* A general overview of the topic that will be addressed during the unit.
-* Specific learning outcomes and topics for the unit.
-* Resources that you will need to address learning activities and assessments in the unit.
-* Learning activities that you will need to complete each week.
-* Assessments pages will provide you with information about assignments that you will need to complete each week.
+  - How is worldview formed?
 
-Over the next few weeks, you will have the opportunity to attend Facilitated Learning Labs. During lab times, a course facilitator will guide group discussions, answer any questions you may have, help you understand your assignments, and may evaluate your participation in the lab.  Your TWU instructor will mark any graded assignments and will send feedback via Moodle.
+  - What questions does a worldview answer?
 
-If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.
+  - How does a worldview influence one’s thoughts, beliefs, and behaviours?
 
-!! The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus [here](LDRS_410-Syllabus-Fall-2019far.pdf).
-For information on how to navigate through this course on Moodle, see [here](http://create.twu.ca/help/moodle).
+  - What is a Christian worldview?
 
+  - How does one’s worldview affect the way they view and make assumptions about other people?
 
-### Course Description
-A practical study of leadership methods and mediums used to persuade and positively influence others, examines how to promote understanding through listening, build trusting relationships, and create and convey messages that direct, guide, motivate, or inspire others to action. Personal selling and negotiating skills are also explored.
+  - How does one’s worldview influence their approach to leadership?
 
-### Learning Outcomes
+  - How do Christian worldview and transformational servant leadership principles enhance practices in educational leadership?
 
-After successfully completing the course, you will be able to:
+# Course Learning Outcomes
 
-1. *Knowledge and its application*
+After successfully completing this course, students will be able to:
 
-    a. Examine the significant role communication plays in the leader’s practice — among colleagues, subordinates, and superiors, as well as with external relations;
+✓ Define the term “worldview” and describe the complex nature of worldview development.
 
-    b. Map, assess, and develop their professional and personal networks of influence;
+✓ Identify and answer the four questions central to worldview formation.
 
-2. *Cognitive complexity*
+✓ Analyze personal worldview and consider alternate perspectives.
 
-    c. Develop skills to listen actively by paying attention, holding judgment, reflecting, clarifying, summarizing, and sharing their own point of view;
+✓ Examine love as a habit, and discuss the role of wants and desires in worldview formation.
 
-    d. Create and convey messages that direct, guide, motivate, or inspire others to action;
+✓ Define a Christian worldview using the Bible and other theological and academic sources.
 
-3. *Social Responsibility and Global Engagement*
+✓ Describe transformational servant leadership characteristics.
 
-    e. Adopt wise and ethical practices that move people and organizations from ideas to action;
+✓ Illustrate connections between Christian worldview and transformational servant leadership  
+principles.
 
-4. *Leadership*
+✓ Consider the role of self knowledge and the importance of recognizing inner shadows.
 
-    f. Demonstrate skills of personal selling, from selling their own personal brand and abilities through to selling ideas, vision, values, and their organization’s brand and offerings.
+✓ Analyze their Birkman Report and at least one additional personality assessment.
 
+✓ Describe relationships between personality traits and educational leadership.
 
-### **Required** Texts and Materials
+✓ Develop transformational servant leadership skills through understanding personality traits of  
+followers.
 
-Note: These books or e-books **MUST** be present with you during ALL Learning Labs.
+✓ Recognize how personal biases and worldview affect your opinion and treatment of others,  
+particularly in an educational leadership context.
 
-- Grayson, C., & Baldwin, D. (2007). *Leadership Networking: Connect, Collaborate, And Create.*
- 	Greensboro: CCL Press.
+✓ Examine the role of Indigenous gifts in worldview development and choice of leadership style.
 
-- Hoppe, M. (2006). *Active Listening: Improve Your Ability to Listen and Lead.*
- 	Greensboro: CCL Press.
+✓ Compare and contrast the effects of foreign colonization on traditional Indigenous worldviews  
+and influence in your cultural context.
 
-- Humphrey, J. (2012). *Speaking as a leader how to lead every time you speak — from board
- 	rooms to meeting rooms, from town halls to phone calls.* Mississauga, Ontario: John Wiley & Sons Canada. (**Available on Audible**)
+✓ Examine the potential impact of integrating Biblical worldview and transformational servant  
+leadership principles into current educational leadership practices.
 
+✓ Explain practical application examples of unit topics in their personal vocational context.
 
-
-### Course Evaluation
-
-| **Assessment**                           | **% of Grade** | **Unit due**  |
-|------------------------------------------|----------------|---------------|
-| Elevator Pitch                           | 5%             | 4             |
-| Negotiation Case Study                   | 5%             | 5             |
-| Persuasion Presentation & Leader Script  | 15%            | 6             |
-| Field Interview Report                   | 15%            | 7             |
-| Team Debate                              | 10%            | 8             |
-| Group Case Study (Presentation & Report) | 15%            | 8             |
-| Reflective Journal Continuum             | 10%            | All units     |
-| Lab Participation                        | 10%            | All units     |
-| Final Exam                               | 15%            | End of course |
-| **Total**                                | **100%**       |               |
-
-
-
-
-#### Pre-Course Activities:
-
-1.  Purchase the three mandatory course books (see syllabus).
-
-2.  Pre-read Syllabus. Write down any questions you may have and bring
-    them to the first Facilitated Learning Lab. Your facilitator will review the Syllabus during the first lab and answer any questions you may have. Pay
-    close attention to Assignment dates.
-
-3.  Pre-read chapters 1 through 4, *Speaking as a Leader*, Humphries
-    (2012).
-
-
-!! It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.
-
-
-#### [Click here for Academic Dishonesty Policy](https://www.twu.ca/about/policies/policy-academic-dishonesty)
+✓ Articulate a vision of their personal future as a leader.
