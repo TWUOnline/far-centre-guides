@@ -82,8 +82,4 @@ for each exercise and project:
 
 There are key documents for each assessment in this course. These are available online (in Moodle) for students. Be sure to review these important documents with students and contact the professor if any details are unclear.
 
-#### Participation Documents:
-
-\* \[Journal Guidelines\](MCOM\_221\_Journal\_Guidelines.pdf)
-
-\* \[Project Pitching Guidelines\] (MCOM\_221\_Pitching Guidelines.pdf)
+!! See the Assessment section in Moodle for grading rubrics and key instructions for students.
