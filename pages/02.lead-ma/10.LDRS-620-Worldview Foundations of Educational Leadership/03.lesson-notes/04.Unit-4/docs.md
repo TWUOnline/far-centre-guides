@@ -15,7 +15,7 @@ Note: Before starting this unit, please take the time to have a class discussion
 
 This is an in-depth learning activity with a substantive amount of material. Feel free to adjust time allotted for this activity based on student learning needs. For example, you may wish to allow more time for longer discussion, or shorten the activity by assigning a portion of the interview clips or fewer reflection questions. You may need to use another collaborative whiteboard, such as Etherpad, a collaborative Google Doc, or a Forum 4 discussion in Moodle.
 
-#### **Topic 3: The Role of Traditional Indigenous Worldviews in Educational Leadership**
+#### Topic 3: The Role of Traditional Indigenous Worldviews in Educational Leadership
 
 This topic uses Canadian residential schools as an example of how Indigenous worldview can be integrated with educational leadership. Invite participants to give examples from their own cultural contexts to deepen discussion and create opportunities for personal application.
 
