@@ -1,5 +1,5 @@
 ---
-title: 'LDRS 620: wordview-foundations-of-educational leadership'
+title: 'LDRS 620: wordview foundations of educational leadership'
 taxonomy:
     category: docs
 ---
