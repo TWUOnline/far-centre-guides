@@ -22,7 +22,7 @@ Show the following 5.5 minute video: [<span class="underline">How Southwest Airl
 
 Lead a group discussion using the “Questions to Consider” from Moodle. Depending on your location, transformational servant leadership principles may be new concepts for participants. You have the freedom to take extra time to discuss these principles in more depth. Encourage participants to share knowledge and application from personal experience wherever possible.
 
-#### Assignment 2.1: Jigsaw Discussion and Participation
+### Assignment 2.1: Jigsaw Discussion and Participation
 
 Please review the [<span class="underline">Jigsaw Method video</span>](https://www.youtube.com/watch?v=euhtXUgBEts) in preparation for facilitating this activity. Students should come prepared with notes about their “expert group” topics to share during Round 1 of discussions. Substantive participation is encouraged. As the facilitator, please fill out a rubric for each student to let the instructor know about engagement and participation. This will be part of the student’s grade for this portion of the course.
 
@@ -55,6 +55,6 @@ Place students in expert groups before the session, and give them time to resear
 </tbody>
 </table>
 
-#### Assignment 2.2: Reflection and Application Project
+### Assignment 2.2: Reflection and Application Project
 
 After the learning lab is done, remind students they need to work on their unit assignment at home. See Moodle for a full explanation of what is expected, including a rubric for assessment, and walk students through the assignment description and success criteria.

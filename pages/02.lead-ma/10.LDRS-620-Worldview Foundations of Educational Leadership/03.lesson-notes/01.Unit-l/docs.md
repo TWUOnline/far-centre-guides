@@ -11,7 +11,7 @@ In this first unit, students begin the course by analyzing the term “worldview
 
 Note: This course has been designed for students to complete unit learning activities at home prior to attending learning lab sessions; however, students may not arrive at the first session prepared for group discussions. Please allow time for students to work on learning activities in class, then clarify that all future learning activities need to be completed at home in preparation for learning lab group discussions.
 
-#### Topic 1: Influences on Worldview Formation
+### Topic 1: Influences on Worldview Formation
 
 Show the virtual photo tour and lead a discussion on how worldview affects perspective.
 
@@ -27,7 +27,7 @@ Please encourage students to complete this learning activity, as it will serve a
 
 Use the matching activity as a group discussion prompt.
 
-#### Assignment 1.1: Discussion and Participation
+### Assignment 1.1: Discussion and Participation
 
 Students should answer the listed questions using prose, video, audio, slide deck with narration and/or speakers notes, or any other creative method. They will share ideas during in-class discussion/presentation and summarize their learning by posting in the Unit 1 Forum Discussion in Moodle. As the facilitator, please fill out a rubric for each student to let the instructor know about engagement and participation. This will be part of the student’s grade for this portion of the course.
 
@@ -58,6 +58,6 @@ Students should answer the listed questions using prose, video, audio, slide dec
 </tbody>
 </table>
 
-#### Assignment 1.2: Unit Reflective Paper
+### Assignment 1.2: Unit Reflective Paper
 
 After the learning lab is done, remind students they need to work on their unit assignment at home. See Moodle for a full explanation of what is expected, including a rubric for assessment, and walk students through the assignment description and success criteria.
