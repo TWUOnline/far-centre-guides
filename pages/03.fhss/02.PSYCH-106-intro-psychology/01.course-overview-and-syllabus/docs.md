@@ -1,6 +1,6 @@
 ---
 title: 'Course Overview & Syllabus'
-media_order: FC_LDRS_220_Syllabus_Simonis.pdf
+media_order: PSYC106_Syllabus_Dutka.pdf
 taxonomy:
     category:
         - docs
@@ -11,7 +11,7 @@ visible: true
 
 ### Syllabus
 The syllabus includes key information about the course schedule, assignments, and policies.
-Please read the full course syllabus [**HERE**](FC_LDRS_220_Syllabus_Simonis.pdf).
+Please read the full course syllabus [**HERE**](PSYC106_Syllabus_Dutka.pdf).
 For information on how to navigate through this course on Moodle, see [**HERE**](http://create.twu.ca/help/moodle).
 
 ### Course Description

@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 
-## Unit 7: Social Pyschology - Part 2
+## Unit 7: Social Psychology - Part 2
 
 This unit is the second part that continues to build upon Unit 6.
 
