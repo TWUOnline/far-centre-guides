@@ -1,5 +1,5 @@
 ---
-title: 'Course Overview & Syllabus'
+title: 'Course Overview'
 media_order: SOCI-Syllabus_2020.pdf
 taxonomy:
     category:
