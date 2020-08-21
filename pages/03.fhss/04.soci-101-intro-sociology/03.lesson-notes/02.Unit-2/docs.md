@@ -63,8 +63,8 @@ A member of the "panchayat" (or village council) in Chandra Thapar's home villag
 
 what would you recommend?
 
-!!! **Note for Facilitator:**
-!!! After everyone has read the study, be prepared to lead the class in a discussion of the power of ethnocentrism in the shaping of the way we view cultures that are different than ours.
+!! **Note for Facilitator:**
+!! After everyone has read the study, be prepared to lead the class in a discussion of the power of ethnocentrism in the shaping of the way we view cultures that are different than ours.
 
 #### Topic 3:  Subculture and Counterculture
 
