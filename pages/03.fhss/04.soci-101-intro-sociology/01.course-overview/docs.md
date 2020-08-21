@@ -7,8 +7,6 @@ taxonomy:
 visible: true
 ---
 
-## Course Overview
-
 The following information is from the course syllabus, also located in Moodle.  Note that you will need to modify the schedule based on your term.  Please also discuss with the Faculty if there are any other changes to the syllabus.
 
 #### Course Description
