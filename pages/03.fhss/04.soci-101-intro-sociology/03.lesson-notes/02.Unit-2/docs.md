@@ -20,11 +20,7 @@ Read the case study below of the sacred "Rac" in class in small groups and work 
 
 **The Sacred "Rac"**
 
-An Indian anthropologist, Chandra Thapar, made a study of foreign cultures with customs similar to
-
-those of his native land. One culture in particular fascinated him because it revered one animal as sacred
-
--- much as the people in India revere the cow. The things that he discovered might interest you.
+An Indian anthropologist, Chandra Thapar, made a study of foreign cultures with customs similar to those of his native land. One culture in particular fascinated him because it revered one animal as sacred -- much as the people in India revere the cow. The things that he discovered might interest you.
 
 The tribe Dr. Thapar studied is called the Asu and is found on the American continent to the north of the Terahmare of Mexico. Though the Asu seem to be a highly developed society in some ways, they are overwhelmingly preoccupied with the care and feeding of the rac -- an animal much like the bull in size, strength, and temperament. In the Asu tribe, it is almost a social obligation to own at least one rac.
 
@@ -36,132 +32,26 @@ At the age of 16, young men in many Asu communities generally undergo a puberty 
 
 Although the rac may be used as a beast of burden, it has many habits which other cultures would consider detrimental to the life of the society. In the first place, the rac breed is increasing at a very rapid rate and the Asu tribesmen have given no thought to curbing the rac population. As a consequence, the Asu must build more and more paths and fields for the rac to travel on, since its delicate health and its love for racing other rac at high speeds necessitates that special areas be set aside for its use. The cost of smoothing the earth is too costly for one individual to undertake; thus it has become a community project, and each tribesman must pay an annual tithe to build new paths and maintain the old. There are so many paths needed that some people must move their homes because the rac paths must be as straight as possible to keep any animal from injuring itself. Dr. Thapar also noted that, unlike the excrement of a cow (which many in his country hold sacred), that of the rac cannot be used as either fuel or fertilizer. On the contrary, rac excrement is exceptionally foul and totally useless. Worst of all, the rac is prone to rampages in which it runs down anything in its path, much like stampeding cattle. Estimates are that the rac kill thousands of Asu in a year. Despite the high cost of its upkeep, the damage it does to the land, and its penchant for destructive rampages, the Asu still regard the rac as essential to the survival of their culture.
 
-A member of the "panchayat" (or village council) in Chandra Thapar's home village, has had some experience with the Planned Parenthood campaign in rural India. He suggests that the only rational thing for the Asu to do is to begin a program of birth control for the rac. He thinks his village should send a technical assistance team to advise the Asu on limiting the rac population. He feels that comparing the rac with the so-called sacred cow of India is inappropriate since the cow contributes so much more to
+A member of the "panchayat" (or village council) in Chandra Thapar's home village, has had some experience with the Planned Parenthood campaign in rural India. He suggests that the only rational thing for the Asu to do is to begin a program of birth control for the rac. He thinks his village should send a technical assistance team to advise the Asu on limiting the rac population. He feels that comparing the rac with the so-called sacred cow of India is inappropriate since the cow contributes so much more to Indian life while the rac kills, maims and upsets the life and environment of the Asu.
 
-Indian life while the rac kills, maims and upsets the life and environment of the Asu.
+#### General Rac Statistics
 
-***General Rac Statistics***
+|Statistic|Number|Year|
+|:-----|:-----|:-----|
+|Rac births per year|2,300,000 (approx)|2004|
+|Average age of rac|5.6|2004|
+|Percentage of Asu families owning a rac|91% (approx)|2004|
+|Percentage of world's rac owned by Asu|45%|2003|
+|Percentage of world's food consumption by rac among Asu|65%|2003|
+|Total rac population among the Asu|204,000,000|2003|
 
-|
+#### Deaths and Injuries caused by Rac in 2002
 
-***Rac births per year***
-
- |
-
-***23,000,000 approx.***
-
- |
-
-*(2004)*
-
- |
-|
-
-***Average age of rac***
-
- |
-
-***5.6***
-
- |
-
-*  (2004)?*
-
- |
-|
-
-***% of Asu Families owning a rac***
-
- |
-
-***91% approx.***
-
- |
-
-*(2004)*
-
- |
-|
-
-***Percentage of world's rac owned by Asu***
-
- |
-
-***45%***
-
- |
-
-*(2003)*
-
- |
-|
-
-***World's food consumption by rac among Asu***
-
- |
-
-***65%***
-
- |
-
-*(2003)*
-
- |
-|
-
-***Total rac population among the Asu***
-
- |
-
-***204,000,000***
-
- |
-
-*(2003)*
-
- |
-
-***Deaths and Injuries Caused by Rac in 1 Year***
-
-|
-
-***Injuries***
-
- |
-
-***2,925,758***
-
- |
-
-*(2002)*
-
- |
-|
-
-***Permanent disability***
-
- |
-
-***170,000***
-
- |
-
-*             (2002)*
-
- |
-|
-
-***Deaths***
-
- |
-
-***42,815***
-
- |
-
-*             (2002)*
-
- |
+|Statistic|Number|
+|:--------|:--------|
+|Injuries|2,925,758|
+|Permanent disability|170,000|
+|Deaths|42,815|
 
 **Questions for Discussion:**
 
@@ -217,8 +107,6 @@ After completing the activities above, answer the following questions:
 - 4\. What could Tina have done differently before travelling to China?
 
 - 5\. What responsibility do companies and employees have when dealing with others from a different culture?
-
- |
 
 *Feel free to answer the questions in your notes or Reflective Learning Journal.*
 
