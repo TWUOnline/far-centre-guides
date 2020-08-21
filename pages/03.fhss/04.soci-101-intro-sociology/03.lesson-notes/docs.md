@@ -6,6 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# Lesson Notes for LDRS 620
+# Lesson Notes for SOCI 101
 
-The following pages provide key information for LDRS 620 units (schedules, activity instructions, etc). Please review the full course in Moodle and connect with the course instructor if you need clarification.
+The following pages provide key information for SOCI 101 units (schedules, activity instructions, etc). Please review the full course in Moodle and connect with the course instructor if you need clarification.
