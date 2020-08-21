@@ -78,7 +78,7 @@ After completing the activities above, answer the following questions:
 
 (Note that you may be asked to share your thoughts with your peers in the Facilitated Learning Lab.)
 
-## Topic 5:  Science, Technology, and Cultural Change
+#### Topic 5:  Science, Technology, and Cultural Change
 
 **Instructor Led Activity**
 
