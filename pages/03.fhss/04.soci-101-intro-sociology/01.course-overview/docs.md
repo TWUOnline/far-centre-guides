@@ -49,7 +49,7 @@ Compare and analyze globalization and environmental issues as shaped by human ac
 |Unit Tests|25%|1, 2|Unit 3 (10%), Unit 4 (15%)|
 |Quizzes|15%|1, 2|All units (16 quizzes @ 1% each)|
 |Participation/JournalJournal|15%|2,3,4,5|Units 2,3,4,5,7|
-|Final Exam	20%	1-6	End of course|
+|Final Exam|20%|1-6|End of course|
  
 #### Course Texts
 
