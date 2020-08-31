@@ -67,12 +67,12 @@ Task 2: After Task 1, check two postings done by your classmates and give them b
 
 
 
- [NOTEs to the facilitator]
+<span style="color:red">**[NOTEs to the facilitator]**</span>
 1. Please take attendance.
 2. Students should bring their own laptop to complete Lab activity 1.2. 
 3. Make these pages on Moodle visible to students at the beginning of the lab. 
    - Forum page (Lab activity 1.2)
-   - [Topic Development Template](Topic Development Template.docx)
+   - [Topic Development Template](Topic-Development-Template.docx)
  
    - [Topic Development Template (Example)](Topic-Development-Template-Example.pdf)
  
@@ -80,3 +80,37 @@ Task 2: After Task 1, check two postings done by your classmates and give them b
 5. Students will probably need more time to complete Task 1, so give them 2~3 more hours to post their work to the forum page out of the lab.  In terms of Task 2, after you make sure of all the students’ submission, give them 1 day to do peer-review after Task 1. To set up the deadlines of these two tasks, please communicate with the professor in advance. 
 6. After the Task 2 is done, the professor will post his/her brief feedback to each student.
 7. This activity must be fully completed. 
+
+### Lab Activity 1.3 [M2 Worksheet] (Individual Homework) 
+**Use the M2 worksheet template to start outlining your annotated bibliography**. Based on your research question mentioned in your Topic Development template (Lab Activity 1.2), find FIVE different kinds of sources (Credibility rating level 3-5) that can help you to answer your research question. Then, complete the worksheet template as it is the process of outlining your five annotated bibliographies. The five sources should be published within the last 10 years. 
+
+<span style="color:red">**[NOTEs to the facilitator]**</span>
+Please help students to understand the instructions of this worksheet assignment in the lab. Its example is provided, so please help them to take a look at the example worksheet for their understanding. Make sure that they understand how to fill in the chart and find at least one or two sources during the lab individually. Then, give them 2~3 days to complete and submit this worksheet to M2 Ongoing Dropbox. Please communicate with your professor to set up the deadline of this worksheet in advance. Students will receive the professor’s feedback within 2~4 days via the same Dropbox.
+
+Lab Activity 1.4 [Writing practice]: (Group work) – Forum page  Hidden view for students
+With your partner(s), write one annotated bibliography based on the article "UN Human Rights Committee Blasts Canada on Gender Wage Gap” provided. 
+•	Research question: "What are the causes of the gender wage gap between male and females in the current Canadian labour market?
+•	Reading article: "UN Human Rights Committee Blasts Canada on Gender Wage Gap”
+•	Follow the Annotated Bibliography Paragraph Pattern mentioned in Lesson 4. 
+•	The length of the annotated bibliography should be about 200 words.
+•	Post it to this forum page by the end of the lab. 
+
+<span style="color:red">**[NOTEs to the facilitator]**</span>
+This activity forum page has been hidden, so please activate the forum page link for students when they need to do this activity in the lab.
+1. Grouping 2~3 students per group is ideal.  
+2. After you make sure of each group’s completion at the end of the lab, post [this example annotated bibliography](example-annotated-bibliography.pdf) in order for them to review which part of their group annotated bibliography needs to be improved. Students can also check this example individually after the lab. 
+ 
+
+<span style="color:red">**[NOTEs to the facilitator for Lab 5]**</span>
+On the day of Lab 5, students may not need to come to the lab, but they should meet with their writing coach or a writing center tutor online to revise their final draft of the module 2 assignment (i.e. 5 annotated bibliographies). They will need to upload the coach or tutor’s feedback file OR upload their original file to M2 Ongoing Dropbox before they revise their final draft with the coach/tutor so that their professor can check how the final draft has been revised. 
+
+### Assessment
+
+<span style="color:red">**[NOTEs to the facilitator]**</span>
+- Make the M2 in-class writing template visible when everyone is ready to write their annotated bibliography. 
+- Doublecheck if all the students have their own laptop.
+- Doublecheck if they are referring to their M2 worksheet and course-related materials ONLY.
+- Doublecheck if they submitted a correct file before they leave. 
+- If many of the students need more time, give them 5 minutes more. 
+
+
