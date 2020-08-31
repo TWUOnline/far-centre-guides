@@ -72,9 +72,9 @@ Task 2: After Task 1, check two postings done by your classmates and give them b
 2. Students should bring their own laptop to complete Lab activity 1.2. 
 3. Make these pages on Moodle visible to students at the beginning of the lab. 
    - Forum page (Lab activity 1.2)
-   - [Topic Development Template]()
+   - [Topic Development Template](Topic Development Template.docx)
  
-   - [Topic Development Template (Example)]()
+   - [Topic Development Template (Example)](Topic-Development-Template-Example.pdf)
  
 4. Students must check/read the example template first.
 5. Students will probably need more time to complete Task 1, so give them 2~3 more hours to post their work to the forum page out of the lab.  In terms of Task 2, after you make sure of all the students’ submission, give them 1 day to do peer-review after Task 1. To set up the deadlines of these two tasks, please communicate with the professor in advance. 
