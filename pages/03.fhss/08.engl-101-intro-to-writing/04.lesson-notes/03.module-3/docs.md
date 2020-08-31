@@ -8,5 +8,5 @@ title: 'Module 3 Lesson Notes'
 
 ## Activity Checklist
 
-!! See the schedule for Module 3 [here](Schedule-for-Module-1.pdf)
-!! Also refer to this [checklist](Module-1-Activity-Checklist.pdf) of learning activities and assessments
+!! See the schedule for Module 3 [here](Schedule-for-Module-3.pdf)
+!! Also refer to this [checklist](Module3-checklist.pdf) of learning activities and assessments
