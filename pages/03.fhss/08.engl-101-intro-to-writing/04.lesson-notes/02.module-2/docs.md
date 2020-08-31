@@ -35,3 +35,48 @@ taxonomy:
 - If students had to miss the deadline of the essay due to an urgent issue related to “family or severe sickness”, they should communicate with the professor promptly by email. In terms of sickness, they will need to provide the professor with an official medical report.  
 - Inform that if their late submission becomes a pattern, it will result in the 3% deduction of their “final” grade of this course at the end of the semester. 
 - When they email the professor, they should indicate their official (and English) name, student ID, and class name. Their professor will probably have over 100 students this semester, so it is important to indicate their identification clearly. 
+
+### Pre-lab Activity 1.1 [Choice of Your Research Topic]: (Individual work) –Forum
+Choose ONE research topic from the list of research topics on social justice below. Post the choice of your topic to this forum page before your lab (Lab 1) starts.
+1. Illegal immigrants- fair wage and treatment. 
+2. Immigrants’ rights
+3. Socially responsible business practices
+4. Police powers and human rights
+5. Wealthy countries’ responsibility to mitigate climate change
+6. Race prejudice
+7. Refugees
+8. Access to adequate healthcare
+9. Religious differences in attitudes towards women
+10. Fair wages
+...(More): If you have another topic related to social justice, please discuss it with your professor in advance.
+
+**[NOTEs to the facilitator]**
+- This pre-lab activity should be done before the lab, so please make an announcement on this assignment in advance. 
+- The list of research topics will change every semester, so please communicate with the professor to receive a new topic list in advance by email if you had already used this topic list last semester. 
+
+### Lab Activity 1.2 [Topic Development]: (Individual work) –Forum
+Task 1: 
+- Use a Topic Development template provided to narrow down your research topic. For your understanding, one example template is provided, so check the example and complete your template in the same way. 
+- After you complete your template, write one short paragraph (approx. 100 words) to summarize how you have narrowed down your topic. 
+- Post your paragraph and Topic Development template to this forum page.  
+
+Task 2: After Task 1, check two postings done by your classmates and give them brief feedback. 
+
+[NOTE]: 
+- Check the deadline of each task with your facilitator. 
+
+
+
+ [NOTEs to the facilitator]
+1. Please take attendance.
+2. Students should bring their own laptop to complete Lab activity 1.2. 
+3. Make these pages on Moodle visible to students at the beginning of the lab. 
+   - Forum page (Lab activity 1.2)
+   - [Topic Development Template]()
+ 
+   - [Topic Development Template (Example)]()
+ 
+4. Students must check/read the example template first.
+5. Students will probably need more time to complete Task 1, so give them 2~3 more hours to post their work to the forum page out of the lab.  In terms of Task 2, after you make sure of all the students’ submission, give them 1 day to do peer-review after Task 1. To set up the deadlines of these two tasks, please communicate with the professor in advance. 
+6. After the Task 2 is done, the professor will post his/her brief feedback to each student.
+7. This activity must be fully completed. 
