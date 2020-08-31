@@ -20,7 +20,7 @@ taxonomy:
   - Give students 10 minutes to read the course syllabus and help them understand it, if necessary.
   - Introduce the Course Introduciton tap that includes course announcement (forum page) and informative pages such Course syllabus, Microsoft Word (free download), Learning Coach/Writing Center Appointment, and TWU Library support.  
   - Then, at the end of the 1st lab,  give students about 15 minutes to complete the self-introduciton paragraph given on the Course Introduciton section. 
-  - Attendance (and participation) can be recorded in this [file](Worksheet-in-ENGL-101 _M1.xlsx). This file can be shared via Google.doc, if preferred by both the instructor and facilitator. Please communicate with the professor. This attendance record should be reported to the professor by the last day of the semester. 
+  - Attendance (and participation) can be recorded in this [file](Worksheet-in-ENGL-101_M1.xlsx). This file can be shared via Google.doc, if preferred by both the instructor and facilitator. Please communicate with the professor. This attendance record should be reported to the professor by the last day of the semester. 
 
 * **[IMPORTANT Announcement to students]**: 
     * The facilitator will take attendance throughout this semester, so don’t miss the lab. Your lab attendance will be counted for the final grade of this course.  Also, if you miss the lab over 25%, you are NOT allowed to take a final exam (30%). Check the course syllabus for more details. 
