@@ -58,7 +58,7 @@ Students must watch the library tutorial video before the lab so that they can d
 2. The instructions of this lab activity are given on the Dropbox page which is hidden, so make the Dropbox (Lab Activity 3.2) visible to students at the beginning of the lab. 
 3. Make sure all students have their own laptop to complete Lab activity 3.2. 
 4. Help students to understand the instructions of this lab activity.
-5. After the group discussions (30~40 minutes), let students write their individual reflection paragraph (about 35~45 minutes).
+5. After the group discussions (30 ~ 40 minutes), let students write their individual reflection paragraph (about 35 ~ 45 minutes).
 6. They must submit their reflection to the Dropbox page by the end of the lab time. 
 7. Reminder: As students have written their research question and learned how to research, ask them to start finding various sources for their research paper. 
 
