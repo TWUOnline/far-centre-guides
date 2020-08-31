@@ -14,13 +14,13 @@ taxonomy:
 
   - Explain the Module 2 schedule above and highlight the deadlines of M2 worksheet, M2 in-class writing, and M2 final essay.
   - Help students to find THREE important files given on Module 2 page in Moodle:
-1. M2 The Annotated Bibliography (Assignment Instructions)
+     1. [M2 The Annotated Bibliography (Assignment Instructions)]()
  
-2) M2 Worksheet (Template)
+     2) [M2 Worksheet (Template)]()
  
-3) M2 Worksheet (Example)
+     3) [M2 Worksheet (Example)]()
  
-4) M2 In-Class Writing template: (Make this hidden file visible to students at the beginning of the LAST lab (Lab 5) before they turn off the wifi.)
+     4) [M2 In-Class Writing template](): (Make this hidden file visible to students at the beginning of the LAST lab (Lab 5) before they turn off the wifi.)
         
 
 - Introduce the instructions of Module 2 Assignment. Make sure that students read the instructions. 
